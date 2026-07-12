@@ -654,7 +654,7 @@
       "<div class=\"hero__eyebrow\">" + esc(data.assembly) + " \u00b7 A Cartographic Record</div>" +
       "<h1 class=\"state-hero__h1\">" + esc(data.intro && data.intro[1] ? data.intro[1] : data.title) + "</h1>" +
       "<p class=\"hero__lede\">" + esc((data.intro && data.intro[0]) || "") + "</p>" +
-      "<div class=\"hero__meta\">" + esc(data.assembly) + " \u00b7 " + acs.length + " constituencies \u00b7 in force " + esc(data.in_force) + "</div>" +
+      "<div class=\"hero__meta\">" + esc(data.assembly) + " \u00b7 " + olds.length + " constituencies \u00b7 in force " + esc(data.in_force) + "</div>" +
       "<nav class=\"plate-nav\" aria-label=\"Plates\">" +
       ["Plate I \u00b7 Pre-2008 map","Plate II \u00b7 Post-2008 map","Plate III \u00b7 Side by side","Plate IV \u00b7 Seat by seat","Sources"].map(function(t,i){
         return "<a href=\"#" + ["p1","p2","p3","p4","sources"][i] + "\">" + esc(t) + "</a>";
@@ -664,7 +664,7 @@
       "<div class=\"state-hero__map-inner\">" +
       "<div class=\"hero-map-tip\" id=\"hero-tip\"></div>" +
       "<div class=\"hero-map-sheet\"><div class=\"hero-map-label\">" +
-      "<span class=\"mono\" style=\"font-size:9px;letter-spacing:0.08em;color:var(--ink-45)\">PRE-2008 · " + esc(data.name).toUpperCase() + " · " + acs.length + " SEATS</span>" +
+      "<span class=\"mono\" style=\"font-size:9px;letter-spacing:0.08em;color:var(--ink-45)\">PRE-2008 · " + esc(data.name).toUpperCase() + " · " + olds.length + " SEATS</span>" +
       "</div>" +
       "<div data-svg-slot=\"hero-pre\" class=\"hero-pre-map\"></div>" +
       "</div>" +
