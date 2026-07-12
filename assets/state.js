@@ -666,7 +666,7 @@
       "<div class=\"hero-map-sheet\"><div class=\"hero-map-label\">" +
       "<span class=\"mono\" style=\"font-size:9px;letter-spacing:0.08em;color:var(--ink-45)\">PRE-2008 · " + esc(data.name).toUpperCase() + " · " + olds.length + " SEATS</span>" +
       "</div>" +
-      "<div data-svg-slot=\"hero-pre\" class=\"hero-pre-map\"></div>" +
+      "<img src=\"assets/hero-illustration.jpg\" style=\"width:100%;height:auto;display:block;border-radius:4px;\" alt=\"\">" +
       "</div>" +
       "<div class=\"hero-stat-pills\">" +
       (data.figures || []).slice(0,2).map(function(f) {
