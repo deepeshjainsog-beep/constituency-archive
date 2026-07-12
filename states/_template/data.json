@@ -1,0 +1,54 @@
+{
+ "slug": "your-state-slug",
+ "name": "State Name",
+ "title": "The State Name Assembly, Before and After 2008",
+ "assembly": "State Name Vidhan Sabha",
+ "seats": 0,
+ "pre_order": "Delimitation of Parliamentary and Assembly Constituencies Order, 1976",
+ "post_order": "Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
+ "in_force": "1977\u20132007",
+ "intro": [
+  "First paragraph. Shown above the map (Plate I).",
+  "Second paragraph. Shown as the lede under the page title."
+ ],
+ "history": [
+  "Delimitation history of this state, paragraph by paragraph."
+ ],
+ "regions": ["Region A", "Region B"],
+ "region_note": "Say how regions were assigned, or delete this field along with the regions array to publish without regional grouping.",
+ "maps": {
+  "pre2008": "map-pre2008.svg",
+  "post2008": "map-post2008.svg"
+ },
+ "map_caveats": [],
+ "data_flags": [],
+ "sources": [
+  "List every source. This renders on the state page."
+ ],
+ "footnotes": [],
+ "constituencies": [
+  {
+   "ac_no": 1,
+   "name": "",
+   "type": "GEN",
+   "district": "",
+   "region": "Region A",
+   "after_2008": {
+    "status": "continuing",
+    "successors": [],
+    "note": ""
+   },
+   "extent_1976": ""
+  }
+ ],
+ "post2008_constituencies": [
+  {
+   "ac_no": 1,
+   "name": "",
+   "type": "GEN",
+   "district": "",
+   "status": "continuing",
+   "note": ""
+  }
+ ]
+}

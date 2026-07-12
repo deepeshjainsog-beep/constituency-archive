@@ -1,0 +1,3348 @@
+{
+ "slug": "punjab",
+ "name": "Punjab",
+ "title": "The Punjab Assembly, Before and After 2008",
+ "assembly": "Punjab Vidhan Sabha",
+ "seats": 117,
+ "pre_order": "Delimitation of Parliamentary and Assembly Constituencies Order, 1976",
+ "post_order": "Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
+ "in_force": "1977–2007",
+ "figures": [
+  {
+   "v": "117 → 117",
+   "k": "Seats, unchanged in number"
+  },
+  {
+   "v": "12 → 20",
+   "k": "Districts framing them"
+  },
+  {
+   "v": "28",
+   "k": "Constituencies created in 2008"
+  },
+  {
+   "v": "28",
+   "k": "Old names abolished"
+  }
+ ],
+ "stats": [
+  {
+   "k": "Constituencies",
+   "v": "117 → 117"
+  },
+  {
+   "k": "Districts",
+   "v": "12 → 20"
+  },
+  {
+   "k": "Seats created in 2008",
+   "v": "28"
+  },
+  {
+   "k": "Old names abolished",
+   "v": "28"
+  },
+  {
+   "k": "Renamed / respelled",
+   "v": "10"
+  },
+  {
+   "k": "SC-reserved seats",
+   "v": "26 → 34"
+  }
+ ],
+ "intro": [
+  "For thirty years, every Punjab election was fought on the 117 constituencies of the 1976 order. The 2008 delimitation redrew all of them. This page records the retired map in its actual boundaries — from a digitised copy of the Election Commission’s pre-2008 constituency sheet — sets it against the map that replaced it, and follows each seat through the change.",
+  "The assembly map Punjab retired in 2008"
+ ],
+ "history": [
+  "Punjab's assembly constituencies were last settled before 2008 by the Delimitation of Parliamentary and Assembly Constituencies Order, 1976, made under the Delimitation Act, 1972. The order fixed 117 assembly seats across the 12 districts then in existence, and every Vidhan Sabha election from 1977 to 2007 was held on those boundaries.",
+  "The Delimitation Act, 2002 constituted a fresh Delimitation Commission, working to the 2001 Census. Its final order for Punjab took effect in 2008 and redrew all 117 constituencies within the same total, redistributing seats towards districts whose populations had grown and reworking the map onto the district framework that had emerged from the reorganisations of the 1990s and 2000s. The 2012 election was the first fought on the new boundaries; they remain in force."
+ ],
+ "district_grid_old": [
+  {
+   "name": "Gurdaspur",
+   "area": "1 / 2 / 2 / 7"
+  },
+  {
+   "name": "Amritsar",
+   "area": "2 / 1 / 3 / 4"
+  },
+  {
+   "name": "Kapurthala",
+   "area": "2 / 4 / 3 / 5"
+  },
+  {
+   "name": "Hoshiarpur",
+   "area": "2 / 5 / 3 / 7"
+  },
+  {
+   "name": "Ferozpur",
+   "area": "3 / 1 / 5 / 3"
+  },
+  {
+   "name": "Jullundur",
+   "area": "3 / 3 / 4 / 5"
+  },
+  {
+   "name": "Ropar",
+   "area": "3 / 5 / 4 / 7"
+  },
+  {
+   "name": "Ludhiana",
+   "area": "4 / 3 / 5 / 5"
+  },
+  {
+   "name": "Patiala",
+   "area": "4 / 5 / 6 / 7"
+  },
+  {
+   "name": "Faridkot",
+   "area": "5 / 1 / 6 / 3"
+  },
+  {
+   "name": "Sangrur",
+   "area": "5 / 3 / 6 / 5"
+  },
+  {
+   "name": "Bhatinda",
+   "area": "6 / 1 / 7 / 5"
+  }
+ ],
+ "district_grid_new": [
+  {
+   "name": "Gurdaspur",
+   "area": "1 / 2 / 2 / 7"
+  },
+  {
+   "name": "Amritsar",
+   "area": "2 / 1 / 3 / 3"
+  },
+  {
+   "name": "Kapurthala",
+   "area": "2 / 3 / 3 / 4"
+  },
+  {
+   "name": "Jalandhar",
+   "area": "2 / 4 / 4 / 5"
+  },
+  {
+   "name": "Hoshiarpur",
+   "area": "2 / 5 / 3 / 7"
+  },
+  {
+   "name": "Tarn Taran",
+   "area": "3 / 1 / 4 / 3"
+  },
+  {
+   "name": "Nawan Shahr",
+   "area": "3 / 5 / 4 / 6"
+  },
+  {
+   "name": "Rupnagar",
+   "area": "3 / 6 / 4 / 7"
+  },
+  {
+   "name": "Firozpur",
+   "area": "4 / 1 / 5 / 3"
+  },
+  {
+   "name": "Moga",
+   "area": "4 / 3 / 5 / 4"
+  },
+  {
+   "name": "Ludhiana",
+   "area": "4 / 4 / 6 / 6"
+  },
+  {
+   "name": "S.A.S. Nagar (Mohali)",
+   "area": "4 / 6 / 5 / 7"
+  },
+  {
+   "name": "Fazilka",
+   "area": "5 / 1 / 6 / 2"
+  },
+  {
+   "name": "Muktsar",
+   "area": "5 / 2 / 6 / 3"
+  },
+  {
+   "name": "Faridkot",
+   "area": "5 / 3 / 6 / 4"
+  },
+  {
+   "name": "Fatehgarh Sahib",
+   "area": "5 / 6 / 6 / 7"
+  },
+  {
+   "name": "Bathinda",
+   "area": "6 / 1 / 8 / 3"
+  },
+  {
+   "name": "Barnala",
+   "area": "6 / 4 / 7 / 5"
+  },
+  {
+   "name": "Sangrur",
+   "area": "6 / 5 / 8 / 6"
+  },
+  {
+   "name": "Patiala",
+   "area": "6 / 6 / 8 / 7"
+  },
+  {
+   "name": "Mansa",
+   "area": "7 / 3 / 8 / 4"
+  }
+ ],
+ "maps": {
+  "pre2008": "map-pre2008.svg",
+  "post2008": "map-post2008.svg"
+ },
+ "map_caveats": [
+  "116 of 117 pre-2008 seats are drawn from the digitised ECI sheet; Dakala (73), not digitised separately in the source, is approximated with the 2008 Sanour polygon and rendered dashed."
+ ],
+ "data_flags": [
+  "SC-status conflict between curated records and digitised shapefile attributes on three pre-2008 seats: 8 Dina Nagar, 9 Narot Mehra and 110 Pakka Kalan (records say GEN; shapefile says SC). Records carried as authoritative."
+ ],
+ "sources": [
+  "Delimitation of Parliamentary and Assembly Constituencies Order, 1976",
+  "Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
+  "District-wise Analysis of Punjab Assembly Constituencies Before and After the 2008 Delimitation",
+  "Census of India 1981, Punjab Atlas, Map 2",
+  "ECI constituency polygons (2008)",
+  "Digitised pre-2008 assembly-constituency shapefile"
+ ],
+ "footnotes": [
+  "Mansa split from Bathinda district in 1992 — before the delimitation, separate from it.",
+  "Tarn Taran, S.A.S. Nagar (Mohali), Barnala and Nawan Shahr districts date from the mid-2000s reorganisation and frame the 2008 order.",
+  "Fazilka district was created in 2011; its seats were delimited under Firozpur.",
+  "Pathankot district (2016) and Malerkotla district (2021) post-date the delimitation; their seats are shown under Gurdaspur and Sangrur."
+ ],
+ "constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Fatehgarh",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    10
+   ],
+   "note": "Name vanished. Dera Baba Nanak, Dhianpur and Fatehgarh KCs together form the base of the new Dera Baba Nanak seat.",
+   "extent": "Dera Baba Nanak and Dhianpur K.Cs. and Fatehgarh K.C. (excluding P.Cs. 40-Qila Desa Singh, 41-Thatha, 42-Khera, 43-Sarchur, 44-Langarwal and 45-Ghania Ke Banger) in Batala tahsil."
+  },
+  {
+   "ac_no": 2,
+   "name": "Batala",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    7,
+    9
+   ],
+   "note": "Batala municipality/town core stays in Batala; some fringe PCs (from the Faijpur KC) shifted into Fatehgarh Churian.",
+   "extent": "Batala municipality and P.Cs. 67-Kotli Bhan Singh, 68-Udhowal, 69-Dial Garh, 70-Dewaniwal, 71-Massanian, 72-Bahadur Hussain and 73-Batala East in Batala East K.C. and P.Cs. 52-Dharam Kot Bagga, 53-Jaura Singha, 54-Bhullar, 55-Talwandi Jhewran, 56-Taragarh, 64-Talwandi Lal Singh, 65-Faizpura and 66-Batala West in Batala West K.C. in Batala tahsil."
+  },
+  {
+   "ac_no": 3,
+   "name": "Qadian",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    7,
+    6
+   ],
+   "note": "A large part of old Qadian (PCs like Duniya Sandhu, Loh Chap, Talwandi Jhunglan) is now in Batala; only Qadian town plus 2 PCs stayed in the new Qadian.",
+   "extent": "Batala West K.C. (excluding PCs. 52-Dharamkot Bagga, 53-Jaura Singha, 54-Bhullar, 55-Talwandi Jhewran, 56-Taragarh, 64-Talwandi Lal Singh, 65-Faizpura and 66-Batala West), Batala East K.C. (excluding Batala municipality and P.Cs. 67-Kotli Bhan Singh, 68-Udhowal, 69-Dial Garh, 70-Dewaniwal, 71-Massanian, 72-Bahadur Hussain and 73-Batala East), P.Cs. 89-Duniya Sandhu, 90-Wadala Granthian, 91-Talwandi Jhunglan, 92-Loh Chap, 93-Nathpur, 94-Dalla, 95-Kahlwan and 96-Qadian in Qadian K.C. and P.Cs. 40-Qila Desa Singh, 41-Thatha, 42-Khera, 43-Sarchur, 44-Langarwal and 45-Ghania Ke Banger in Fatehgarh K.C. in Batala tahsil."
+  },
+  {
+   "ac_no": 4,
+   "name": "Sirihargobindpur",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    8
+   ],
+   "note": "Direct continuity; only the spelling was standardized to Sri Hargobindpur, and the seat is now SC-reserved.",
+   "extent": "Sirihargobindpur K.C. and Qadian K.C. (excluding PCs. 89-Duniya Sandhu, 90-Wadala Granthian, 91-Talwandi Jhunglan, 92-Loh Chap, 93-Nathpur, 94-Dalla, 95-Kahlwan and 96-Qadian) in Batala tahsil."
+  },
+  {
+   "ac_no": 5,
+   "name": "Kahnuwan",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    6
+   ],
+   "note": "The name disappeared entirely; the whole area merged into the new Qadian.",
+   "extent": "Kahnuwan K.C. and P.Cs. 90-Sekhwan, 91-Deriwala, 92-Faizulchak, 93-Noshehra Majja Singh, 97-Bhumbli, 98-Babri Nangal, 108-Chhina, 109-Doburji, 110-Gadrian and 111-Ghuman Kalan in Dhariwal K.C. in Gurdaspur tahsil."
+  },
+  {
+   "ac_no": 6,
+   "name": "Dhariwal",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    6,
+    10
+   ],
+   "note": "The name disappeared; its territory was divided between the new Qadian and Dera Baba Nanak (the Kalanaur KC portion).",
+   "extent": "Kalanaur K.C. and Dhariwal K.C. (excluding PCs. 90-Sekhwan, 91-Deriwala, 92-Faizulachak, 93-Noshehra Majja Singh, 97-Bhumbli, 98-Babri Nangal, 108-Chhina, 109-Doburji, 110-Gadrian and 111-Ghuman Kalan) in Gurdaspur tehsil."
+  },
+  {
+   "ac_no": 7,
+   "name": "Gurdaspur",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    4
+   ],
+   "note": "Direct continuity; the town core remains the same.",
+   "extent": "Gurdaspur K.C. and P.Cs. 23-Ganja, 24-Sheikha, 37-Lakhowal, 38-Barsola and 44-Aminpur in Dorangla K.C. in Gurdaspur tahsil."
+  },
+  {
+   "ac_no": 8,
+   "name": "Dina Nagar",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    5
+   ],
+   "note": "Direct continuity; now a reserved (SC) seat.",
+   "extent": "Dorangla K.C. (excluding P.Cs. 23-Ganja, 24-Sheikha, 37-Lakhowal, 38-Barsola and 44-Aminpur) and Dina Nagar K.C. in Gurdaspur tahsil."
+  },
+  {
+   "ac_no": 9,
+   "name": "Narot Mehra",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    2
+   ],
+   "note": "The name disappeared; the Narot Jaimal Singh KC portion and the Jangal/Farida Nagar area went into the new Bhoa (SC).",
+   "extent": "Narot Jaimal Singh K.C., Narot Mehra K.C. (excluding P.Cs. 46-Malakpur, 47-Sujan Pur, 48-Ferozepur Kalan, 49-Basroop and 50-Bani Lodhi) and P.Cs. 34-Jangal and 43-Farida Nagar in Pathankot K.C. in Pathankot tahsil."
+  },
+  {
+   "ac_no": 10,
+   "name": "Pathankot",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    3,
+    1
+   ],
+   "note": "The name stayed, but the area was divided again: split between Sujanpur (the Dhar Kalan portion) and Pathankot (town + core).",
+   "extent": "Dhar Kalan K.C. (excluding P.Cs. 12-Thara Jhikla, 15-Tarhari and 16-Kot) and Pathankot municipality and PCs. 20-Bungal, 21-Jandwal, 22-Mamun, 25-Pathankot and 26-Daulatpur in Pathankot K.C. in Pathankot tahsil."
+  },
+  {
+   "ac_no": 11,
+   "name": "Sujanpur",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    1,
+    3
+   ],
+   "note": "The name stayed; the strongest continuity within Pathankot tehsil. Split between Sujanpur (new) and Pathankot (new).",
+   "extent": "P.Cs. 12-Thara Jhikla, 15-Tarhari and 16-Kot in Dhar Kalan K.C., Pathankot K.C. (excluding Pathankot municipality and PCs. 20-Bungal, 21-Jandwal, 22-Mamun, 25-Pathankot, 26-Daulatpur, 34-Jangal and 43-Farida Nagar) and P.Cs. 46-Malak Pur, 47-Sujan Pur, 48-Feroze Pur Kalan, 49-Basroop and 50-Bani Lodhi in Narot Mehra K.C. in Pathankot tahsil."
+  },
+  {
+   "ac_no": 12,
+   "name": "Beas",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    14
+   ],
+   "note": "Beas KC plus its Tarsikka-KC fragment absorbed via the Tarsikka KC, which is explicitly named under the new Jandiala (SC).",
+   "extent": "Beas K.C. and PCs. 75-Bhorchi Rajputan, 76-Muchhal, 77-Dhulka, 84-Mehsampur Kalan, 92-Jalal and 93-Udho Nangal in Tarsikka K.C. in Amritsar tahsil."
+  },
+  {
+   "ac_no": 13,
+   "name": "Majitha",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    13
+   ],
+   "note": "Majitha KC carries over directly; the Tarsikka KC portion of old Majitha was redistributed toward the Verka/Attari cluster.",
+   "extent": "Majitha K.C. and Tarsikka K.C. (excluding P.Cs. 74-Chhajalwadi, 75-Bhorchi Rajputan, 76-Muchhal, 77-Dhulka, 78-Dehriwala, 79-Jabbowal, 80-Malowal, 81-Lola, 82-Tarsikka, 84-Mehsampur Kalan, 92-Jalal and 93-Udho Nangal) in Amritsar tahsil."
+  },
+  {
+   "ac_no": 14,
+   "name": "Verka",
+   "type": "SC",
+   "district": "Amritsar",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    20
+   ],
+   "note": "Verka KC (minus a small OG ward fragment) folded into the new Attari; the SC reservation effectively shifted from Verka to Attari.",
+   "extent": "Verka K.C. (excluding PCs. 40-Gumanpura and 41-Chak Mukand), P.C. 45-Tung Pian in Amritsar K.C. and PCs. 74-Chhajalwadi, 78-Dehriwala, 79-Jabbowal, 80-Malowal, 81-Lola and 82-Tarsikka in Tarsikka K.C. in Amritsar tahsil."
+  },
+  {
+   "ac_no": 15,
+   "name": "Jandiala",
+   "type": "SC",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    14
+   ],
+   "note": "Direct continuity of the name/town, but composition changed; the new seat added Mehta and Tarsikka KCs from Baba Bakala Tehsil.",
+   "extent": "Jandiala K.C. and PCs. 46 to 48-Sultanwind and 53-Fatehpur in Amritsar K.C. in Amritsar tahsil."
+  },
+  {
+   "ac_no": 16,
+   "name": "Amritsar North",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    15
+   ],
+   "note": "Direct continuity; wards renumbered under the new Amritsar-I/II Tehsil (Corporation) structure.",
+   "extent": "Wards 1 to 5, 9, 24, 31 to 34 and 34A in Amritsar municipality and P.C. 52-Amritsar in Amritsar K.C. in Amritsar tahsil."
+  },
+  {
+   "ac_no": 17,
+   "name": "Amritsar West",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    16
+   ],
+   "note": "Direct continuity of core area; the seat is newly SC-reserved.",
+   "extent": "Wards 29, 30, 38, 38A, 40 and 41 in Amritsar municipality, and PCs. 42-Wadali Guru, 43-Kala Ghanupur, 44-Gumtala and 50-51-Amritsar in Amritsar K.C. and Amritsar Cantonment and P.Cs. 40-Gumanpura and 41-Chak Mukand in Verka K.C. in Amritsar tahsil."
+  },
+  {
+   "ac_no": 18,
+   "name": "Amritsar Central",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    17
+   ],
+   "note": "Direct continuity; wards renumbered.",
+   "extent": "Wards 10, 12, 15, 19 to 23, 25 to 28, 37 and 39 in Amritsar municipality."
+  },
+  {
+   "ac_no": 19,
+   "name": "Amritsar South",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    19,
+    18
+   ],
+   "note": "Split: part of old South's ward range was carved out into a newly created seat, Amritsar East.",
+   "extent": "Wards 6 to 8, 11, 13, 14, 16 to 18, 18A, 35, 36 and 36A in Amritsar municipality and P.C. 49-Amritsar in Amritsar K.C. in Amritsar tahsil."
+  },
+  {
+   "ac_no": 20,
+   "name": "Ajnala",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    11,
+    12
+   ],
+   "note": "Ajnala and Ramdas KCs carry over directly; Jasterwal KC moved out to Raja Sansi.",
+   "extent": "Ajnala, Ramdas and Jasterwal K.Cs. in Ajnala tahsil."
+  },
+  {
+   "ac_no": 21,
+   "name": "Raja Sansi",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    12
+   ],
+   "note": "Raja Sansi and Lopoke KCs carry over directly; gained Jastarwal (from old Ajnala) plus new KCs (Jassrauor, Kakkar, Chogawan).",
+   "extent": "Lopoke and Raja Sansi K.Cs. in Ajnala tahsil."
+  },
+  {
+   "ac_no": 22,
+   "name": "Attari",
+   "type": "SC",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    20
+   ],
+   "note": "Attari KC carries over directly; the old Kairon KC portion shifted toward Khem Karan/Patti; the new seat gained urban KCs (Amritsar-II, Khasa, Verka, Wadala Bhittewad, Chabba).",
+   "extent": "Attari K.C. and PCs. 65-Gaggo Bua, 68-Padri, 69-Sheikh, 70-Maluwal, 71-Bakipur, 73-Walipur, 74-Mano Chahal and 83-Rure Asal in Kairon K.C. in Tarn Taran tahsil."
+  },
+  {
+   "ac_no": 23,
+   "name": "Tarn Taran",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    21
+   ],
+   "note": "Tarn Taran KC carries over directly; gained Jhabal Kalan, Sohal Thathi, Gaggo Bua.",
+   "extent": "Tarn Taran K.C. and P.C. 66-Panjwar in Kairon K.C. in Tarn Taran tahsil."
+  },
+  {
+   "ac_no": 24,
+   "name": "Khadoor Sahib",
+   "type": "SC",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    24,
+    25
+   ],
+   "note": "Split: only 3 PCs of the old Khadoor Sahib KC remained in the new Khadoor Sahib (no longer SC); the bulk of the KC's villages moved into the new Baba Bakala, which now carries the SC reservation instead.",
+   "extent": "Khadoor Sahib K.C. and P.Cs. 89-Phailokey, 90-Kot Mehmadkhan, 91-Jama Rai, 92-Bhail Dhaiwala, 93-Munda and 94-Lohar in Naushahra Panwan K.C. in Tarn Taran tahsil."
+  },
+  {
+   "ac_no": 25,
+   "name": "Naushahra Panwan",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    23
+   ],
+   "note": "Name discontinued as a standalone seat; its KC (Naushehra Pannuan) is explicitly absorbed into the new Patti.",
+   "extent": "Naushahra Panwan K.C. (excluding PCs. 89-Phailokey, 90-Kot Mehmadkhan, 91-Jama Rai, 92-Bhail Dhaiwala, 93-Munda and 94-Lohar) and Kairon K.C. (excluding PCs. 65-Gaggo Bua, 66-Panjwar, 67-Muse, 68-Padri, 69-Sheikh, 70-Maluwal, 71-Jeobala, 72-Bakipur, 73-Walipur, 74-Mano Chahal and 83-Rure Asal) in Tarn Taran tahsil."
+  },
+  {
+   "ac_no": 26,
+   "name": "Patti",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    23
+   ],
+   "note": "Patti KC carries over directly; the seat expanded using Naushahra Panwan and Gharyala fragments.",
+   "extent": "Patti K.C. and PCs. 21-Bhikhiwind, 22-Dayalpura, 23-Kacha Pakka, 24-Sugga and 25-Sursingh in Bhikhiwind K.C. in Patti tahsil."
+  },
+  {
+   "ac_no": 27,
+   "name": "Valtoha",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    22
+   ],
+   "note": "Name discontinued as a standalone seat; Valtoha KC is explicitly listed under the new Khem Karan.",
+   "extent": "Valtoha K.C. and Bhikhiwind K.C. (excluding PCs. 21-Bhikhiwind, 22-Dayalpura, 23-Kacha Pakka, 24-Sugga and 25-Sur Singh) in Patti tahsil."
+  },
+  {
+   "ac_no": 28,
+   "name": "Adampur",
+   "type": "GEN",
+   "district": "Jullundur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    38
+   ],
+   "note": "Direct continuity; Adampur and Bhogpur KCs both carry over. The seat is now SC-reserved.",
+   "extent": "Adampur and Bhogpur K.Cs. in Jullundur tahsil."
+  },
+  {
+   "ac_no": 29,
+   "name": "Jullundur Cantonment",
+   "type": "GEN",
+   "district": "Jullundur",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    37
+   ],
+   "note": "Direct continuity as Jalandhar Cantt.; Jamsher KC carries over, and the new seat also gains the Pholriwala KC fragment.",
+   "extent": "Wards 31 and 32 in Jullundur municipality, Jullundur Cantonment and Jamsher K.C. (excluding PCs. 76-Garha Vehandan, 77-Pholriwala, 78-Dhanal, 79-Udho Pur, 80-Khun-Khun, 81-Saprai and 82-83-Jamsher) in Jullundur tahsil."
+  },
+  {
+   "ac_no": 30,
+   "name": "Jullundur North",
+   "type": "GEN",
+   "district": "Jullundur",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    36
+   ],
+   "note": "Direct continuity in name (as Jalandhar North) and core urban wards.",
+   "extent": "Wards 1, 1A, 2 to 7, 7A, 12 to 16 and 21 in Jullundur municipality."
+  },
+  {
+   "ac_no": 31,
+   "name": "Jullundur Central",
+   "type": "GEN",
+   "district": "Jullundur",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    35
+   ],
+   "note": "Direct continuity in name (as Jalandhar Central) and core urban wards.",
+   "extent": "Wards 8, 8A, 9 to 11, 17 to 20, 22 to 25, 26 and 30 in Jullundur municipality and P.C. 60-Basti Guzan in Jullundur K.C. in Jullundur tahsil."
+  },
+  {
+   "ac_no": 32,
+   "name": "Jullundur South",
+   "type": "SC",
+   "district": "Jullundur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    34,
+    37
+   ],
+   "note": "Name discontinued; its rural fringe (Khambra/Pholriwala areas) moved into the new Jalandhar Cantt., while the SC reservation itself shifted onto the newly created Jalandhar West (SC).",
+   "extent": "Wards 25A, 27 to 29, 32A, 33 and 34 in Jullundur municipality, P.Cs. 50-Chitti, 51-Sangha, 52-Partap Pura, 53-Tajpur, 56-Khambra, 57-Kingra, 58-Wadala (Basti Danishmandan) and 59-Basti Sheikh in Jullundur K.C., and PCs. 76-Garha Vehandan, 77-Pholriwala, 78-Dhanal, 79-Udhopur, 80-Khun-Khun, 81-Saprai and 82-83-Jamsher in Jamsher K.C. in Jullundur tahsil."
+  },
+  {
+   "ac_no": 33,
+   "name": "Kartarpur",
+   "type": "SC",
+   "district": "Jullundur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    33
+   ],
+   "note": "Direct continuity; Kartarpur KC and SC status both carry over.",
+   "extent": "Kartarpur K.C. (excluding any area of Jullundur municipality in P.C. 42-Lidhran) and PCs. 48-Power, 49-Lalian Kalan, 54-Kallianpur, 55-Malko, 65-Reru, 66-Raipur Rasulpur, 67-Chak Hussain Lamba Pind (excluding any area of Jullundur municipality), 68-Dhogri, 69-Chuharwali and 70-Jandu Singha in Jullundur K.C. in Jullundur tahsil."
+  },
+  {
+   "ac_no": 34,
+   "name": "Lohian",
+   "type": "GEN",
+   "district": "Jullundur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    32,
+    31
+   ],
+   "note": "Name discontinued as a standalone seat; Lohian and Shahkot KCs absorbed into the new Shahkot; its Uggi KC fragment instead moved into the new Nakodar.",
+   "extent": "Lohian, Uggi and Shahkot K.Cs. in Nakodar tahsil."
+  },
+  {
+   "ac_no": 35,
+   "name": "Nakodar",
+   "type": "GEN",
+   "district": "Jullundur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    31
+   ],
+   "note": "Direct continuity; Nakodar KC carries over. The seat expanded with Bilga, Nurmahal and Talwan KCs.",
+   "extent": "Nakodar K.C. in Nakodar tahsil; PCs. 1-Kangniwal, 2-3-Samrai, 38-Pandori Musharkati, 39-Dhani Pind, 40-Daduwal, 41-Sarhali and 42-Dhesian Kahna in Nur Mahal K.C. and PCs. 45-Rurki, 46-Ghurka, 47-Dhesian Sang, 48-Bopa Rai, 49-Gahaur, 50-Goraya, 51-Dhanda, 52-Basian, 83-84-Bara Pind (No. 1 and 2), 85-Atta and 86-Rurka Khurd in Barapind K.C. in Phillaur tahsil."
+  },
+  {
+   "ac_no": 36,
+   "name": "Nur Mahal",
+   "type": "GEN",
+   "district": "Jullundur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    31,
+    32
+   ],
+   "note": "Name discontinued. The Bilga/Nur Mahal KC portion went to the new Nakodar; the Mehatpur KC portion went to the new Shahkot.",
+   "extent": "Mehatpur K.C. in Nakodar tahsil; Bilga K.C. and Nur Mahal K.C. (excluding PCs. 1-Kangniwal, 2-3-Samrai, 38-Pandori Musharkati, 39-Dhani Pind, 40-Daduwal, 41-Sarhali and 42-Dhesian Kahna) in Phillaur tahsil."
+  },
+  {
+   "ac_no": 37,
+   "name": "Banga",
+   "type": "SC",
+   "district": "Jullundur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    46
+   ],
+   "note": "Direct continuity of name, territory and SC status; only the parent district changed (to the new Nawan Shahr district).",
+   "extent": "Banga K.C. in Nawan Shahr tahsil; and Barapind K.C. (excluding PCs. 45-Rurki, 46-Ghurka, 47-Dhesian Sangh, 48-Bopa Rai, 49-Gahaur, 50-Goraya, 51-Dhanda, 52-Basian, 83-84-Bara Pind (No. 1 and 2), 85-Atta and 86-Rurka Khurd) in Phillaur tahsil."
+  },
+  {
+   "ac_no": 38,
+   "name": "Nawan Shahr",
+   "type": "GEN",
+   "district": "Jullundur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    47
+   ],
+   "note": "Direct continuity; the same tehsil-based seat, now anchoring its own district.",
+   "extent": "Nawan Shahr and Rahon K.Cs. in Nawan Shahr tahsil."
+  },
+  {
+   "ac_no": 39,
+   "name": "Phillaur",
+   "type": "SC",
+   "district": "Jullundur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    30
+   ],
+   "note": "Direct continuity; Phillaur KC and SC status both carry over.",
+   "extent": "Phillaur K.C. in Phillaur tahsil; and Aur K.C. in Nawan Shahr tahsil."
+  },
+  {
+   "ac_no": 40,
+   "name": "Bholath",
+   "type": "GEN",
+   "district": "Kapurthala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    26
+   ],
+   "note": "Direct continuity; the same tehsil-based seat.",
+   "extent": "Bholath and Nadala K.Cs. and PCs. 38-Hamira, 39-Dyalpur, 41-Boot, 42-Bajola, 43-Mander Bet and 45-Dhaliwal Bet in Kapurthala No. 1 K.C. in Kapurthala tahsil."
+  },
+  {
+   "ac_no": 41,
+   "name": "Kapurthala",
+   "type": "GEN",
+   "district": "Kapurthala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    27
+   ],
+   "note": "Direct continuity; Kapurthala KC and town core carry over.",
+   "extent": "Kapurthala municipality, P.Cs. 75-Sheikhupur and 76-Kapurthala in Kapurthala No. 2 K.C., Kapurthala No. 1 K.C. (excluding PCs. 38-Hamira, 39-Dyalpur, 41-Boot, 42-Bajola, 43-Mander Bet and 45-Dhaliwal Bet) and Kapurthala No. 3 K.C. (excluding PCs. 72-Isharwal alias Pajian and 73-Khera Dona) in Kapurthala tahsil."
+  },
+  {
+   "ac_no": 42,
+   "name": "Sultanpur",
+   "type": "GEN",
+   "district": "Kapurthala",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    28
+   ],
+   "note": "Direct continuity; the name slightly expanded to Sultanpur Lodhi, same tehsil base.",
+   "extent": "Sultanpur tahsil; and Kapurthala No. 2 K.C. (excluding Kapurthala municipality and PCs. 75-Sheikhupur and 76-Kapurthala), and PCs. 72-Isharwal alias Pajian and 73-Khera Dona in Kapurthala No. 3 K.C. in Kapurthala tahsil."
+  },
+  {
+   "ac_no": 43,
+   "name": "Phagwara",
+   "type": "SC",
+   "district": "Kapurthala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    29
+   ],
+   "note": "Direct continuity; the same tehsil-based seat, SC status retained.",
+   "extent": "Phagwara tahsil."
+  },
+  {
+   "ac_no": 44,
+   "name": "Balachaur",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    48
+   ],
+   "note": "Direct continuity of the tehsil-based seat; only the parent district changed, since Nawan Shahr was carved out as a new district.",
+   "extent": "Balachaur tahsil."
+  },
+  {
+   "ac_no": 45,
+   "name": "Garhshankar",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    45
+   ],
+   "note": "Direct continuity; Garhshankar KC carries over. The new seat also absorbs old Mahilpur (SC)'s core.",
+   "extent": "Garhshankar K.C. (excluding PCs. 71-Chahalpur, 72-Dhagan, 73-Chauhra, 75-Panam, 76-Rurki Khas, 77-Sakanderpur and 78-Simbli), Tuto Mazara K.C. (excluding PCs. 51-Possi, 52-Kitna, 69-Moila Wahidpur and 70-Moranwali) and P.Cs. 24-Haweli, 32-Kalewal Bhagtan, 33-Nangal Choran, 34-Jandoli, 35-Nasran, 36-Bachhohi, 37-Maili, 39-Fatehpur Kothi and 40-Khanpur in Mahilpur K.C. in Garhshankar tahsil."
+  },
+  {
+   "ac_no": 46,
+   "name": "Mahilpur",
+   "type": "SC",
+   "district": "Hoshiarpur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    45,
+    44
+   ],
+   "note": "Name and SC status discontinued. Mahilpur KC went to the new Garhshankar, while Sarhala Kalan KC is named under the new Chabbewal (SC), which inherited the reservation.",
+   "extent": "Sarhala Kalan K.C., Mahilpur K.C. (excluding PCs. 24-Haweli, 32-Kalewal Bhagtan, 33-Nangal Choran, 34-Jandoli, 35-Nasran, 36-Bachhohi, 37-Maili, 39-Fatehpur Kothi and 40-Khanpur), P.Cs. 51-Possi, 52-Kitna, 69-Moila Wahidpur and 70-Moranwali in Tuto Mazara K.C. and PCs. 71-Chahalpur, 72-Dhagan, 73-Chauhra, 75-Panam, 76-Rurki Khas, 77-Sakandarpur and 78-Simbli in Garhshankar K.C. in Garhshankar tahsil."
+  },
+  {
+   "ac_no": 47,
+   "name": "Hoshiarpur",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    43
+   ],
+   "note": "Direct continuity; Hoshiarpur KC and town core carry over (Bahadurpur, Kotla Gaunspur, Admowal, Chohal, Shergarh).",
+   "extent": "Mehlanwali K.C., Hoshiarpur municipality, P.Cs. 83-Premgarh, 84-Hoshiarpur and Hoshiarpur K.C. in Hoshiarpur tahsil."
+  },
+  {
+   "ac_no": 48,
+   "name": "Sham Chaurasi",
+   "type": "SC",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    42
+   ],
+   "note": "Direct continuity; Sham Chaurasi KC and SC status both carry over.",
+   "extent": "Sham Chaurasi and Khanaura K.Cs. and Hoshiarpur K.C. (excluding Hoshiarpur municipality and PCs. 83-Premgarh, 84-Hoshiarpur and 86-Ajjowal) in Hoshiarpur tahsil."
+  },
+  {
+   "ac_no": 49,
+   "name": "Tanda",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    41
+   ],
+   "note": "Name discontinued. The new Urmar's KC list explicitly names Tanda and Tanda Urmar (MCI), confirming old Tanda's core moved there.",
+   "extent": "Haryana K.C. (excluding PCs. 10-Dholwaha, 11-Janauri, 34-Sherpur Kham, 35-Bassi Bazid, 36-Bassi Ballo, 37-Dandoh, 38-Dhaki, 39-Mehangarwal and 40-Kapahat) in Hoshiarpur tahsil; and Tanda K.C. (excluding PCs. 67-Dugal Dawakhri, 93-Jhingar Khurd and 94-Ralhan) and PCs. 101-Bhulpur, 104-Ranipind, 105-Talwandi Dandian and 106-Talwandi Salhan in Miani K.C. in Dasuya tahsil."
+  },
+  {
+   "ac_no": 50,
+   "name": "Garhdiwala",
+   "type": "SC",
+   "district": "Hoshiarpur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    41
+   ],
+   "note": "Name and SC status discontinued. The new Urmar's KC list explicitly names Garhdiwala and Garhdiwala (MCI): old Garhdiwala's core moved there too, alongside old Tanda.",
+   "extent": "Garhdiwala K.C. and PCs. 10-Dholwaha, 11-Janauri, 34-Sherpur Kham, 35-Bassi Bazid, 36-Bassi Ballo, 37-Dandoh, 38-Dhaki, 39-Mehangarwal and 40-Kapahat in Haryana K.C. in Hoshiarpur tahsil; and Miani K.C. (excluding P.Cs. 101-Bhulpur, 104-Ranipind, 105-Talwandi Dandian and 106-Talwandi Salhan), PCs. 67-Dugal Dawakhri, 93-Jhinger Khurd and 94-Ralhan in Tanda K.C. and PCs. 66-Randhawa, 68-Berchha, 69-Bodal and 77-Jhingar Kalan in Dasuya K.C. in Dasuya tahsil."
+  },
+  {
+   "ac_no": 51,
+   "name": "Dasuya",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    40
+   ],
+   "note": "Direct continuity; Dasuya KC carries over, expanded with Datarpur/Talwara KC fragments.",
+   "extent": "Dasuya K.C. (excluding PCs. 66-Randhawa, 68-Berchha, 69-Bodal and 70-Jhingar Kalan) and Talwara K.C. (excluding PCs. 32-Sariana, 37-Gera, 40-Namoli and 42-Bhera) in Dasuya tahsil."
+  },
+  {
+   "ac_no": 52,
+   "name": "Mukerian",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    39
+   ],
+   "note": "Direct continuity; Mukerian KC carries over, expanded with Talwara KC fragments.",
+   "extent": "Mukerian and Hajipur K.Cs. and PCs. 32-Sariana, 37-Gera, 40-Namoli and 42-Bhera in Talwara K.C. in Dasuya tahsil."
+  },
+  {
+   "ac_no": 53,
+   "name": "Jagraon",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    70
+   ],
+   "note": "Direct continuity; Jagraon and Manuke KCs both explicitly named in the new seat, which is now SC-reserved.",
+   "extent": "Jagraon K.C. and PCs. 39-Agwar Pona, 40-Kalar, 57-Hans, 62-Agwar Dalla, 63-Dholan, 65-Rumi, 66-Akhara, 67-Dalla, 68-Dangian, 69-Rasulpur, 70-Deharka, 71-Bhammipura and 81-Mallah in Manuke K.C. in Jagraon tahsil."
+  },
+  {
+   "ac_no": 54,
+   "name": "Raikot",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    69
+   ],
+   "note": "Direct continuity of name and core Raikot Tehsil territory; now SC-reserved.",
+   "extent": "Raikot K.C. and Manuke K.C. (excluding PCs. 39-Agwar Pona, 40-Kalar, 57-Hans, 62-Agwar Dalla, 63-Dholan, 65-Rumi, 66-Akhara, 67-Dalla, 68-Dangian, 69-Rasulpur, 70-Deharka, 71-Bhammipura and 81-Mallah) in Jagraon tahsil."
+  },
+  {
+   "ac_no": 55,
+   "name": "Dakha",
+   "type": "SC",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    68,
+    66
+   ],
+   "note": "Split: old Dakha's core (Dakha KC, Swaddi Khas KC) named under the new Dakha, which lost SC status; its Gill KC fragment moved into the newly created Gill (SC), which inherited the reservation.",
+   "extent": "Dakha K.C. and PCs. 68-Lohara, 69-70-Gill Nos. 1 and 2, 71-Dhandra, 72-Dad, 73-Lalton Kalan, 74-Mansuran, 75-Dolon Kalan, 76-Bilah and 77-Jassowal in Gill K.C. in Ludhiana tahsil (excluding any part of Ludhiana municipality) and Swaddi Khas K.C. in Jagraon tahsil."
+  },
+  {
+   "ac_no": 56,
+   "name": "Qila Raipur",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    67
+   ],
+   "note": "Name discontinued; Raipur/Pakhowal KCs' geographic adjacency to Malaud KC suggests the territory now sits within Payal (flagged in the source as inferred rather than certain).",
+   "extent": "Raipur and Pakhowal K.Cs. and PCs. 117-Khatra Chuharmi, 118-Bhikhi Khatra, 119-Butahri, 120-Jhamat, 121-Siahar, 122-Dhaul Kalan, 132-Saharan Majra, 133-Kulahar, 134-Pohir and 135-Khera in Malaud K.C. in Ludhiana tahsil."
+  },
+  {
+   "ac_no": 57,
+   "name": "Ludhiana North",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    65
+   ],
+   "note": "Direct continuity of name; wards fully renumbered under the new Ludhiana East Tehsil / Municipal Corporation system.",
+   "extent": "Ward Nos. 1 to 7, 11, 46 and 47 in Ludhiana City."
+  },
+  {
+   "ac_no": 58,
+   "name": "Ludhiana West",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    64
+   ],
+   "note": "Direct continuity of name; wards renumbered.",
+   "extent": "Ward Nos. 23 to 32 and 34 to 37 in Ludhiana City."
+  },
+  {
+   "ac_no": 59,
+   "name": "Ludhiana East",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    60
+   ],
+   "note": "Direct continuity of name; wards renumbered.",
+   "extent": "Ward Nos. 8 to 10, 13 to 19, 33 and 43 to 45 in Ludhiana City."
+  },
+  {
+   "ac_no": 60,
+   "name": "Ludhiana Rural",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    59,
+    61,
+    62,
+    63
+   ],
+   "note": "Name discontinued. The old catch-all Rural seat's territory (plus city growth) was carved into four seats, three of them brand new (Sahnewal, Ludhiana South, Atam Nagar, Ludhiana Central).",
+   "extent": "Ward Nos. 38 to 42 in Ludhiana City, Ludhiana K.C. (excluding PCs. 19-Mittewara, 20-Kariana Kalan, 21-Hawas, 33-Shahabana and 34-Khasi Kalan) and Gill K.C. (excluding PCs. 68-Lohara, 69-70-Gill Nos. 1 and 2, 71-Dhandra, 72-Dad, 73-Lalton Kalan, 74-Mansuran, 75-Dolon Kalan, 76-Bilah and 77-Jassowal) in Ludhiana tahsil."
+  },
+  {
+   "ac_no": 61,
+   "name": "Payal",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    67
+   ],
+   "note": "Direct continuity of name and tehsil; now SC-reserved.",
+   "extent": "Payal and Jarg K.Cs. and Malaud K.C. (excluding PCs. 117-Khatra Chuharmi, 118-Bhikhi Khatra, 119-Butahri, 120-Jhamat, 121-Siahar, 122-Dhaul Kalan, 132-Saharan Majra, 133-Kulahar, 134-Pohir and 135-Khera) in Ludhiana tahsil."
+  },
+  {
+   "ac_no": 62,
+   "name": "Kum Kalan",
+   "type": "SC",
+   "district": "Ludhiana",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    59
+   ],
+   "note": "Name and SC status discontinued. Koom Kalan KC is explicitly named under the newly created Sahnewal, which is unreserved; the Machhiwara KC fragment likely falls under the Fatehgarh Sahib/Payal boundary (flagged as unconfirmed in the source).",
+   "extent": "Kum Kalan K.C. and PCs. 19-Mattewara, 20-Kariana Kalan, 21-Hawas, 33-Shahabana and 34-Khasi Kalan in Ludhiana K.C. in Ludhiana tahsil; and Machhiwara K.C. in Samrala tahsil."
+  },
+  {
+   "ac_no": 63,
+   "name": "Samrala",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    58,
+    54
+   ],
+   "note": "Direct continuity; the same tehsil-based seat. Its Khamanon KC portion went into the new Bassi Pathana (SC) under Fatehgarh Sahib district.",
+   "extent": "Samrala K.C. and PCs. 48-Mansurpur, 49-Lakhanpur, 50-Faraur, 51-Khamanon Kalan, 52-Amrala, 53-Sanghol, 55-Bhambri and 56-Chari in Khamanon Kalan K.C. in Samrala tahsil."
+  },
+  {
+   "ac_no": 64,
+   "name": "Khanna",
+   "type": "SC",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    57
+   ],
+   "note": "Direct continuity of name and tehsil, but the seat lost its SC reservation.",
+   "extent": "Khanna Kalan K.C. and Khamanon Kalan K.C. (excluding PCs. 48-Mansur Pur, 49-Lakhanpur, 50-Faraur, 51-Khamanon Kalan, 52-Amrala, 53-Sanghol, 55-Bhambri and 56-Chari) in Samrala tahsil."
+  },
+  {
+   "ac_no": 65,
+   "name": "Nangal",
+   "type": "GEN",
+   "district": "Ropar",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    49
+   ],
+   "note": "Old Nangal's Anandpur Sahib KC portion matches directly; the new Anandpur Sahib's KC list explicitly includes Nangal and Naya Nangal.",
+   "extent": "Anandpur Sahib K.C. (excluding Anandpur Sahib municipality and PCs. 10-Anandpur Sahib, 11-Lamlehri, 12-Jhinjri, 13-Kotla, 14-Paharpur, 15-Daulowal, 16-Kiratpur Sahib and 17-Baruwala) and PCs. 24-Kalwan, 25-Jhuj, 26-Thana, 27-Mawa, 28-Samirowal, 42-Nalhoti, 43-Kahanpur, 44-Bhallan and 45-Nangran Kalmot in Nurpur Bedi K.C. in Anandpur Sahib tahsil."
+  },
+  {
+   "ac_no": 66,
+   "name": "Anandpur Sahib-Ropar",
+   "type": "GEN",
+   "district": "Ropar",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    50
+   ],
+   "note": "The old seat's Nurpur Bedi KC and Ghanauli KC fragments are both explicitly named under the new Rupnagar; 'Ropar' town itself is renamed Rupnagar.",
+   "extent": "Anandpur Sahib municipality and PCs. 10-Anandpur Sahib, 11-Lamlehri, 12-Jhinjri, 13-Kotla, 14-Paharpur, 15-Daulowal, 16-Kiratpur Sahib and 17-Baruwala in Anandpur Sahib K.C., Nurpur Bedi K.C. (excluding PCs. 24-Kalwan, 25-Jhuj, 26-Thana, 27-Mawa, 28-Samirowal, 42-Nalhoti, 43-Kahanpur, 44-Bhallan and 45-Nangran Kalmot) in Anandpur Sahib tahsil; and P.Cs. 21-Khwaspur and 22-Ropar in Ropar K.C. and Ghanauli K.C. (excluding PCs. 13-Bari, 14-Bardar, 15-Purkhali, 16-Rampur, 17-Panjola, 18-Bhadal, 19-Fatehpur and 20-Sanana) in Ropar tahsil."
+  },
+  {
+   "ac_no": 67,
+   "name": "Chamkaur Sahib",
+   "type": "SC",
+   "district": "Ropar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    51
+   ],
+   "note": "Direct continuity of name and SC status; Chamkaur Sahib KC carries over directly.",
+   "extent": "Ropar K.C. (excluding PCs. 21-Khwaspur and 22-Ropar), PCs. 13-Bari, 14-Bardar, 15-Purkhali, 16-Rampur, 17-Panjola, 18-Bhadal, 19-Fatehpur and 20-Sanana in Ghanauli K.C., Chamkaur Sahib K.C. and PCs. 62-Bara Sadhupur, 63-Amrali, 64-Oind, 65-Salempur, 66-Bara Samana, 67-Rasulpur, 68-Boor Majra, 69-Sotal and 80-Sarhana in Morinda K.C. in Ropar tahsil."
+  },
+  {
+   "ac_no": 68,
+   "name": "Morinda",
+   "type": "GEN",
+   "district": "Ropar",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    51,
+    52
+   ],
+   "note": "Despite printing next to the new Kharar, old Morinda's own core KC is explicitly named under the new Chamkaur Sahib (SC); only its Mullanpur/Kurali (Kharar-tehsil) fragment went to the new Kharar.",
+   "extent": "Morinda K.C. (excluding P.Cs. 62-Bara Sadhu Pur, 63-Amrali, 64-Oind, 65-Salem Pur, 66-Bara Samana, 67-Rasul Pur, 68-Boor Majra, 69-Sotal and 80-Sarhana) in Ropar tahsil; and Mullanpur and Kurali K.Cs. in Kharar tahsil."
+  },
+  {
+   "ac_no": 69,
+   "name": "Kharar",
+   "type": "GEN",
+   "district": "Ropar",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    52,
+    53
+   ],
+   "note": "Split: the Kharar-KC portion continues in the new Kharar; the Manauli KC portion most likely landed in S.A.S. Nagar (Mohali), carved directly out of old Kharar tehsil (flagged in the source as inferred).",
+   "extent": "Kharar and Manauli K.Cs. in Kharar tahsil."
+  },
+  {
+   "ac_no": 70,
+   "name": "Banaur",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    111,
+    112
+   ],
+   "note": "Split: old Banur's own Banur KC is explicitly named under the new Rajpura; its Lalru/Dera Bassi KCs became the basis of the newly created Dera Bassi seat.",
+   "extent": "Lalru and Dera Bassi K.Cs. and PCs. 32-Machhli Kalan, 33-Manakpur, 36-Banur, 37-Dharmgarh, 40-Pawala, 41-Hulka, 44-Devi Nagar, 96-Bhankher Pur, 97-Mubarakpur and 98-Sundran in Banur K.C. in Rajpura tahsil."
+  },
+  {
+   "ac_no": 71,
+   "name": "Rajpura",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    111,
+    112,
+    113
+   ],
+   "note": "Direct continuity; Rajpura KC explicitly named, merged with old Banur's Banur-KC fragment. Dera Bassi Tehsil was separated to form Dera Bassi (112); other parts now form Ghanaur (113).",
+   "extent": "Rajpura K.C. and Banur K.C. (excluding PCs. 32-Machhli Kalan, 33-Manakpur, 36-Banur, 37-Dharmgarh, 40-Pawala, 41-Hulka, 44-Devi Nagar, 96-Bhankher Pur, 97-Mubarakpur and 98-Sundran) in Rajpura tahsil."
+  },
+  {
+   "ac_no": 72,
+   "name": "Ghanaur",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    113
+   ],
+   "note": "Direct continuity; Mardanpur and Ghanaur KCs both explicitly named in the new seat.",
+   "extent": "Mardanpur and Ghanaur K.Cs. in Rajpura tahsil; and Raipur K.C. (excluding PCs. 69-Sanaur, 70-Fatehpur Rajputan, 71-Behal, 72-Bankher, 73-Pur and 74-Karanpur and any area of Patiala municipality in PC. 57-Noor Kherian) in Patiala tahsil."
+  },
+  {
+   "ac_no": 73,
+   "name": "Dakala",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    116,
+    114
+   ],
+   "note": "Name discontinued as a standalone seat. Dakala KC is explicitly named under the new Samana; the Sanaur/Fatehpur Rajputan/Behal PCs became the basis of the newly created Sanour seat.",
+   "extent": "Dakala and Ghuram K.Cs. and PCs. 69-Sanaur, 70-Fatehpur Rajputan, 71-Behal, 72-Bankher, 73-Pur and 74-Karanpur in Raipur K.C. in Patiala tahsil."
+  },
+  {
+   "ac_no": 74,
+   "name": "Shutrana",
+   "type": "SC",
+   "district": "Patiala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    117
+   ],
+   "note": "Direct continuity of name, core KC and SC status.",
+   "extent": "Shutrana K.C. and PCs. 12-Behmana, 13-Talwandi Malik, 16-Sehajpur Kalan, 17-Kularan, 18-Dhanetha, 19-Kakrala and 20-Nanhera in Samana K.C. in Samana tahsil."
+  },
+  {
+   "ac_no": 75,
+   "name": "Samana",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    116
+   ],
+   "note": "Direct continuity; Samana KC and Patiala KC fragments explicitly named; absorbed old Dakala's core too.",
+   "extent": "Samana K.C. (excluding PCs. 12-Behmana, 13-Talwandi Malik, 16-Sehajpur Kalan, 17-Kularan, 18-Dhanetha, 19-Kakrala and 20-Nanhera) in Samana tahsil; and Patiala K.C. (excluding Wards 1, 2 and 10 to 35 in Patiala municipality) and any area of PC. 57-Noor Kherian in Raipur K.C. which forms part of Patiala municipality in Patiala tahsil."
+  },
+  {
+   "ac_no": 76,
+   "name": "Patiala Town",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    115,
+    110
+   ],
+   "note": "Ward numbers largely match the new Patiala directly; some outer wards/OG areas feed the newly created Patiala Rural seat.",
+   "extent": "Wards 1, 2 and 10 to 35 in Patiala municipality."
+  },
+  {
+   "ac_no": 77,
+   "name": "Nabha",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    109,
+    110
+   ],
+   "note": "Direct continuity of name and core KCs, but the seat gained an SC reservation it didn't have before. Parts (Ajnoda Kalan KC) were transferred to the new Patiala Rural.",
+   "extent": "Nabha and Kakrala K.Cs. and PCs. 1-Sahauli, 2-Sakrali, 3-Raisal, 8-Bhadson, 9-Lout, 10-Allowal and 11-Symro in Bhadson K.C. in Nabha tahsil."
+  },
+  {
+   "ac_no": 78,
+   "name": "Amloh",
+   "type": "SC",
+   "district": "Patiala",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    56
+   ],
+   "note": "Direct continuity of name and tehsil, but lost its SC reservation; moved administratively into the newly created Fatehgarh Sahib district.",
+   "extent": "Amloh K.C. and Bhadson K.C. (excluding PCs. 1-Sahauli, 2-Sakrali, 3-Raisal, 8-Bhadson, 9-Lout, 10-Allowal and 11-Symro in Nabha tahsil) and Chanarthal K.C. (excluding PCs. 26-Jallah, 33-Mullan Pur Kalan and 35-Bhamarsi Zer) in Fatehgarh Sahib tahsil."
+  },
+  {
+   "ac_no": 79,
+   "name": "Sirhind",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    55
+   ],
+   "note": "Name changed to Fatehgarh Sahib to reflect the district's new headquarters town; same tehsil base.",
+   "extent": "Sirhind and Kalaur K.Cs. and PCs. 26-Jallah, 33-Mullan Pur Kalan and 35-Bhamarsi Zer in Chanarthal K.C. in Fatehgarh Sahib tahsil."
+  },
+  {
+   "ac_no": 80,
+   "name": "Dhuri",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    107,
+    106
+   ],
+   "note": "Split: Dhuri KC explicitly named under the new Dhuri; the Amargarh KC portion explicitly named under the newly created Amargarh.",
+   "extent": "Dhuri and Amargarh K.Cs. and PC. 82-Bamal in Sherpur K.C. in Malerkotla tahsil."
+  },
+  {
+   "ac_no": 81,
+   "name": "Malerkotla",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    105,
+    106
+   ],
+   "note": "Malerkotla KC carries over directly; its Ahmedgarh KC fragment moved into the newly created Amargarh.",
+   "extent": "Malerkotla K.C. and PCs. 6-Kanganpur, 7-Dehliz Kalan, 8-Ahmedgarh, 9-Akbarpura, 10-Baurhai, 11-Bhikampur, 12-Kup and 13-Balewal in Ahmedgarh K.C. in Malerkotla tahsil."
+  },
+  {
+   "ac_no": 82,
+   "name": "Sherpur",
+   "type": "SC",
+   "district": "Sangrur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    104,
+    106
+   ],
+   "note": "Name and original SC seat discontinued. Sherpur KC explicitly named under the new Mehal Kalan (SC), which inherited the SC reservation; the Ahmedgarh-KC portion went to Amargarh.",
+   "extent": "Sherpur K.C. (excluding PC. 82-Bamal), Alal K.C. and Ahmedgarh K.C. (excluding PCs. 6-Kanganpur, 7-Dehliz Kalan, 8-Ahmedgarh, 9-Akbarpura, 10-Baurhai, 11-Bhikampur, 12-Kup and 13-Balewal) in Malerkotla tahsil."
+  },
+  {
+   "ac_no": 83,
+   "name": "Barnala",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    103
+   ],
+   "note": "Direct continuity; Barnala KC carries over, now under the new Barnala district.",
+   "extent": "Barnala K.C. and PCs. 11-Manal, 12-Thuliwal and 13-Hamidi in Mahal Kalan K.C. in Barnala tahsil."
+  },
+  {
+   "ac_no": 84,
+   "name": "Bhadaur",
+   "type": "SC",
+   "district": "Sangrur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    102,
+    104
+   ],
+   "note": "Name and SC status continue in the new Bhadaur (SC); the bulk of old Mahal Kalan KC resurfaces as the new Mehal Kalan (SC) seat — a name echo, not the same seat.",
+   "extent": "Bhadaur K.C., Mahal Kalan K.C. (excluding PCs. 11-Manal, 12-Thuliwal and 13-Hamidi) and PCs. 60-Dhilwan Nabha, 61-Dhilwan Patiala, 62 and 63-Mauran Nabha A & B, 64-Mauran Patiala and 65-Ugoke in Tappa K.C. in Barnala tahsil."
+  },
+  {
+   "ac_no": 85,
+   "name": "Dhanaula",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    103,
+    101
+   ],
+   "note": "Name discontinued as a standalone seat. Dhanaula KC explicitly absorbed into the new Barnala; its Longowal KC fragment explicitly absorbed into the new Sunam.",
+   "extent": "Dhanaula K.C. and Tappa K.C. (excluding PCs. 60-Dhilwan Nabha, 61-Dhilwan Patiala, 62 and 63-Mauran Nabha A & B, 64-Mauran Patiala and 65-Ugoke) in Barnala tahsil; and PCs. 24-Dhadria, 29-32-Longowal (A, B, C & D), 39-Togawal and 40-Mander Khurd in Longowal K.C. in Sangrur tahsil."
+  },
+  {
+   "ac_no": 86,
+   "name": "Sangrur",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    108
+   ],
+   "note": "Direct continuity; Sangrur KC and Bhawanigarh KC both explicitly carry over.",
+   "extent": "Sangrur K.C. and Bhawanigarh K.C. (excluding PCs. 6-Bijalpur, 7-Basi Arkh, 11-Bhatiwal Kalan, 16-Phumanwal, 17-Bharoo, 18-Kheri Gillan, 19-Chanon, 20-Nadampur, 21-Balial, 22-Balad Khurd and 23-Balad Kalan) in Sangrur tahsil."
+  },
+  {
+   "ac_no": 87,
+   "name": "Dirbha",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    108,
+    100
+   ],
+   "note": "Its Bhawanigarh-KC portion went to the new Sangrur; the core Dirba KC resurfaces as the newly SC-reserved Dirba (SC).",
+   "extent": "P.Cs. 6-Bijalpur, 7-Basi Arkh, 11-Bhatiwal Kalan, 16-Phumanwal, 17-Bharoo, 18-Kheri Gillan, 19-Chanon, 20-Nadampur, 21-Balial, 22-Balad Khurd and 23-Balad Kalan in Bhawanigarh K.C. in Sangrur tahsil; and Dirbha K.C. and P.Cs. 56-Khadiyal, 57-Mahlan, 58-Mauran, 59-60-Chhajli (A & B), 67-Chatha Nanhera and 69-Bigerwal in Sunam K.C. in Sunam tahsil."
+  },
+  {
+   "ac_no": 88,
+   "name": "Sunam",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    101,
+    99
+   ],
+   "note": "Direct continuity of core; both its Longowal KC and Sunam KC portions explicitly named under the new Sunam; a Lehra Gaga-KC fragment went to the new Lehra.",
+   "extent": "Longowal K.C. (excluding P.Cs. 24-Dhadrian, 29-32-Longowal (A, B, C & D), 39-Togawal and 40-Mander Khurd) in Sangrur tahsil; and Sunam K.C. (excluding PCs. 56-Khadiyal, 57-Mahlan, 58-Mauran, 59-60-Chhajli (A & B), 67-Chatha Nanhera and 69-Bigerwal) and PCs. 22-Kanakwal Bhangwan, 23-Daska, 26-Gaga, 27-Sangatpura, 30-Nangla and 36-Haryao in Lehra Gaga K.C. in Sunam tahsil."
+  },
+  {
+   "ac_no": 89,
+   "name": "Lehra",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    99
+   ],
+   "note": "Direct continuity; Moonak KC (old Lehra's core) explicitly named under the new Lehra.",
+   "extent": "Moonak K.C. and Lehra Gaga K.C. (excluding PCs. 22-Kanakwal Bhangwan, 23-Daska, 26-Gaga, 27-Sangatpura, 30-Nangla and 36-Haryao) in Sunam tahsil."
+  },
+  {
+   "ac_no": 90,
+   "name": "Balluana",
+   "type": "SC",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    82,
+    81
+   ],
+   "note": "Direct continuity; name and SC status both preserved. One fragment (PC Azeem Garh, inside old Abohar's KC) shows up instead in the new Abohar.",
+   "extent": "PCs. 27-Jandwala Beemeshah, 28-Arniwala Sheikh Subhan, 29-Ghuriana and 30-Tahliwala Jattan in Fazilka Shamali K.C. and P.Cs. 50-Dharangwala, 51-Kundal, 52-Balluana, 53-Dhaban Kokarian, 54-Sardarpura, 55-Seeto Gano, 56-Khuban, 57-Bazidpur, 58-Kalaran, 59-Rajjanwali, 60-Wahabwala, 61-Kala Tibba, 62-Azeem Garh (excluding any part of Abohar municipality) and 65-Jhurarkhera in Abohar K.C. in Fazilka tahsil."
+  },
+  {
+   "ac_no": 91,
+   "name": "Abohar",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    81
+   ],
+   "note": "Direct continuity of the core town/KC; Abohar municipality and Abohar (Rural)/Abohar Mandi explicitly named in the new Abohar.",
+   "extent": "Abohar municipality and Abohar K.C. (excluding P.Cs. 50-Dharangwala, 51-Kundal, 52-Balluana, 53-Dhaban Kokarian, 54-Sardarpura, 55-Seeto Gano, 56-Khuban, 57-Bazidpur, 58-Kalaran, 59-Rajjanwali, 60-Wahabwala, 61-Kala Tibba, 62-Azeem Garh and 65-Jhurarkhera) in Fazilka tahsil."
+  },
+  {
+   "ac_no": 92,
+   "name": "Fazilka",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    80
+   ],
+   "note": "Direct continuity; the Fazilka KC/municipality explicitly named in the new Fazilka.",
+   "extent": "Fazilka Janubi K.C. in Fazilka tahsil."
+  },
+  {
+   "ac_no": 93,
+   "name": "Jalalabad",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    79
+   ],
+   "note": "Direct continuity, plus absorbed fragments that used to sit in old Balluana's KC list (Tahliwala Bodla, Arniwala Sheikh Subhan).",
+   "extent": "Jalalabad K.C. and Fazilka Shamali K.C. (excluding P.Cs. 27-Jandwala Beemeshah, 28-Arniwala Sheikh Subhan, 29-Ghuriana and 30-Tahliwala Jattan) in Fazilka tahsil."
+  },
+  {
+   "ac_no": 94,
+   "name": "Guru Har Sahai",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    78
+   ],
+   "note": "Direct continuity; Guru Har Sahai KC and Mamu/Mahmu Joyian explicitly named in the new Guru Har Sahai.",
+   "extent": "Guru Har Sahai K.C. and Mamdot K.C. (excluding P.Cs. 45-Wahagke, 46-Wahage Wala, 47-Lakha Hajji and 48-Panjoke Uttar) in Ferozepur tahsil."
+  },
+  {
+   "ac_no": 95,
+   "name": "Ferozepur",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    76
+   ],
+   "note": "Direct continuity of the core as Firozpur City, but the seat as a whole is now split with Firozpur Rural.",
+   "extent": "Ferozepur municipality and Ferozepur K.C. (excluding P.Cs. 20-Bhangar, 21-Malwal, 22-Bazidpur, 23-Jhok Hari Har, 25-Satiya Wala and 27-Waloor), P.Cs. 1-Bundala, 2-Dula Singh Wala, 3-Ilame Wala, 4-Arafke, 5-Masteke, 6-Mahlam and 7-Changali Qadeem in Feru Shaihar K.C. and P.Cs. 45-Wahagke, 46-Wahage Wala, 47-Lakha Hajji and 48-Panjoke Uttar in Mamdot K.C. in Ferozepur tahsil."
+  },
+  {
+   "ac_no": 96,
+   "name": "Ferozepur Cantonment",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    77
+   ],
+   "note": "The Firozpur Cantt. KC is explicitly named in the new Firozpur Rural (SC); its Mamdot-KC PCs also reappear there. The old Cantonment seat was unreserved; the new Firozpur Rural is SC-reserved.",
+   "extent": "Ferozepur Cantonment, P.Cs. 20-Bhangar, 21-Malwal, 22-Bazidpur, 23-Jhok Hari Har, 25-Satiya Wala and 27-Waloor in Ferozepur K.C. and Feru Shaihar K.C. (excluding P.Cs. 1-Bundala, 2-Dula Singh Wala, 3-Ilame Wala, 4-Arafke, 5-Masteke, 6-Mahlam and 7-Changali Qadeem) in Ferozepur tahsil."
+  },
+  {
+   "ac_no": 97,
+   "name": "Zira",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    75,
+    74
+   ],
+   "note": "Direct continuity of the core (Zira tehsil is the entirety of the new Zira); its excluded PCs (Manawan, Talwandi Jallekhan, etc.) went to Dharamkot.",
+   "extent": "Makhu K.C. and Zira K.C. (excluding P.Cs. 35-Manawan, 36-Talwandi Jallekhan, 37-Mehal, 38-Katora, 39-Karahewala, 40-Jhanda Bagga Purana and 41-Mander) in Zira tahsil."
+  },
+  {
+   "ac_no": 98,
+   "name": "Dharamkot",
+   "type": "SC",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    74
+   ],
+   "note": "Old Dharamkot (SC) loses its reservation; the new Dharamkot (74) is unreserved and is built from fragments of old Dharamkot (SC) and old Moga.",
+   "extent": "Dharamkot and Kot Isekhan K.Cs. and P.Cs. 35-Manawan, 36-Talwandi Jallekhan, 37-Mehal, 38-Katora, 39-Karahewala, 40-Jhanda Bagga Purana and 41-Mander in Zira K.C. in Zira tahsil."
+  },
+  {
+   "ac_no": 99,
+   "name": "Moga",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    73,
+    74,
+    71
+   ],
+   "note": "The new Moga and new Bhagha Purana both draw simultaneously from old Moga and old Bagha Purana — a genuine two-way split on both sides.",
+   "extent": "Moga municipality and Moga Mehla Singh K.C. (excluding P.Cs. 42-43-Buttar (Nos. 1 and 2), 44-45-Daudhar (Nos. 1 and 2) and 46-Maliana) in Moga tahsil."
+  },
+  {
+   "ac_no": 100,
+   "name": "Bagha Purana",
+   "type": "GEN",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    72,
+    71
+   ],
+   "note": "Continues as Bhagha Purana Tehsil-based seat; fragments also feed Nihal Singhwala.",
+   "extent": "Moga Jit Singh K.C. (excluding any part of Moga municipality) and P.Cs. 74-Gholia Kalan, 75-Kaleke, 76-Bagha Purana, 77-Langiana Nawan, 78-Nathu Wala, 79-Mahla Kalan and 80-Bhaloor in Bagha Purana K.C. in Moga tahsil."
+  },
+  {
+   "ac_no": 101,
+   "name": "Nihal Singh Wala",
+   "type": "SC",
+   "district": "Ferozpur",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    71
+   ],
+   "note": "The one clean continuity case in this belt: full KC/PC carryover, SC status preserved.",
+   "extent": "Nihal Singh Wala K.C., P.Cs. 42-43-Buttar (Nos. 1 and 2), 44-45-Daudhar (Nos. 1 and 2) and 46-Maliana in Moga Mehla Singh K.C., and P.Cs. 71-72-Manuke (Nos. 1 and 2) and 73-Gholia Khurd in Bagha Purana K.C. in Moga tahsil."
+  },
+  {
+   "ac_no": 102,
+   "name": "Panjgrain",
+   "type": "SC",
+   "district": "Ferozpur",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    89
+   ],
+   "note": "Most of the former Panjgrain (SC) was merged into the new Jaitu (SC); its own Panjgrain Kalan KC is explicitly named there, SC status preserved.",
+   "extent": "Bagha Purana K.C. (excluding P.Cs. 71-72-Manuke (Nos. 1 and 2), 73-Gholia Khurd, 74-Gholia Kalan, 75-Kaleke, 76-Bagha Purana, 77-Langiana Nawan, 78-Nathu Wala, 79-Mahla Kalan and 80-Bhaloor) in Moga tahsil; Kot Kapura K.C. (excluding Kot Kapura municipality and P.Cs. 18-Daggo Romana, 19-Machaki Mal Singh, 20-Pakka, 21-Chand Baja, 25-Wander Jatana, 26-Khara, 27-Hari Nau, 28-Kot Kapura and 34-Bargari) in Faridkot tahsil."
+  },
+  {
+   "ac_no": 103,
+   "name": "Kot Kapura",
+   "type": "GEN",
+   "district": "Faridkot",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    88,
+    89
+   ],
+   "note": "Mostly continuity (Kotkapura KC/municipality explicitly named in the new Kotkapura), but the seat sheds its Jaitu-area piece into a separate new SC-reserved Jaitu.",
+   "extent": "Jaitu K.C. and Kot Kapura municipality and P.Cs. 28-Kot Kapura and 34-Bargari in Kot Kapura K.C. in Faridkot tahsil."
+  },
+  {
+   "ac_no": 104,
+   "name": "Faridkot",
+   "type": "GEN",
+   "district": "Faridkot",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    87
+   ],
+   "note": "Direct continuity; the Faridkot KC/municipality explicitly named in the new Faridkot.",
+   "extent": "Faridkot K.C. and P.Cs. 18-Daggo Romana, 19-Machaki Mal Singh, 20-Pakka, 21-Chand Baja, 25-Wander Jatana, 26-Khara and 27-Hari Nau in Kot Kapura K.C. in Faridkot tahsil."
+  },
+  {
+   "ac_no": 105,
+   "name": "Muktsar",
+   "type": "GEN",
+   "district": "Faridkot",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    86,
+    85
+   ],
+   "note": "Direct continuity of the core; its excluded PCs (Lakhewali etc.) resurface under KC Lakhewali in the new Malout.",
+   "extent": "Muktsar K.C. (excluding P.Cs. 15-Ropana, 16-Bhagsar, 17-Lakhewali, 18-Gander and 19-Bhang Jari) in Muktsar tahsil."
+  },
+  {
+   "ac_no": 106,
+   "name": "Giddar Baha",
+   "type": "GEN",
+   "district": "Faridkot",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    84
+   ],
+   "note": "Direct continuity; the Gidderbaha KC/municipality explicitly named in the new Gidderbaha.",
+   "extent": "Giddar Baha K.C. in Muktsar tahsil."
+  },
+  {
+   "ac_no": 107,
+   "name": "Malout",
+   "type": "SC",
+   "district": "Faridkot",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    85
+   ],
+   "note": "Direct continuity; name and SC status both preserved.",
+   "extent": "Malout municipality and P.Cs. 37-Jandwala Charat Singh, 38-Malout, 39-Katore Wala, 40-Jhurer, 41-Tarkhan Wala and 42-Bam in Malout K.C. and P.Cs. 15-Ropana, 16-Bhagsar, 17-Lakhewali, 18-Gander and 19-Bhang Jari in Muktsar K.C. in Muktsar tahsil."
+  },
+  {
+   "ac_no": 108,
+   "name": "Lambi",
+   "type": "GEN",
+   "district": "Faridkot",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    83
+   ],
+   "note": "Direct continuity; its remaining Malout-KC portion (PCs Alamwala, Bhagwan Pura) explicitly named in the new Lambi.",
+   "extent": "Malout K.C. (excluding Malout municipality and P.Cs. 37-Jandwala Charat Singh, 38-Malout, 39-Katore Wala, 40-Jhurer, 41-Tarkhan Wala and 42-Bam) in Muktsar tahsil."
+  },
+  {
+   "ac_no": 109,
+   "name": "Talwandi Sabo",
+   "type": "GEN",
+   "district": "Bhatinda",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    94
+   ],
+   "note": "Direct continuity; the name carries straight over as a standalone seat.",
+   "extent": "Talwandi Sabo K.C. in Bhatinda tahsil; and P.C. Ghuman Kalan in Bhaini Bagha K.C. in Mansa tahsil."
+  },
+  {
+   "ac_no": 110,
+   "name": "Pakka Kalan",
+   "type": "GEN",
+   "district": "Bhatinda",
+   "status": "renamed",
+   "approx": false,
+   "dest": [
+    91
+   ],
+   "note": "Renamed and reclassified: Pakka Kalan was replaced by Bhucho Mandi as the district's SC-reserved seat in the 2008 order; the SC reservation was newly added at this seat.",
+   "extent": "Pakka Kalan K.C. and P.Cs. 43-Kot Shamir, 44-Kot Fatta and 45-Kot Bhara in Bhatinda K.C. in Bhatinda tahsil."
+  },
+  {
+   "ac_no": 111,
+   "name": "Bhatinda",
+   "type": "GEN",
+   "district": "Bhatinda",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    92,
+    93
+   ],
+   "note": "Split into two: the old single city-plus-hinterland seat was divided along urban/rural lines into Bathinda Urban and Bathinda Rural (SC).",
+   "extent": "Bhatinda K.C. (excluding P.Cs. 43-Kot Shamir, 44-Kot Fatta and 45-Kot Bhara) and P.Cs. 11-Virk Kalan and 12-Deon in Nehianwala K.C. in Bhatinda tahsil."
+  },
+  {
+   "ac_no": 112,
+   "name": "Nathana",
+   "type": "SC",
+   "district": "Bhatinda",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    91
+   ],
+   "note": "No new seat named Nathana exists in the 2008 order: the Nathana KC is explicitly listed inside the new Bhucho Mandi (SC), which carries the area's SC reservation.",
+   "extent": "Nathana K.C. and Nehianwala K.C. (excluding P.Cs. 11-Virk Kalan and 12-Deon) in Bhatinda tahsil."
+  },
+  {
+   "ac_no": 113,
+   "name": "Rampura Phul",
+   "type": "GEN",
+   "district": "Bhatinda",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    90
+   ],
+   "note": "Direct continuity; the name carries straight over.",
+   "extent": "Dialpura Bhaika K.C. and Rampura Phul municipality and P.Cs. Patti Sanwal, Patti Kala, Patti Karam Chand, 17-Raya, 18-Dhapali and 19-Phul in Phul K.C. in Rampura Phul tahsil."
+  },
+  {
+   "ac_no": 114,
+   "name": "Joga",
+   "type": "GEN",
+   "district": "Bhatinda",
+   "status": "abolished",
+   "approx": false,
+   "dest": [
+    95
+   ],
+   "note": "Renamed: Joga was replaced by Maur as the constituency name covering this tehsil in the 2008 order.",
+   "extent": "Phul K.C. (excluding Rampura Phul municipality and P.Cs. Patti Sanwal, Patti Kala, Patti Karam Chand, 17-Raya, 18-Dhapali and 19-Phul) in Rampura Phul tahsil; and Bhaini Bagha K.C. (excluding P.C. Ghuman Kalan) in Mansa tahsil."
+  },
+  {
+   "ac_no": 115,
+   "name": "Mansa",
+   "type": "GEN",
+   "district": "Bhatinda",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    96
+   ],
+   "note": "Direct continuity; the name carries straight over. Mansa split off from Bathinda district in 1992, so this seat is now in a different district by administrative reorganization, separate from the 2008 delimitation itself.",
+   "extent": "Bhikhi K.C. and Mansa municipality and P.Cs. 51-Sadda Singh Wala, 52-Khokhar Kalan, 53-Mansa Kalan, 54-Barnala, 55-Khara, 56-Nangal Kalan, 58-Jawaharke and 59-Ramdite Wala in Mansa K.C. in Mansa tahsil."
+  },
+  {
+   "ac_no": 116,
+   "name": "Budhlada",
+   "type": "GEN",
+   "district": "Bhatinda",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    98
+   ],
+   "note": "Direct continuity; the name carries straight over, now SC-reserved.",
+   "extent": "Budhlada K.C. in Mansa tahsil."
+  },
+  {
+   "ac_no": 117,
+   "name": "Sardulgarh",
+   "type": "GEN",
+   "district": "Bhatinda",
+   "status": "continuing",
+   "approx": false,
+   "dest": [
+    97
+   ],
+   "note": "Direct continuity; the name carries straight over.",
+   "extent": "Sardulgarh K.C. and Mansa K.C. (excluding Mansa municipality and P.Cs. 51-Sadda Singh Wala, 52-Khokhar Kalan, 53-Mansa Kalan, 54-Barnala, 55-Khara, 56-Nangal Kalan, 58-Jawaharke and 59-Ramdite Wala) in Mansa tahsil."
+  }
+ ],
+ "post2008_constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Sujanpur",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "src": [
+    10,
+    11
+   ],
+   "sc_note": "",
+   "note": "Name retained from the old Sujanpur; strongest continuity within Pathankot tehsil. (Falls under Pathankot district after its 2016 creation.)",
+   "extent": "Dhar Kalan Tehsil; KCs Manwal, Sujanpur & Sujanpur (MCI) of Pathankot Tehsil."
+  },
+  {
+   "ac_no": 2,
+   "name": "Bhoa",
+   "type": "SC",
+   "district": "Gurdaspur",
+   "status": "new",
+   "src": [
+    9
+   ],
+   "sc_note": "Newly SC-reserved seat.",
+   "note": "An entirely new name with no direct predecessor; it mainly absorbed a large chunk of old Narot Mehra's territory and became newly SC-reserved.",
+   "extent": "PCs Kanwan, Jangal, Jakrawar, Gharota Kalan, Gharota Khurd, Farida Nagar, Najo Chak, Malikpur, Sarna of Kanwan KC; KCs Bhoa, Taragarh, Narot Jaimal Singh & Bamial of Pathankot Tehsil."
+  },
+  {
+   "ac_no": 3,
+   "name": "Pathankot",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "src": [
+    10,
+    11
+   ],
+   "sc_note": "",
+   "note": "The name stayed; town + core of the old Pathankot, minus the Dhar Kalan portion that went to Sujanpur.",
+   "extent": "PC Naushera-Nalbandan of Kanwan KC; KC Pathankot & Pathankot (MCI+OG) of Pathankot Tehsil."
+  },
+  {
+   "ac_no": 4,
+   "name": "Gurdaspur",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "src": [
+    7
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; the town core remains the same.",
+   "extent": "KCs Gurdaspur, Jaura Chhatran, Tibbar & Gurdaspur (MCI+OG) of Gurdaspur Tehsil."
+  },
+  {
+   "ac_no": 5,
+   "name": "Dina Nagar",
+   "type": "SC",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "src": [
+    8
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity with old Dina Nagar; now a reserved seat.",
+   "extent": "KCs Paniar, Behrampur, Dorangla, Dina Nagar, Talabpur, PCs Chhawla, Jagatpur Kalan, Jagatpur Khurd, Saidowal Kalan, Chhina Bet, Dauwal of Chhawla KC & Dinanagar (MCI) of Gurdaspur Tehsil."
+  },
+  {
+   "ac_no": 6,
+   "name": "Qadian",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "src": [
+    3,
+    5,
+    6
+   ],
+   "sc_note": "",
+   "note": "Only the Qadian town core stayed; the seat was rebuilt largely from old Kahnuwan and Dhariwal territory.",
+   "extent": "PCs Dehriwal, Sidhwan, Chhina Ret Wala, Dhariwal Kalan, Pasnawala of Dehriwal KC; KCs Kahnuwan, Chack Sharif, Kot Todar Mall, PCs Bhaini Paswal, Darapur, Gunopur of Chhawla KC & Dhariwal (MCI) of Gurdaspur Tehsil; PCs Qadian, Basrai, Kahalwan of Qadian KC; Qadian (MCI+OG) of Batala Tehsil."
+  },
+  {
+   "ac_no": 7,
+   "name": "Batala",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "continuing",
+   "src": [
+    2,
+    3
+   ],
+   "sc_note": "",
+   "note": "Batala town core stays; the seat absorbed a large part of old Qadian (Duniya Sandhu, Loh Chap, Talwandi Jhunglan PCs).",
+   "extent": "PCs Kotli Bhan Singh, Dewaniwal, Masanian of Faijpur KC; PCs Dunia Sandhu, Dalla, Rasulpur, Loh Chap, Talwandi Jhunglan, Wadala Garanthian, Rampur of Qadian KC; Batala (MCI+OG) of Batala Tehsil; PCs Naushehra Majha Singh, Satkoha, Kaler Kalan, Kaler Khurd, Suchetgarh of Naushehra Majha Singh KC; PCs Khan Piara, Shekhwan, Tatley & Buttar Kalan of Dehriwal KC of Gurdaspur Tehsil."
+  },
+  {
+   "ac_no": 8,
+   "name": "Sri Hargobindpur",
+   "type": "SC",
+   "district": "Gurdaspur",
+   "status": "renamed",
+   "src": [
+    4
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity with old Sirihargobindpur; only the spelling was standardized, and the seat is now SC-reserved.",
+   "extent": "KCs Batala (Sharki), Harpura, Harchowal, Sri Hargobindpur, Chone, Ghuman & Sri Hargobindpur (MCI) of Batala Tehsil."
+  },
+  {
+   "ac_no": 9,
+   "name": "Fatehgarh Churian",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "new",
+   "src": [
+    2
+   ],
+   "sc_note": "",
+   "note": "A new seat assembled from Batala-tehsil KCs plus fringe PCs shifted out of old Batala (Faijpur KC).",
+   "extent": "PCs Faijpur, Bhagowal, Udhowal, Dialgarh, Taragarh, Bhullar, Jaura Singh of Faijpur KC; KCs Batala (Garbi), Kashtiwal, Fatehgarh Churian, Kala Afgana & Fatehgarh Churian (MCI) of Batala Tehsil."
+  },
+  {
+   "ac_no": 10,
+   "name": "Dera Baba Nanak",
+   "type": "GEN",
+   "district": "Gurdaspur",
+   "status": "new",
+   "src": [
+    1,
+    6
+   ],
+   "sc_note": "",
+   "note": "New seat name: Dera Baba Nanak, Dhianpur and Fatehgarh KCs (the old Fatehgarh seat) form its base, plus the Kalanaur portion of old Dhariwal.",
+   "extent": "Dera Baba Nanak Tehsil; PCs Ghuman Kalan, Ghuman Khurd, Gaju Gazi, Rajuwal, Suchanian of Naushehra Majha Singh KC; KCs Kalanaur (North), Kalanaur (South) & Kalanaur (NP) of Gurdaspur Tehsil."
+  },
+  {
+   "ac_no": 11,
+   "name": "Ajnala",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    20
+   ],
+   "sc_note": "",
+   "note": "Ajnala and Ramdas KCs carry over directly; Jasterwal KC moved out to Raja Sansi.",
+   "extent": "KCs Ramdas, Thoba, Sarangdev, Chamiari, Ajnala, Guru Ka Bagh, Ramdas (MCI) & Ajnala (NP) of Ajnala Tehsil."
+  },
+  {
+   "ac_no": 12,
+   "name": "Raja Sansi",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    20,
+    21
+   ],
+   "sc_note": "",
+   "note": "Raja Sansi and Lopoke KCs carry over directly; gained Jastarwal (from old Ajnala) plus Jassrauor, Kakkar, Chogawan KCs.",
+   "extent": "KCs Jassrauor, Jastarwal, Raja Sansi, Kakkar, Chogawan, Lopoke & Raja Sansi (NP) of Ajnala Tehsil."
+  },
+  {
+   "ac_no": 13,
+   "name": "Majitha",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    13
+   ],
+   "sc_note": "",
+   "note": "Majitha KC carries over directly; the old Tarsikka portion was redistributed toward the Verka/Attari cluster.",
+   "extent": "Mattewal KC of Baba Bakala Tehsil; KCs Nangal, Pakharpura & Majitha (MCI) of Amritsar."
+  },
+  {
+   "ac_no": 14,
+   "name": "Jandiala",
+   "type": "SC",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    12,
+    15
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of the name/town, but composition changed: added Mehta and Tarsikka KCs (absorbing old Beas) from Baba Bakala Tehsil.",
+   "extent": "KCs Mehta, Tarsikka of Baba Bakala Tehsil; Nawan Pind & Jandiala Guru (MCI) of Amritsar."
+  },
+  {
+   "ac_no": 15,
+   "name": "Amritsar North",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    16
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; wards renumbered under the new Amritsar-I/II Tehsil (Corporation) structure.",
+   "extent": "Ward Nos. 42 to 44, 47, 48 to 50 & 52 to 55 in Amritsar (M Corp.) & outgrowths incl. Gumtala Colony (Ward 67), Mata Kamla Devi Avenue (69), Chand Avenue (70), Mohan Avenue (71), Preet Nagar (72), Daya Nand Nagar (73), Baba Deep Singh Nagar (74), Dashmesh Avenue (75), Naushera Khurd (76), Parti Vihar (77), Ek Rup Avenue (78), Abadi Naushera (79), Silver Estate (80), Krishna Lane (81) in Amritsar (M Corp+OG) of Amritsar-II Tehsil & Ward No. 45 in Amritsar (M Corp.) of Amritsar-I Tehsil."
+  },
+  {
+   "ac_no": 16,
+   "name": "Amritsar West",
+   "type": "SC",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    17
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity of core area; the seat is newly SC-reserved.",
+   "extent": "Amritsar Cantt. (CB), Ward Nos. 31, 32, 40, 41 in Amritsar (M Corp.) of Amritsar-I & II Tehsil & Ward Nos. 33 to 39 in Amritsar (M Corp.), plus outgrowths along Ram Tirath Road and Ajnala Road (Wards 61–66, 68, 89, 90) in Amritsar (M Corp+OG) of Amritsar-II Tehsil."
+  },
+  {
+   "ac_no": 17,
+   "name": "Amritsar Central",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    18
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; wards renumbered.",
+   "extent": "Ward Nos. 1 to 8, 26 to 29 in Amritsar (M Corp.) & KC Amritsar-I of Amritsar-I Tehsil; Ward Nos. 25, 30, Village Kuriwal (Ward 87), Thandewala (Ward 88) in Amritsar (M Corp+OG) of Amritsar-I & II Tehsil."
+  },
+  {
+   "ac_no": 18,
+   "name": "Amritsar East",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "new",
+   "src": [
+    19
+   ],
+   "sc_note": "",
+   "note": "A newly created city seat, carved from ward fragments of old Amritsar South/West as the city grew.",
+   "extent": "Ward Nos. 14 to 17, 46, 60 in Amritsar (M Corp.) of Amritsar-I Tehsil & Ward Nos. 51, 56, 58, 59 in Amritsar (M Corp.) of Amritsar-II Tehsil & Ward No. 57, Village Mudhal (Ward 82) in Amritsar (M Corp+OG) of Amritsar-I & II Tehsil."
+  },
+  {
+   "ac_no": 19,
+   "name": "Amritsar South",
+   "type": "GEN",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    19
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of the remaining ward range after Amritsar East was carved out.",
+   "extent": "Ward Nos. 9 to 13, 18 to 24 in Amritsar (M Corp.) of Amritsar-I Tehsil & Factories on right side of Doburjee G.T. Road (Ward 84), Abadi Khalsa Nagar near Kot Mit Singh (Ward 85) in Amritsar (M Corp+OG) of Amritsar-II Tehsil."
+  },
+  {
+   "ac_no": 20,
+   "name": "Attari",
+   "type": "SC",
+   "district": "Amritsar",
+   "status": "continuing",
+   "src": [
+    14,
+    22
+   ],
+   "sc_note": "",
+   "note": "Attari KC carries over; absorbed old Verka (SC) — the SC reservation effectively shifted from Verka to Attari. Gained urban KCs (Amritsar-II, Khasa, Verka, Wadala Bhittewad, Chabba).",
+   "extent": "KCs Amritsar-II, Attari, Khasa (excluding OG Gumanpura of PC Gumanpura), Verka (excluding OG Mudhal of PC Mudhal), Wadala Bhittewad (excluding OG Thandewala of PC Khapar Kheri) & Chabba of Amritsar-II Tehsil."
+  },
+  {
+   "ac_no": 21,
+   "name": "Tarn Taran",
+   "type": "GEN",
+   "district": "Tarn Taran",
+   "status": "continuing",
+   "src": [
+    23
+   ],
+   "sc_note": "",
+   "note": "Tarn Taran KC carries over directly; gained Jhabal Kalan, Sohal Thathi, Gaggo Bua.",
+   "extent": "KCs Tarn Taran, Jhabal Kalan, Sohal Thathi, Gaggo Bua & Tarn-Taran (MCI) of Tarn Taran Tehsil."
+  },
+  {
+   "ac_no": 22,
+   "name": "Khem Karan",
+   "type": "GEN",
+   "district": "Tarn Taran",
+   "status": "new",
+   "src": [
+    27
+   ],
+   "sc_note": "",
+   "note": "New seat name; old Valtoha's KC is explicitly listed here, plus Gharyala-KC fragments from old Patti's belt.",
+   "extent": "PCs Gharyala-1 to 3, Maneke Jand, Warnala, Talwandi Sobha Singh, Gajjal, Jodh Singhwala of Gharyala KC; KCs Valtoha, Khem Karan, Algon, Mari Megha, Bhikhiwind, Dialpura & Khemkaran (NP) of Patti Tehsil."
+  },
+  {
+   "ac_no": 23,
+   "name": "Patti",
+   "type": "GEN",
+   "district": "Tarn Taran",
+   "status": "continuing",
+   "src": [
+    25,
+    26
+   ],
+   "sc_note": "",
+   "note": "Patti KC carries over directly; expanded using Naushahra Panwan and Gharyala fragments.",
+   "extent": "PCs Barwala, Dhariwal of Gharyala KC; KCs Patti, Kot Budha, Sabhra & Patti (MCI) of Patti Tehsil; KCs Naushehra Pannuan & Sarhali of Tarn Taran Tehsil."
+  },
+  {
+   "ac_no": 24,
+   "name": "Khadoor Sahib",
+   "type": "GEN",
+   "district": "Tarn Taran",
+   "status": "continuing",
+   "src": [
+    24
+   ],
+   "sc_note": "Lost SC reservation (moved to Baba Bakala).",
+   "note": "Only 3 PCs of the old Khadoor Sahib KC remained here; the seat is no longer SC-reserved — the reservation moved to the new Baba Bakala.",
+   "extent": "KCs Pandori Gola, Jeobala, Chohla Sahib of Tarn Taran Tehsil; PCs Khadoor Sahib, Banian, Jahan Gir of Khadoor Sahib KC; KCs Fatehabad & Goindwal Sahib of Khadoor Sahib Tehsil."
+  },
+  {
+   "ac_no": 25,
+   "name": "Baba Bakala",
+   "type": "SC",
+   "district": "Amritsar",
+   "status": "new",
+   "src": [
+    24
+   ],
+   "sc_note": "Inherited the SC reservation from old Khadoor Sahib (SC).",
+   "note": "Newly created seat: the bulk of old Khadoor Sahib KC's villages moved here, and it now carries the SC reservation instead.",
+   "extent": "PCs Sangar Kalan, Mian Wind, Verowal, Bhut Wind, Jawandpur, Kiri Shahi, Biharipur of Khadoor Sahib KC; KC Chak Kare Khan of Khadoor Sahib Tehsil; KCs Sathiala, Khalchian, Baba Bakala & Rayya (NP) of Baba Bakala Tehsil."
+  },
+  {
+   "ac_no": 26,
+   "name": "Bholath",
+   "type": "GEN",
+   "district": "Kapurthala",
+   "status": "continuing",
+   "src": [
+    40
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; the same tehsil-based seat.",
+   "extent": "Bholath Tehsil; KCs Dhilwan, Ramidi; PC Jati Ke of Fathu Dhinga KC & Dhilwan (NP) of Kapurthala Tehsil."
+  },
+  {
+   "ac_no": 27,
+   "name": "Kapurthala",
+   "type": "GEN",
+   "district": "Kapurthala",
+   "status": "continuing",
+   "src": [
+    41
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Kapurthala KC and town core carry over.",
+   "extent": "KCs Kapurthala, Baler Khanpur; PCs Nawan Pind, Ghug, Khukhrain, Saidowal of Khalu KC; PCs Thigli, Nidhoki, Sidhwan Dona, Kaso Chahhal, Bhano Langa of Hussainpur KC & Kapurthala (MCI) of Kapurthala Tehsil."
+  },
+  {
+   "ac_no": 28,
+   "name": "Sultanpur Lodhi",
+   "type": "GEN",
+   "district": "Kapurthala",
+   "status": "renamed",
+   "src": [
+    42
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with old Sultanpur; the name slightly expanded, same tehsil base.",
+   "extent": "Sultanpur Lodhi Tehsil; PCs Khera Dona, Karahal Nao Abad, Isharwal, Saido Bhulana, Shahpur Dogra of Hussainpur KC; PCs Khalu, Khiran Wali, Sandhar Jagir, Parvej Nagar, Bhawanipur, Dhudianwala, Dabulian of Khalu KC; PCs Fathu Dhinga, Buh, Desal, Khera Bet, Tarkhanawali, Saiflabad, Surakhpur, Ucha & Mehmadwal of Fathu Dhinga KC of Kapurthala Tehsil."
+  },
+  {
+   "ac_no": 29,
+   "name": "Phagwara",
+   "type": "SC",
+   "district": "Kapurthala",
+   "status": "continuing",
+   "src": [
+    43
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; the same tehsil-based seat, SC status retained.",
+   "extent": "KCs Phagwara, Ranipur, Rihana Jattan & Phagwara (MCI+OG) of Phagwara Tehsil."
+  },
+  {
+   "ac_no": 30,
+   "name": "Phillaur",
+   "type": "SC",
+   "district": "Jalandhar",
+   "status": "continuing",
+   "src": [
+    39
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Phillaur KC and SC status both carry over.",
+   "extent": "KCs Phillaur, Lasara, Apra, Gorayan, Rurka Kalan, Bara Pind, Partap Pura, Gorayan (NP) & Phillaur (MCI) of Phillaur Tehsil."
+  },
+  {
+   "ac_no": 31,
+   "name": "Nakodar",
+   "type": "GEN",
+   "district": "Jalandhar",
+   "status": "continuing",
+   "src": [
+    34,
+    35,
+    36
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Nakodar KC carries over. Expanded with Bilga, Nurmahal, Talwan KCs (from old Nur Mahal) and old Lohian's Uggi fragment.",
+   "extent": "PCs Mahem, Bir Pind, Allowal, Nakodar-1,2,3, Sidhwan of Nakodar KC; KCs Sarih, Gohir, Uggi, Gill, Nakodar (MCI) of Nakodar Tehsil; KCs Bilga, Nurmahal, Talwan & Nurmahal (MCI) of Phillaur Tehsil."
+  },
+  {
+   "ac_no": 32,
+   "name": "Shahkot",
+   "type": "GEN",
+   "district": "Jalandhar",
+   "status": "new",
+   "src": [
+    34,
+    36
+   ],
+   "sc_note": "",
+   "note": "New seat name; old Lohian and Shahkot KCs absorbed here, plus old Nur Mahal's Mehatpur portion.",
+   "extent": "Shahkot Tehsil; PCs Aulak, Maheru, Pandori Khas of Nakodar KC; KCs Mehatpur & Umrewal Billa of Nakodar Tehsil."
+  },
+  {
+   "ac_no": 33,
+   "name": "Kartarpur",
+   "type": "SC",
+   "district": "Jalandhar",
+   "status": "continuing",
+   "src": [
+    33
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Kartarpur KC and SC status both carry over.",
+   "extent": "PC Sheikhe Pind of Jalandhar KC of Jalandhar-I Tehsil; KCs Reru, Wariyana, Lambra, Naugajja, Kartarpur, Kahlwan, Pachranga, Kartarpur (MCI) & Bidipur on Amritsar Road (OG) Ward No. 56 of Jalandhar-II Tehsil."
+  },
+  {
+   "ac_no": 34,
+   "name": "Jalandhar West",
+   "type": "SC",
+   "district": "Jalandhar",
+   "status": "new",
+   "src": [
+    32
+   ],
+   "sc_note": "Inherited the SC reservation from the dissolved Jullundur South (SC).",
+   "note": "Newly created seat; the SC reservation of old Jullundur South (SC) shifted onto it.",
+   "extent": "Ward Nos. 18 to 21, 33 to 35, 37 to 39 & 41 to 44 in Jalandhar (M Corp.) of Jalandhar-I Tehsil."
+  },
+  {
+   "ac_no": 35,
+   "name": "Jalandhar Central",
+   "type": "GEN",
+   "district": "Jalandhar",
+   "status": "renamed",
+   "src": [
+    31
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with old Jullundur Central (spelling modernized); core urban wards.",
+   "extent": "Ward Nos. 22 to 32, 40 & 48 to 53 in Jalandhar (M Corp.) of Jalandhar-I Tehsil."
+  },
+  {
+   "ac_no": 36,
+   "name": "Jalandhar North",
+   "type": "GEN",
+   "district": "Jalandhar",
+   "status": "renamed",
+   "src": [
+    30
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with old Jullundur North (spelling modernized); core urban wards.",
+   "extent": "Ward Nos. 1 to 17 in Jalandhar (M Corp.) of Jalandhar-I Tehsil."
+  },
+  {
+   "ac_no": 37,
+   "name": "Jalandhar Cantt.",
+   "type": "GEN",
+   "district": "Jalandhar",
+   "status": "renamed",
+   "src": [
+    29,
+    32
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with old Jullundur Cantonment; Jamsher KC carries over, plus the Pholriwala/Khambra fringe of old Jullundur South.",
+   "extent": "KCs Jamsher, Pholriwala, Sansarpur (CT) Ward No. 1, Jalandhar Cantt. (CB), Ward Nos. 36, 45 to 47, 54 & 55 in Jalandhar (M Corp.) & Khambra on Nakodar Road (Ward 57), Alipur adjacent to Village Mithapur (Ward 58), Nangal Kararkhan (Ward 59) in Jalandhar (M Corp+OG) of Jalandhar-I Tehsil & KC Jandiala of Phillaur Tehsil."
+  },
+  {
+   "ac_no": 38,
+   "name": "Adampur",
+   "type": "SC",
+   "district": "Jalandhar",
+   "status": "continuing",
+   "src": [
+    28
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity; Adampur and Bhogpur KCs both carry over; the seat is now SC-reserved.",
+   "extent": "KCs Bhogpur, Nangal Fida, Bhogpur (NP) of Jalandhar-II Tehsil; KCs Patara, Alawalpur, Adampur, Kalra, Adampur (MCI) & Alawalpur (MCI) of Jalandhar-I Tehsil."
+  },
+  {
+   "ac_no": 39,
+   "name": "Mukerian",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "src": [
+    52
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Mukerian KC carries over, expanded with Talwara KC fragments.",
+   "extent": "PC Namoli of Datarpur KC; KCs Mukerian, Aiman Mangat, Hajipur, Hardokhundpur, Bhangala; PCs Shri Pandian, Gera, Bhera, Sariana, Bella Sariana of Talwara KC & Mukerian (MCI) of Mukerian Tehsil."
+  },
+  {
+   "ac_no": 40,
+   "name": "Dasuya",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "src": [
+    51
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Dasuya KC carries over, expanded with Datarpur/Talwara KC fragments.",
+   "extent": "KCs Dasuya, Passi Kandi, Unchi Bassi, Safdarpur, Dasuya (MCI) of Dasuya Tehsil; PCs Rakri Urf Datarpur, Swar, Depur, Jugial, Niku Chak, Beh Fatto, Beh Khushala, Labbar, Baring Beh Nangal, Beh Lakhan of Datarpur KC; PCs Talwara, Baringli, Bhol Kalota, Alera, Dharmpur, Bhambotar, Bhavnaur of Talwara KC of Mukerian Tehsil."
+  },
+  {
+   "ac_no": 41,
+   "name": "Urmar",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "new",
+   "src": [
+    49,
+    50
+   ],
+   "sc_note": "Old Garhdiwala's SC reservation was not carried forward; Urmar is unreserved.",
+   "note": "A genuinely new constituency created by merging two dissolved old seats (Tanda + Garhdiwala (SC)) rather than being a renaming of either one.",
+   "extent": "KCs Garhdiwala, Bhanowal, Ambala Jattan, Urmar, Khudda, Tanda, Miani, Gardhiwala (MCI) & Tanda Urmar (MCI) of Dasuya Tehsil."
+  },
+  {
+   "ac_no": 42,
+   "name": "Sham Chaurasi",
+   "type": "SC",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "src": [
+    48
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Sham Chaurasi KC and SC status both carry over.",
+   "extent": "PCs Naloyian, Kakkon, Bagpur, Kantian, Bhikhowal, Bhagowal of Hoshiarpur KC; PCs Hardo Khanpur, Sataur, Gobindpur Khun Khun of Premgarh KC; KCs Nanda Chaur, Bullowal, Sham Chaurasi, Nasrala, Bhunga, Khadiala Sainian, Janouri, Hariana, Hariana (MCI) & Sham Chaurasi (MCI) of Hoshiarpur Tehsil."
+  },
+  {
+   "ac_no": 43,
+   "name": "Hoshiarpur",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "src": [
+    47
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Hoshiarpur KC and town core carry over.",
+   "extent": "PCs Bahadurpur, Kotla Gaunspur, Admowal, Chohal of Hoshiarpur KC; PCs Shergarh, Chhauni Kalan, Bilaspur of Premgarh KC; KC Jahan Khelan & Hoshiarpur (MCI) of Hoshiarpur Tehsil."
+  },
+  {
+   "ac_no": 44,
+   "name": "Chabbewal",
+   "type": "SC",
+   "district": "Hoshiarpur",
+   "status": "new",
+   "src": [
+    46
+   ],
+   "sc_note": "Inherited the SC reservation from the dissolved Mahilpur (SC).",
+   "note": "New seat; old Mahilpur (SC)'s Sarhala Kalan KC is named here, and the SC reservation was transplanted onto it.",
+   "extent": "KCs Kot Fatuhi, Sarhala Kalan, Rampur, Bahowal of Garhshankar Tehsil; KCs Chabbewal, Ahrana Kalan & Attowal of Hoshiarpur Tehsil."
+  },
+  {
+   "ac_no": 45,
+   "name": "Garhshankar",
+   "type": "GEN",
+   "district": "Hoshiarpur",
+   "status": "continuing",
+   "src": [
+    45,
+    46
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; also absorbs old Mahilpur (SC)'s core (Mahilpur KC named explicitly).",
+   "extent": "KCs Garhshankar, Binewal, Samundra, Satnaur, Saila Khurd, Mahilpur, Mahilpur (NP) & Garhshankar (MCI) of Garhshankar Tehsil."
+  },
+  {
+   "ac_no": 46,
+   "name": "Banga",
+   "type": "SC",
+   "district": "Nawan Shahr",
+   "status": "continuing",
+   "src": [
+    37
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of name, territory and SC status; only the parent district changed.",
+   "extent": "PCs Bakhlaur, Shekhupur, Aur, Garupar, Garhi Ajit Singh of Aur KC; KCs Behram, Jandiala, Banga, Mukandpur, Sahlon & Banga (MCI) of Nawan Shahr Tehsil."
+  },
+  {
+   "ac_no": 47,
+   "name": "Nawan Shahr",
+   "type": "GEN",
+   "district": "Nawan Shahr",
+   "status": "continuing",
+   "src": [
+    38
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; the same tehsil-based seat, now anchoring its own district.",
+   "extent": "PCs Chak Dana, Urapur, Buri Tehal Dass, Phambra of Aur KC; KCs Kahma, Nawan Shahr, Bharta Kalan, Rahon, Langroya, Bahiloor Kalan, Jadla, Nawan Shahr (MCI+OG) & Rahon (MCI) of Nawan Shahr Tehsil."
+  },
+  {
+   "ac_no": 48,
+   "name": "Balachaur",
+   "type": "GEN",
+   "district": "Nawan Shahr",
+   "status": "continuing",
+   "src": [
+    44
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of the tehsil-based seat; only the parent district changed.",
+   "extent": "Balachaur Tehsil."
+  },
+  {
+   "ac_no": 49,
+   "name": "Anandpur Sahib",
+   "type": "GEN",
+   "district": "Rupnagar",
+   "status": "renamed",
+   "src": [
+    65
+   ],
+   "sc_note": "",
+   "note": "Successor to old Nangal — the new seat's KC list explicitly includes Nangal and Naya Nangal, plus the Anandpur Sahib core.",
+   "extent": "KCs Anandpur Sahib, Nangal, Naya Nangal, Nangal MC, Anandpur Sahib MC of Anandpur Sahib Tehsil; PCs Bari Jhakhian, Bara Pind, Bharatgarh, Nangal Sarsa, Awankot of Ghanauli KC of Rupnagar Tehsil."
+  },
+  {
+   "ac_no": 50,
+   "name": "Rupnagar",
+   "type": "GEN",
+   "district": "Rupnagar",
+   "status": "renamed",
+   "src": [
+    66
+   ],
+   "sc_note": "",
+   "note": "Ropar town renamed Rupnagar; old Anandpur Sahib-Ropar's Nurpur Bedi and Ghanauli fragments are both explicitly named here.",
+   "extent": "PCs Ghaunali, Ghaunala, Dhangoli, Daburji of Ghanauli KC; KCs Rupnagar, Mianpur & Rupnagar MC of Rupnagar Tehsil; KCs Dumewal, Nurpur Bedi & Takhatgarh of Anandpur Sahib Tehsil."
+  },
+  {
+   "ac_no": 51,
+   "name": "Chamkaur Sahib",
+   "type": "SC",
+   "district": "Rupnagar",
+   "status": "continuing",
+   "src": [
+    67,
+    68
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of name and SC status; also absorbed old Morinda's core KCs (Morinda, Ban Majra, Morinda MC).",
+   "extent": "KCs Singh, Bela, Behram Pur Bet, Chamkaur Sahib, Lutheri, Morinda, Ban Majra, Morinda MC of Rupnagar Tehsil & KC Gharuan of Kharar Tehsil."
+  },
+  {
+   "ac_no": 52,
+   "name": "Kharar",
+   "type": "GEN",
+   "district": "S.A.S. Nagar (Mohali)",
+   "status": "continuing",
+   "src": [
+    68,
+    69
+   ],
+   "sc_note": "",
+   "note": "Old Kharar KC is explicitly named here; also gained old Morinda's Mullanpur/Kurali fragment.",
+   "extent": "KCs Khizarabad, Majri, Mullanpur Garib Dass, Kurali, Kharar, Kurali (MCI) & Kharar (MCI) of Kharar Tehsil."
+  },
+  {
+   "ac_no": 53,
+   "name": "S.A.S. Nagar",
+   "type": "GEN",
+   "district": "S.A.S. Nagar (Mohali)",
+   "status": "new",
+   "src": [
+    69
+   ],
+   "sc_note": "",
+   "note": "Essentially a brand-new unit carved out of old Kharar tehsil, reflecting Mohali's growth into its own district/urban centre.",
+   "extent": "S.A.S. Nagar (Mohali) Tehsil."
+  },
+  {
+   "ac_no": 54,
+   "name": "Bassi Pathana",
+   "type": "SC",
+   "district": "Fatehgarh Sahib",
+   "status": "new",
+   "src": [
+    63
+   ],
+   "sc_note": "Newly SC-reserved seat.",
+   "note": "A genuinely new creation stitched from Fatehgarh Sahib-tehsil fragments plus Khamanon tehsil — which previously belonged to old Samrala under old Ludhiana district. One new seat drawing from two entirely different old districts.",
+   "extent": "Bassi Pathana Tehsil & Khamanon Tehsil."
+  },
+  {
+   "ac_no": 55,
+   "name": "Fatehgarh Sahib",
+   "type": "GEN",
+   "district": "Fatehgarh Sahib",
+   "status": "renamed",
+   "src": [
+    79
+   ],
+   "sc_note": "",
+   "note": "Old Sirhind renamed to reflect the district's new headquarters town; same tehsil base.",
+   "extent": "Fatehgarh Sahib Tehsil."
+  },
+  {
+   "ac_no": 56,
+   "name": "Amloh",
+   "type": "GEN",
+   "district": "Fatehgarh Sahib",
+   "status": "continuing",
+   "src": [
+    78
+   ],
+   "sc_note": "Lost its SC reservation.",
+   "note": "Direct continuity of name and tehsil, but lost the SC reservation; moved into the new Fatehgarh Sahib district.",
+   "extent": "Amloh Tehsil."
+  },
+  {
+   "ac_no": 57,
+   "name": "Khanna",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    64
+   ],
+   "sc_note": "Lost its SC reservation.",
+   "note": "Direct continuity of name and tehsil; lost its SC reservation.",
+   "extent": "Khanna Tehsil."
+  },
+  {
+   "ac_no": 58,
+   "name": "Samrala",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    63
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; the same tehsil-based seat (minus the Khamanon portion, which went to Bassi Pathana).",
+   "extent": "Samrala Tehsil."
+  },
+  {
+   "ac_no": 59,
+   "name": "Sahnewal",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "new",
+   "src": [
+    60,
+    62
+   ],
+   "sc_note": "",
+   "note": "Newly created seat; old Kum Kalan (SC)'s Koom Kalan KC is explicitly named here, but the seat is unreserved.",
+   "extent": "KCs Ludhiana, Mangat, Mattewara, Koom Kalan, Sahnewal Kalan, Sahnewal (NP) & Ward Nos. 14 & 16 of Ludhiana (M Corp.) of Ludhiana East Tehsil."
+  },
+  {
+   "ac_no": 60,
+   "name": "Ludhiana East",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    59
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of name; wards fully renumbered under the Ludhiana East Tehsil / Municipal Corporation system.",
+   "extent": "Ward Nos. 6 to 13, 15 & 17 in Ludhiana (M Corp.) of Ludhiana East Tehsil."
+  },
+  {
+   "ac_no": 61,
+   "name": "Ludhiana South",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "new",
+   "src": [
+    60
+   ],
+   "sc_note": "",
+   "note": "One of the new city seats carved from old Ludhiana Rural's territory plus city growth.",
+   "extent": "Ward Nos. 18 to 24, 29 & 31 in Ludhiana (M Corp.) of Ludhiana East Tehsil."
+  },
+  {
+   "ac_no": 62,
+   "name": "Atam Nagar",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "new",
+   "src": [
+    60
+   ],
+   "sc_note": "",
+   "note": "A brand-new city seat; did not exist before 2008.",
+   "extent": "Ward Nos. 25 to 28, 30, 32 to 36 & 40 in Ludhiana (M Corp.) of Ludhiana East Tehsil."
+  },
+  {
+   "ac_no": 63,
+   "name": "Ludhiana Central",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "new",
+   "src": [
+    60
+   ],
+   "sc_note": "",
+   "note": "New city seat: Ludhiana expanded from 4 to 7 seats, reflecting urban population growth.",
+   "extent": "Ward Nos. 50 to 63 in Ludhiana (M Corp.) of Ludhiana East Tehsil."
+  },
+  {
+   "ac_no": 64,
+   "name": "Ludhiana West",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    58
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of name; wards renumbered.",
+   "extent": "Ward Nos. 1, 37 to 39 & 41 to 48 in Ludhiana (M Corp.) of Ludhiana East Tehsil."
+  },
+  {
+   "ac_no": 65,
+   "name": "Ludhiana North",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    57
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of name; wards renumbered.",
+   "extent": "Ward Nos. 2 to 5, 49 & 64 to 70 in Ludhiana (M Corp.) of Ludhiana East Tehsil."
+  },
+  {
+   "ac_no": 66,
+   "name": "Gill",
+   "type": "SC",
+   "district": "Ludhiana",
+   "status": "new",
+   "src": [
+    55
+   ],
+   "sc_note": "Inherited the SC reservation from old Dakha (SC).",
+   "note": "Newly created seat; old Dakha (SC)'s Gill KC fragment moved here, and it inherited the SC reservation.",
+   "extent": "KCs Ghawaddi, Dehlon of Ludhiana East Tehsil; KCs Gill, Sunet, Bagga Khurd, Ayali Khurd; PCs Narangwal, Mansuran, Lalton Kalan & Dolon Kalan of Jodhan KC of Ludhiana West Tehsil."
+  },
+  {
+   "ac_no": 67,
+   "name": "Payal",
+   "type": "SC",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    56,
+    61
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity of name and tehsil; now SC-reserved. Old Qila Raipur's territory likely sits within it (flagged in the source as inferred).",
+   "extent": "Payal Tehsil."
+  },
+  {
+   "ac_no": 68,
+   "name": "Dakha",
+   "type": "GEN",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    55
+   ],
+   "sc_note": "Lost its SC reservation (moved to Gill).",
+   "note": "Old Dakha's core (Dakha KC, Swaddi Khas KC) explicitly named here, but the seat lost SC status.",
+   "extent": "PCs Jodhan, Sahauli, Ballowal of Jodhan KC; KCs Gujarwal, Mohi, Dakha & Mullanpur Dakha (NP) of Ludhiana West Tehsil; KCs Swaddi Khas, Pabbian, Bhundri, Sidhwan Bet of Jagraon Tehsil."
+  },
+  {
+   "ac_no": 69,
+   "name": "Raikot",
+   "type": "SC",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    54
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity of name and core Raikot Tehsil territory; now SC-reserved.",
+   "extent": "Raikot Tehsil."
+  },
+  {
+   "ac_no": 70,
+   "name": "Jagraon",
+   "type": "SC",
+   "district": "Ludhiana",
+   "status": "continuing",
+   "src": [
+    53
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity; Jagraon and Manuke KCs both explicitly named; now SC-reserved.",
+   "extent": "KCs Kaunke, Manuke, Malak, Lodhiwala, Jagraon, Akhara & Jagraon (MC) of Jagraon Tehsil."
+  },
+  {
+   "ac_no": 71,
+   "name": "Nihal Singhwala",
+   "type": "SC",
+   "district": "Moga",
+   "status": "continuing",
+   "src": [
+    99,
+    100,
+    101
+   ],
+   "sc_note": "",
+   "note": "The one clean continuity case in this belt: full KC/PC carryover, SC status preserved.",
+   "extent": "Nihal Singhwala Tehsil; KCs Ajit Wal, Buttar Kalan of Moga Tehsil."
+  },
+  {
+   "ac_no": 72,
+   "name": "Bhagha Purana",
+   "type": "GEN",
+   "district": "Moga",
+   "status": "continuing",
+   "src": [
+    100
+   ],
+   "sc_note": "",
+   "note": "Direct continuity as a tehsil-based seat; draws from both old Bagha Purana and old Moga.",
+   "extent": "Bhagha Purana Tehsil."
+  },
+  {
+   "ac_no": 73,
+   "name": "Moga",
+   "type": "GEN",
+   "district": "Moga",
+   "status": "continuing",
+   "src": [
+    99
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of the town core; the new Moga and new Bhagha Purana both draw from old Moga and old Bagha Purana.",
+   "extent": "KCs Khukhrana, Ghal Kalan, Moga Jit Singh & Moga (MCI+OG) of Moga Tehsil."
+  },
+  {
+   "ac_no": 74,
+   "name": "Dharamkot",
+   "type": "GEN",
+   "district": "Moga",
+   "status": "continuing",
+   "src": [
+    97,
+    98,
+    99
+   ],
+   "sc_note": "Lost its SC reservation.",
+   "note": "The standout reshuffle: built from fragments of old Dharamkot (SC) and old Moga, not a clean rename of either. Old Dharamkot's SC reservation was dropped.",
+   "extent": "KCs Moga Mehla Singh, Fatehgarh Panjtoor, Kot Ise Khan, Dharamkot, Kishan Pura Kalan & Dharamkot (MCI) of Moga Tehsil."
+  },
+  {
+   "ac_no": 75,
+   "name": "Zira",
+   "type": "GEN",
+   "district": "Firozpur",
+   "status": "continuing",
+   "src": [
+    97
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Zira Tehsil is the entirety of the new seat.",
+   "extent": "Zira Tehsil."
+  },
+  {
+   "ac_no": 76,
+   "name": "Firozpur City",
+   "type": "GEN",
+   "district": "Firozpur",
+   "status": "renamed",
+   "src": [
+    95
+   ],
+   "sc_note": "",
+   "note": "Old Ferozepur's municipality/KC core continues here; the seat as a whole is now split with Firozpur Rural.",
+   "extent": "PCs Arif Ke, Attari, Bandala, Dulla Singh Wala, Ilmewala, Katora, Maste Ke, Muthian Wala of Arif Ke KC; KC Firozpur City, Firozpur (MCI) & Firozpur Cantt. (CB) of Firozpur Tehsil."
+  },
+  {
+   "ac_no": 77,
+   "name": "Firozpur Rural",
+   "type": "SC",
+   "district": "Firozpur",
+   "status": "new",
+   "src": [
+    96
+   ],
+   "sc_note": "SC-reserved; the old Cantonment seat it absorbed was unreserved.",
+   "note": "Successor to old Ferozepur Cantonment (its KC is explicitly named here, along with KC Mamdot), but with reservation status changed to SC.",
+   "extent": "KCs Firozpur Cantt., Ferozeshah, Talwandi Bhai; PCs Changali Jadid, Mahalam of Arif Ke KC; PCs Bhabra Azam Shahwala, Bukan Khanwala, Dhira Pattra, Jhok Harihar, Mana Singhwala, Nurpur, Tut of Jhok Harihar KC; KC Mamdot & Talwandi Bhai (MCI) of Firozpur Tehsil."
+  },
+  {
+   "ac_no": 78,
+   "name": "Guru Har Sahai",
+   "type": "GEN",
+   "district": "Firozpur",
+   "status": "continuing",
+   "src": [
+    94
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Guru Har Sahai KC and Mahmu Joyian explicitly named.",
+   "extent": "KCs Guru Har Sahai, Mahmu Joyian, Jiwan Arian & Guru Har Sahai (MCI) of Jalalabad Tehsil; KC Lakho Ke Behram; PCs Burj Makhan Singh, Jhok Tahal Singh Wala, Mahima of Jhok Harihar KC of Firozpur Tehsil."
+  },
+  {
+   "ac_no": 79,
+   "name": "Jalalabad",
+   "type": "GEN",
+   "district": "Fazilka",
+   "status": "continuing",
+   "src": [
+    93
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; also absorbed fragments (Tahliwala Bodla, Arniwala Sheikh Subhan) that used to sit in old Balluana's KC list.",
+   "extent": "KCs Tahliwala Bodla, Arniwala Sheikh Subhan of Fazilka Tehsil; KCs Ghubaya, Jalalabad & Jalalabad (MCI+OG) of Jalalabad Tehsil."
+  },
+  {
+   "ac_no": 80,
+   "name": "Fazilka",
+   "type": "GEN",
+   "district": "Fazilka",
+   "status": "continuing",
+   "src": [
+    92
+   ],
+   "sc_note": "",
+   "note": "Direct continuity of the core town/KC.",
+   "extent": "KCs Fazilka, Tillan Wali, Theh Kalander & Fazilka (MCI) of Fazilka Tehsil."
+  },
+  {
+   "ac_no": 81,
+   "name": "Abohar",
+   "type": "GEN",
+   "district": "Fazilka",
+   "status": "continuing",
+   "src": [
+    90,
+    91
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Abohar municipality and Abohar (Rural)/Abohar Mandi explicitly named. Picked up PC Azimagarh from old Balluana's list.",
+   "extent": "KCs Kallar Khera, Khuian Sarwar, PC Azimagarh of Abohar Janubee KC; Abohar (MCI) & PC Abohar (Rural) (Abohar Mandi) of Abohar Samali KC of Abohar Tehsil."
+  },
+  {
+   "ac_no": 82,
+   "name": "Balluana",
+   "type": "SC",
+   "district": "Fazilka",
+   "status": "continuing",
+   "src": [
+    90
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; name and SC status both preserved.",
+   "extent": "KC Sito Guno, PCs Dode Wala, Amarpura, Bhagu, Dotaran Wali, Kala Tibba, Raipura, Rajpura, Ramsra & Rajanwali of KC Abohar Janubee; KC Rukan Pura, PCs Alamgarh, Basian, Dharampura, Kikar Khera, Saiyadwala, Ruherhianwali, Mandi Abohar of Abohar Samali KC; KC Balluana of Abohar Tahsil & KC Nihal Khera of Fazilka Tehsil."
+  },
+  {
+   "ac_no": 83,
+   "name": "Lambi",
+   "type": "GEN",
+   "district": "Muktsar",
+   "status": "continuing",
+   "src": [
+    108
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; KCs Killianwali/Lambi and the remaining Malout-KC PCs (Alamwala, Bhagwan Pura) explicitly named.",
+   "extent": "KCs Killianwali & Lambi and PCs Midda, Mohlan, Raniwala, Bodiwala Kharak Singh, Sarawan Bodla, Katianwali, Kabarwala of Bodiwala Kharak Singh KC of Tehsil Malout; PCs Alamwala, Bhagwan Pura of Malout KC; PCs Burajsidhwan, Shamkot, Mahni Khera, Khema Khera, Dabwali Rahurianwali, Kolianwali of Danewala KC of Malout Tehsil; PCs Tharajwala & Lalbai of KC Gidderbaha of Tehsil Gidderbaha."
+  },
+  {
+   "ac_no": 84,
+   "name": "Gidderbaha",
+   "type": "GEN",
+   "district": "Muktsar",
+   "status": "continuing",
+   "src": [
+    106
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; MC/KC Gidderbaha explicitly named.",
+   "extent": "MC Gidderbaha; KCs Doda, Bhaliana; PCs Giljewala, Khunan Khurd, Chhatteana, Gidderbaha 1 & 2, Husnar, Gurusar, Badian, Bhundar of Gidderbaha KC of Gidderbaha Tehsil; PCs Harike Kalan 1 & 2 of KC Thande Wala of Muktsar Tehsil."
+  },
+  {
+   "ac_no": 85,
+   "name": "Malout",
+   "type": "SC",
+   "district": "Muktsar",
+   "status": "continuing",
+   "src": [
+    105,
+    107
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; SC status preserved. Also picked up KC Lakhewali and PCs from old Muktsar's excluded list.",
+   "extent": "KC Lakhewali, PCs Rupana, Bhangchari, Tamkot, Sotha & Mehrajwala of KC Thandewala of Muktsar Tehsil; Malout (MCI), PCs Aulakh, Jhurar, Ena Khera, Lakkarwala, Malout, Bhulleriana of Malout KC; PCs Abul Khurana, Danewala & Jandwala Charhat Singh of KC Danewala; PCs Baam, Urang of Bodiwala Kharak Singh KC of Malout Tehsil; PCs Theri-1 & 2 of Gidderbaha KC of Gidderbaha Tehsil."
+  },
+  {
+   "ac_no": 86,
+   "name": "Muktsar",
+   "type": "GEN",
+   "district": "Muktsar",
+   "status": "continuing",
+   "src": [
+    105
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; KC/MC Muktsar and PCs Sarainaga, Warring, Thandewala, Bhullar explicitly named.",
+   "extent": "KCs Gulabewala, Bariwala & Muktsar, Bariwala NP & Muktsar MC & PCs Sarainaga, Warring, Thandewala & Bhullar of Thandewala KC of Muktsar Tehsil."
+  },
+  {
+   "ac_no": 87,
+   "name": "Faridkot",
+   "type": "GEN",
+   "district": "Faridkot",
+   "status": "continuing",
+   "src": [
+    104
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; constituency retained with revised boundaries.",
+   "extent": "KCs Faridkot, Sadiq, Golewala & Faridkot (MCI) of Faridkot Tehsil."
+  },
+  {
+   "ac_no": 88,
+   "name": "Kotkapura",
+   "type": "GEN",
+   "district": "Faridkot",
+   "status": "continuing",
+   "src": [
+    103
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; constituency retained with revised boundaries (its Jaitu piece split off).",
+   "extent": "KCs Kotkapura, Sandhwan & Kotkapura (MCI) of Faridkot Tehsil."
+  },
+  {
+   "ac_no": 89,
+   "name": "Jaitu",
+   "type": "SC",
+   "district": "Faridkot",
+   "status": "new",
+   "src": [
+    102,
+    103
+   ],
+   "sc_note": "SC-reserved; absorbed the abolished Panjgrain (SC), whose reservation it carries forward.",
+   "note": "New seat name: Jaitu Tehsil (from old Kot Kapura) forms its core, and most of the former Panjgrain (SC) was merged into it.",
+   "extent": "Jaitu Tehsil & KC Panjgrain Kalan of Faridkot Tehsil."
+  },
+  {
+   "ac_no": 90,
+   "name": "Rampura Phul",
+   "type": "GEN",
+   "district": "Bathinda",
+   "status": "continuing",
+   "src": [
+    113
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; constituency retained with revised boundaries.",
+   "extent": "KCs Bhagta, Bhai Rupa, Phul & Rampura Phul (MCI+OG) of Rampura Phul Tehsil."
+  },
+  {
+   "ac_no": 91,
+   "name": "Bhucho Mandi",
+   "type": "SC",
+   "district": "Bathinda",
+   "status": "new",
+   "src": [
+    110,
+    112
+   ],
+   "sc_note": "Newly SC-reserved (replacing Pakka Kalan as the district's SC seat).",
+   "note": "Replaced Pakka Kalan in the 2008 order; also absorbed old Nathana (SC)'s KC. SC reservation newly added at this seat.",
+   "extent": "PCs Ablu-I & Ablu-II, Mehma Bhagwana, Sivian of Balluana KC; KCs Bhucho Mandi, Nathana, Nehianwala, Goniana (MCI) & Bhucho Mandi (MCI) of Bathinda Tehsil."
+  },
+  {
+   "ac_no": 92,
+   "name": "Bathinda Urban",
+   "type": "GEN",
+   "district": "Bathinda",
+   "status": "new",
+   "src": [
+    111
+   ],
+   "sc_note": "",
+   "note": "Old undivided Bhatinda was split along urban/rural lines; this seat covers the Bathinda Municipal Corporation area.",
+   "extent": "Bathinda (MCI) of Bathinda Tehsil."
+  },
+  {
+   "ac_no": 93,
+   "name": "Bathinda Rural",
+   "type": "SC",
+   "district": "Bathinda",
+   "status": "new",
+   "src": [
+    111
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "The rural half of the old undivided Bhatinda seat; SC-reserved.",
+   "extent": "PCs Balluana, Bahiman Diwana, Burj Mehma, Chughe Khurd, Deon, Virk Kalan of Balluana KC; KCs Bathinda, Ghudda, Sangat Kalan, Bhisiana (CT), Sangat (MCI) & Kot Fatta (MCI) of Bathinda Tehsil."
+  },
+  {
+   "ac_no": 94,
+   "name": "Talwandi Sabo",
+   "type": "GEN",
+   "district": "Bathinda",
+   "status": "continuing",
+   "src": [
+    109
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; constituency retained with revised boundaries.",
+   "extent": "KCs Raman, Singo, Talwandi Sabo & Raman (MCI) of Talwandi Sabo Tehsil."
+  },
+  {
+   "ac_no": 95,
+   "name": "Maur",
+   "type": "GEN",
+   "district": "Bathinda",
+   "status": "new",
+   "src": [
+    114
+   ],
+   "sc_note": "",
+   "note": "Replaced Joga as the constituency name covering this tehsil in the 2008 order.",
+   "extent": "KC Maur Kalan & Maur (MCI) of Talwandi Sabo Tehsil; KCs Balian Wali & Rampura of Rampura Phul Tehsil."
+  },
+  {
+   "ac_no": 96,
+   "name": "Mansa",
+   "type": "GEN",
+   "district": "Mansa",
+   "status": "continuing",
+   "src": [
+    115
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; constituency retained with revised boundaries.",
+   "extent": "PCs Malikpur, Mansa Khurd of Mansa Kalan KC; KCs Phaphre Bhaike, Bhikhi, Joga, Bhaini Bagha, Bhikhi (NP) & Mansa (MCI) of Mansa Tehsil."
+  },
+  {
+   "ac_no": 97,
+   "name": "Sardulgarh",
+   "type": "GEN",
+   "district": "Mansa",
+   "status": "continuing",
+   "src": [
+    117
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; constituency retained with revised boundaries.",
+   "extent": "Sardulgarh Tehsil; PCs Ghrangne, Moosa, Khokhar Kalan, Jawaharke, Nangal Kalan, Nangal Khurd, Behniwal, Dhingar, Daliewali, Makha, Bananwala, Kotdharmu of Mansa Kalan KC of Mansa Tehsil."
+  },
+  {
+   "ac_no": 98,
+   "name": "Budhlada",
+   "type": "SC",
+   "district": "Mansa",
+   "status": "continuing",
+   "src": [
+    116
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity; SC reservation added, boundaries revised only slightly.",
+   "extent": "Budhlada Tehsil."
+  },
+  {
+   "ac_no": 99,
+   "name": "Lehra",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "src": [
+    88,
+    89
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; Moonak Tehsil (old Lehra's core) forms the seat.",
+   "extent": "Moonak Tehsil."
+  },
+  {
+   "ac_no": 100,
+   "name": "Dirba",
+   "type": "SC",
+   "district": "Sangrur",
+   "status": "continuing",
+   "src": [
+    87
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Old unreserved Dirbha's core resurfaces as the newly SC-reserved Dirba (SC).",
+   "extent": "PCs Hambal Was, Jakhepal Was, Satoj, Ugrahan of Sunam KC; KCs Chhajli, Dirba, Gaga, Sular & Dirba (NP) of Sunam Tehsil."
+  },
+  {
+   "ac_no": 101,
+   "name": "Sunam",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "src": [
+    85,
+    88
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with boundary changes, incorporating parts of present-day Sunam and Longowal areas.",
+   "extent": "PCs Chouwas, Bakshiwala, Biggarwal, Sunam D of Sunam KC; KC Cheema, Cheema (NP), Sunam (MCI+OG) of Sunam Tehsil; PCs Ealwal, Gagarpur of Bhindran KC; PCs Bijalpur, Nagra of Gharochan KC; PCs Kheri, Kular Khurd, Ramnagar Sibia, Tung of Sangrur KC; KCs Badrukhan, Longowal & Longowal (MCI) of Sangrur Tehsil."
+  },
+  {
+   "ac_no": 102,
+   "name": "Bhadaur",
+   "type": "SC",
+   "district": "Barnala",
+   "status": "continuing",
+   "src": [
+    84
+   ],
+   "sc_note": "",
+   "note": "Name and SC status continue; transferred to the newly created Barnala district.",
+   "extent": "PCs Majjhuke, Ramgarh of Talewal KC; KCs Bhadaur, Dhilwan, Kaleke, Rureke Kalan, Tapa, Bhadaur (MCI) & Tapa (MCI) of Barnala Tehsil."
+  },
+  {
+   "ac_no": 103,
+   "name": "Barnala",
+   "type": "GEN",
+   "district": "Barnala",
+   "status": "continuing",
+   "src": [
+    83,
+    85
+   ],
+   "sc_note": "",
+   "note": "Direct continuity under the new Barnala district; absorbed old Dhanaula's core. (One source table prints it as 'Barnala (SC)', but the change analysis treats it as unreserved.)",
+   "extent": "KCs Barnala, Dhanaula, Sanghera, Barnala (MCI), Handiaya (NP) & Dhanaula (MCI) of Barnala Tehsil."
+  },
+  {
+   "ac_no": 104,
+   "name": "Mehal Kalan",
+   "type": "SC",
+   "district": "Barnala",
+   "status": "new",
+   "src": [
+    82,
+    84
+   ],
+   "sc_note": "Inherited the SC reservation that used to belong to Sherpur (SC).",
+   "note": "Built from old Sherpur's and old Bhadaur's Mahal-Kalan-KC fragments — a name echo of the old Mahal Kalan KC, not a continuation of any single old seat.",
+   "extent": "PCs Bhotna, Bihla, Chhiniwal Khurd, Deewana, Gehal, Talewal B of Talewal KC; KCs Chananwal, Mehal Kalan, Vajeedke Kalan of Barnala Tehsil; PCs Badshahpur, Herike Salempur of Ghanauri Kalan KC & Sherpur KC of Dhuri Tehsil."
+  },
+  {
+   "ac_no": 105,
+   "name": "Malerkotla",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "src": [
+    81
+   ],
+   "sc_note": "",
+   "note": "Direct continuity. (At the time of delimitation part of Sangrur district; moved to the new Malerkotla district only in 2021.)",
+   "extent": "KCs Malerkotla, Sandaur & Malerkotla (MCI) of Malerkotla Tehsil."
+  },
+  {
+   "ac_no": 106,
+   "name": "Amargarh",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "new",
+   "src": [
+    80,
+    81,
+    82
+   ],
+   "sc_note": "",
+   "note": "The standout new creation: stitched entirely from Ahmedgarh-KC fragments pulled out of three different old seats (Dhuri, Malerkotla, Sherpur).",
+   "extent": "KCs Ahmedgarh, Amargarh, Jamalpura, Manvi & Ahmedgarh (MCI) of Malerkotla Tehsil."
+  },
+  {
+   "ac_no": 107,
+   "name": "Dhuri",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "src": [
+    80
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with revised boundaries.",
+   "extent": "PCs Bamal, Changli, Ghanaur Kalan, Ghanauri Kalan, Issapur, Jahangir, Katron of Ghanauri Kalan KC; KCs Dhuri, Meemsa, Mulowal & Dhuri (MCI) of Dhuri Tehsil."
+  },
+  {
+   "ac_no": 108,
+   "name": "Sangrur",
+   "type": "GEN",
+   "district": "Sangrur",
+   "status": "continuing",
+   "src": [
+    86,
+    87
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with revised boundaries; absorbed old Dirbha's Bhawanigarh-KC portion.",
+   "extent": "PCs Balian, Bhindran, Deh Kalan, Ghabdan, Jalan, Saron of Bhindran KC; PCs Basiarkh, Batriana, Gharachon B, Jhaneri, Kapial of Gharochan KC; PCs Akoi, Changal, Mangwal of Sangrur KC; KCs Bhawanigarh, Nadampur, Sangrur (MCI) & Bhawanigarh (MCI) of Sangrur Tehsil."
+  },
+  {
+   "ac_no": 109,
+   "name": "Nabha",
+   "type": "SC",
+   "district": "Patiala",
+   "status": "continuing",
+   "src": [
+    77
+   ],
+   "sc_note": "Newly SC-reserved.",
+   "note": "Direct continuity of name and core KCs, but the seat gained an SC reservation.",
+   "extent": "Nabha (MCI), KCs Nabha, Kakrala, Agol, Bhadson of Nabha Tehsil."
+  },
+  {
+   "ac_no": 110,
+   "name": "Patiala Rural",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "new",
+   "src": [
+    76,
+    77
+   ],
+   "sc_note": "",
+   "note": "New constituency created after delimitation, combining rural areas from the former Patiala and Nabha constituencies.",
+   "extent": "KC Ajnoda Kalan of Nabha Tehsil; KC Sidhuwal, Ward Nos. 2 to 7 in Patiala (M Corp.) & outgrowths: Hira Bagh Colony (Ward 36), Ranjit Nagar Extension-I (37), Grid Colony PSEB on Bhadson Road (38), Urban Estate-I (40), Punjabi University (41), Urban Estate-II (42), Ranjit Nagar Extension-II (43) in Patiala (M Corp+OG) of Patiala Tehsil."
+  },
+  {
+   "ac_no": 111,
+   "name": "Rajpura",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "continuing",
+   "src": [
+    70,
+    71
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with substantially revised boundaries; merged with old Banur's Banur-KC fragment.",
+   "extent": "KCs Banur, Khera Gajju, Banur (MCI), PCs Urdan, Jansla of Jansla KC; PCs Rajpura, Neelpur, Samdo, Pilkhani of Rajpura KC & Rajpura (MCI) of Rajpura Tehsil."
+  },
+  {
+   "ac_no": 112,
+   "name": "Dera Bassi",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "new",
+   "src": [
+    70,
+    71
+   ],
+   "sc_note": "",
+   "note": "New constituency created by separating Dera Bassi Tehsil from the former Rajpura/Banur belt. (Today falls under SAS Nagar/Mohali district.)",
+   "extent": "Dera Bassi Tehsil."
+  },
+  {
+   "ac_no": 113,
+   "name": "Ghanaur",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "continuing",
+   "src": [
+    71,
+    72
+   ],
+   "sc_note": "",
+   "note": "Continued after delimitation with substantially revised boundaries.",
+   "extent": "KCs Marda Pur, Harpalpur, Ghanaur, Ghanaur (NP), PCs Kheri Gandia, Gopalpur, Akar, Said Kheri, Suhro, Takho Majra, Jai Nagar of Rajpura KC; PCs Chalheri, Chamaru, Mohi Khurd, Tepla, Kheri Gurna, Nanhera, Thuha, Dhakansu Kalan of Jansla KC of Rajpura Tehsil."
+  },
+  {
+   "ac_no": 114,
+   "name": "Sanour",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "new",
+   "src": [
+    73
+   ],
+   "sc_note": "",
+   "note": "New constituency created after delimitation from rural areas around Sanour separated out of old Patiala/Dakala territory.",
+   "extent": "KCs Sanour, Masingan, Dudhan Sadha, Bhunerheri, Kasba & Sanaur (MCI) of Patiala Tehsil."
+  },
+  {
+   "ac_no": 115,
+   "name": "Patiala",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "continuing",
+   "src": [
+    76
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with reduced, urban-focused boundaries: urban Patiala (Municipal Corporation area).",
+   "extent": "Ward Nos. 1, 8 to 35 in Patiala (M Corp.) & Kheri Gujran (OG) Ward No. 39 in Patiala (M Corp+OG) of Patiala Tehsil."
+  },
+  {
+   "ac_no": 116,
+   "name": "Samana",
+   "type": "GEN",
+   "district": "Patiala",
+   "status": "continuing",
+   "src": [
+    73,
+    75
+   ],
+   "sc_note": "",
+   "note": "Direct continuity with revised boundaries; absorbed old Dakala's core.",
+   "extent": "PCs Khatri Wala, Talwandi Malik, Gajewas, Bahmana of Kularan KC; KC Samana & Samana (MCI) of Samana Tehsil; KCs Dakala, Patiala (except Lehal PC), Dhablan of Patiala Tehsil."
+  },
+  {
+   "ac_no": 117,
+   "name": "Shutrana",
+   "type": "SC",
+   "district": "Patiala",
+   "status": "continuing",
+   "src": [
+    74
+   ],
+   "sc_note": "",
+   "note": "Direct continuity; SC reservation retained with revised boundaries.",
+   "extent": "PCs Dhanetha, Mavi Kalan, Kakrala, Bujrak, Sehajpur Kalan, Kulara of Kularan KC; KCs Ghagga, Patran, Shutrana, Ghagga (NP) & Patran (NP) of Samana Tehsil."
+  }
+ ]
+}

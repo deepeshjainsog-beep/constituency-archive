@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Boundaries — Pre-2008 delimitation maps of India's state assemblies</title>
+  <meta name="description" content="An open reference publishing the electoral maps of India's state legislative assemblies as they stood before the 2008 delimitation, one state at a time.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%231c1a16'/%3E%3Ctext x='16' y='25' text-anchor='middle' font-family='Georgia,serif' font-size='20' fill='%23faf8f5'%3EB%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+  <style>
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr 400px;
+      gap: 48px;
+      align-items: center;
+      padding: 64px 0 48px;
+    }
+    @media (max-width: 880px) {
+      .hero-grid { grid-template-columns: 1fr; }
+      .hero-map-col { max-width: 320px; margin: 0 auto; }
+    }
+
+    /* animated title */
+    .hero-title {
+      font-family: 'DM Serif Display', Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(40px, 5.5vw, 66px);
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+      margin-bottom: 22px;
+    }
+    .hero-title .w {
+      display: inline-block;
+      opacity: 0;
+      transform: translateY(28px);
+      animation: wr 0.55s cubic-bezier(0.22,1,0.36,1) forwards;
+    }
+    .hero-title .w:nth-child(1){animation-delay:.04s}
+    .hero-title .w:nth-child(2){animation-delay:.12s}
+    .hero-title .w:nth-child(3){animation-delay:.20s}
+    .hero-title .w:nth-child(4){animation-delay:.28s}
+    .hero-title .w:nth-child(5){animation-delay:.38s}
+    .hero-title .w:nth-child(6){animation-delay:.48s}
+    .hero-title .w.it { font-style: italic; color: var(--teal); }
+    @keyframes wr { to { opacity:1; transform:translateY(0); } }
+    @media (prefers-reduced-motion:reduce) { .hero-title .w { opacity:1; transform:none; animation:none; } }
+
+    /* India map */
+    .india-map-wrap { position: relative; }
+    .india-map-wrap svg { width:100%; height:auto; display:block; }
+    .map-tip {
+      position: absolute;
+      background: var(--ink);
+      color: var(--bg);
+      font-family: var(--sans);
+      font-size: 12px;
+      font-weight: 500;
+      padding: 6px 10px;
+      border-radius: var(--r);
+      pointer-events: none;
+      display: none;
+      white-space: nowrap;
+      z-index: 10;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    .map-tip small { display:block; font-family:var(--mono); font-size:10px; opacity:.6; margin-top:2px; }
+    .map-legend {
+      display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+    }
+    .map-legend span {
+      display: flex; align-items: center; gap: 6px;
+      font-size: 12px; color: var(--ink-70);
+    }
+    .dot {
+      width: 10px; height: 10px; border-radius: 2px;
+      border: 0.75px solid var(--ink-18);
+    }
+    .dot-live { background: var(--teal); border-color: #0f4040 !important; }
+    .dot-soon { background: var(--surface); }
+
+    /* improved figures */
+    .figures .v { font-size: 38px !important; letter-spacing: -0.02em; }
+
+    /* live card */
+    .state-card.is-live {
+      border-color: var(--teal);
+      background: linear-gradient(135deg, var(--teal-lt) 0%, var(--surface) 100%);
+    }
+    a.state-card.is-live:hover {
+      border-color: var(--teal);
+      box-shadow: 0 4px 20px rgba(26,107,107,0.14);
+    }
+    .state-card.is-live .stamp::before {
+      content: '';
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--teal);
+      display: inline-block;
+      margin-right: 5px;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%,100% { opacity:1; transform:scale(1); }
+      50% { opacity:0.5; transform:scale(0.8); }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#register">Skip to the register</a>
+
+  <nav class="masthead">
+    <div class="wrap">
+      <a href="index.html" class="masthead__mark">
+        <span class="logo-b">B</span>
+        <span style="letter-spacing:-0.01em">Boundaries</span>
+      </a>
+      <span class="masthead__links">
+        <a href="#register">Register</a>
+        <a href="#about">About</a>
+      </span>
+    </div>
+  </nav>
+
+  <div class="wrap">
+    <div class="hero-grid">
+      <div>
+        <div class="hero__eyebrow">Pre-2008 delimitation</div>
+        <h1 class="hero-title">
+          <span class="w">The&nbsp;</span><span class="w">assembly&nbsp;</span><span class="w">maps&nbsp;</span><span class="w">India&nbsp;</span><span class="w it">retired&nbsp;</span><span class="w">in&nbsp;2008</span>
+        </h1>
+        <p class="hero__lede">
+          In 2008, the boundaries of assembly constituencies across most of India were redrawn. The maps they replaced — on which every state election of the preceding three decades had been fought — have no consolidated public source. Boundaries publishes them, one state at a time.
+        </p>
+        <div class="hero__meta" id="tally">Loading&hellip;</div>
+      </div>
+
+      <div class="hero-map-col">
+        <div class="india-map-wrap" id="india-map-wrap">
+          <div class="map-tip" id="map-tip"></div>
+        </div>
+        <div class="map-legend">
+          <span><span class="dot dot-live"></span>Published</span>
+          <span><span class="dot dot-soon"></span>Coming soon — click to explore</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <div class="figures">
+      <div><div class="v">117</div><div class="k">Constituencies in Punjab pre-2008</div></div>
+      <div><div class="v">12&nbsp;→&nbsp;20</div><div class="k">Districts redefined by 2008 order</div></div>
+      <div><div class="v">28</div><div class="k">Old seat names abolished in Punjab</div></div>
+      <div><div class="v">31</div><div class="k">Assemblies in the archive</div></div>
+    </div>
+
+    <section class="section" id="register-section">
+      <div class="section__head">
+        <span class="plate">Register</span>
+        <h2>State assemblies</h2>
+        <span class="aside" id="tally2">Loading&hellip;</span>
+      </div>
+      <div class="register" id="register" aria-live="polite"></div>
+    </section>
+
+    <section class="section prose" id="about">
+      <div class="section__head">
+        <span class="plate">About</span>
+        <h2>What this is</h2>
+      </div>
+      <p>The boundaries in force before 2008 derive, in most states, from the orders made under the Delimitation Act, 1972. The Delimitation Act, 2002 constituted a fresh commission working to the 2001 Census, and its orders took effect from 2008. The old maps went out of print with them.</p>
+      <p>Election archives, court records and constituency histories still refer to the retired constituencies constantly. This site exists so those references can be checked against the actual map. Each published state carries its pre-2008 constituency map in actual boundaries, a seat-by-seat record of what the 2008 order did to each constituency, and a short account of the state's delimitation history.</p>
+    </section>
+  </main>
+
+  <footer class="colophon">
+    <div class="wrap">
+      <span>Boundaries</span>
+      <span>An open reference &middot; updated state by state</span>
+    </div>
+  </footer>
+
+  <noscript><div class="wrap"><p class="notice">This page requires JavaScript.</p></div></noscript>
+  <script src="assets/home.js"></script>
+  <script>
+  (async function() {
+    let manifest;
+    try { manifest = await (await fetch('states/manifest.json')).json(); }
+    catch(e) { return; }
+
+    const states = manifest.states || [];
+    const liveSet = new Set(states.filter(s => s.status === 'live').map(s => s.slug));
+
+    // Load India SVG
+    const wrap = document.getElementById('india-map-wrap');
+    const tip  = document.getElementById('map-tip');
+    let svgText;
+    try { svgText = await (await fetch('assets/india-map.svg')).text(); }
+    catch(e) { return; }
+
+    const tmp = document.createElement('div');
+    tmp.innerHTML = svgText;
+    const svg = tmp.querySelector('svg');
+    wrap.insertBefore(svg, tip);
+
+    // Full names from manifest
+    const nameMap = {};
+    states.forEach(s => { nameMap[s.slug] = s.name; });
+
+    svg.querySelectorAll('.state').forEach(el => {
+      const slug = el.dataset.slug;
+      const name = nameMap[slug] || el.dataset.name || slug;
+      const isLive = liveSet.has(slug);
+
+      if (isLive) {
+        el.classList.add('live');
+        el.style.cursor = 'pointer';
+      }
+
+      el.addEventListener('mouseenter', function(e) {
+        tip.innerHTML = '<strong>' + name + '</strong><small>' +
+          (isLive ? 'Published · click to view' : 'Coming soon') + '</small>';
+        tip.style.display = 'block';
+      });
+      el.addEventListener('mousemove', function(e) {
+        const r = wrap.getBoundingClientRect();
+        let x = e.clientX - r.left + 10, y = e.clientY - r.top - 52;
+        if (x + 170 > r.width) x = e.clientX - r.left - 175;
+        if (y < 0) y = e.clientY - r.top + 10;
+        tip.style.left = x + 'px'; tip.style.top = y + 'px';
+      });
+      el.addEventListener('mouseleave', function() { tip.style.display = 'none'; });
+      if (isLive) {
+        el.addEventListener('click', function() {
+          window.location.href = 'state.html?state=' + slug;
+        });
+      }
+    });
+  })();
+  </script>
+</body>
+</html>
