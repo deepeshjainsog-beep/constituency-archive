@@ -344,7 +344,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .map-stage .layer-post { position: absolute; inset: 0; }
 
 .map-stage svg { display: block; width: 100%; height: auto; }
-.map-stage > div { position: absolute; inset: 0; }
+.map-stage > div:not(.map-tip) { position: absolute; inset: 0; }
 .map-stage > .layer-base { position: relative; }
 
 svg .ac {
