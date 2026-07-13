@@ -8,8 +8,8 @@
     .slabel { font-family: sans-serif; font-size: 6.5px; fill: rgba(28,26,22,0.6); pointer-events: none; text-anchor: middle; }
     .state.live + .slabel { fill: rgba(255,255,255,0.8); }
   </style>
-  <rect class="state" id="state-jammu-kashmir" data-slug="jammu-kashmir" data-name="J&K" x="64.0" y="8.0" width="110.0" height="64.0" rx="3"/>
-  <text class="slabel" x="119.0" y="42.5">J&K</text>
+  <rect class="state" id="state-jammu-kashmir" data-slug="jammu-kashmir" data-name="J&amp;K" x="64.0" y="8.0" width="110.0" height="64.0" rx="3"/>
+  <text class="slabel" x="119.0" y="42.5">J&amp;K</text>
   <rect class="state" id="state-himachal-pradesh" data-slug="himachal-pradesh" data-name="HP" x="120.0" y="52.0" width="54.0" height="42.0" rx="3"/>
   <text class="slabel" x="147.0" y="75.5">HP</text>
   <rect class="state" id="state-punjab" data-slug="punjab" data-name="Punjab" x="64.0" y="52.0" width="54.0" height="64.0" rx="3"/>
