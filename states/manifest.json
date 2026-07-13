@@ -1,212 +1,212 @@
 {
- "archive": {
-  "title": "The Constituency Archive",
-  "subtitle": "Pre-2008 delimitation maps of India's state legislative assemblies"
- },
- "states": [
-  {
-   "slug": "andhra-pradesh",
-   "name": "Andhra Pradesh",
-   "kind": "state",
-   "status": "coming-soon"
+  "archive": {
+    "title": "The Constituency Archive",
+    "subtitle": "Pre-2008 delimitation maps of India's state legislative assemblies"
   },
-  {
-   "slug": "arunachal-pradesh",
-   "name": "Arunachal Pradesh",
-   "kind": "state",
-   "status": "coming-soon",
-   "note": "Delimitation under the 2002 Act was deferred here in 2008."
-  },
-  {
-   "slug": "assam",
-   "name": "Assam",
-   "kind": "state",
-   "status": "coming-soon",
-   "note": "Delimitation under the 2002 Act was deferred here in 2008."
-  },
-  {
-   "slug": "bihar",
-   "name": "Bihar",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "chhattisgarh",
-   "name": "Chhattisgarh",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "goa",
-   "name": "Goa",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "gujarat",
-   "name": "Gujarat",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "haryana",
-   "name": "Haryana",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "himachal-pradesh",
-   "name": "Himachal Pradesh",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "jammu-kashmir",
-   "name": "Jammu & Kashmir",
-   "kind": "union-territory",
-   "status": "coming-soon",
-   "note": "Delimited separately; a 2022 order under the Jammu and Kashmir Reorganisation Act now applies."
-  },
-  {
-   "slug": "jharkhand",
-   "name": "Jharkhand",
-   "kind": "state",
-   "status": "coming-soon",
-   "note": "Excluded from the 2002-Act exercise by the Delimitation (Amendment) Act, 2008."
-  },
-  {
-   "slug": "karnataka",
-   "name": "Karnataka",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "kerala",
-   "name": "Kerala",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "madhya-pradesh",
-   "name": "Madhya Pradesh",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "maharashtra",
-   "name": "Maharashtra",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "manipur",
-   "name": "Manipur",
-   "kind": "state",
-   "status": "coming-soon",
-   "note": "Delimitation under the 2002 Act was deferred here in 2008."
-  },
-  {
-   "slug": "meghalaya",
-   "name": "Meghalaya",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "mizoram",
-   "name": "Mizoram",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "nagaland",
-   "name": "Nagaland",
-   "kind": "state",
-   "status": "coming-soon",
-   "note": "Delimitation under the 2002 Act was deferred here in 2008."
-  },
-  {
-   "slug": "delhi",
-   "name": "NCT of Delhi",
-   "kind": "union-territory",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "odisha",
-   "name": "Odisha",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "puducherry",
-   "name": "Puducherry",
-   "kind": "union-territory",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "punjab",
-   "name": "Punjab",
-   "kind": "state",
-   "status": "live"
-  },
-  {
-   "slug": "rajasthan",
-   "name": "Rajasthan",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "sikkim",
-   "name": "Sikkim",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "tamil-nadu",
-   "name": "Tamil Nadu",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "telangana",
-   "name": "Telangana",
-   "kind": "state",
-   "status": "coming-soon",
-   "note": "Constituted in 2014; its pre-2008 constituencies fall under undivided Andhra Pradesh."
-  },
-  {
-   "slug": "tripura",
-   "name": "Tripura",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "uttar-pradesh",
-   "name": "Uttar Pradesh",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "uttarakhand",
-   "name": "Uttarakhand",
-   "kind": "state",
-   "status": "coming-soon"
-  },
-  {
-   "slug": "west-bengal",
-   "name": "West Bengal",
-   "kind": "state",
-   "status": "coming-soon"
+  "states": [
+    {
+      "slug": "andhra-pradesh",
+      "name": "Andhra Pradesh",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "arunachal-pradesh",
+      "name": "Arunachal Pradesh",
+      "kind": "state",
+      "status": "coming-soon",
+      "note": "Delimitation under the 2002 Act was deferred here in 2008."
+    },
+    {
+      "slug": "assam",
+      "name": "Assam",
+      "kind": "state",
+      "status": "coming-soon",
+      "note": "Delimitation under the 2002 Act was deferred here in 2008."
+    },
+    {
+      "slug": "bihar",
+      "name": "Bihar",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "chhattisgarh",
+      "name": "Chhattisgarh",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "goa",
+      "name": "Goa",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "gujarat",
+      "name": "Gujarat",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "haryana",
+      "name": "Haryana",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "himachal-pradesh",
+      "name": "Himachal Pradesh",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "jammu-kashmir",
+      "name": "Jammu & Kashmir",
+      "kind": "union-territory",
+      "status": "coming-soon",
+      "note": "Delimited separately; a 2022 order under the Jammu and Kashmir Reorganisation Act now applies."
+    },
+    {
+      "slug": "jharkhand",
+      "name": "Jharkhand",
+      "kind": "state",
+      "status": "coming-soon",
+      "note": "Excluded from the 2002-Act exercise by the Delimitation (Amendment) Act, 2008."
+    },
+    {
+      "slug": "karnataka",
+      "name": "Karnataka",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "kerala",
+      "name": "Kerala",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "madhya-pradesh",
+      "name": "Madhya Pradesh",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "maharashtra",
+      "name": "Maharashtra",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "manipur",
+      "name": "Manipur",
+      "kind": "state",
+      "status": "coming-soon",
+      "note": "Delimitation under the 2002 Act was deferred here in 2008."
+    },
+    {
+      "slug": "meghalaya",
+      "name": "Meghalaya",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "mizoram",
+      "name": "Mizoram",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "nagaland",
+      "name": "Nagaland",
+      "kind": "state",
+      "status": "coming-soon",
+      "note": "Delimitation under the 2002 Act was deferred here in 2008."
+    },
+    {
+      "slug": "delhi",
+      "name": "NCT of Delhi",
+      "kind": "union-territory",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "odisha",
+      "name": "Odisha",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "puducherry",
+      "name": "Puducherry",
+      "kind": "union-territory",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "punjab",
+      "name": "Punjab",
+      "kind": "state",
+      "status": "live"
+    },
+    {
+      "slug": "rajasthan",
+      "name": "Rajasthan",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "sikkim",
+      "name": "Sikkim",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "telangana",
+      "name": "Telangana",
+      "kind": "state",
+      "status": "coming-soon",
+      "note": "Constituted in 2014; its pre-2008 constituencies fall under undivided Andhra Pradesh."
+    },
+    {
+      "slug": "tripura",
+      "name": "Tripura",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "uttar-pradesh",
+      "name": "Uttar Pradesh",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "uttarakhand",
+      "name": "Uttarakhand",
+      "kind": "state",
+      "status": "coming-soon"
+    },
+    {
+      "slug": "west-bengal",
+      "name": "West Bengal",
+      "kind": "state",
+      "status": "coming-soon"
+    }
+  ],
+  "homepage": {
+    "eyebrow": "India's Missing Electoral Atlas",
+    "title": "The assembly maps India retired in 2008",
+    "title_italic_word": "retired",
+    "lede": "In 2008, the Delimitation Commission redrew Assembly constituencies across most of India. The electoral map that existed for nearly three decades gradually disappeared from the public record, surviving only in scattered reports and archived documents. Boundaries reconstructs and publishes those historical constituencies as an interactive public archive.",
+    "about_heading": "What this is",
+    "about_body": [
+      "The Delimitation Commission's 2008 order replaced the Assembly boundaries used across most of India since the 1970s. Those maps remain part of election records, court cases, census publications and political history, but there has never been a single place to view them.",
+      "Boundaries is an attempt to assemble that record. Each state is reconstructed from official sources and published as an interactive reference, together with notes on what changed after delimitation.\n\nCreated by Deepesh Gulgulia."
+    ]
   }
- ],
- "homepage": {
-  "eyebrow": "Pre-2008 delimitation",
-  "title": "The assembly maps India retired in 2008",
-  "title_italic_word": "retired",
-  "lede": "In 2008, the boundaries of assembly constituencies across most of India were redrawn. The maps they replaced — on which every state election of the preceding three decades had been fought — have no consolidated public source. Boundaries publishes them, one state at a time.",
-  "about_heading": "What this is",
-  "about_body": [
-   "The boundaries in force before 2008 derive, in most states, from the orders made under the Delimitation Act, 1972. The Delimitation Act, 2002 constituted a fresh commission working to the 2001 Census, and its orders took effect from 2008. The old maps went out of print with them.",
-   "Election archives, court records and constituency histories still refer to the retired constituencies constantly. This site exists so those references can be checked against the actual map."
-  ]
- }
 }
