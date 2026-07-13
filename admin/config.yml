@@ -1,0 +1,63 @@
+backend:
+  name: github
+  repo: deepeshjainsog-beep/constituency-archive
+  branch: main
+
+media_folder: assets
+public_folder: assets
+
+collections:
+  - name: site
+    label: Site content
+    files:
+      - label: Homepage
+        name: homepage
+        file: states/manifest.json
+        fields:
+          - label: Archive title
+            name: archive
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Subtitle, name: subtitle, widget: string}
+          - label: States
+            name: states
+            widget: list
+            fields:
+              - {label: Slug, name: slug, widget: string}
+              - {label: Name, name: name, widget: string}
+              - {label: Kind, name: kind, widget: select, options: [state, union-territory]}
+              - {label: Status, name: status, widget: select, options: [live, coming-soon]}
+              - {label: Note, name: note, widget: string, required: false}
+
+  - name: states
+    label: State pages
+    label_singular: State
+    folder: states
+    path: "{{slug}}/data"
+    format: json
+    create: true
+    identifier_field: slug
+    summary: "{{name}}"
+    fields:
+      - {label: Slug, name: slug, widget: string}
+      - {label: Name, name: name, widget: string}
+      - {label: Title, name: title, widget: string}
+      - {label: Assembly, name: assembly, widget: string}
+      - {label: In Force, name: in_force, widget: string}
+      - label: Intro
+        name: intro
+        widget: list
+        field: {label: Paragraph, name: paragraph, widget: text}
+      - label: History
+        name: history
+        widget: list
+        field: {label: Paragraph, name: paragraph, widget: text}
+      - label: Sources
+        name: sources
+        widget: list
+        field: {label: Source, name: source, widget: string}
+      - label: Map caveats
+        name: map_caveats
+        widget: list
+        field: {label: Caveat, name: caveat, widget: string}
