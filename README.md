@@ -97,3 +97,4 @@ are editable per constituency. Two caveats are recorded in
 `states/punjab/data.json` and rendered on the page: the Dakala (73) polygon is
 approximated, and three seats carry an SC-status conflict between the curated
 records and the shapefile attributes (see `data_flags`).
+
