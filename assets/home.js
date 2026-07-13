@@ -13,12 +13,12 @@
   let manifest;
   try {
     manifest = await (await fetch("states/manifest.json")).json();
-    applyHero(manifest);
   } catch (e) {
     if (grid) grid.innerHTML = "<p class=\"notice\">The manifest could not be loaded. Serve over HTTP rather than opening the file directly.</p>";
     return;
   }
 
+  applyHero(manifest);
   const states = manifest.states || [];
   const live = states.filter(s => s.status === "live");
 
