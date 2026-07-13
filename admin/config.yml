@@ -14,18 +14,7 @@ collections:
         name: homepage
         file: states/manifest.json
         fields:
-          - label: Hero
-            name: homepage
-            widget: object
-            fields:
-              - {label: Eyebrow text, name: eyebrow, widget: string}
-              - {label: Hero title, name: title, widget: string}
-              - {label: Lede paragraph, name: lede, widget: text}
-              - label: About paragraphs
-                name: about_body
-                widget: list
-                field: {label: Paragraph, name: paragraph, widget: text}
-          - label: States register
+          - label: States
             name: states
             widget: list
             fields:
@@ -62,3 +51,7 @@ collections:
         name: sources
         widget: list
         field: {label: Source, name: source, widget: string}
+      - label: Map caveats
+        name: map_caveats
+        widget: list
+        field: {label: Caveat, name: caveat, widget: string}
