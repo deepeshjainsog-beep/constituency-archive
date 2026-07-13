@@ -48,6 +48,16 @@
 
 function applyHero(m) {
   const hp = (m && m.homepage) || {};
+  if (hp.about_body && hp.about_body.length) {
+    const section = document.querySelector('#about');
+    if (section) {
+      const existing = section.querySelectorAll('p');
+      hp.about_body.forEach(function(txt, i) {
+        if (existing[i]) existing[i].textContent = txt;
+      });
+    }
+  }
+  const hp = (m && m.homepage) || {};
   if (hp.eyebrow) {
     const el = document.querySelector('.hero__eyebrow');
     if (el) el.textContent = hp.eyebrow;
