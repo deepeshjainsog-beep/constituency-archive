@@ -57,7 +57,7 @@ function applyHero(m) {
       });
     }
   }
-  const hp = (m && m.homepage) || {};
+  
   if (hp.eyebrow) {
     const el = document.querySelector('.hero__eyebrow');
     if (el) el.textContent = hp.eyebrow;
