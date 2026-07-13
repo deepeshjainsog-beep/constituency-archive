@@ -1,72 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 500" role="img" aria-label="Schematic map of India">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 560" role="img" aria-label="Map of India by state">
   <style>
     .state { fill: #f2efe9; stroke: #1c1a16; stroke-width: 0.7; transition: fill 120ms; }
     .state.clickable { cursor: pointer; }
     .state.clickable:hover { fill: #e4f0f0; }
     .state.live { fill: #1a6b6b; stroke: #0f4040; cursor: pointer; }
     .state.live:hover { fill: #1f7f7f; }
-    .slabel { font-family: sans-serif; font-size: 6.5px; fill: rgba(28,26,22,0.6); pointer-events: none; text-anchor: middle; }
-    .state.live + .slabel { fill: rgba(255,255,255,0.8); }
+    .slabel { font-family: sans-serif; font-size: 6.5px; fill: rgba(28,26,22,0.55); pointer-events: none; text-anchor: middle; }
+    .state.live + .slabel { fill: rgba(255,255,255,0.85); }
   </style>
-  <rect class="state" id="state-jammu-kashmir" data-slug="jammu-kashmir" data-name="J&amp;K" x="64.0" y="8.0" width="110.0" height="64.0" rx="3"/>
-  <text class="slabel" x="119.0" y="42.5">J&amp;K</text>
-  <rect class="state" id="state-himachal-pradesh" data-slug="himachal-pradesh" data-name="HP" x="120.0" y="52.0" width="54.0" height="42.0" rx="3"/>
-  <text class="slabel" x="147.0" y="75.5">HP</text>
-  <rect class="state" id="state-punjab" data-slug="punjab" data-name="Punjab" x="64.0" y="52.0" width="54.0" height="64.0" rx="3"/>
-  <text class="slabel" x="91.0" y="86.5">Punjab</text>
-  <rect class="state" id="state-uttarakhand" data-slug="uttarakhand" data-name="UK" x="176.0" y="52.0" width="54.0" height="42.0" rx="3"/>
-  <text class="slabel" x="203.0" y="75.5">UK</text>
-  <rect class="state" id="state-haryana" data-slug="haryana" data-name="HR" x="120.0" y="96.0" width="54.0" height="42.0" rx="3"/>
-  <text class="slabel" x="147.0" y="119.5">HR</text>
-  <rect class="state" id="state-delhi" data-slug="delhi" data-name="DL" x="148.0" y="118.0" width="31.6" height="24.4" rx="3"/>
-  <text class="slabel" x="163.8" y="132.7">DL</text>
-  <rect class="state" id="state-rajasthan" data-slug="rajasthan" data-name="RJ" x="8.0" y="96.0" width="110.0" height="86.0" rx="3"/>
-  <text class="slabel" x="63.0" y="141.5">RJ</text>
-  <rect class="state" id="state-uttar-pradesh" data-slug="uttar-pradesh" data-name="UP" x="176.0" y="96.0" width="110.0" height="86.0" rx="3"/>
-  <text class="slabel" x="231.0" y="141.5">UP</text>
-  <rect class="state" id="state-bihar" data-slug="bihar" data-name="BR" x="260.0" y="74.0" width="82.0" height="64.0" rx="3"/>
-  <text class="slabel" x="301.0" y="108.5">BR</text>
-  <rect class="state" id="state-sikkim" data-slug="sikkim" data-name="SK" x="316.0" y="52.0" width="37.2" height="28.8" rx="3"/>
-  <text class="slabel" x="334.6" y="68.9">SK</text>
-  <rect class="state" id="state-arunachal-pradesh" data-slug="arunachal-pradesh" data-name="AR" x="344.0" y="8.0" width="110.0" height="42.0" rx="3"/>
-  <text class="slabel" x="399.0" y="31.5">AR</text>
-  <rect class="state" id="state-nagaland" data-slug="nagaland" data-name="NL" x="428.0" y="52.0" width="54.0" height="42.0" rx="3"/>
-  <text class="slabel" x="455.0" y="75.5">NL</text>
-  <rect class="state" id="state-meghalaya" data-slug="meghalaya" data-name="ML" x="344.0" y="74.0" width="82.0" height="33.2" rx="3"/>
-  <text class="slabel" x="385.0" y="93.1">ML</text>
-  <rect class="state" id="state-assam" data-slug="assam" data-name="AS" x="372.0" y="52.0" width="82.0" height="42.0" rx="3"/>
-  <text class="slabel" x="413.0" y="75.5">AS</text>
-  <rect class="state" id="state-manipur" data-slug="manipur" data-name="MN" x="428.0" y="96.0" width="42.8" height="42.0" rx="3"/>
-  <text class="slabel" x="449.4" y="119.5">MN</text>
-  <rect class="state" id="state-tripura" data-slug="tripura" data-name="TR" x="372.0" y="104.8" width="42.8" height="33.2" rx="3"/>
-  <text class="slabel" x="393.4" y="123.9">TR</text>
-  <rect class="state" id="state-mizoram" data-slug="mizoram" data-name="MZ" x="388.8" y="140.0" width="42.8" height="42.0" rx="3"/>
-  <text class="slabel" x="410.2" y="163.5">MZ</text>
-  <rect class="state" id="state-jharkhand" data-slug="jharkhand" data-name="JH" x="260.0" y="140.0" width="82.0" height="64.0" rx="3"/>
-  <text class="slabel" x="301.0" y="174.5">JH</text>
-  <rect class="state" id="state-west-bengal" data-slug="west-bengal" data-name="WB" x="316.0" y="96.0" width="54.0" height="108.0" rx="3"/>
-  <text class="slabel" x="343.0" y="152.5">WB</text>
-  <rect class="state" id="state-odisha" data-slug="odisha" data-name="OD" x="260.0" y="206.0" width="82.0" height="64.0" rx="3"/>
-  <text class="slabel" x="301.0" y="240.5">OD</text>
-  <rect class="state" id="state-gujarat" data-slug="gujarat" data-name="GJ" x="8.0" y="184.0" width="82.0" height="86.0" rx="3"/>
-  <text class="slabel" x="49.0" y="229.5">GJ</text>
-  <rect class="state" id="state-madhya-pradesh" data-slug="madhya-pradesh" data-name="MP" x="92.0" y="184.0" width="138.0" height="86.0" rx="3"/>
-  <text class="slabel" x="161.0" y="229.5">MP</text>
-  <rect class="state" id="state-chhattisgarh" data-slug="chhattisgarh" data-name="CG" x="204.0" y="184.0" width="82.0" height="86.0" rx="3"/>
-  <text class="slabel" x="245.0" y="229.5">CG</text>
-  <rect class="state" id="state-maharashtra" data-slug="maharashtra" data-name="MH" x="64.0" y="272.0" width="138.0" height="86.0" rx="3"/>
-  <text class="slabel" x="133.0" y="317.5">MH</text>
-  <rect class="state" id="state-telangana" data-slug="telangana" data-name="TG" x="176.0" y="272.0" width="82.0" height="64.0" rx="3"/>
-  <text class="slabel" x="217.0" y="306.5">TG</text>
-  <rect class="state" id="state-andhra-pradesh" data-slug="andhra-pradesh" data-name="AP" x="176.0" y="338.0" width="82.0" height="64.0" rx="3"/>
-  <text class="slabel" x="217.0" y="372.5">AP</text>
-  <rect class="state" id="state-goa" data-slug="goa" data-name="GA" x="52.8" y="351.2" width="37.2" height="28.8" rx="3"/>
-  <text class="slabel" x="71.4" y="368.1">GA</text>
-  <rect class="state" id="state-karnataka" data-slug="karnataka" data-name="KA" x="64.0" y="360.0" width="110.0" height="86.0" rx="3"/>
-  <text class="slabel" x="119.0" y="405.5">KA</text>
-  <rect class="state" id="state-puducherry" data-slug="puducherry" data-name="PY" x="204.0" y="412.8" width="26.0" height="15.6" rx="3"/>
-  <rect class="state" id="state-tamil-nadu" data-slug="tamil-nadu" data-name="TN" x="120.0" y="412.8" width="82.0" height="77.2" rx="3"/>
-  <text class="slabel" x="161.0" y="453.9">TN</text>
-  <rect class="state" id="state-kerala" data-slug="kerala" data-name="KL" x="64.0" y="426.0" width="54.0" height="64.0" rx="3"/>
-  <text class="slabel" x="91.0" y="460.5">KL</text>
+  <rect class="state" id="state-rajasthan" data-slug="rajasthan" data-name="RJ" x="45.6" y="121.4" width="140.8" height="131.9" rx="2.5"/>
+  <text class="slabel" x="116.0" y="189.6">RJ</text>
+  <rect class="state" id="state-maharashtra" data-slug="maharashtra" data-name="MH" x="97.7" y="276.5" width="131.0" height="118.6" rx="2.5"/>
+  <text class="slabel" x="163.2" y="338.1">MH</text>
+  <rect class="state" id="state-madhya-pradesh" data-slug="madhya-pradesh" data-name="MP" x="118.8" y="183.8" width="140.8" height="107.3" rx="2.5"/>
+  <text class="slabel" x="189.2" y="239.8">MP</text>
+  <rect class="state" id="state-uttar-pradesh" data-slug="uttar-pradesh" data-name="UP" x="169.3" y="117.6" width="119.6" height="120.5" rx="2.5"/>
+  <text class="slabel" x="229.1" y="180.2">UP</text>
+  <rect class="state" id="state-andhra-pradesh" data-slug="andhra-pradesh" data-name="AP" x="164.4" y="384.3" width="127.8" height="67.6" rx="2.5"/>
+  <text class="slabel" x="228.3" y="420.3">AP</text>
+  <rect class="state" id="state-odisha" data-slug="odisha" data-name="OD" x="239.2" y="265.1" width="96.9" height="88.4" rx="2.5"/>
+  <text class="slabel" x="287.7" y="311.6">OD</text>
+  <rect class="state" id="state-gujarat" data-slug="gujarat" data-name="GJ" x="24.5" y="225.4" width="100.1" height="84.6" rx="2.5"/>
+  <text class="slabel" x="74.5" y="270.0">GJ</text>
+  <rect class="state" id="state-chhattisgarh" data-slug="chhattisgarh" data-name="CG" x="219.7" y="236.8" width="65.9" height="116.7" rx="2.5"/>
+  <text class="slabel" x="252.7" y="297.4">CG</text>
+  <rect class="state" id="state-assam" data-slug="assam" data-name="AS" x="374.3" y="163.0" width="100.1" height="71.3" rx="2.5"/>
+  <text class="slabel" x="424.3" y="201.0">AS</text>
+  <rect class="state" id="state-west-bengal" data-slug="west-bengal" data-name="WB" x="310.8" y="178.1" width="64.3" height="105.4" rx="2.5"/>
+  <text class="slabel" x="343.0" y="233.1">WB</text>
+  <rect class="state" id="state-tamil-nadu" data-slug="tamil-nadu" data-name="TN" x="154.6" y="437.2" width="64.3" height="99.7" rx="2.5"/>
+  <text class="slabel" x="186.8" y="489.4">TN</text>
+  <rect class="state" id="state-jammu-kashmir" data-slug="jammu-kashmir" data-name="J&amp;K" x="115.6" y="21.2" width="92.0" height="58.1" rx="2.5"/>
+  <text class="slabel" x="161.6" y="52.6">J&amp;K</text>
+  <rect class="state" id="state-karnataka" data-slug="karnataka" data-name="KA" x="120.5" y="397.5" width="70.8" height="73.2" rx="2.5"/>
+  <text class="slabel" x="155.9" y="436.4">KA</text>
+  <rect class="state" id="state-bihar" data-slug="bihar" data-name="BR" x="270.1" y="164.9" width="79.0" height="65.7" rx="2.5"/>
+  <text class="slabel" x="309.6" y="200.0">BR</text>
+  <rect class="state" id="state-telangana" data-slug="telangana" data-name="TG" x="170.9" y="316.2" width="65.9" height="73.2" rx="2.5"/>
+  <text class="slabel" x="203.9" y="355.1">TG</text>
+  <rect class="state" id="state-arunachal-pradesh" data-slug="arunachal-pradesh" data-name="AR" x="403.6" y="134.7" width="93.6" height="50.5" rx="2.5"/>
+  <text class="slabel" x="450.4" y="162.2">AR</text>
+  <rect class="state" id="state-jharkhand" data-slug="jharkhand" data-name="JH" x="270.1" y="214.1" width="74.1" height="60.0" rx="2.5"/>
+  <text class="slabel" x="307.2" y="246.4">JH</text>
+  <rect class="state" id="state-kerala" data-slug="kerala" data-name="KL" x="133.5" y="450.4" width="38.3" height="82.7" rx="2.5"/>
+  <text class="slabel" x="152.6" y="494.1">KL</text>
+  <rect class="state" id="state-haryana" data-slug="haryana" data-name="HR" x="127.0" y="108.2" width="48.0" height="58.1" rx="2.5"/>
+  <text class="slabel" x="151.0" y="139.5">HR</text>
+  <rect class="state" id="state-himachal-pradesh" data-slug="himachal-pradesh" data-name="HP" x="144.9" y="62.8" width="52.9" height="52.4" rx="2.5"/>
+  <text class="slabel" x="171.3" y="91.3">HP</text>
+  <rect class="state" id="state-uttarakhand" data-slug="uttarakhand" data-name="UK" x="177.4" y="96.8" width="52.9" height="50.5" rx="2.5"/>
+  <text class="slabel" x="203.9" y="124.4">UK</text>
+  <rect class="state" id="state-punjab" data-slug="punjab" data-name="Punjab" x="117.2" y="76.0" width="46.4" height="56.2" rx="2.5"/>
+  <text class="slabel" x="140.4" y="106.4">Punjab</text>
+  <rect class="state" id="state-nagaland" data-slug="nagaland" data-name="NL" x="432.9" y="181.9" width="28.5" height="31.6" rx="2.5"/>
+  <text class="slabel" x="447.1" y="200.0">NL</text>
+  <rect class="state" id="state-manipur" data-slug="manipur" data-name="MN" x="428.0" y="206.5" width="26.9" height="33.5" rx="2.5"/>
+  <text class="slabel" x="441.4" y="225.6">MN</text>
+  <rect class="state" id="state-meghalaya" data-slug="meghalaya" data-name="ML" x="375.9" y="198.9" width="46.4" height="18.4" rx="2.5"/>
+  <text class="slabel" x="399.1" y="210.4">ML</text>
+  <rect class="state" id="state-mizoram" data-slug="mizoram" data-name="MZ" x="416.6" y="229.2" width="15.5" height="46.8" rx="2.5"/>
+  <rect class="state" id="state-tripura" data-slug="tripura" data-name="TR" x="398.7" y="229.2" width="15.5" height="27.9" rx="2.5"/>
+  <rect class="state" id="state-sikkim" data-slug="sikkim" data-name="SK" x="346.6" y="161.1" width="12.2" height="16.5" rx="2.5"/>
+  <rect class="state" id="state-goa" data-slug="goa" data-name="GA" x="113.9" y="393.7" width="7.4" height="14.6" rx="2.5"/>
+  <rect class="state" id="state-delhi" data-slug="delhi" data-name="DL" x="164.4" y="146.0" width="6.0" height="7.1" rx="2.5"/>
+  <rect class="state" id="state-puducherry" data-slug="puducherry" data-name="PY" x="211.6" y="465.6" width="6.0" height="6.0" rx="2.5"/>
 </svg>
