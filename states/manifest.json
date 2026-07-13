@@ -197,5 +197,16 @@
    "kind": "state",
    "status": "coming-soon"
   }
- ]
+ ],
+ "homepage": {
+  "eyebrow": "Pre-2008 delimitation",
+  "title": "The assembly maps India retired in 2008",
+  "title_italic_word": "retired",
+  "lede": "In 2008, the boundaries of assembly constituencies across most of India were redrawn. The maps they replaced — on which every state election of the preceding three decades had been fought — have no consolidated public source. Boundaries publishes them, one state at a time.",
+  "about_heading": "What this is",
+  "about_body": [
+   "The boundaries in force before 2008 derive, in most states, from the orders made under the Delimitation Act, 1972. The Delimitation Act, 2002 constituted a fresh commission working to the 2001 Census, and its orders took effect from 2008. The old maps went out of print with them.",
+   "Election archives, court records and constituency histories still refer to the retired constituencies constantly. This site exists so those references can be checked against the actual map."
+  ]
+ }
 }
