@@ -13,6 +13,7 @@
   let manifest;
   try {
     manifest = await (await fetch("states/manifest.json")).json();
+    applyHero(manifest);
   } catch (e) {
     if (grid) grid.innerHTML = "<p class=\"notice\">The manifest could not be loaded. Serve over HTTP rather than opening the file directly.</p>";
     return;
@@ -44,3 +45,25 @@
   grid.textContent = "";
   grid.appendChild(frag);
 })();
+
+function applyHero(m) {
+  const hp = (m && m.homepage) || {};
+  if (hp.eyebrow) {
+    const el = document.querySelector('.hero__eyebrow');
+    if (el) el.textContent = hp.eyebrow;
+  }
+  if (hp.lede) {
+    const el = document.querySelector('.hero__lede');
+    if (el) el.textContent = hp.lede;
+  }
+  if (hp.title) {
+    const h1 = document.querySelector('.hero-title');
+    if (h1) {
+      const italic = (hp.title_italic_word || 'retired').toLowerCase();
+      h1.innerHTML = hp.title.split(' ').map((w,i,arr) =>
+        '<span class="w' + (w.toLowerCase().includes(italic) ? ' it' : '') + '">' +
+        w + (i < arr.length-1 ? '\u00a0' : '') + '</span>'
+      ).join('');
+    }
+  }
+}
