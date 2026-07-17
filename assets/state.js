@@ -744,7 +744,7 @@
       "<div class=\"hero-map-sheet\"><div class=\"hero-map-label\">" +
       "<span class=\"mono\" style=\"font-size:9px;letter-spacing:0.08em;color:var(--ink-45)\">PRE-2008 \u00b7 " + esc(data.name).toUpperCase() + " \u00b7 " + olds.length + " SEATS</span>" +
       "</div>" +
-      "<img src=\"assets/hero-illustration.jpg\" style=\"width:100%;height:auto;display:block;border-radius:4px\" alt=\"\">" +
+      "<img src=\"" + (data.maps && data.maps.hero ? base + data.maps.hero : "assets/hero-illustration.jpg") + "\" style=\"width:100%;height:auto;display:block;border-radius:4px\" alt=\"\">" +
       "</div>" +
       "<div class=\"hero-stat-pills\">" +
       (data.figures || []).slice(0,2).map(function(f) {
