@@ -11,7 +11,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 1
+      "ac_no": 1,
+      "party07": "SAD",
+      "electors_07": 115957,
+      "winner_07": "Nirmal Singh Kahlon"
     },
     {
       "dest": [
@@ -25,7 +28,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 2
+      "ac_no": 2,
+      "party07": "BJP",
+      "electors_07": 140987,
+      "winner_07": "Jagdish Sahni"
     },
     {
       "dest": [
@@ -39,7 +45,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 3
+      "ac_no": 3,
+      "party07": "SAD",
+      "electors_07": 140076,
+      "winner_07": "Lakhbir Singh Lodhinangal"
     },
     {
       "dest": [
@@ -52,7 +61,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 4
+      "ac_no": 4,
+      "party07": "SAD",
+      "electors_07": 112931,
+      "winner_07": "Capt. Balbir Singh Bath"
     },
     {
       "dest": [
@@ -65,7 +77,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 5
+      "ac_no": 5,
+      "party07": "INC",
+      "electors_07": 123771,
+      "winner_07": "Partap Singh Bajwa"
     },
     {
       "dest": [
@@ -79,7 +94,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 6
+      "ac_no": 6,
+      "party07": "SAD",
+      "electors_07": 121774,
+      "winner_07": "Sucha Singh Langah"
     },
     {
       "dest": [
@@ -92,7 +110,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 7
+      "ac_no": 7,
+      "party07": "SAD",
+      "electors_07": 140845,
+      "winner_07": "Gurbachan Singh"
     },
     {
       "dest": [
@@ -105,7 +126,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 8
+      "ac_no": 8,
+      "party07": "BJP",
+      "electors_07": 140833,
+      "winner_07": "Sita Ram"
     },
     {
       "dest": [
@@ -118,7 +142,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 9
+      "ac_no": 9,
+      "party07": "BJP",
+      "electors_07": 121941,
+      "winner_07": "Bishamber Dass"
     },
     {
       "dest": [
@@ -132,7 +159,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 10
+      "ac_no": 10,
+      "party07": "BJP",
+      "electors_07": 140751,
+      "winner_07": "Master Mohan Lal"
     },
     {
       "dest": [
@@ -146,7 +176,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 11
+      "ac_no": 11,
+      "party07": "BJP",
+      "electors_07": 145403,
+      "winner_07": "Dinesh Singh"
     },
     {
       "dest": [
@@ -159,7 +192,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 12
+      "ac_no": 12,
+      "party07": "SAD",
+      "electors_07": 142653,
+      "winner_07": "Manjinder Singh Kang"
     },
     {
       "dest": [
@@ -172,7 +208,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 13
+      "ac_no": 13,
+      "party07": "SAD",
+      "electors_07": 128162,
+      "winner_07": "Bikram Singh Majithia"
     },
     {
       "dest": [
@@ -185,7 +224,10 @@
       "status": "abolished",
       "approx": false,
       "type": "SC",
-      "ac_no": 14
+      "ac_no": 14,
+      "party07": "SAD",
+      "electors_07": 202294,
+      "winner_07": "Dalbir Singh"
     },
     {
       "dest": [
@@ -198,7 +240,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 15
+      "ac_no": 15,
+      "party07": "SAD",
+      "electors_07": 170335,
+      "winner_07": "Malkiat Singh"
     },
     {
       "dest": [
@@ -211,7 +256,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 16
+      "ac_no": 16,
+      "party07": "BJP",
+      "electors_07": 112789,
+      "winner_07": "Anil Joshi"
     },
     {
       "dest": [
@@ -224,7 +272,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 17
+      "ac_no": 17,
+      "party07": "INC",
+      "electors_07": 231753,
+      "winner_07": "Om Parkash Soni"
     },
     {
       "dest": [
@@ -237,7 +288,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 18
+      "ac_no": 18,
+      "party07": "BJP",
+      "electors_07": 68267,
+      "winner_07": "Lakshmi Kanta Chawla"
     },
     {
       "dest": [
@@ -251,7 +305,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 19
+      "ac_no": 19,
+      "party07": "SAD",
+      "electors_07": 138519,
+      "winner_07": "Raminder Singh Bolaria"
     },
     {
       "dest": [
@@ -265,7 +322,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 20
+      "ac_no": 20,
+      "party07": "SAD",
+      "electors_07": 146943,
+      "winner_07": "Amarpal Singh Ajnala"
     },
     {
       "dest": [
@@ -278,7 +338,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 21
+      "ac_no": 21,
+      "party07": "INC",
+      "electors_07": 130640,
+      "winner_07": "Sukhbinder Singh Sarkaria"
     },
     {
       "dest": [
@@ -291,7 +354,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 22
+      "ac_no": 22,
+      "party07": "SAD",
+      "electors_07": 112969,
+      "winner_07": "Gulzar Singh Ranike"
     },
     {
       "dest": [
@@ -304,7 +370,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 23
+      "ac_no": 23,
+      "party07": "SAD",
+      "electors_07": 140073,
+      "winner_07": "Harmeet Singh"
     },
     {
       "dest": [
@@ -318,7 +387,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 24
+      "ac_no": 24,
+      "party07": "SAD",
+      "electors_07": 123532,
+      "winner_07": "Manjit Singh Mianwind"
     },
     {
       "dest": [
@@ -331,7 +403,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 25
+      "ac_no": 25,
+      "party07": "SAD",
+      "electors_07": 109606,
+      "winner_07": "Ranjit Singh Brahampura"
     },
     {
       "dest": [
@@ -344,7 +419,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 26
+      "ac_no": 26,
+      "party07": "SAD",
+      "electors_07": 141415,
+      "winner_07": "Adesh Partap Singh"
     },
     {
       "dest": [
@@ -357,7 +435,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 27
+      "ac_no": 27,
+      "party07": "SAD",
+      "electors_07": 118796,
+      "winner_07": "Virsa Singh"
     },
     {
       "dest": [
@@ -370,7 +451,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 28
+      "ac_no": 28,
+      "party07": "SAD",
+      "electors_07": 122606,
+      "winner_07": "Sarbjeet Singh Makkar"
     },
     {
       "dest": [
@@ -383,7 +467,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 29
+      "ac_no": 29,
+      "party07": "SAD",
+      "electors_07": 138794,
+      "winner_07": "Jagbir Singh Brar"
     },
     {
       "dest": [
@@ -396,7 +483,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 30
+      "ac_no": 30,
+      "party07": "BJP",
+      "electors_07": 130445,
+      "winner_07": "K.D. Bhandari"
     },
     {
       "dest": [
@@ -409,7 +499,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 31
+      "ac_no": 31,
+      "party07": "BJP",
+      "electors_07": 136683,
+      "winner_07": "Manoranjan Kalia"
     },
     {
       "dest": [
@@ -423,7 +516,10 @@
       "status": "abolished",
       "approx": false,
       "type": "SC",
-      "ac_no": 32
+      "ac_no": 32,
+      "party07": "BJP",
+      "electors_07": 170617,
+      "winner_07": "Chuni Lal Bhagat"
     },
     {
       "dest": [
@@ -436,7 +532,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 33
+      "ac_no": 33,
+      "party07": "SAD",
+      "electors_07": 135581,
+      "winner_07": "Avinash Chander"
     },
     {
       "dest": [
@@ -450,7 +549,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 34
+      "ac_no": 34,
+      "party07": "SAD",
+      "electors_07": 138085,
+      "winner_07": "Ajit Singh Kohar"
     },
     {
       "dest": [
@@ -463,7 +565,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 35
+      "ac_no": 35,
+      "party07": "INC",
+      "electors_07": 127706,
+      "winner_07": "Amarjit Singh Samra"
     },
     {
       "dest": [
@@ -477,7 +582,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 36
+      "ac_no": 36,
+      "party07": "SAD",
+      "electors_07": 127254,
+      "winner_07": "Gurdip Singh Bhullar"
     },
     {
       "dest": [
@@ -490,7 +598,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 37
+      "ac_no": 37,
+      "party07": "SAD",
+      "electors_07": 110420,
+      "winner_07": "Mohan Lal"
     },
     {
       "dest": [
@@ -503,7 +614,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 38
+      "ac_no": 38,
+      "party07": "SAD",
+      "electors_07": 140765,
+      "winner_07": "Jatinder Singh Kariha"
     },
     {
       "dest": [
@@ -516,7 +630,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 39
+      "ac_no": 39,
+      "party07": "SAD",
+      "electors_07": 129041,
+      "winner_07": "Sarwan Singh"
     },
     {
       "dest": [
@@ -529,7 +646,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 40
+      "ac_no": 40,
+      "party07": "INC",
+      "electors_07": 111675,
+      "winner_07": "Sukhpal Singh"
     },
     {
       "dest": [
@@ -542,7 +662,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 41
+      "ac_no": 41,
+      "party07": "INC",
+      "electors_07": 119790,
+      "winner_07": "Rana Rajbans Kaur"
     },
     {
       "dest": [
@@ -555,7 +678,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 42
+      "ac_no": 42,
+      "party07": "SAD",
+      "electors_07": 118498,
+      "winner_07": "Upinderjit Kaur"
     },
     {
       "dest": [
@@ -568,7 +694,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 43
+      "ac_no": 43,
+      "party07": "BJP",
+      "electors_07": 149349,
+      "winner_07": "Swarna Ram"
     },
     {
       "dest": [
@@ -581,7 +710,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 44
+      "ac_no": 44,
+      "party07": "SAD",
+      "electors_07": 127965,
+      "winner_07": "Nand Lal"
     },
     {
       "dest": [
@@ -594,7 +726,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 45
+      "ac_no": 45,
+      "party07": "INC",
+      "electors_07": 118995,
+      "winner_07": "Lov Kumar Goldy"
     },
     {
       "dest": [
@@ -608,7 +743,10 @@
       "status": "abolished",
       "approx": false,
       "type": "SC",
-      "ac_no": 46
+      "ac_no": 46,
+      "party07": "SAD",
+      "electors_07": 100855,
+      "winner_07": "Sohan Singh Thandal"
     },
     {
       "dest": [
@@ -621,7 +759,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 47
+      "ac_no": 47,
+      "party07": "BJP",
+      "electors_07": 149839,
+      "winner_07": "Tikshan Sud"
     },
     {
       "dest": [
@@ -634,7 +775,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 48
+      "ac_no": 48,
+      "party07": "SAD",
+      "electors_07": 128087,
+      "winner_07": "Mohinder Kaur"
     },
     {
       "dest": [
@@ -647,7 +791,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 49
+      "ac_no": 49,
+      "party07": "IND",
+      "electors_07": 115776,
+      "winner_07": "Sangat Singh Gilzian"
     },
     {
       "dest": [
@@ -660,7 +807,10 @@
       "status": "abolished",
       "approx": false,
       "type": "SC",
-      "ac_no": 50
+      "ac_no": 50,
+      "party07": "SAD",
+      "electors_07": 124775,
+      "winner_07": "Des Raj Dhugga"
     },
     {
       "dest": [
@@ -673,7 +823,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 51
+      "ac_no": 51,
+      "party07": "BJP",
+      "electors_07": 133459,
+      "winner_07": "Amarjit Singh Sahi"
     },
     {
       "dest": [
@@ -686,7 +839,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 52
+      "ac_no": 52,
+      "party07": "BJP",
+      "electors_07": 152902,
+      "winner_07": "Arunesh Kumar"
     },
     {
       "dest": [
@@ -699,7 +855,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 53
+      "ac_no": 53,
+      "party07": "INC",
+      "electors_07": 148105,
+      "winner_07": "Gurdeep Singh Bhaini"
     },
     {
       "dest": [
@@ -712,7 +871,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 54
+      "ac_no": 54,
+      "party07": "INC",
+      "electors_07": 125577,
+      "winner_07": "Harmohinder Singh 'Pardhaan'"
     },
     {
       "dest": [
@@ -726,7 +888,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 55
+      "ac_no": 55,
+      "party07": "SAD",
+      "electors_07": 287465,
+      "winner_07": "Darshan Singh Shivalik"
     },
     {
       "dest": [
@@ -739,7 +904,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 56
+      "ac_no": 56,
+      "party07": "INC",
+      "electors_07": 129528,
+      "winner_07": "Jasbir Singh Khangura"
     },
     {
       "dest": [
@@ -752,7 +920,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 57
+      "ac_no": 57,
+      "party07": "BJP",
+      "electors_07": 133704,
+      "winner_07": "Harish Bedi"
     },
     {
       "dest": [
@@ -765,7 +936,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 58
+      "ac_no": 58,
+      "party07": "SAD",
+      "electors_07": 137575,
+      "winner_07": "Harish Rai Dhanda"
     },
     {
       "dest": [
@@ -778,7 +952,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 59
+      "ac_no": 59,
+      "party07": "BJP",
+      "electors_07": 91217,
+      "winner_07": "Sat Pal Gosain"
     },
     {
       "dest": [
@@ -794,7 +971,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 60
+      "ac_no": 60,
+      "party07": "SAD",
+      "electors_07": 470482,
+      "winner_07": "Hira Singh Gabria"
     },
     {
       "dest": [
@@ -807,7 +987,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 61
+      "ac_no": 61,
+      "party07": "INC",
+      "electors_07": 123287,
+      "winner_07": "Tej Parkash Singh"
     },
     {
       "dest": [
@@ -820,7 +1003,10 @@
       "status": "abolished",
       "approx": false,
       "type": "SC",
-      "ac_no": 62
+      "ac_no": 62,
+      "party07": "INC",
+      "electors_07": 147666,
+      "winner_07": "Ishar Singh"
     },
     {
       "dest": [
@@ -834,7 +1020,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 63
+      "ac_no": 63,
+      "party07": "SAD",
+      "electors_07": 117283,
+      "winner_07": "Jagjiwan Singh"
     },
     {
       "dest": [
@@ -847,7 +1036,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 64
+      "ac_no": 64,
+      "party07": "SAD",
+      "electors_07": 150415,
+      "winner_07": "Bikramjit Singh"
     },
     {
       "dest": [
@@ -860,7 +1052,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 65
+      "ac_no": 65,
+      "party07": "INC",
+      "electors_07": 128451,
+      "winner_07": "Kanwar Pal Singh"
     },
     {
       "dest": [
@@ -873,7 +1068,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 66
+      "ac_no": 66,
+      "party07": "SAD",
+      "electors_07": 146095,
+      "winner_07": "Sant Ajit Singh"
     },
     {
       "dest": [
@@ -886,7 +1084,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 67
+      "ac_no": 67,
+      "party07": "IND",
+      "electors_07": 120043,
+      "winner_07": "Charanjit Singh Channi"
     },
     {
       "dest": [
@@ -900,7 +1101,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 68
+      "ac_no": 68,
+      "party07": "SAD",
+      "electors_07": 158260,
+      "winner_07": "Ujaggar Singh"
     },
     {
       "dest": [
@@ -914,7 +1118,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 69
+      "ac_no": 69,
+      "party07": "INC",
+      "electors_07": 245274,
+      "winner_07": "Balbir Singh"
     },
     {
       "dest": [
@@ -928,7 +1135,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 70
+      "ac_no": 70,
+      "party07": "SAD",
+      "electors_07": 179586,
+      "winner_07": "Kanwaljit Singh"
     },
     {
       "dest": [
@@ -943,7 +1153,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 71
+      "ac_no": 71,
+      "party07": "BJP",
+      "electors_07": 155032,
+      "winner_07": "Raj Khurana"
     },
     {
       "dest": [
@@ -956,7 +1169,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 72
+      "ac_no": 72,
+      "party07": "IND",
+      "electors_07": 142574,
+      "winner_07": "Madan Lal Thekedar"
     },
     {
       "dest": [
@@ -970,7 +1186,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 73
+      "ac_no": 73,
+      "party07": "INC",
+      "electors_07": 164679,
+      "winner_07": "Lal Singh"
     },
     {
       "dest": [
@@ -983,7 +1202,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 74
+      "ac_no": 74,
+      "party07": "INC",
+      "electors_07": 155075,
+      "winner_07": "Nirmal Singh"
     },
     {
       "dest": [
@@ -996,7 +1218,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 75
+      "ac_no": 75,
+      "party07": "INC",
+      "electors_07": 237457,
+      "winner_07": "Brahm Mahindra"
     },
     {
       "dest": [
@@ -1010,7 +1235,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 76
+      "ac_no": 76,
+      "party07": "INC",
+      "electors_07": 131571,
+      "winner_07": "Amarinder Singh"
     },
     {
       "dest": [
@@ -1024,7 +1252,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 77
+      "ac_no": 77,
+      "party07": "INC",
+      "electors_07": 156053,
+      "winner_07": "Randeep Singh"
     },
     {
       "dest": [
@@ -1037,7 +1268,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 78
+      "ac_no": 78,
+      "party07": "INC",
+      "electors_07": 161394,
+      "winner_07": "Sadhu Singh"
     },
     {
       "dest": [
@@ -1050,7 +1284,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 79
+      "ac_no": 79,
+      "party07": "SAD",
+      "electors_07": 148287,
+      "winner_07": "Didar Singh"
     },
     {
       "dest": [
@@ -1064,7 +1301,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 80
+      "ac_no": 80,
+      "party07": "IND",
+      "electors_07": 138315,
+      "winner_07": "Iqbal Singh Jhundan"
     },
     {
       "dest": [
@@ -1078,7 +1318,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 81
+      "ac_no": 81,
+      "party07": "INC",
+      "electors_07": 167429,
+      "winner_07": "Razia Sultana"
     },
     {
       "dest": [
@@ -1092,7 +1335,10 @@
       "status": "abolished",
       "approx": false,
       "type": "SC",
-      "ac_no": 82
+      "ac_no": 82,
+      "party07": "INC",
+      "electors_07": 121060,
+      "winner_07": "Harchand Kaur"
     },
     {
       "dest": [
@@ -1105,7 +1351,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 83
+      "ac_no": 83,
+      "party07": "INC",
+      "electors_07": 150899,
+      "winner_07": "Kewal Singh Dhillon"
     },
     {
       "dest": [
@@ -1119,7 +1368,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 84
+      "ac_no": 84,
+      "party07": "SAD",
+      "electors_07": 127171,
+      "winner_07": "Balvir Singh Ghunas"
     },
     {
       "dest": [
@@ -1133,7 +1385,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 85
+      "ac_no": 85,
+      "party07": "INC",
+      "electors_07": 130352,
+      "winner_07": "Kuldip Singh Bhathal"
     },
     {
       "dest": [
@@ -1146,7 +1401,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 86
+      "ac_no": 86,
+      "party07": "INC",
+      "electors_07": 155668,
+      "winner_07": "Surinder Pal Singh Sibia"
     },
     {
       "dest": [
@@ -1160,7 +1418,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 87
+      "ac_no": 87,
+      "party07": "INC",
+      "electors_07": 129422,
+      "winner_07": "Surjit Singh Dhiman"
     },
     {
       "dest": [
@@ -1174,7 +1435,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 88
+      "ac_no": 88,
+      "party07": "SAD",
+      "electors_07": 142902,
+      "winner_07": "Parminder Singh Dhindsa"
     },
     {
       "dest": [
@@ -1187,7 +1451,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 89
+      "ac_no": 89,
+      "party07": "INC",
+      "electors_07": 140067,
+      "winner_07": "Rajinder Kaur"
     },
     {
       "dest": [
@@ -1201,7 +1468,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 90
+      "ac_no": 90,
+      "party07": "SAD",
+      "electors_07": 137347,
+      "winner_07": "Gurtej Singh"
     },
     {
       "dest": [
@@ -1214,7 +1484,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 91
+      "ac_no": 91,
+      "party07": "INC",
+      "electors_07": 173498,
+      "winner_07": "Sunil Kumar Jakhar"
     },
     {
       "dest": [
@@ -1227,7 +1500,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 92
+      "ac_no": 92,
+      "party07": "BJP",
+      "electors_07": 140446,
+      "winner_07": "Surjeet Kumar"
     },
     {
       "dest": [
@@ -1240,7 +1516,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 93
+      "ac_no": 93,
+      "party07": "SAD",
+      "electors_07": 164973,
+      "winner_07": "Sher Singh"
     },
     {
       "dest": [
@@ -1253,7 +1532,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 94
+      "ac_no": 94,
+      "party07": "INC",
+      "electors_07": 161002,
+      "winner_07": "Gurmeet Singh"
     },
     {
       "dest": [
@@ -1266,7 +1548,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 95
+      "ac_no": 95,
+      "party07": "BJP",
+      "electors_07": 154548,
+      "winner_07": "Sukhpal Singh"
     },
     {
       "dest": [
@@ -1279,7 +1564,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 96
+      "ac_no": 96,
+      "party07": "SAD",
+      "electors_07": 126499,
+      "winner_07": "Janmeja Singh"
     },
     {
       "dest": [
@@ -1293,7 +1581,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 97
+      "ac_no": 97,
+      "party07": "INC",
+      "electors_07": 144868,
+      "winner_07": "Naresh Kumar"
     },
     {
       "dest": [
@@ -1306,7 +1597,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 98
+      "ac_no": 98,
+      "party07": "SAD",
+      "electors_07": 140407,
+      "winner_07": "Seetal Singh"
     },
     {
       "dest": [
@@ -1321,7 +1615,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 99
+      "ac_no": 99,
+      "party07": "INC",
+      "electors_07": 152708,
+      "winner_07": "Joginder Pal Jain"
     },
     {
       "dest": [
@@ -1335,7 +1632,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 100
+      "ac_no": 100,
+      "party07": "INC",
+      "electors_07": 139483,
+      "winner_07": "Darshan Singh Brar (Khote)"
     },
     {
       "dest": [
@@ -1348,7 +1648,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 101
+      "ac_no": 101,
+      "party07": "IND",
+      "electors_07": 125835,
+      "winner_07": "Ajit Singh"
     },
     {
       "dest": [
@@ -1361,7 +1664,10 @@
       "status": "abolished",
       "approx": false,
       "type": "SC",
-      "ac_no": 102
+      "ac_no": 102,
+      "party07": "INC",
+      "electors_07": 131298,
+      "winner_07": "Joginder Singh"
     },
     {
       "dest": [
@@ -1375,7 +1681,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 103
+      "ac_no": 103,
+      "party07": "INC",
+      "electors_07": 166066,
+      "winner_07": "Ripjit Singh"
     },
     {
       "dest": [
@@ -1388,7 +1697,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 104
+      "ac_no": 104,
+      "party07": "INC",
+      "electors_07": 170111,
+      "winner_07": "Avtar Singh Brar"
     },
     {
       "dest": [
@@ -1402,7 +1714,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 105
+      "ac_no": 105,
+      "party07": "INC",
+      "electors_07": 150088,
+      "winner_07": "Kanwarjit Singh"
     },
     {
       "dest": [
@@ -1415,7 +1730,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 106
+      "ac_no": 106,
+      "party07": "SAD",
+      "electors_07": 140868,
+      "winner_07": "Manpreet Singh Badal"
     },
     {
       "dest": [
@@ -1428,7 +1746,10 @@
       "status": "continuing",
       "approx": false,
       "type": "SC",
-      "ac_no": 107
+      "ac_no": 107,
+      "party07": "SAD",
+      "electors_07": 136454,
+      "winner_07": "Harpreet Singh"
     },
     {
       "dest": [
@@ -1441,7 +1762,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 108
+      "ac_no": 108,
+      "party07": "SAD",
+      "electors_07": 125606,
+      "winner_07": "Parkash Singh Badal"
     },
     {
       "dest": [
@@ -1454,7 +1778,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 109
+      "ac_no": 109,
+      "party07": "INC",
+      "electors_07": 125852,
+      "winner_07": "Jeetmohinder Singh Sidhu"
     },
     {
       "dest": [
@@ -1467,7 +1794,10 @@
       "status": "renamed",
       "approx": false,
       "type": "GEN",
-      "ac_no": 110
+      "ac_no": 110,
+      "party07": "INC",
+      "electors_07": 135473,
+      "winner_07": "Makhan Singh"
     },
     {
       "dest": [
@@ -1481,7 +1811,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 111
+      "ac_no": 111,
+      "party07": "INC",
+      "electors_07": 229755,
+      "winner_07": "Harminder Singh Jassi"
     },
     {
       "dest": [
@@ -1494,7 +1827,10 @@
       "status": "abolished",
       "approx": false,
       "type": "SC",
-      "ac_no": 112
+      "ac_no": 112,
+      "party07": "INC",
+      "electors_07": 141399,
+      "winner_07": "Ajaib Singh Bhatti"
     },
     {
       "dest": [
@@ -1507,7 +1843,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 113
+      "ac_no": 113,
+      "party07": "INC",
+      "electors_07": 136761,
+      "winner_07": "Gurpreet Singh Kangar"
     },
     {
       "dest": [
@@ -1520,7 +1859,10 @@
       "status": "abolished",
       "approx": false,
       "type": "GEN",
-      "ac_no": 114
+      "ac_no": 114,
+      "party07": "SAD",
+      "electors_07": 129395,
+      "winner_07": "Jagdeep Singh Nakai"
     },
     {
       "dest": [
@@ -1533,7 +1875,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 115
+      "ac_no": 115,
+      "party07": "INC",
+      "electors_07": 150705,
+      "winner_07": "Sher Singh"
     },
     {
       "dest": [
@@ -1546,7 +1891,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 116
+      "ac_no": 116,
+      "party07": "INC",
+      "electors_07": 134256,
+      "winner_07": "Mangat Rai Bansal"
     },
     {
       "dest": [
@@ -1559,7 +1907,10 @@
       "status": "continuing",
       "approx": false,
       "type": "GEN",
-      "ac_no": 117
+      "ac_no": 117,
+      "party07": "INC",
+      "electors_07": 133257,
+      "winner_07": "Ajit Inder Singh"
     }
   ],
   "assembly": "Punjab Vidhan Sabha",
@@ -1719,7 +2070,10 @@
       "note": "Name retained from the old Sujanpur; strongest continuity within Pathankot tehsil. (Falls under Pathankot district after its 2016 creation.)",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 1
+      "ac_no": 1,
+      "party12": "BJP",
+      "electors_12": 143587,
+      "winner_12": "Dinesh Singh"
     },
     {
       "sc_note": "Newly SC-reserved seat.",
@@ -1732,7 +2086,10 @@
       "note": "An entirely new name with no direct predecessor; it mainly absorbed a large chunk of old Narot Mehra's territory and became newly SC-reserved.",
       "status": "new",
       "type": "SC",
-      "ac_no": 2
+      "ac_no": 2,
+      "party12": "BJP",
+      "electors_12": 152145,
+      "winner_12": "Seema Kumari"
     },
     {
       "sc_note": "",
@@ -1746,7 +2103,10 @@
       "note": "The name stayed; town + core of the old Pathankot, minus the Dhar Kalan portion that went to Sujanpur.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 3
+      "ac_no": 3,
+      "party12": "BJP",
+      "electors_12": 130391,
+      "winner_12": "Ashwani Kumar Sharma"
     },
     {
       "sc_note": "",
@@ -1759,7 +2119,10 @@
       "note": "Direct continuity; the town core remains the same.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 4
+      "ac_no": 4,
+      "party12": "SAD",
+      "electors_12": 140023,
+      "winner_12": "Gurbachan Singh Babbehali"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -1772,7 +2135,10 @@
       "note": "Direct continuity with old Dina Nagar; now a reserved seat.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 5
+      "ac_no": 5,
+      "party12": "INC",
+      "electors_12": 168395,
+      "winner_12": "Aruna Chaudhary"
     },
     {
       "sc_note": "",
@@ -1787,7 +2153,10 @@
       "note": "Only the Qadian town core stayed; the seat was rebuilt largely from old Kahnuwan and Dhariwal territory.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 6
+      "ac_no": 6,
+      "party12": "INC",
+      "electors_12": 161356,
+      "winner_12": "Charanjit Kaur Bajwa"
     },
     {
       "sc_note": "",
@@ -1801,7 +2170,10 @@
       "note": "Batala town core stays; the seat absorbed a large part of old Qadian (Duniya Sandhu, Loh Chap, Talwandi Jhunglan PCs).",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 7
+      "ac_no": 7,
+      "party12": "INC",
+      "electors_12": 162353,
+      "winner_12": "Ashwani Sekhri"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -1814,7 +2186,10 @@
       "note": "Direct continuity with old Sirihargobindpur; only the spelling was standardized, and the seat is now SC-reserved.",
       "status": "renamed",
       "type": "SC",
-      "ac_no": 8
+      "ac_no": 8,
+      "party12": "SAD",
+      "electors_12": 154545,
+      "winner_12": "Des Raj Dhugga"
     },
     {
       "sc_note": "",
@@ -1827,7 +2202,10 @@
       "note": "A new seat assembled from Batala-tehsil KCs plus fringe PCs shifted out of old Batala (Faijpur KC).",
       "status": "new",
       "type": "GEN",
-      "ac_no": 9
+      "ac_no": 9,
+      "party12": "INC",
+      "electors_12": 143791,
+      "winner_12": "Tripat Rajinder Singh Bajwa"
     },
     {
       "sc_note": "",
@@ -1841,7 +2219,10 @@
       "note": "New seat name: Dera Baba Nanak, Dhianpur and Fatehgarh KCs (the old Fatehgarh seat) form its base, plus the Kalanaur portion of old Dhariwal.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 10
+      "ac_no": 10,
+      "party12": "INC",
+      "electors_12": 163268,
+      "winner_12": "Sukhjinder Singh"
     },
     {
       "sc_note": "",
@@ -1854,7 +2235,10 @@
       "note": "Ajnala and Ramdas KCs carry over directly; Jasterwal KC moved out to Raja Sansi.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 11
+      "ac_no": 11,
+      "party12": "SAD",
+      "electors_12": 138531,
+      "winner_12": "Bonny Amarpal Singh Ajnala"
     },
     {
       "sc_note": "",
@@ -1868,7 +2252,10 @@
       "note": "Raja Sansi and Lopoke KCs carry over directly; gained Jastarwal (from old Ajnala) plus Jassrauor, Kakkar, Chogawan KCs.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 12
+      "ac_no": 12,
+      "party12": "INC",
+      "electors_12": 155672,
+      "winner_12": "Sukhbinder Singh Sarkaria"
     },
     {
       "sc_note": "",
@@ -1881,7 +2268,10 @@
       "note": "Majitha KC carries over directly; the old Tarsikka portion was redistributed toward the Verka/Attari cluster.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 13
+      "ac_no": 13,
+      "party12": "SAD",
+      "electors_12": 142709,
+      "winner_12": "Bikram Singh Majithia"
     },
     {
       "sc_note": "",
@@ -1895,7 +2285,10 @@
       "note": "Direct continuity of the name/town, but composition changed: added Mehta and Tarsikka KCs (absorbing old Beas) from Baba Bakala Tehsil.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 14
+      "ac_no": 14,
+      "party12": "SAD",
+      "electors_12": 154330,
+      "winner_12": "Baljit Singh Jalal Usma"
     },
     {
       "sc_note": "",
@@ -1908,7 +2301,10 @@
       "note": "Direct continuity; wards renumbered under the new Amritsar-I/II Tehsil (Corporation) structure.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 15
+      "ac_no": 15,
+      "party12": "BJP",
+      "electors_12": 163246,
+      "winner_12": "Anil Joshi"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -1921,7 +2317,10 @@
       "note": "Direct continuity of core area; the seat is newly SC-reserved.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 16
+      "ac_no": 16,
+      "party12": "INC",
+      "electors_12": 166210,
+      "winner_12": "Raj Kumar"
     },
     {
       "sc_note": "",
@@ -1934,7 +2333,10 @@
       "note": "Direct continuity; wards renumbered.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 17
+      "ac_no": 17,
+      "party12": "INC",
+      "electors_12": 132861,
+      "winner_12": "Om Parkash Soni"
     },
     {
       "sc_note": "",
@@ -1947,7 +2349,10 @@
       "note": "A newly created city seat, carved from ward fragments of old Amritsar South/West as the city grew.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 18
+      "ac_no": 18,
+      "party12": "BJP",
+      "electors_12": 139095,
+      "winner_12": "Navjot Sidhu"
     },
     {
       "sc_note": "",
@@ -1960,7 +2365,10 @@
       "note": "Direct continuity of the remaining ward range after Amritsar East was carved out.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 19
+      "ac_no": 19,
+      "party12": "SAD",
+      "electors_12": 143673,
+      "winner_12": "Inderbir Singh Bolaria"
     },
     {
       "sc_note": "",
@@ -1974,7 +2382,10 @@
       "note": "Attari KC carries over; absorbed old Verka (SC) — the SC reservation effectively shifted from Verka to Attari. Gained urban KCs (Amritsar-II, Khasa, Verka, Wadala Bhittewad, Chabba).",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 20
+      "ac_no": 20,
+      "party12": "SAD",
+      "electors_12": 149281,
+      "winner_12": "Gulzar Singh Ranike"
     },
     {
       "sc_note": "",
@@ -1987,7 +2398,10 @@
       "note": "Tarn Taran KC carries over directly; gained Jhabal Kalan, Sohal Thathi, Gaggo Bua.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 21
+      "ac_no": 21,
+      "party12": "SAD",
+      "electors_12": 156794,
+      "winner_12": "Harmeet Singh Sandhu"
     },
     {
       "sc_note": "",
@@ -2000,7 +2414,10 @@
       "note": "New seat name; old Valtoha's KC is explicitly listed here, plus Gharyala-KC fragments from old Patti's belt.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 22
+      "ac_no": 22,
+      "party12": "SAD",
+      "electors_12": 181219,
+      "winner_12": "Virsa Singh"
     },
     {
       "sc_note": "",
@@ -2014,7 +2431,10 @@
       "note": "Patti KC carries over directly; expanded using Naushahra Panwan and Gharyala fragments.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 23
+      "ac_no": 23,
+      "party12": "SAD",
+      "electors_12": 173533,
+      "winner_12": "Adeshpartap Singh Kairon"
     },
     {
       "sc_note": "Lost SC reservation (moved to Baba Bakala).",
@@ -2027,7 +2447,10 @@
       "note": "Only 3 PCs of the old Khadoor Sahib KC remained here; the seat is no longer SC-reserved — the reservation moved to the new Baba Bakala.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 24
+      "ac_no": 24,
+      "party12": "INC",
+      "electors_12": 171245,
+      "winner_12": "Ramanjit Singh Sikki"
     },
     {
       "sc_note": "Inherited the SC reservation from old Khadoor Sahib (SC).",
@@ -2040,7 +2463,10 @@
       "note": "Newly created seat: the bulk of old Khadoor Sahib KC's villages moved here, and it now carries the SC reservation instead.",
       "status": "new",
       "type": "SC",
-      "ac_no": 25
+      "ac_no": 25,
+      "party12": "SAD",
+      "electors_12": 165997,
+      "winner_12": "Manjit Singh Manna Mianwind"
     },
     {
       "sc_note": "",
@@ -2053,7 +2479,10 @@
       "note": "Direct continuity; the same tehsil-based seat.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 26
+      "ac_no": 26,
+      "party12": "SAD",
+      "electors_12": 118694,
+      "winner_12": "Bibi Jagir Kaur"
     },
     {
       "sc_note": "",
@@ -2066,7 +2495,10 @@
       "note": "Direct continuity; Kapurthala KC and town core carry over.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 27
+      "ac_no": 27,
+      "party12": "INC",
+      "electors_12": 121597,
+      "winner_12": "Rana Gurjit Singh"
     },
     {
       "sc_note": "",
@@ -2079,7 +2511,10 @@
       "note": "Direct continuity with old Sultanpur; the name slightly expanded, same tehsil base.",
       "status": "renamed",
       "type": "GEN",
-      "ac_no": 28
+      "ac_no": 28,
+      "party12": "INC",
+      "electors_12": 122870,
+      "winner_12": "Navtej Singh"
     },
     {
       "sc_note": "",
@@ -2092,7 +2527,10 @@
       "note": "Direct continuity; the same tehsil-based seat, SC status retained.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 29
+      "ac_no": 29,
+      "party12": "BJP",
+      "electors_12": 151668,
+      "winner_12": "Som Parkash"
     },
     {
       "sc_note": "",
@@ -2105,7 +2543,10 @@
       "note": "Direct continuity; Phillaur KC and SC status both carry over.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 30
+      "ac_no": 30,
+      "party12": "SAD",
+      "electors_12": 180459,
+      "winner_12": "Avinash Chander"
     },
     {
       "sc_note": "",
@@ -2120,7 +2561,10 @@
       "note": "Direct continuity; Nakodar KC carries over. Expanded with Bilga, Nurmahal, Talwan KCs (from old Nur Mahal) and old Lohian's Uggi fragment.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 31
+      "ac_no": 31,
+      "party12": "SAD",
+      "electors_12": 168736,
+      "winner_12": "Gurpartap Singh Wadala"
     },
     {
       "sc_note": "",
@@ -2134,7 +2578,10 @@
       "note": "New seat name; old Lohian and Shahkot KCs absorbed here, plus old Nur Mahal's Mehatpur portion.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 32
+      "ac_no": 32,
+      "party12": "SAD",
+      "electors_12": 154449,
+      "winner_12": "Ajit Singh Kohar"
     },
     {
       "sc_note": "",
@@ -2147,7 +2594,10 @@
       "note": "Direct continuity; Kartarpur KC and SC status both carry over.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 33
+      "ac_no": 33,
+      "party12": "SAD",
+      "electors_12": 149410,
+      "winner_12": "Sarwan Singh"
     },
     {
       "sc_note": "Inherited the SC reservation from the dissolved Jullundur South (SC).",
@@ -2160,7 +2610,10 @@
       "note": "Newly created seat; the SC reservation of old Jullundur South (SC) shifted onto it.",
       "status": "new",
       "type": "SC",
-      "ac_no": 34
+      "ac_no": 34,
+      "party12": "BJP",
+      "electors_12": 136607,
+      "winner_12": "Chuni Lal Bhagat"
     },
     {
       "sc_note": "",
@@ -2173,7 +2626,10 @@
       "note": "Direct continuity with old Jullundur Central (spelling modernized); core urban wards.",
       "status": "renamed",
       "type": "GEN",
-      "ac_no": 35
+      "ac_no": 35,
+      "party12": "BJP",
+      "electors_12": 141752,
+      "winner_12": "Manoranjan Kalia"
     },
     {
       "sc_note": "",
@@ -2186,7 +2642,10 @@
       "note": "Direct continuity with old Jullundur North (spelling modernized); core urban wards.",
       "status": "renamed",
       "type": "GEN",
-      "ac_no": 36
+      "ac_no": 36,
+      "party12": "BJP",
+      "electors_12": 154537,
+      "winner_12": "K.D.Bhandari"
     },
     {
       "sc_note": "",
@@ -2200,7 +2659,10 @@
       "note": "Direct continuity with old Jullundur Cantonment; Jamsher KC carries over, plus the Pholriwala/Khambra fringe of old Jullundur South.",
       "status": "renamed",
       "type": "GEN",
-      "ac_no": 37
+      "ac_no": 37,
+      "party12": "SAD",
+      "electors_12": 162593,
+      "winner_12": "Pargat Singh"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -2213,7 +2675,10 @@
       "note": "Direct continuity; Adampur and Bhogpur KCs both carry over; the seat is now SC-reserved.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 38
+      "ac_no": 38,
+      "party12": "SAD",
+      "electors_12": 145204,
+      "winner_12": "Sh. Pawan Kumar Tinu"
     },
     {
       "sc_note": "",
@@ -2226,7 +2691,10 @@
       "note": "Direct continuity; Mukerian KC carries over, expanded with Talwara KC fragments.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 39
+      "ac_no": 39,
+      "party12": "IND",
+      "electors_12": 163851,
+      "winner_12": "Rajnish Kumar"
     },
     {
       "sc_note": "",
@@ -2239,7 +2707,10 @@
       "note": "Direct continuity; Dasuya KC carries over, expanded with Datarpur/Talwara KC fragments.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 40
+      "ac_no": 40,
+      "party12": "BJP",
+      "electors_12": 163563,
+      "winner_12": "Amarjit Singh"
     },
     {
       "sc_note": "Old Garhdiwala's SC reservation was not carried forward; Urmar is unreserved.",
@@ -2253,7 +2724,10 @@
       "note": "A genuinely new constituency created by merging two dissolved old seats (Tanda + Garhdiwala (SC)) rather than being a renaming of either one.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 41
+      "ac_no": 41,
+      "party12": "INC",
+      "electors_12": 153750,
+      "winner_12": "CONSTITUENCY WINNER PARTY SEX Sangat Singh"
     },
     {
       "sc_note": "",
@@ -2266,7 +2740,10 @@
       "note": "Direct continuity; Sham Chaurasi KC and SC status both carry over.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 42
+      "ac_no": 42,
+      "party12": "SAD",
+      "electors_12": 149726,
+      "winner_12": "Mohinder Kaur Josh"
     },
     {
       "sc_note": "",
@@ -2279,7 +2756,10 @@
       "note": "Direct continuity; Hoshiarpur KC and town core carry over.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 43
+      "ac_no": 43,
+      "party12": "INC",
+      "electors_12": 151619,
+      "winner_12": "Sunder Sham Arora"
     },
     {
       "sc_note": "Inherited the SC reservation from the dissolved Mahilpur (SC).",
@@ -2292,7 +2772,10 @@
       "note": "New seat; old Mahilpur (SC)'s Sarhala Kalan KC is named here, and the SC reservation was transplanted onto it.",
       "status": "new",
       "type": "SC",
-      "ac_no": 44
+      "ac_no": 44,
+      "party12": "SAD",
+      "electors_12": 138706,
+      "winner_12": "Sohan Singh Thandal"
     },
     {
       "sc_note": "",
@@ -2306,7 +2789,10 @@
       "note": "Direct continuity; also absorbs old Mahilpur (SC)'s core (Mahilpur KC named explicitly).",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 45
+      "ac_no": 45,
+      "party12": "SAD",
+      "electors_12": 152255,
+      "winner_12": "Surinder Singh Bhulewal Rathan"
     },
     {
       "sc_note": "",
@@ -2319,7 +2805,10 @@
       "note": "Direct continuity of name, territory and SC status; only the parent district changed.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 46
+      "ac_no": 46,
+      "party12": "INC",
+      "electors_12": 142413,
+      "winner_12": "Tarlochan Singh"
     },
     {
       "sc_note": "",
@@ -2332,7 +2821,10 @@
       "note": "Direct continuity; the same tehsil-based seat, now anchoring its own district.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 47
+      "ac_no": 47,
+      "party12": "INC",
+      "electors_12": 146849,
+      "winner_12": "Guriqbal Kaur"
     },
     {
       "sc_note": "",
@@ -2345,7 +2837,10 @@
       "note": "Direct continuity of the tehsil-based seat; only the parent district changed.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 48
+      "ac_no": 48,
+      "party12": "SAD",
+      "electors_12": 130905,
+      "winner_12": "Nand Lal"
     },
     {
       "sc_note": "",
@@ -2358,7 +2853,10 @@
       "note": "Successor to old Nangal — the new seat's KC list explicitly includes Nangal and Naya Nangal, plus the Anandpur Sahib core.",
       "status": "renamed",
       "type": "GEN",
-      "ac_no": 49
+      "ac_no": 49,
+      "party12": "BJP",
+      "electors_12": 171869,
+      "winner_12": "Madan Mohan Mittal"
     },
     {
       "sc_note": "",
@@ -2371,7 +2869,10 @@
       "note": "Ropar town renamed Rupnagar; old Anandpur Sahib-Ropar's Nurpur Bedi and Ghanauli fragments are both explicitly named here.",
       "status": "renamed",
       "type": "GEN",
-      "ac_no": 50
+      "ac_no": 50,
+      "party12": "SAD",
+      "electors_12": 149952,
+      "winner_12": "Dr Daljeet Singh Cheema"
     },
     {
       "sc_note": "",
@@ -2385,7 +2886,10 @@
       "note": "Direct continuity of name and SC status; also absorbed old Morinda's core KCs (Morinda, Ban Majra, Morinda MC).",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 51
+      "ac_no": 51,
+      "party12": "INC",
+      "electors_12": 165992,
+      "winner_12": "Charanjit Singh Channi"
     },
     {
       "sc_note": "",
@@ -2399,7 +2903,10 @@
       "note": "Old Kharar KC is explicitly named here; also gained old Morinda's Mullanpur/Kurali fragment.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 52
+      "ac_no": 52,
+      "party12": "INC",
+      "electors_12": 173915,
+      "winner_12": "Jagmohan Singh"
     },
     {
       "sc_note": "",
@@ -2412,7 +2919,10 @@
       "note": "Essentially a brand-new unit carved out of old Kharar tehsil, reflecting Mohali's growth into its own district/urban centre.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 53
+      "ac_no": 53,
+      "party12": "INC",
+      "electors_12": 177023,
+      "winner_12": "Balbir Singh Sidhu"
     },
     {
       "sc_note": "Newly SC-reserved seat.",
@@ -2425,7 +2935,10 @@
       "note": "A genuinely new creation stitched from Fatehgarh Sahib-tehsil fragments plus Khamanon tehsil — which previously belonged to old Samrala under old Ludhiana district. One new seat drawing from two entirely different old districts.",
       "status": "new",
       "type": "SC",
-      "ac_no": 54
+      "ac_no": 54,
+      "party12": "SAD",
+      "electors_12": 129234,
+      "winner_12": "Justice Nirmal Singh"
     },
     {
       "sc_note": "",
@@ -2438,7 +2951,10 @@
       "note": "Old Sirhind renamed to reflect the district's new headquarters town; same tehsil base.",
       "status": "renamed",
       "type": "GEN",
-      "ac_no": 55
+      "ac_no": 55,
+      "party12": "INC",
+      "electors_12": 132067,
+      "winner_12": "Kuljit Singh Nagra"
     },
     {
       "sc_note": "Lost its SC reservation.",
@@ -2451,7 +2967,10 @@
       "note": "Direct continuity of name and tehsil, but lost the SC reservation; moved into the new Fatehgarh Sahib district.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 56
+      "ac_no": 56,
+      "party12": "INC",
+      "electors_12": 114221,
+      "winner_12": "Randeep Singh"
     },
     {
       "sc_note": "Lost its SC reservation.",
@@ -2464,7 +2983,10 @@
       "note": "Direct continuity of name and tehsil; lost its SC reservation.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 57
+      "ac_no": 57,
+      "party12": "INC",
+      "electors_12": 145113,
+      "winner_12": "Gurkirat Singh"
     },
     {
       "sc_note": "",
@@ -2477,7 +2999,10 @@
       "note": "Direct continuity; the same tehsil-based seat (minus the Khamanon portion, which went to Bassi Pathana).",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 58
+      "ac_no": 58,
+      "party12": "INC",
+      "electors_12": 151362,
+      "winner_12": "Amrik Singh"
     },
     {
       "sc_note": "",
@@ -2491,7 +3016,10 @@
       "note": "Newly created seat; old Kum Kalan (SC)'s Koom Kalan KC is explicitly named here, but the seat is unreserved.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 59
+      "ac_no": 59,
+      "party12": "SAD",
+      "electors_12": 169367,
+      "winner_12": "Sharanjit Singh Dhillon"
     },
     {
       "sc_note": "",
@@ -2504,7 +3032,10 @@
       "note": "Direct continuity of name; wards fully renumbered under the Ludhiana East Tehsil / Municipal Corporation system.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 60
+      "ac_no": 60,
+      "party12": "SAD",
+      "electors_12": 149607,
+      "winner_12": "Ranjit Singh Dhillon"
     },
     {
       "sc_note": "",
@@ -2517,7 +3048,10 @@
       "note": "One of the new city seats carved from old Ludhiana Rural's territory plus city growth.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 61
+      "ac_no": 61,
+      "party12": "IND",
+      "electors_12": 128144,
+      "winner_12": "Balwinder Singh Bains"
     },
     {
       "sc_note": "",
@@ -2530,7 +3064,10 @@
       "note": "A brand-new city seat; did not exist before 2008.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 62
+      "ac_no": 62,
+      "party12": "IND",
+      "electors_12": 139025,
+      "winner_12": "Simarjit Singh Bains"
     },
     {
       "sc_note": "",
@@ -2543,7 +3080,10 @@
       "note": "New city seat: Ludhiana expanded from 4 to 7 seats, reflecting urban population growth.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 63
+      "ac_no": 63,
+      "party12": "INC",
+      "electors_12": 134931,
+      "winner_12": "Surinder Kumar Dawar"
     },
     {
       "sc_note": "",
@@ -2556,7 +3096,10 @@
       "note": "Direct continuity of name; wards renumbered.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 64
+      "ac_no": 64,
+      "party12": "INC",
+      "electors_12": 157997,
+      "winner_12": "Bharat Bhushan Ashu"
     },
     {
       "sc_note": "",
@@ -2569,7 +3112,10 @@
       "note": "Direct continuity of name; wards renumbered.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 65
+      "ac_no": 65,
+      "party12": "INC",
+      "electors_12": 161339,
+      "winner_12": "Rakesh Panday"
     },
     {
       "sc_note": "Inherited the SC reservation from old Dakha (SC).",
@@ -2582,7 +3128,10 @@
       "note": "Newly created seat; old Dakha (SC)'s Gill KC fragment moved here, and it inherited the SC reservation.",
       "status": "new",
       "type": "SC",
-      "ac_no": 66
+      "ac_no": 66,
+      "party12": "SAD",
+      "electors_12": 194529,
+      "winner_12": "Darshan Singh Shivalik"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -2596,7 +3145,10 @@
       "note": "Direct continuity of name and tehsil; now SC-reserved. Old Qila Raipur's territory likely sits within it (flagged in the source as inferred).",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 67
+      "ac_no": 67,
+      "party12": "SAD",
+      "electors_12": 145674,
+      "winner_12": "Charanjit Singh Atwal"
     },
     {
       "sc_note": "Lost its SC reservation (moved to Gill).",
@@ -2609,7 +3161,10 @@
       "note": "Old Dakha's core (Dakha KC, Swaddi Khas KC) explicitly named here, but the seat lost SC status.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 68
+      "ac_no": 68,
+      "party12": "SAD",
+      "electors_12": 163910,
+      "winner_12": "Manpreet Singh Ayali"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -2622,7 +3177,10 @@
       "note": "Direct continuity of name and core Raikot Tehsil territory; now SC-reserved.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 69
+      "ac_no": 69,
+      "party12": "INC",
+      "electors_12": 138117,
+      "winner_12": "Gurcharan Singh"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -2635,7 +3193,10 @@
       "note": "Direct continuity; Jagraon and Manuke KCs both explicitly named; now SC-reserved.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 70
+      "ac_no": 70,
+      "party12": "SAD",
+      "electors_12": 159714,
+      "winner_12": "S R Kaler"
     },
     {
       "sc_note": "",
@@ -2650,7 +3211,10 @@
       "note": "The one clean continuity case in this belt: full KC/PC carryover, SC status preserved.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 71
+      "ac_no": 71,
+      "party12": "SAD",
+      "electors_12": 178386,
+      "winner_12": "Rajwinder Kaur"
     },
     {
       "sc_note": "",
@@ -2663,7 +3227,10 @@
       "note": "Direct continuity as a tehsil-based seat; draws from both old Bagha Purana and old Moga.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 72
+      "ac_no": 72,
+      "party12": "SAD",
+      "electors_12": 152997,
+      "winner_12": "Maheshinder Singh"
     },
     {
       "sc_note": "",
@@ -2676,7 +3243,10 @@
       "note": "Direct continuity of the town core; the new Moga and new Bhagha Purana both draw from old Moga and old Bagha Purana.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 73
+      "ac_no": 73,
+      "party12": "INC",
+      "electors_12": 174531,
+      "winner_12": "Joginder Pal Jain"
     },
     {
       "sc_note": "Lost its SC reservation.",
@@ -2691,7 +3261,10 @@
       "note": "The standout reshuffle: built from fragments of old Dharamkot (SC) and old Moga, not a clean rename of either. Old Dharamkot's SC reservation was dropped.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 74
+      "ac_no": 74,
+      "party12": "SAD",
+      "electors_12": 159365,
+      "winner_12": "Tota Singh"
     },
     {
       "sc_note": "",
@@ -2704,7 +3277,10 @@
       "note": "Direct continuity; Zira Tehsil is the entirety of the new seat.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 75
+      "ac_no": 75,
+      "party12": "SAD",
+      "electors_12": 162513,
+      "winner_12": "Hari Singh"
     },
     {
       "sc_note": "",
@@ -2717,7 +3293,10 @@
       "note": "Old Ferozepur's municipality/KC core continues here; the seat as a whole is now split with Firozpur Rural.",
       "status": "renamed",
       "type": "GEN",
-      "ac_no": 76
+      "ac_no": 76,
+      "party12": "INC",
+      "electors_12": 154525,
+      "winner_12": "Parminder Singh Pinki"
     },
     {
       "sc_note": "SC-reserved; the old Cantonment seat it absorbed was unreserved.",
@@ -2730,7 +3309,10 @@
       "note": "Successor to old Ferozepur Cantonment (its KC is explicitly named here, along with KC Mamdot), but with reservation status changed to SC.",
       "status": "new",
       "type": "SC",
-      "ac_no": 77
+      "ac_no": 77,
+      "party12": "SAD",
+      "electors_12": 161204,
+      "winner_12": "Joginder Singh Alias Jindu"
     },
     {
       "sc_note": "",
@@ -2743,7 +3325,10 @@
       "note": "Direct continuity; Guru Har Sahai KC and Mahmu Joyian explicitly named.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 78
+      "ac_no": 78,
+      "party12": "INC",
+      "electors_12": 141371,
+      "winner_12": "Gurmeet Singh Sodhi"
     },
     {
       "sc_note": "",
@@ -2756,7 +3341,10 @@
       "note": "Direct continuity; also absorbed fragments (Tahliwala Bodla, Arniwala Sheikh Subhan) that used to sit in old Balluana's KC list.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 79
+      "ac_no": 79,
+      "party12": "SAD",
+      "electors_12": 172075,
+      "winner_12": "Sukhbir Singh Badal"
     },
     {
       "sc_note": "",
@@ -2769,7 +3357,10 @@
       "note": "Direct continuity of the core town/KC.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 80
+      "ac_no": 80,
+      "party12": "BJP",
+      "electors_12": 146892,
+      "winner_12": "Surjit Kumar Jyani"
     },
     {
       "sc_note": "",
@@ -2783,7 +3374,10 @@
       "note": "Direct continuity; Abohar municipality and Abohar (Rural)/Abohar Mandi explicitly named. Picked up PC Azimagarh from old Balluana's list.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 81
+      "ac_no": 81,
+      "party12": "INC",
+      "electors_12": 146747,
+      "winner_12": "Sunil Kumar Jakhar"
     },
     {
       "sc_note": "",
@@ -2796,7 +3390,10 @@
       "note": "Direct continuity; name and SC status both preserved.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 82
+      "ac_no": 82,
+      "party12": "SAD",
+      "electors_12": 157198,
+      "winner_12": "Gurtej Singh"
     },
     {
       "sc_note": "",
@@ -2809,7 +3406,10 @@
       "note": "Direct continuity; KCs Killianwali/Lambi and the remaining Malout-KC PCs (Alamwala, Bhagwan Pura) explicitly named.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 83
+      "ac_no": 83,
+      "party12": "SAD",
+      "electors_12": 140066,
+      "winner_12": "Parkash Singh Badal"
     },
     {
       "sc_note": "",
@@ -2822,7 +3422,10 @@
       "note": "Direct continuity; MC/KC Gidderbaha explicitly named.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 84
+      "ac_no": 84,
+      "party12": "INC",
+      "electors_12": 140471,
+      "winner_12": "CONSTITUENCY WINNER PARTY SEX Amrinder Singh Raja Warring"
     },
     {
       "sc_note": "",
@@ -2836,7 +3439,10 @@
       "note": "Direct continuity; SC status preserved. Also picked up KC Lakhewali and PCs from old Muktsar's excluded list.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 85
+      "ac_no": 85,
+      "party12": "SAD",
+      "electors_12": 150934,
+      "winner_12": "Harpreet Singh"
     },
     {
       "sc_note": "",
@@ -2849,7 +3455,10 @@
       "note": "Direct continuity; KC/MC Muktsar and PCs Sarainaga, Warring, Thandewala, Bhullar explicitly named.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 86
+      "ac_no": 86,
+      "party12": "INC",
+      "electors_12": 154591,
+      "winner_12": "Karan Kaur"
     },
     {
       "sc_note": "",
@@ -2862,7 +3471,10 @@
       "note": "Direct continuity; constituency retained with revised boundaries.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 87
+      "ac_no": 87,
+      "party12": "SAD",
+      "electors_12": 133967,
+      "winner_12": "Deep Malhotra"
     },
     {
       "sc_note": "",
@@ -2875,7 +3487,10 @@
       "note": "Direct continuity; constituency retained with revised boundaries (its Jaitu piece split off).",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 88
+      "ac_no": 88,
+      "party12": "SAD",
+      "electors_12": 134157,
+      "winner_12": "Mantar Singh Brar"
     },
     {
       "sc_note": "SC-reserved; absorbed the abolished Panjgrain (SC), whose reservation it carries forward.",
@@ -2889,7 +3504,10 @@
       "note": "New seat name: Jaitu Tehsil (from old Kot Kapura) forms its core, and most of the former Panjgrain (SC) was merged into it.",
       "status": "new",
       "type": "SC",
-      "ac_no": 89
+      "ac_no": 89,
+      "party12": "INC",
+      "electors_12": 130721,
+      "winner_12": "Joginder Singh"
     },
     {
       "sc_note": "",
@@ -2902,7 +3520,10 @@
       "note": "Direct continuity; constituency retained with revised boundaries.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 90
+      "ac_no": 90,
+      "party12": "SAD",
+      "electors_12": 145535,
+      "winner_12": "Sikander Singh Maluka"
     },
     {
       "sc_note": "Newly SC-reserved (replacing Pakka Kalan as the district's SC seat).",
@@ -2916,7 +3537,10 @@
       "note": "Replaced Pakka Kalan in the 2008 order; also absorbed old Nathana (SC)'s KC. SC reservation newly added at this seat.",
       "status": "new",
       "type": "SC",
-      "ac_no": 91
+      "ac_no": 91,
+      "party12": "INC",
+      "electors_12": 160433,
+      "winner_12": "Ajaib Singh Bhatti"
     },
     {
       "sc_note": "",
@@ -2929,7 +3553,10 @@
       "note": "Old undivided Bhatinda was split along urban/rural lines; this seat covers the Bathinda Municipal Corporation area.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 92
+      "ac_no": 92,
+      "party12": "SAD",
+      "electors_12": 183804,
+      "winner_12": "Sarup Chand Singla"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -2942,7 +3569,10 @@
       "note": "The rural half of the old undivided Bhatinda seat; SC-reserved.",
       "status": "new",
       "type": "SC",
-      "ac_no": 93
+      "ac_no": 93,
+      "party12": "SAD",
+      "electors_12": 138147,
+      "winner_12": "Darshan Singh Kotfatta"
     },
     {
       "sc_note": "",
@@ -2955,7 +3585,10 @@
       "note": "Direct continuity; constituency retained with revised boundaries.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 94
+      "ac_no": 94,
+      "party12": "INC",
+      "electors_12": 132671,
+      "winner_12": "Jeetmohinder Singh Sidhu"
     },
     {
       "sc_note": "",
@@ -2968,7 +3601,10 @@
       "note": "Replaced Joga as the constituency name covering this tehsil in the 2008 order.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 95
+      "ac_no": 95,
+      "party12": "SAD",
+      "electors_12": 144111,
+      "winner_12": "Janmeja Singh"
     },
     {
       "sc_note": "",
@@ -2981,7 +3617,10 @@
       "note": "Direct continuity; constituency retained with revised boundaries.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 96
+      "ac_no": 96,
+      "party12": "SAD",
+      "electors_12": 182123,
+      "winner_12": "Prem Mittal"
     },
     {
       "sc_note": "",
@@ -2994,7 +3633,10 @@
       "note": "Direct continuity; constituency retained with revised boundaries.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 97
+      "ac_no": 97,
+      "party12": "INC",
+      "electors_12": 156333,
+      "winner_12": "Ajit Inder Singh"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -3007,7 +3649,10 @@
       "note": "Direct continuity; SC reservation added, boundaries revised only slightly.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 98
+      "ac_no": 98,
+      "party12": "SAD",
+      "electors_12": 164255,
+      "winner_12": "Chatin Singh"
     },
     {
       "sc_note": "",
@@ -3021,7 +3666,10 @@
       "note": "Direct continuity; Moonak Tehsil (old Lehra's core) forms the seat.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 99
+      "ac_no": 99,
+      "party12": "INC",
+      "electors_12": 140252,
+      "winner_12": "Rajinder Kaur Bhattal"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -3034,7 +3682,10 @@
       "note": "Old unreserved Dirbha's core resurfaces as the newly SC-reserved Dirba (SC).",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 100
+      "ac_no": 100,
+      "party12": "SAD",
+      "electors_12": 155975,
+      "winner_12": "Sant Balvir Singh Ghunas"
     },
     {
       "sc_note": "",
@@ -3048,7 +3699,10 @@
       "note": "Direct continuity with boundary changes, incorporating parts of present-day Sunam and Longowal areas.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 101
+      "ac_no": 101,
+      "party12": "SAD",
+      "electors_12": 162515,
+      "winner_12": "Parminder Singh Dhindsa"
     },
     {
       "sc_note": "",
@@ -3061,7 +3715,10 @@
       "note": "Name and SC status continue; transferred to the newly created Barnala district.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 102
+      "ac_no": 102,
+      "party12": "INC",
+      "electors_12": 134667,
+      "winner_12": "Mohammed Sadique"
     },
     {
       "sc_note": "",
@@ -3075,7 +3732,10 @@
       "note": "Direct continuity under the new Barnala district; absorbed old Dhanaula's core. (One source table prints it as 'Barnala (SC)', but the change analysis treats it as unreserved.)",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 103
+      "ac_no": 103,
+      "party12": "INC",
+      "electors_12": 147330,
+      "winner_12": "Kewal Singh Dhillon"
     },
     {
       "sc_note": "Inherited the SC reservation that used to belong to Sherpur (SC).",
@@ -3089,7 +3749,10 @@
       "note": "Built from old Sherpur's and old Bhadaur's Mahal-Kalan-KC fragments — a name echo of the old Mahal Kalan KC, not a continuation of any single old seat.",
       "status": "new",
       "type": "SC",
-      "ac_no": 104
+      "ac_no": 104,
+      "party12": "INC",
+      "electors_12": 138869,
+      "winner_12": "Harchand Kaur"
     },
     {
       "sc_note": "",
@@ -3102,7 +3765,10 @@
       "note": "Direct continuity. (At the time of delimitation part of Sangrur district; moved to the new Malerkotla district only in 2021.)",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 105
+      "ac_no": 105,
+      "party12": "SAD",
+      "electors_12": 130397,
+      "winner_12": "F. Nesara Khatoon (Farzana Alam)"
     },
     {
       "sc_note": "",
@@ -3117,7 +3783,10 @@
       "note": "The standout new creation: stitched entirely from Ahmedgarh-KC fragments pulled out of three different old seats (Dhuri, Malerkotla, Sherpur).",
       "status": "new",
       "type": "GEN",
-      "ac_no": 106
+      "ac_no": 106,
+      "party12": "SAD",
+      "electors_12": 137734,
+      "winner_12": "Iqbal Singh Jhundan"
     },
     {
       "sc_note": "",
@@ -3130,7 +3799,10 @@
       "note": "Direct continuity with revised boundaries.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 107
+      "ac_no": 107,
+      "party12": "INC",
+      "electors_12": 138461,
+      "winner_12": "Arvind Khanna"
     },
     {
       "sc_note": "",
@@ -3144,7 +3816,10 @@
       "note": "Direct continuity with revised boundaries; absorbed old Dirbha's Bhawanigarh-KC portion.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 108
+      "ac_no": 108,
+      "party12": "SAD",
+      "electors_12": 155737,
+      "winner_12": "Parkash Chand Garg"
     },
     {
       "sc_note": "Newly SC-reserved.",
@@ -3157,7 +3832,10 @@
       "note": "Direct continuity of name and core KCs, but the seat gained an SC reservation.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 109
+      "ac_no": 109,
+      "party12": "INC",
+      "electors_12": 155562,
+      "winner_12": "Sadhu Singh"
     },
     {
       "sc_note": "",
@@ -3171,7 +3849,10 @@
       "note": "New constituency created after delimitation, combining rural areas from the former Patiala and Nabha constituencies.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 110
+      "ac_no": 110,
+      "party12": "INC",
+      "electors_12": 177869,
+      "winner_12": "Brahm Mohindra"
     },
     {
       "sc_note": "",
@@ -3185,7 +3866,10 @@
       "note": "Direct continuity with substantially revised boundaries; merged with old Banur's Banur-KC fragment.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 111
+      "ac_no": 111,
+      "party12": "INC",
+      "electors_12": 146674,
+      "winner_12": "Hardyal Singh Kamboj"
     },
     {
       "sc_note": "",
@@ -3199,7 +3883,10 @@
       "note": "New constituency created by separating Dera Bassi Tehsil from the former Rajpura/Banur belt. (Today falls under SAS Nagar/Mohali district.)",
       "status": "new",
       "type": "GEN",
-      "ac_no": 112
+      "ac_no": 112,
+      "party12": "SAD",
+      "electors_12": 178581,
+      "winner_12": "N.K. Sharma"
     },
     {
       "sc_note": "",
@@ -3213,7 +3900,10 @@
       "note": "Continued after delimitation with substantially revised boundaries.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 113
+      "ac_no": 113,
+      "party12": "SAD",
+      "electors_12": 137515,
+      "winner_12": "Harpreet Kaur Mukhmailpura"
     },
     {
       "sc_note": "",
@@ -3226,7 +3916,10 @@
       "note": "New constituency created after delimitation from rural areas around Sanour separated out of old Patiala/Dakala territory.",
       "status": "new",
       "type": "GEN",
-      "ac_no": 114
+      "ac_no": 114,
+      "party12": "INC",
+      "electors_12": 176847,
+      "winner_12": "Lal Singh"
     },
     {
       "sc_note": "",
@@ -3239,7 +3932,10 @@
       "note": "Direct continuity with reduced, urban-focused boundaries: urban Patiala (Municipal Corporation area).",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 115
+      "ac_no": 115,
+      "party12": "INC",
+      "electors_12": 140314,
+      "winner_12": "Amarinder Singh"
     },
     {
       "sc_note": "",
@@ -3253,7 +3949,10 @@
       "note": "Direct continuity with revised boundaries; absorbed old Dakala's core.",
       "status": "continuing",
       "type": "GEN",
-      "ac_no": 116
+      "ac_no": 116,
+      "party12": "SAD",
+      "electors_12": 152625,
+      "winner_12": "Surjit Singh Rakhra"
     },
     {
       "sc_note": "",
@@ -3266,7 +3965,10 @@
       "note": "Direct continuity; SC reservation retained with revised boundaries.",
       "status": "continuing",
       "type": "SC",
-      "ac_no": 117
+      "ac_no": 117,
+      "party12": "SAD",
+      "electors_12": 147143,
+      "winner_12": "Vaninder Kaur Loomba"
     }
   ],
   "stats": [
