@@ -1,603 +1,228 @@
 {
-  "meta": {
-    "state": "Haryana",
-    "slug": "haryana",
-    "old_order_year": 1976,
-    "new_order_year": 2008,
-    "seats": 90,
-    "old_election_year": 2005,
-    "new_election_year": 2009,
-    "old_election_label": "February 2005",
-    "new_election_label": "October 2009"
-  },
+  "title": "The Haryana Assembly, Before and After 2008",
+  "name": "Haryana",
+  "assembly": "Haryana Vidhan Sabha",
+  "slug": "haryana",
+  "in_force": "1977–2005",
+  "pre_election_year": 2005,
+  "post_election_year": 2009,
+  "pre_election_label": "February 2005",
+  "post_election_label": "October 2009",
   "maps": {
     "pre2008": "map-pre2008.svg",
     "post2008": "map-post2008.svg",
     "hero": "hero.jpg"
   },
-  "elections": {
-    "old": {
-      "year": 2005,
-      "label": "February 2005",
-      "winners": {
-        "1": "Chander Mohan",
-        "2": "Ram Kishan",
-        "3": "Balwant Singh",
-        "4": "Arjan Singh",
-        "5": "Dr Krishna Pandit",
-        "6": "Subhash Chand",
-        "7": "Phool Chand Mullana",
-        "8": "Devender Kumar Bansal",
-        "9": "Venod Kumar Sharma",
-        "10": "Nirmal Singh Mohra",
-        "11": "Rakesh Kumar",
-        "12": "Jai Singh Rana",
-        "13": "Sumita Singh",
-        "14": "Meena Rani",
-        "15": "Rekha Rana",
-        "16": "Raj Rani Poonam",
-        "17": "Balbir Pal Shah",
-        "18": "Bhart Singh",
-        "19": "Parsanni Devi",
-        "20": "Kharaiti Lal",
-        "21": "Ishwar Singh Palaka",
-        "22": "Ramesh Kumar Gupta",
-        "23": "Harmohinder Singh Chattha",
-        "24": "Dillu Ram",
-        "25": "Shamsher Singh Surjewala",
-        "26": "Dinesh Kaushik",
-        "27": "Tejender Pal Singh",
-        "28": "Naresh Kumar",
-        "29": "Shri Krishan",
-        "30": "Shadi Lal Batra",
-        "31": "Anand Singh Dangi",
-        "32": "Kartar Devi",
-        "33": "Dr. Raghuvir Singh",
-        "34": "Anita Yadav",
-        "35": "Hari Ram",
-        "36": "Naresh Kumar",
-        "37": "Rajinder Singh S/o Suraj Mal",
-        "38": "Ramphal",
-        "39": "Dharam Pal Singh Malik",
-        "40": "Jitender Singh",
-        "41": "Anil Thakar",
-        "42": "Ramesh Chander",
-        "43": "Sukhbir Singh",
-        "44": "Geeta",
-        "45": "Randeep Singh Surjewala",
-        "46": "Birender Singh",
-        "47": "Satvinder Singh",
-        "48": "Mange Ram Gupta",
-        "49": "Sher Singh",
-        "50": "Bachan Singh Arya",
-        "51": "A C. Chaudhry",
-        "52": "Mahender Pratap",
-        "53": "Sharda Rathore",
-        "54": "Karan Singh Dalal",
-        "55": "Udai Bhan",
-        "56": "Harsh Kumar",
-        "57": "Azad",
-        "58": "Habib-Ur-Rehman",
-        "59": "Sahida",
-        "60": "Sukhbir Singh",
-        "61": "Dharambir",
-        "62": "Bhupinder",
-        "63": "Dharambir",
-        "64": "Nirpender",
-        "65": "Ranbir Singh Mahendra",
-        "66": "Dr. Shiv Shanker Bhardwaj",
-        "67": "Surender Singh",
-        "68": "Somvir Singh",
-        "69": "Ramkishan Fauji",
-        "70": "Randhir",
-        "71": "Ram Kumar",
-        "72": "Amir Chand",
-        "73": "Kulvir Singh",
-        "74": "Om Prakash Jindal",
-        "75": "Prof. Chhattar Pal Singh",
-        "76": "Paramvir Singh",
-        "77": "Gian Chand",
-        "78": "Dura Ram",
-        "79": "Bhajan Lal",
-        "80": "Bharat Singh",
-        "81": "Dr. Sushil Kumar Indora",
-        "82": "Lachhman Dass Arora",
-        "83": "Om Prakash Chautala",
-        "84": "Dr.Sita Ram",
-        "85": "Shakuntla Bhagwaria",
-        "86": "Ajay Singh",
-        "87": "Yadavendra Singh Alias Baljit Singh",
-        "88": "Dan Singh",
-        "89": "Naresh Yadav",
-        "90": "Radhey Shyam"
-      },
-      "electors": {
-        "1": 244462,
-        "2": 120352,
-        "3": 136173,
-        "4": 122763,
-        "5": 147154,
-        "6": 131435,
-        "7": 134001,
-        "8": 85131,
-        "9": 126615,
-        "10": 144635,
-        "11": 144768,
-        "12": 125399,
-        "13": 158894,
-        "14": 124362,
-        "15": 131408,
-        "16": 129087,
-        "17": 200927,
-        "18": 137653,
-        "19": 127220,
-        "20": 120387,
-        "21": 121718,
-        "22": 157609,
-        "23": 133569,
-        "24": 140466,
-        "25": 127632,
-        "26": 127606,
-        "27": 112851,
-        "28": 110742,
-        "29": 126463,
-        "30": 136960,
-        "31": 122239,
-        "32": 101011,
-        "33": 106166,
-        "34": 122521,
-        "35": 130117,
-        "36": 109750,
-        "37": 160225,
-        "38": 101882,
-        "39": 129083,
-        "40": 128649,
-        "41": 166004,
-        "42": 136104,
-        "43": 113983,
-        "44": 107989,
-        "45": 123315,
-        "46": 128418,
-        "47": 105665,
-        "48": 149623,
-        "49": 115008,
-        "50": 126978,
-        "51": 259874,
-        "52": 336587,
-        "53": 206493,
-        "54": 148591,
-        "55": 138284,
-        "56": 124694,
-        "57": 147823,
-        "58": 137965,
-        "59": 151648,
-        "60": 157480,
-        "61": 292086,
-        "62": 147187,
-        "63": 134422,
-        "64": 130154,
-        "65": 126496,
-        "66": 130320,
-        "67": 142617,
-        "68": 147474,
-        "69": 133102,
-        "70": 137170,
-        "71": 116132,
-        "72": 129661,
-        "73": 124766,
-        "74": 162731,
-        "75": 129731,
-        "76": 145532,
-        "77": 127181,
-        "78": 157160,
-        "79": 141094,
-        "80": 139156,
-        "81": 142600,
-        "82": 154370,
-        "83": 128819,
-        "84": 132360,
-        "85": 148953,
-        "86": 148312,
-        "87": 155198,
-        "88": 154280,
-        "89": 153131,
-        "90": 141082
-      }
-    },
-    "new": {
-      "year": 2009,
-      "label": "October 2009",
-      "winners": {
-        "1": "Pardeep Chaudhary",
-        "2": "Devender Kumar Bansal",
-        "3": "Ram Kishan",
-        "4": "Anil Vij",
-        "5": "Venod Sharma",
-        "6": "Rajbir Singh Barara",
-        "7": "Rajpal",
-        "8": "Akram Khan",
-        "9": "Dilbagh Singh",
-        "10": "Dr.Bishan Lal Saini",
-        "11": "Sher Singh Barshami",
-        "12": "Anil Dhantori",
-        "13": "Ashok Kumar Arora",
-        "14": "Harmohinder Singh",
-        "15": "Phool Singh",
-        "16": "Rampal Majra",
-        "17": "Randeep Singh Surjewala",
-        "18": "Sultan",
-        "19": "Mamu Ram",
-        "20": "Ashok Kashyap",
-        "21": "Sumita Singh",
-        "22": "Narender Sangwan",
-        "23": "Pt. Zile Ram Chochra",
-        "24": "Om Prakash Jain",
-        "25": "Balbir Pal Shah",
-        "26": "Krishan Lal Panwar",
-        "27": "Dharm Singh",
-        "28": "Kuldeep Sharma",
-        "29": "Jai Tirath",
-        "30": "Jaiveer",
-        "31": "Kavita Jain",
-        "32": "Jagbir Singh Malik",
-        "33": "Sri Krishan",
-        "34": "Parminder Singh Dhull",
-        "35": "Kali Ram Patwari",
-        "36": "Dr. Hari Chand Middha",
-        "37": "Om Parkash Chautala",
-        "38": "Pirthi Singh",
-        "39": "Paramvir Singh",
-        "40": "Prahlad Singh Gillan Khera",
-        "41": "Gian Chand",
-        "42": "Charanjeet Singh",
-        "43": "Ajay Singh Chautala",
-        "44": "Krishan Lal S/O Ram Chand",
-        "45": "Gopal Kanda",
-        "46": "Om Parkash Chautala",
-        "47": "Kuldeep Bishnoi",
-        "48": "Naresh Selwal",
-        "49": "Saroj",
-        "50": "Vinod Bhayana",
-        "51": "Ram Niwas Ghorela",
-        "52": "Savitri Jindal",
-        "53": "Sampat Singh",
-        "54": "Dharam Pal",
-        "55": "Raghbir Singh",
-        "56": "Satpal",
-        "57": "Ghansyam Saraf",
-        "58": "Kiran Choudhary",
-        "59": "Ram Kishan Fouji S/O Dharampal",
-        "60": "Anand Singh",
-        "61": "Bhupinder Singh",
-        "62": "Bharat Bhushan Batra",
-        "63": "Shakuntla",
-        "64": "Rajinder Singh Joon",
-        "65": "Naresh Kumar",
-        "66": "Geeta",
-        "67": "Dr. Raghubir Singh",
-        "68": "Anita Yadav",
-        "69": "Dan Singh",
-        "70": "Narender Singh",
-        "71": "Bahadur Singh",
-        "72": "Rameshwar Dayal",
-        "73": "Yaduvender Singh",
-        "74": "Ajay Singh S/O Abhey Singh",
-        "75": "Ganga Ram",
-        "76": "Dharam Pal",
-        "77": "Sukhbeer",
-        "78": "Dharambir",
-        "79": "Aftab Ahmed",
-        "80": "Naseem Ahmed",
-        "81": "Mohammed Ilyas",
-        "82": "Jaleb Khan",
-        "83": "Jagdish Nayar",
-        "84": "Subhash Choudhary",
-        "85": "Raghubir Singh",
-        "86": "Pt. Shiv Charan Lal Sharma",
-        "87": "Mahender Partap Singh",
-        "88": "Sharda Rathore",
-        "89": "Anand Kaushik",
-        "90": "Krishan Pal"
-      },
-      "electors": {
-        "1": 122579,
-        "2": 143985,
-        "3": 141746,
-        "4": 147434,
-        "5": 187813,
-        "6": 167513,
-        "7": 165132,
-        "8": 158037,
-        "9": 153439,
-        "10": 146594,
-        "11": 138172,
-        "12": 124883,
-        "13": 122244,
-        "14": 134786,
-        "15": 143929,
-        "16": 162982,
-        "17": 150744,
-        "18": 146691,
-        "19": 156170,
-        "20": 147068,
-        "21": 158695,
-        "22": 159059,
-        "23": 170814,
-        "24": 126347,
-        "25": 144053,
-        "26": 128894,
-        "27": 143332,
-        "28": 127556,
-        "29": 124163,
-        "30": 119988,
-        "31": 130175,
-        "32": 128991,
-        "33": 140925,
-        "34": 136988,
-        "35": 139236,
-        "36": 125564,
-        "37": 161358,
-        "38": 159904,
-        "39": 167845,
-        "40": 182826,
-        "41": 161695,
-        "42": 138779,
-        "43": 156245,
-        "44": 139469,
-        "45": 150395,
-        "46": 144181,
-        "47": 129790,
-        "48": 152276,
-        "49": 160787,
-        "50": 143621,
-        "51": 126513,
-        "52": 118017,
-        "53": 121852,
-        "54": 143693,
-        "55": 147668,
-        "56": 146447,
-        "57": 145957,
-        "58": 158501,
-        "59": 152436,
-        "60": 150515,
-        "61": 164050,
-        "62": 133671,
-        "63": 147923,
-        "64": 134227,
-        "65": 137879,
-        "66": 136357,
-        "67": 138650,
-        "68": 150113,
-        "69": 149580,
-        "70": 110141,
-        "71": 119990,
-        "72": 165046,
-        "73": 184860,
-        "74": 165691,
-        "75": 159063,
-        "76": 226206,
-        "77": 231340,
-        "78": 153130,
-        "79": 116128,
-        "80": 130045,
-        "81": 111551,
-        "82": 148764,
-        "83": 124181,
-        "84": 154279,
-        "85": 135348,
-        "86": 129293,
-        "87": 134480,
-        "88": 129275,
-        "89": 132953,
-        "90": 135437
-      }
-    }
-  },
-  "grid": {
-    "old": [
-      {
-        "name": "Ambala",
-        "area": "1 / 4 / 2 / 6"
-      },
-      {
-        "name": "Panchkula",
-        "area": "1 / 6 / 2 / 7"
-      },
-      {
-        "name": "Kaithal",
-        "area": "2 / 1 / 3 / 3"
-      },
-      {
-        "name": "Kurukshetra",
-        "area": "2 / 3 / 3 / 5"
-      },
-      {
-        "name": "Yamunanagar",
-        "area": "2 / 5 / 3 / 7"
-      },
-      {
-        "name": "Fatehabad",
-        "area": "3 / 1 / 4 / 3"
-      },
-      {
-        "name": "Jind",
-        "area": "3 / 3 / 4 / 5"
-      },
-      {
-        "name": "Karnal",
-        "area": "3 / 5 / 4 / 7"
-      },
-      {
-        "name": "Sirsa",
-        "area": "4 / 1 / 5 / 3"
-      },
-      {
-        "name": "Rohtak",
-        "area": "4 / 3 / 5 / 5"
-      },
-      {
-        "name": "Panipat",
-        "area": "4 / 5 / 5 / 7"
-      },
-      {
-        "name": "Hisar",
-        "area": "5 / 1 / 6 / 4"
-      },
-      {
-        "name": "Jhajjar",
-        "area": "5 / 4 / 6 / 5"
-      },
-      {
-        "name": "Sonipat",
-        "area": "5 / 5 / 6 / 7"
-      },
-      {
-        "name": "Bhiwani",
-        "area": "6 / 1 / 7 / 4"
-      },
-      {
-        "name": "Gurgaon",
-        "area": "6 / 4 / 7 / 6"
-      },
-      {
-        "name": "Faridabad",
-        "area": "6 / 6 / 8 / 7"
-      },
-      {
-        "name": "Mahendragarh",
-        "area": "7 / 1 / 8 / 3"
-      },
-      {
-        "name": "Rewari",
-        "area": "7 / 3 / 8 / 5"
-      }
-    ],
-    "new": [
-      {
-        "name": "Ambala",
-        "area": "1 / 4 / 2 / 6"
-      },
-      {
-        "name": "Panchkula",
-        "area": "1 / 6 / 2 / 7"
-      },
-      {
-        "name": "Kaithal",
-        "area": "2 / 1 / 3 / 3"
-      },
-      {
-        "name": "Kurukshetra",
-        "area": "2 / 3 / 3 / 5"
-      },
-      {
-        "name": "Yamunanagar",
-        "area": "2 / 5 / 3 / 7"
-      },
-      {
-        "name": "Fatehabad",
-        "area": "3 / 1 / 4 / 3"
-      },
-      {
-        "name": "Jind",
-        "area": "3 / 3 / 4 / 5"
-      },
-      {
-        "name": "Karnal",
-        "area": "3 / 5 / 4 / 7"
-      },
-      {
-        "name": "Sirsa",
-        "area": "4 / 1 / 5 / 3"
-      },
-      {
-        "name": "Rohtak",
-        "area": "4 / 3 / 5 / 5"
-      },
-      {
-        "name": "Panipat",
-        "area": "4 / 5 / 5 / 7"
-      },
-      {
-        "name": "Hisar",
-        "area": "5 / 1 / 6 / 4"
-      },
-      {
-        "name": "Jhajjar",
-        "area": "5 / 4 / 6 / 5"
-      },
-      {
-        "name": "Sonipat",
-        "area": "5 / 5 / 6 / 7"
-      },
-      {
-        "name": "Bhiwani",
-        "area": "6 / 1 / 7 / 4"
-      },
-      {
-        "name": "Gurgaon",
-        "area": "6 / 4 / 7 / 6"
-      },
-      {
-        "name": "Faridabad",
-        "area": "6 / 6 / 8 / 7"
-      },
-      {
-        "name": "Mahendragarh",
-        "area": "7 / 1 / 8 / 3"
-      },
-      {
-        "name": "Rewari",
-        "area": "7 / 3 / 8 / 5"
-      }
-    ],
-    "notes": {
-      "old:Panchkula": "A one-seat district before 2008: just Kalka, stretching from the Shivalik foothills to the Chandigarh periphery.",
-      "new:Panchkula": "Doubled to two seats — the new Panchkula seat recognises the planned city’s growth next to Chandigarh.",
-      "old:Ambala": "Six seats including Naggal, which vanished entirely in 2008. Sadhaura (SC) moved to Yamunanagar’s grouping.",
-      "new:Ambala": "Trimmed to four seats; Mullana’s spelling was modernised to Mulana.",
-      "old:Karnal": "Six seats; Jundla (SC) vanished and its reservation effectively moved to the new Nilokheri (SC).",
-      "new:Karnal": "Five seats; Assandh lost its SC reservation while Nilokheri gained one.",
-      "old:Panipat": "Three seats — Panipat, Sambhalka and Naultha; only the Panipat name survived, split into City and Rural.",
-      "new:Panipat": "Four seats, all effectively reorganised: Panipat City + Rural from the old Panipat, Israna (SC) from Naultha, Samalkha respelled from Sambhalka.",
-      "old:Rohtak": "Hassangarh vanished; Kiloi was renamed Garhi Sampla-Kiloi. This is the Jat heartland belt around Rohtak town.",
-      "new:Rohtak": "Four seats; Garhi Sampla-Kiloi is the renamed Kiloi.",
-      "old:Sonipat": "Six seats; Kailana and Rohat both vanished in the redraw.",
-      "new:Sonipat": "Six seats; Ganaur and Kharkhauda (SC) are new names, Sonepat was respelled Sonipat.",
-      "old:Faridabad": "Six seats covering today’s Faridabad and Palwal districts; Mewla Maharajpur vanished, seeding three new city seats.",
-      "new:Faridabad": "The biggest expansion in the state: nine seats, five of them new (Prithla, Faridabad NIT, Badkhal, Tigaon, Hodal SC) as the city boomed. Palwal district (2008) later took the southern seats.",
-      "old:Gurgaon": "Six seats including Taoru, which vanished into Nuh and Sohna.",
-      "new:Gurgaon": "Seven seats; Badshahpur and Punahana are new. Mewat district (2005) covers the Nuh–Punahana belt; the map source still groups them under Gurgaon.",
-      "old:Hisar": "Seven seats including Bhattu Kalan and Ghirai, both abolished in 2008.",
-      "new:Hisar": "Seven seats; Uklana (SC) and Nalwa are new names, Hissar was respelled Hisar.",
-      "old:Sirsa": "Five seats; Darba Kalan and Rori both vanished.",
-      "new:Sirsa": "Five seats; Kalanwali (SC) and Rania are new names. Ellenabad and Dabwali lost their SC reservations.",
-      "old:Jind": "Seven seats; Rajond vanished, its area anchoring the new Kalayat (shifted to Kaithal’s grouping).",
-      "new:Jind": "Five seats; Narwana became SC-reserved.",
-      "old:Kaithal": "Four seats including Pai, which vanished into Pundri and the new Kalayat.",
-      "new:Kaithal": "Four seats; Kalayat moved here from Jind’s belt and lost its SC reservation.",
-      "old:Rewari": "Three seats; Jatusana vanished, its core becoming the new Kosli.",
-      "new:Rewari": "Three seats; Kosli replaced Jatusana.",
-      "old:Mahendragarh": "Three seats in the state’s dry south-west corner.",
-      "new:Mahendragarh": "Four seats — Nangal Chaudhry was added from Narnaul and Ateli territory.",
-      "old:Bhiwani": "Seven seats; Mundhal Khurd vanished toward the new Nalwa (Hisar).",
-      "new:Bhiwani": "Six seats. Charkhi Dadri’s later district creation (2016) post-dates this map — Dadri and Badhra are shown here.",
-      "old:Jhajjar": "Five seats; Salhawas vanished into Jhajjar and Beri.",
-      "new:Jhajjar": "Four seats, all continuing names.",
-      "old:Kurukshetra": "Four seats; Shahabad was respelled Shahbad and became SC-reserved, Radaur lost its reservation.",
-      "new:Kurukshetra": "Four seats; Ladwa is a new name carved from Radaur and Thanesar.",
-      "old:Fatehabad": "Three seats, all continuing — the most stable grouping in the state.",
-      "new:Fatehabad": "Three continuing seats; Ratia stayed SC-reserved.",
-      "old:Yamunanagar": "Three seats; Chhachhrauli vanished into Jagadhri and Sadhaura.",
-      "new:Yamunanagar": "Four seats — gained Sadhaura (SC) and Radaur from neighbouring groupings."
-    }
-  },
-  "constituencies_old": [
+  "intro": [
+    "For thirty years, every Haryana election was fought on the 90 constituencies of the 1976 order. The 2008 delimitation redrew all of them. Plate I presents the retired map in its actual boundaries, from a digitized copy of the Election Commission’s own sheet; Plate II the map that replaced it; Plate III sets the two side by side; Plate IV follows each seat through the change.",
+    "The assembly map Haryana retired in 2008"
+  ],
+  "figures": [
     {
-      "n": 1,
-      "party05": "INC",
+      "v": "90 → 90",
+      "k": "Seats, unchanged in number"
+    },
+    {
+      "v": "19 → 19",
+      "k": "Districts framing them"
+    },
+    {
+      "v": "20",
+      "k": "Constituencies created in 2008"
+    },
+    {
+      "v": "20",
+      "k": "Old names abolished"
+    }
+  ],
+  "stats": [
+    {
+      "k": "Constituencies",
+      "v": "90 → 90"
+    },
+    {
+      "k": "Districts",
+      "v": "19 → 19"
+    },
+    {
+      "k": "Seats created in 2008",
+      "v": "20"
+    },
+    {
+      "k": "Old names abolished",
+      "v": "20"
+    },
+    {
+      "k": "Renamed / respelled",
+      "v": "9"
+    },
+    {
+      "k": "SC-reserved seats",
+      "v": "17 → 23"
+    }
+  ],
+  "district_grid_old": [
+    {
+      "name": "Ambala",
+      "area": "1 / 4 / 2 / 6"
+    },
+    {
+      "name": "Panchkula",
+      "area": "1 / 6 / 2 / 7"
+    },
+    {
+      "name": "Kaithal",
+      "area": "2 / 1 / 3 / 3"
+    },
+    {
+      "name": "Kurukshetra",
+      "area": "2 / 3 / 3 / 5"
+    },
+    {
+      "name": "Yamunanagar",
+      "area": "2 / 5 / 3 / 7"
+    },
+    {
+      "name": "Fatehabad",
+      "area": "3 / 1 / 4 / 3"
+    },
+    {
+      "name": "Jind",
+      "area": "3 / 3 / 4 / 5"
+    },
+    {
+      "name": "Karnal",
+      "area": "3 / 5 / 4 / 7"
+    },
+    {
+      "name": "Sirsa",
+      "area": "4 / 1 / 5 / 3"
+    },
+    {
+      "name": "Rohtak",
+      "area": "4 / 3 / 5 / 5"
+    },
+    {
+      "name": "Panipat",
+      "area": "4 / 5 / 5 / 7"
+    },
+    {
+      "name": "Hisar",
+      "area": "5 / 1 / 6 / 4"
+    },
+    {
+      "name": "Jhajjar",
+      "area": "5 / 4 / 6 / 5"
+    },
+    {
+      "name": "Sonipat",
+      "area": "5 / 5 / 6 / 7"
+    },
+    {
+      "name": "Bhiwani",
+      "area": "6 / 1 / 7 / 4"
+    },
+    {
+      "name": "Gurgaon",
+      "area": "6 / 4 / 7 / 6"
+    },
+    {
+      "name": "Faridabad",
+      "area": "6 / 6 / 8 / 7"
+    },
+    {
+      "name": "Mahendragarh",
+      "area": "7 / 1 / 8 / 3"
+    },
+    {
+      "name": "Rewari",
+      "area": "7 / 3 / 8 / 5"
+    }
+  ],
+  "district_grid_new": [
+    {
+      "name": "Ambala",
+      "area": "1 / 4 / 2 / 6"
+    },
+    {
+      "name": "Panchkula",
+      "area": "1 / 6 / 2 / 7"
+    },
+    {
+      "name": "Kaithal",
+      "area": "2 / 1 / 3 / 3"
+    },
+    {
+      "name": "Kurukshetra",
+      "area": "2 / 3 / 3 / 5"
+    },
+    {
+      "name": "Yamunanagar",
+      "area": "2 / 5 / 3 / 7"
+    },
+    {
+      "name": "Fatehabad",
+      "area": "3 / 1 / 4 / 3"
+    },
+    {
+      "name": "Jind",
+      "area": "3 / 3 / 4 / 5"
+    },
+    {
+      "name": "Karnal",
+      "area": "3 / 5 / 4 / 7"
+    },
+    {
+      "name": "Sirsa",
+      "area": "4 / 1 / 5 / 3"
+    },
+    {
+      "name": "Rohtak",
+      "area": "4 / 3 / 5 / 5"
+    },
+    {
+      "name": "Panipat",
+      "area": "4 / 5 / 5 / 7"
+    },
+    {
+      "name": "Hisar",
+      "area": "5 / 1 / 6 / 4"
+    },
+    {
+      "name": "Jhajjar",
+      "area": "5 / 4 / 6 / 5"
+    },
+    {
+      "name": "Sonipat",
+      "area": "5 / 5 / 6 / 7"
+    },
+    {
+      "name": "Bhiwani",
+      "area": "6 / 1 / 7 / 4"
+    },
+    {
+      "name": "Gurgaon",
+      "area": "6 / 4 / 7 / 6"
+    },
+    {
+      "name": "Faridabad",
+      "area": "6 / 6 / 8 / 7"
+    },
+    {
+      "name": "Mahendragarh",
+      "area": "7 / 1 / 8 / 3"
+    },
+    {
+      "name": "Rewari",
+      "area": "7 / 3 / 8 / 5"
+    }
+  ],
+  "constituencies": [
+    {
+      "ac_no": 1,
       "name": "Kalka",
-      "sc": false,
-      "dist": "Panchkula",
+      "district": "Panchkula",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         1,
@@ -605,45 +230,45 @@
       ],
       "note": "Kalka continued directly; its Pinjore/Panchkula urban belt was carved out into the newly created Panchkula seat.",
       "extent": "Kalka Kalka tahsil; and P.Cs. 55—Kazampur, 56—Rattewali, 57—Manak Labra, 58— Khatauli, 59—Kot, 60—Bihla, 61— Mankan, 62—Ramgarh, 63—Bhoj Mataur, 64—Bhoj Naitay 65—Bhoj Darra, 66—Bhoj Rajpura and 67—Bhoj Nagal in. Raipur K.C. in Naraingarh tahsil.",
-      "winner05": "Chander Mohan",
-      "electors05": 244462
+      "party07": "INC",
+      "winner_07": "Chander Mohan",
+      "electors_07": 244462
     },
     {
-      "n": 2,
-      "party05": "INC",
+      "ac_no": 2,
       "name": "Naraingarh",
-      "sc": false,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         3
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Naraingarh —Shahzadpur K.C, Raipur K.C. (excluding P. Cs. 55—Kazampur, 56—Rattewali, 57—Manak labra, 58—Khatauli, 59—Kot, 60—Bihla, 61—Mankan, 62— Ramgarh, 63—Bhoj Mataur, 64—Bhoj Naita, 65—Bhoj Darra, 66—Bhoj Rajpura and 67—Bhoj Nagal) and P. Cs. 17—Bahrer, Kalan, 18—Kurali and 19—Badhauli in Sadhaura K.C. in Naraingarh tahsil. 4. Ambala Cantt. PCs Panjokhara & Mandhaur of Ambala City KC, PCs Babyal, Kardhan & Bara of Ambala Cantt. KC, Ambala Sadar (Municipal Council) & Ambala Cantt. (CB) of Ambala Tehsil. 3. Sadhaura(SC) —Sadhaura K.C. (excluding P.Cs. 17—Bharer, Kalan, 18—Kurali and 19—Badhauli) in Naraingarh tahsil; and Bilaspur K.C. in Jagadhri tahsil. 5. Ambala City PCs Ghel, Sonda, Ma",
-      "winner05": "Ram Kishan",
-      "electors05": 120352
+      "party07": "INC",
+      "winner_07": "Ram Kishan",
+      "electors_07": 120352
     },
     {
-      "n": 3,
-      "party05": "INLD",
+      "ac_no": 3,
       "name": "Sadhaura",
-      "sc": true,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         7
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Balwant Singh",
-      "electors05": 136173,
-      "extent": ""
+      "extent": "",
+      "party07": "INLD",
+      "winner_07": "Balwant Singh",
+      "electors_07": 136173
     },
     {
-      "n": 4,
-      "party05": "BSP",
+      "ac_no": 4,
       "name": "Chhachhrauli",
-      "sc": false,
-      "dist": "Yamunanagar",
+      "district": "Yamunanagar",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         8,
@@ -651,90 +276,90 @@
       ],
       "note": "Name vanished. Chhachhrauli tehsil’s villages were divided between the new Jagadhri and Sadhaura (SC).",
       "extent": "Chhachhrauli —Chhachhrauli K.C. and P.Cs. 21—Kharwan, 22—Nabh, 23—Buria Jagir, 24—Amadalpur, 26—Sabapur, 27—Pansara, 29—Chaneti and 40—Bibipur in Jagadhri K.C. in Jagadhri tahsil. 6. Mulana(SC) Barara Tehsil; PCs Dhanaura, Tharwa, Durana, Barauli & Mohri of Balana KC, PC Mohra of Ambala Cantt. KC & Saha KC of Ambala Tehsil.",
-      "winner05": "Arjan Singh",
-      "electors05": 122763
+      "party07": "BSP",
+      "winner_07": "Arjan Singh",
+      "electors_07": 122763
     },
     {
-      "n": 5,
-      "party05": "INC",
+      "ac_no": 5,
       "name": "Yamunanagar",
-      "sc": false,
-      "dist": "Yamunanagar",
+      "district": "Yamunanagar",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         9
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Yamunanagar Yamunanagar municipality and Jagadhri K.C. (excluding Jagadhri municipality and P.Cs. 21—Kharwan, 22—Nabh, 23—Buria Jagir, 24—Amadalpur, 26—Sabapur, 27—Pansara, 29—Chaneti, 30—Arnauli, 31—Mehlanwali, 32—Bhatauli and 40—Bibipur) in Jagadhri tahsil. 6. Jagadhri —Jagadhri municipality and P.Cs. 30—Arnauli, 31—Mehlanwali and 32—Bhatauli in Jagadhri K.C. and Mustifabad K.C. in Jagadhri tahsil.",
-      "winner05": "Dr Krishna Pandit",
-      "electors05": 147154
+      "party07": "INC",
+      "winner_07": "Dr Krishna Pandit",
+      "electors_07": 147154
     },
     {
-      "n": 6,
-      "party05": "INC",
+      "ac_no": 6,
       "name": "Jagadhari",
-      "sc": false,
-      "dist": "Yamunanagar",
+      "district": "Yamunanagar",
+      "type": "GEN",
       "status": "renamed",
       "dest": [
         8
       ],
       "note": "Direct continuity; the name was modernised to Jagadhri.",
-      "winner05": "Subhash Chand",
-      "electors05": 131435,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Subhash Chand",
+      "electors_07": 131435
     },
     {
-      "n": 7,
-      "party05": "INC",
+      "ac_no": 7,
       "name": "Mullana",
-      "sc": true,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "SC",
       "status": "renamed",
       "dest": [
         6
       ],
       "note": "Direct continuity; the name was modernised to Mulana.",
       "extent": "Mullana (SC) —Mullana and Kesri K.Cs. in Ambala tahsil. 8. Ambala Cantonment .—Ambala Cantonment and Mahesh Nagar N.A.C. in Ambala tahsil. 9. Ambala City —Ambala City municipality and P.Cs. 28—Patti Mehar, 29—Patti Jattan, 30—Ghel, 31—Manakpur, 32—Suba Akbarpur, 34—Mandhore, 35—Panjokhra and 36—Garnala in Ambala City K.C. in Ambala tahsil.",
-      "winner05": "Phool Chand Mullana",
-      "electors05": 134001
+      "party07": "INC",
+      "winner_07": "Phool Chand Mullana",
+      "electors_07": 134001
     },
     {
-      "n": 8,
-      "party05": "INC",
+      "ac_no": 8,
       "name": "Ambala Cantonment",
-      "sc": false,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "GEN",
       "status": "renamed",
       "dest": [
         4
       ],
       "note": "Direct continuity; the name was modernised to Ambala Cantt..",
-      "winner05": "Devender Kumar Bansal",
-      "electors05": 85131,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Devender Kumar Bansal",
+      "electors_07": 85131
     },
     {
-      "n": 9,
-      "party05": "INC",
+      "ac_no": 9,
       "name": "Ambala City",
-      "sc": false,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         5
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Venod Kumar Sharma",
-      "electors05": 126615,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Venod Kumar Sharma",
+      "electors_07": 126615
     },
     {
-      "n": 10,
-      "party05": "INC",
+      "ac_no": 10,
       "name": "Naggal",
-      "sc": false,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         2,
@@ -743,60 +368,60 @@
       ],
       "note": "Name vanished. Naggal’s territory was split toward the new Panchkula, Ambala City and Naraingarh.",
       "extent": "Naggal .—Naggal K.C. and Ambala City K.C. (excluding Ambala City municipality, Ambala Cantonment, Maheshnagar N.A.C. and P.Cs. 28—Patti Mehar, 29—Patti Jattan, 30—Ghel, 31— Manakpur, 32—Suba Akbarpur, 34—Mandhore, 35—Panjokhra and 36—Garnala) in Ambala tahsil Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Ambala Kalka Kalka (Panchkula District) Direct continuity. The constituency retained Kalka as its core but was reorganised under the newly created Panchkula District. It also retained the transferred Raipur KC villages (Kazampur, Rattewali, Ramgarh, Bhoj Mataur, etc.). Ambala Naraingarh Naraingarh (Ambala District) Direct continuity",
-      "winner05": "Nirmal Singh Mohra",
-      "electors05": 144635
+      "party07": "INC",
+      "winner_07": "Nirmal Singh Mohra",
+      "electors_07": 144635
     },
     {
-      "n": 11,
-      "party05": "INC",
+      "ac_no": 11,
       "name": "Indri",
-      "sc": false,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         20
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Indri Indri and Baragaon K.Cs. in Karnal tahsil. 19. Nilokheri(SC) Nilokheri Tehsil & KC Nissing of Karnal Tehsil.",
-      "winner05": "Rakesh Kumar",
-      "electors05": 144768
+      "party07": "INC",
+      "winner_07": "Rakesh Kumar",
+      "electors_07": 144768
     },
     {
-      "n": 12,
-      "party05": "INC",
+      "ac_no": 12,
       "name": "Nilokheri",
-      "sc": false,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         19
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Nilokheri —Taraori K.C. and P.Cs. 66—Ramana Ramani and 67—Koer in Nissang K.C. in Karnal tahsil",
-      "winner05": "Jai Singh Rana",
-      "electors05": 125399
+      "party07": "INC",
+      "winner_07": "Jai Singh Rana",
+      "electors_07": 125399
     },
     {
-      "n": 13,
-      "party05": "INC",
+      "ac_no": 13,
       "name": "Karnal",
-      "sc": false,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         21
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Karnal .—Karnal municipality and Karnal K.C. (excluding P.Cs. 51—Mohammadpur, 52—Dibarki, 53—Dhakwala, 54—Sheikhpura and 55—Uncha Siwana; in Karnal tahsil.",
-      "winner05": "Sumita Singh",
-      "electors05": 158894
+      "party07": "INC",
+      "winner_07": "Sumita Singh",
+      "electors_07": 158894
     },
     {
-      "n": 14,
-      "party05": "INC",
+      "ac_no": 14,
       "name": "Jundla",
-      "sc": true,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "SC",
       "status": "abolished",
       "dest": [
         21,
@@ -805,45 +430,45 @@
       ],
       "note": "Name vanished, and with it the SC reservation — effectively transferred to the new Nilokheri (SC). Territory split between Karnal, Nilokheri and Assandh.",
       "extent": "Jundla (SC) .—Nissang K.C. (excluding P.Cs. 66—Ramana Ramani and 67—Koer) and Jundla K.C. in Karnal tahsil.",
-      "winner05": "Meena Rani",
-      "electors05": 124362
+      "party07": "INC",
+      "winner_07": "Meena Rani",
+      "electors_07": 124362
     },
     {
-      "n": 15,
-      "party05": "INLD",
+      "ac_no": 15,
       "name": "Gharaunda",
-      "sc": false,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         22
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Gharaunda —Gharaunda K.C. and P.Cs. 51—Mohammadpur, 52—Dibarki, 53—Dhakwala, 54—Sheikhpura and 55— Uncha Siwana in Karnal K.C. in Karnal tahsil.",
-      "winner05": "Rekha Rana",
-      "electors05": 131408
+      "party07": "INLD",
+      "winner_07": "Rekha Rana",
+      "electors_07": 131408
     },
     {
-      "n": 16,
-      "party05": "INC",
+      "ac_no": 16,
       "name": "Assandh",
-      "sc": true,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         23
       ],
       "note": "Direct continuity of the name with revised boundaries. The seat lost its SC reservation.",
       "extent": "Assandh (SC —Assandh K.C. in Karnal] tahsil ; and Madlauda K.C. in Panipat tahsil",
-      "winner05": "Raj Rani Poonam",
-      "electors05": 129087
+      "party07": "INC",
+      "winner_07": "Raj Rani Poonam",
+      "electors_07": 129087
     },
     {
-      "n": 17,
-      "party05": "INC",
+      "ac_no": 17,
       "name": "Panipat",
-      "sc": false,
-      "dist": "Panipat",
+      "district": "Panipat",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         25,
@@ -851,30 +476,30 @@
       ],
       "note": "Split in two: the town became Panipat City, the countryside Panipat Rural.",
       "extent": "Panipat .—Panipat municipality and P.Cs. 8—Panipat TarafMakhdoomzadgan, 9—Panipat-Taraf-Ansar, 12—Binjhaul, 13—Panipat Taraf-Rajputan and 15—Ugrakheri in Panipat K.C. in Panipat tahsil.",
-      "winner05": "Balbir Pal Shah",
-      "electors05": 200927
+      "party07": "INC",
+      "winner_07": "Balbir Pal Shah",
+      "electors_07": 200927
     },
     {
-      "n": 18,
-      "party05": "INC",
+      "ac_no": 18,
       "name": "Sambhalka",
-      "sc": false,
-      "dist": "Panipat",
+      "district": "Panipat",
+      "type": "GEN",
       "status": "renamed",
       "dest": [
         27
       ],
       "note": "Direct continuity; the name was modernised to Samalkha.",
       "extent": "Sambhalka —Panipat K.C. (excluding Panipat municipality and P.Cs. 1—Kabri, 2—Kutani, 8—Panipat-Taraf-Makhdoomza dgan, 9—Panipat-Taraf-Ansar, 10—Assan Kalan, n— Sutana, 12—Binjhaul, 13—Panipat-Taraf-Rajputan, 14— Siwah and 15—Ugrakheri) and Sarnbhalka K.C. in Panipat tahsil,",
-      "winner05": "Bhart Singh",
-      "electors05": 137653
+      "party07": "INC",
+      "winner_07": "Bhart Singh",
+      "electors_07": 137653
     },
     {
-      "n": 19,
-      "party05": "INC",
+      "ac_no": 19,
       "name": "Naultha",
-      "sc": false,
-      "dist": "Panipat",
+      "district": "Panipat",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         26,
@@ -882,46 +507,46 @@
       ],
       "note": "Name vanished. The bulk became the new Israna (SC); the rest went to Panipat Rural.",
       "extent": "Naultha —Nauhha K.C. and P.Cs. 1—Kabri, 2—Kutani, 10— Assan Kalan, n—Sutana and 14—Siwah in Panipat K.C. in Panipat tahsil. Key Changes Old Constituency (Before, Karnal District) Where It's Located Now (After) New District Note Indri Indri + Baragaon K.C.s Indri Karnal Direct continuity confirmed the new extent literally repeats \"Indri Tehsil & KC Baragaon,\" matching the old K.C. list word for word Nilokheri Taraori K.C. + PCs Ramana Ramani, Koer (in Nissang K.C.) Nilokheri (SC) Karnal Core continuity new seat is \"Nilokheri Tehsil & KC Nissing,\" a spelling variant of old Nissang K.C.; now converted to SC-reserved Karnal Karnal municipality + Karnal K.C. (excluding PCs Mohammadpur, Dibarki, D",
-      "winner05": "Parsanni Devi",
-      "electors05": 127220
+      "party07": "INC",
+      "winner_07": "Parsanni Devi",
+      "electors_07": 127220
     },
     {
-      "n": 20,
-      "party05": "INC",
+      "ac_no": 20,
       "name": "Shahabad",
-      "sc": false,
-      "dist": "Kurukshetra",
+      "district": "Kurukshetra",
+      "type": "GEN",
       "status": "renamed",
       "dest": [
         12
       ],
       "note": "Direct continuity; the name was modernised to Shahbad. The seat became SC-reserved.",
-      "winner05": "Kharaiti Lal",
-      "electors05": 120387,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Kharaiti Lal",
+      "electors_07": 120387
     },
     {
-      "n": 21,
-      "party05": "INLD",
+      "ac_no": 21,
       "name": "Radaur",
-      "sc": true,
-      "dist": "Kurukshetra",
+      "district": "Kurukshetra",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         10,
         11
       ],
       "note": "The name continued as new No. 10; part of its territory also went to Ladwa. The seat lost its SC reservation.",
-      "winner05": "Ishwar Singh Palaka",
-      "electors05": 121718,
-      "extent": ""
+      "extent": "",
+      "party07": "INLD",
+      "winner_07": "Ishwar Singh Palaka",
+      "electors_07": 121718
     },
     {
-      "n": 22,
-      "party05": "INC",
+      "ac_no": 22,
       "name": "Thanesar",
-      "sc": false,
-      "dist": "Kurukshetra",
+      "district": "Kurukshetra",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         13,
@@ -929,75 +554,75 @@
       ],
       "note": "The name continued as new No. 13; part of its territory also went to Ladwa.",
       "extent": "Thanesar —Thanesar K.C. (excluding P.Cs. 44—Lukhi, 45— Dhurala, 46—Salpani Kalan, 47—Ajrana Khurd, 48—Ajrana Kalan, 49—DuniaMajra, 50—Thaska Miranji, 51—Naisi and 52—Kanthala) in Thanesar tahsil.",
-      "winner05": "Ramesh Kumar Gupta",
-      "electors05": 157609
+      "party07": "INC",
+      "winner_07": "Ramesh Kumar Gupta",
+      "electors_07": 157609
     },
     {
-      "n": 23,
-      "party05": "INC",
+      "ac_no": 23,
       "name": "Pehowa",
-      "sc": false,
-      "dist": "Kurukshetra",
+      "district": "Kurukshetra",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         14
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Pehowa —P.Cs. 44—Lukhi, 45—Dhurala, 46—Salpari Kalan, 47—Ajrana Khurd, 48—Ajrana Kalan, 49—Duma Majra, 50—Thaska Miranji, 51—Naisi and $2—Kanthala in Thanesar K.C. in Thanesar tahsil; and Pehowa K.C. in Guhla tahsil.",
-      "winner05": "Harmohinder Singh Chattha",
-      "electors05": 133569
+      "party07": "INC",
+      "winner_07": "Harmohinder Singh Chattha",
+      "electors_07": 133569
     },
     {
-      "n": 24,
-      "party05": "INC",
+      "ac_no": 24,
       "name": "Guhla",
-      "sc": true,
-      "dist": "Kaithal",
+      "district": "Kaithal",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         15
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Dillu Ram",
-      "electors05": 140466,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Dillu Ram",
+      "electors_07": 140466
     },
     {
-      "n": 25,
-      "party05": "INC",
+      "ac_no": 25,
       "name": "Kaithal",
-      "sc": false,
-      "dist": "Kaithal",
+      "district": "Kaithal",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         17
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Kaithal —Kaithal K.C. (excluding P.Cs. 15—Mundhri, 16— Kakaut, 17—Narar, 18—Peoda, 19—Titram, 20—Deoban, 21-22—Pai I and II, 23—Jakhauli, 24—Sangal, 25.—Bhana, 26—'Karora, 27—'Rihara, 28—.Sherhada, 29—'Kotra, 30— Guliana and 31—Sangri) in Kaithal tahsil.",
-      "winner05": "Shamsher Singh Surjewala",
-      "electors05": 127632
+      "party07": "INC",
+      "winner_07": "Shamsher Singh Surjewala",
+      "electors_07": 127632
     },
     {
-      "n": 26,
-      "party05": "IND",
+      "ac_no": 26,
       "name": "Pundri",
-      "sc": false,
-      "dist": "Kaithal",
+      "district": "Kaithal",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         18
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Pundri —Pundri K.C. (excluding P.Cs. 41-—Dhos and 51—. Bakkal) in Kaithal tahsil.",
-      "winner05": "Dinesh Kaushik",
-      "electors05": 127606
+      "party07": "IND",
+      "winner_07": "Dinesh Kaushik",
+      "electors_07": 127606
     },
     {
-      "n": 27,
-      "party05": "IND",
+      "ac_no": 27,
       "name": "Pai",
-      "sc": false,
-      "dist": "Kaithal",
+      "district": "Kaithal",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         18,
@@ -1005,15 +630,15 @@
       ],
       "note": "Name vanished. Pai’s villages were divided between Pundri and the new Kalayat.",
       "extent": "Pai —P.Cs. 41—Dhos and 51—Bakkal in Pundri K.C, and P.Cs. 1 •—Mundri, i6>—Kakaut, 17.—Narar, 18—'Peoda, 19—Titram, 20—Deoban, 21-22—Pai I & II, 23—Jakhauli, 24—Sangal, 2-\\—Bhaaa, 26—.Karora, 27—.Rihara, 28—-Sh^rhada, 29—. Kotra, 30—Guliana and 31—.Sangri in Kaithal K.C, in Kaithal tahsil. Key Changes Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Kurukshetra Shahabad Shahbad (SC) Retained with revised boundaries and converted into a Scheduled Caste reserved constituency. The new seat comprises the old Shahabad KC together with selected Babain KC villages. Kurukshetra Radaur (SC) Ladwa The old Radaur (SC) constituency was abolished in",
-      "winner05": "Tejender Pal Singh",
-      "electors05": 112851
+      "party07": "IND",
+      "winner_07": "Tejender Pal Singh",
+      "electors_07": 112851
     },
     {
-      "n": 28,
-      "party05": "BJP",
+      "ac_no": 28,
       "name": "Hassangarh",
-      "sc": false,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         30,
@@ -1021,90 +646,90 @@
       ],
       "note": "Name vanished. Hassangarh’s area went chiefly to the new Kharkhauda (SC) and Garhi Sampla-Kiloi.",
       "extent": "Hassangarh —Hassangarh K.C. and P.Cs. 13—•Ratauli, 14—• Baland and 15—Sunari Kalan in Rohtak K.C. in Rohtak tahsil.",
-      "winner05": "Naresh Kumar",
-      "electors05": 110742
+      "party07": "BJP",
+      "winner_07": "Naresh Kumar",
+      "electors_07": 110742
     },
     {
-      "n": 29,
-      "party05": "INC",
+      "ac_no": 29,
       "name": "Kiloi",
-      "sc": false,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "GEN",
       "status": "renamed",
       "dest": [
         61
       ],
       "note": "Renamed Garhi Sampla-Kiloi — the old rural Kiloi seat with its village clusters spelled out in the new name.",
       "extent": "Kiloi —Kilei K.C. and P.Cs. 19—Tatauli, 20-21—Rohtak Rural and 22—Chamaria in Rohtak K.C. in Rohtak tahsil. 61. Garhi Samplakiloi KCs Para & Bhalot, PCs Chuliana, Ismaila 9 Biswa, Ismaila 11 Biswa, Gandhra, Pakasma, Samchana, Hassangarh, Bahinsru khurd, Kheri Sampla & Sampla of Sampla KC, PCs Chiri-I & II & Titoli of Rohtak-II KC of Rohtak Tehsil.",
-      "winner05": "Shri Krishan",
-      "electors05": 126463
+      "party07": "INC",
+      "winner_07": "Shri Krishan",
+      "electors_07": 126463
     },
     {
-      "n": 30,
-      "party05": "INC",
+      "ac_no": 30,
       "name": "Rohtak",
-      "sc": false,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         62
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Shadi Lal Batra",
-      "electors05": 136960,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Shadi Lal Batra",
+      "electors_07": 136960
     },
     {
-      "n": 31,
-      "party05": "INC",
+      "ac_no": 31,
       "name": "Meham",
-      "sc": false,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         60
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Meham Meham K.C in Rohtak tahsil 63. Kalanaur(SC) KCs Kahnaur, Kalanaur, Rohtak-I, Kalanaur (Municipal Committee), PCs Baliana, Kheri Sadh, Kharawar of Sampla KC & Ward Nos. 1 to 6 in Rohtak (Municipal Council of Rohtak Tehsil). 32. Kalanpur(SC) ,—Rohtak K.C. (excluding Rohtak municipality and P.Cs. 13—Ratauli, 14—Baland, 15—Sunari Katon, 19— Tatauli, 20-21—Rohcak Rural and 22-—Cbamarij in Rohtak tahsil.",
-      "winner05": "Anand Singh Dangi",
-      "electors05": 122239
+      "party07": "INC",
+      "winner_07": "Anand Singh Dangi",
+      "electors_07": 122239
     },
     {
-      "n": 32,
-      "party05": "INC",
+      "ac_no": 32,
       "name": "Kalanaur",
-      "sc": true,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         63
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Kartar Devi",
-      "electors05": 101011,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Kartar Devi",
+      "electors_07": 101011
     },
     {
-      "n": 33,
-      "party05": "INC",
+      "ac_no": 33,
       "name": "Beri",
-      "sc": false,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         67
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Beri Beri K.C. in Jhajjar tahsil.",
-      "winner05": "Dr. Raghuvir Singh",
-      "electors05": 106166
+      "party07": "INC",
+      "winner_07": "Dr. Raghuvir Singh",
+      "electors_07": 106166
     },
     {
-      "n": 34,
-      "party05": "INC",
+      "ac_no": 34,
       "name": "Salhawas",
-      "sc": false,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         66,
@@ -1112,90 +737,90 @@
       ],
       "note": "Name vanished. Salhawas’s villages were divided between Jhajjar (SC) and Beri.",
       "extent": "Salhawas —Nahar K.C, Subana K.C. (excluding P.Cs. 35— Talao, 36—Dawla, 37—Surehti, 38—Kasni, 39—Subana, 40— Dhakla, 43—Khetawas, 44—Bhindawas and 45—Islamgarh) in Jhajjar tahsil. 35. Jhajjar(SC) .—P.Cs. 30—Surah, 31—Ukhal Chana and 32-34— Jhajjar I to III in Jhajjar K.C., Machhroli K.C. and P.Cs. 35—Talao, 36^—Dawla, 37—Surehti, 38—Kasni, 39—Subana, 40—Dhakla, 43—Khetawas, 44—Bhindawas and 45—Islamgarh in Subana K.C. in Jhajjar tahsil",
-      "winner05": "Anita Yadav",
-      "electors05": 122521
+      "party07": "INC",
+      "winner_07": "Anita Yadav",
+      "electors_07": 122521
     },
     {
-      "n": 35,
-      "party05": "INC",
+      "ac_no": 35,
       "name": "Jhajjar",
-      "sc": true,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         66
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Hari Ram",
-      "electors05": 130117,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Hari Ram",
+      "electors_07": 130117
     },
     {
-      "n": 36,
-      "party05": "IND",
+      "ac_no": 36,
       "name": "Badli",
-      "sc": false,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         65
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Badli —P.Cs. 1-2—Chhara I and II, 3—Bhaproda, 4—Kharar, 7—Matan, 8—Daboda Khurd, 19—Luksar, 20—Gubhana, 21—Bupania, 22—Dulhera, 23-25—Badli I to III, 26^-Daryapur, 27—Barsa and 28—Munda Khera in Bahadurgarh K.C. in Bahadurgarh tahsil; and Jhajjar K.C. (excluding P.Cs. 30— Surah, 31—Ukhal Chana and 32-34^—Jhajjar I to III) in Jhajjar tahsil.",
-      "winner05": "Naresh Kumar",
-      "electors05": 109750
+      "party07": "IND",
+      "winner_07": "Naresh Kumar",
+      "electors_07": 109750
     },
     {
-      "n": 37,
-      "party05": "INC",
+      "ac_no": 37,
       "name": "Bahadurgarh",
-      "sc": false,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         64
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Bahadurgarh .—Bahadurgarh K.C. (excluding P.Cs. 1-2— Chhara I & II, 3—Bhaproda, 4—Kharar, 7—Matan, 8— Daboda Khurd, 19—Luksar, 20—Gubhana, 21—Bupania, 22—Dulhera, 23-25—Badli I to III, 26—Daryapur, 27—Barsa and 28—Mundakhera) in Bahadurgarh tahsil. Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Rohtak Hassangarh Garhi Sampla-Kiloi Renamed and reorganised. The old Hassangarh constituency was abolished and merged with parts of Kiloi to create the new Garhi Sampla-Kiloi constituency. Rohtak Kiloi Garhi Sampla-Kiloi The old Kiloi constituency ceased to exist independently. Its core territory, together with Hassangarh, formed the newly co",
-      "winner05": "Rajinder Singh S/o Suraj Mal",
-      "electors05": 160225
+      "party07": "INC",
+      "winner_07": "Rajinder Singh S/o Suraj Mal",
+      "electors_07": 160225
     },
     {
-      "n": 38,
-      "party05": "INLD",
+      "ac_no": 38,
       "name": "Baroda",
-      "sc": true,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         33
       ],
       "note": "Direct continuity of the name with revised boundaries. The seat lost its SC reservation.",
-      "winner05": "Ramphal",
-      "electors05": 101882,
-      "extent": ""
+      "extent": "",
+      "party07": "INLD",
+      "winner_07": "Ramphal",
+      "electors_07": 101882
     },
     {
-      "n": 39,
-      "party05": "INC",
+      "ac_no": 39,
       "name": "Gohana",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         32
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Gohana —Gohana municipality and Gohana K.C. and P.Cs. 36—Ganwari, 37-38—Khanpur Kalan I & II, 39—Saragthal, 40—Kasandhi and 41-42—Samri I and II in",
-      "winner05": "Dharam Pal Singh Malik",
-      "electors05": 129083
+      "party07": "INC",
+      "winner_07": "Dharam Pal Singh Malik",
+      "electors_07": 129083
     },
     {
-      "n": 40,
-      "party05": "INC",
+      "ac_no": 40,
       "name": "Kailana",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         31,
@@ -1203,45 +828,45 @@
       ],
       "note": "Name vanished. Kailana’s area was absorbed into Sonipat town’s seat and the new Ganaur.",
       "extent": "Kailana —Kailana K.C. and Murthal K.C. (excluding P.Cs 94—Memarpur, 95—Malakpur, 100-101—Murthal Khas and Sani and 102—Nand Naur) in Sonepat tahsil.",
-      "winner05": "Jitender Singh",
-      "electors05": 128649
+      "party07": "INC",
+      "winner_07": "Jitender Singh",
+      "electors_07": 128649
     },
     {
-      "n": 41,
-      "party05": "INC",
+      "ac_no": 41,
       "name": "Sonepat",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "renamed",
       "dest": [
         31
       ],
       "note": "Direct continuity; the name was modernised to Sonipat.",
       "extent": "Sonepat —Sonepat municipality and Sonepat K.C. in Sonepat tahsil.",
-      "winner05": "Anil Thakar",
-      "electors05": 166004
+      "party07": "INC",
+      "winner_07": "Anil Thakar",
+      "electors_07": 166004
     },
     {
-      "n": 42,
-      "party05": "INC",
+      "ac_no": 42,
       "name": "Rai",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         29
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Rai —Khewra K.C. and P.Cs. 94—Memarpur, 95—Malakpur, 100-101—Murthal Khas and Sani and 102—Nand Naur in Murthal K.C. in Sonepat tahsil.",
-      "winner05": "Ramesh Chander",
-      "electors05": 136104
+      "party07": "INC",
+      "winner_07": "Ramesh Chander",
+      "electors_07": 136104
     },
     {
-      "n": 43,
-      "party05": "NCP",
+      "ac_no": 43,
       "name": "Rohat",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         31,
@@ -1250,60 +875,60 @@
       ],
       "note": "Name vanished. Rohat’s villages went to Sonipat, Rai and the new Kharkhauda (SC).",
       "extent": "Rohat —Rohat K.C. in Sonepat tahsil",
-      "winner05": "Sukhbir Singh",
-      "electors05": 113983
+      "party07": "NCP",
+      "winner_07": "Sukhbir Singh",
+      "electors_07": 113983
     },
     {
-      "n": 44,
-      "party05": "INC",
+      "ac_no": 44,
       "name": "Kalayat",
-      "sc": true,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         16
       ],
       "note": "Direct continuity of the name with revised boundaries. The seat lost its SC reservation.",
-      "winner05": "Geeta",
-      "electors05": 107989,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Geeta",
+      "electors_07": 107989
     },
     {
-      "n": 45,
-      "party05": "INC",
+      "ac_no": 45,
       "name": "Narwana",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         38
       ],
       "note": "Direct continuity of the name with revised boundaries. The seat became SC-reserved.",
       "extent": "Narwana —Dhamtan Sahib K.C. (excluding P.Cs. 71—Sanghan, 72—Koel, 73—Kurar and 78—Dhundwa) and P.Cs. 41-42— Narwana I & II, 43—Gurthari, 46—Dablain, 47—Amargarh 48—Farain Kalan, 49—Phulian Kalan, 50—Kaloda Kalan, 51—Sancha Khera and 57—Dharodi in Narwana K.C. in Narwana tahsil.",
-      "winner05": "Randeep Singh Surjewala",
-      "electors05": 123315
+      "party07": "INC",
+      "winner_07": "Randeep Singh Surjewala",
+      "electors_07": 123315
     },
     {
-      "n": 46,
-      "party05": "INC",
+      "ac_no": 46,
       "name": "Uchana Kalan",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         37
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Birender Singh",
-      "electors05": 128418,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Birender Singh",
+      "electors_07": 128418
     },
     {
-      "n": 47,
-      "party05": "INC",
+      "ac_no": 47,
       "name": "Rajond",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         16,
@@ -1312,60 +937,60 @@
       ],
       "note": "Name vanished. Rajond’s area went chiefly to the new Kalayat, with fragments to Jind and Safidon.",
       "extent": "Rajond —Rajond and Alewa K.Cs. in Jind tahsil. 37. Uchana Kalan PCs Lodhar, Sudkain Kalan & Dumerkha Kalan of Dhakal KC, KCs Karsindhu, Uchana Kalan, Khatkar & Uchana (Municipal Committee) of Narwana Tehsil; PCs Alewa-I, II & III, Bighana, Durana, Dhilluwala & Pegan of Alewa KC & KC Naguran of Jind Tehsil.",
-      "winner05": "Satvinder Singh",
-      "electors05": 105665
+      "party07": "INC",
+      "winner_07": "Satvinder Singh",
+      "electors_07": 105665
     },
     {
-      "n": 48,
-      "party05": "INC",
+      "ac_no": 48,
       "name": "Jind",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         36
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Jind —Jind municipality and Jind K.C. in Jind tahsil. 38. Narwana(SC) KCs Narwana, Ujhana, Dhamtan Sahib & Danoda Kalan, PCs Dhakal, Hatho, Singhwal, Bhana Brahmnan & Gurthali of Dhakal KC & Narwana (Municipal Council) of Narwana Tehsil.",
-      "winner05": "Mange Ram Gupta",
-      "electors05": 149623
+      "party07": "INC",
+      "winner_07": "Mange Ram Gupta",
+      "electors_07": 149623
     },
     {
-      "n": 49,
-      "party05": "INC",
+      "ac_no": 49,
       "name": "Julana",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         34
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Julana —Kinana and Julana K.Cs. in Jind tahsil.",
-      "winner05": "Sher Singh",
-      "electors05": 115008
+      "party07": "INC",
+      "winner_07": "Sher Singh",
+      "electors_07": 115008
     },
     {
-      "n": 50,
-      "party05": "IND",
+      "ac_no": 50,
       "name": "Safidon",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         35
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Safidon —Saridon tahsil, Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Kalayat (SC) Mainly Julana, partly outside Jind district The old Kalayat (SC) constituency disappeared from Jind district. Rajpur, Ramrai, Gobindpura and nearby villages became part of the newly constituted Julana constituency, while the remaining area went to the new Kalayat seat (Kaithal district). Narwana Mostly Narwana (SC), parts to Uchana Kalan Narwana retained its urban core but became SC-reserved. Several villages (e.g., Lodhar, Sudkain, Dumarkhan, etc.) were transferred to Uchana Kalan. Uchana-Kalan Mostly Uchana Kalan, parts to Jind The constituency continued but was ",
-      "winner05": "Bachan Singh Arya",
-      "electors05": 126978
+      "party07": "IND",
+      "winner_07": "Bachan Singh Arya",
+      "electors_07": 126978
     },
     {
-      "n": 51,
-      "party05": "INC",
+      "ac_no": 51,
       "name": "Faridabad",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         89,
@@ -1373,15 +998,15 @@
       ],
       "note": "The name continued as new No. 89; part of its territory also went to Faridabad NIT.",
       "extent": "Faridabad .—Faridabad *N.I.T., P.Cs. 13-Dabwa, 22—Gonchhi and 23—Fatehpur Taga in Faridabad K.C. and PCs. 32— Piala, 34—Ferozepur Kalan, 35—Jhar Saintali, 36—Bhanakpur and 37—Sikri",
-      "winner05": "A C. Chaudhry",
-      "electors05": 259874
+      "party07": "INC",
+      "winner_07": "A C. Chaudhry",
+      "electors_07": 259874
     },
     {
-      "n": 52,
-      "party05": "INC",
+      "ac_no": 52,
       "name": "Mewla Maharajpur",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         87,
@@ -1389,16 +1014,16 @@
         86
       ],
       "note": "Name vanished. Mewla Maharajpur’s urban belt seeded three new Faridabad-city seats: Badkhal, Tigaon and Faridabad NIT.",
-      "winner05": "Mahender Pratap",
-      "electors05": 336587,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Mahender Pratap",
+      "electors_07": 336587
     },
     {
-      "n": 53,
-      "party05": "INC",
+      "ac_no": 53,
       "name": "Ballabgarh",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "renamed",
       "dest": [
         88,
@@ -1407,15 +1032,15 @@
       ],
       "note": "Direct continuity; the name was modernised to Ballabhgarh.",
       "extent": "Ballabgarh —Ballabgarh K.C. (excluding P.Cs. 32—Piala, 34— Ferozepur Kalan, 35—Jhar Saintali, 36—Bhanakpur and 37— Sikri) and Chhainsa K.C. in Ballabgarh tahsil.",
-      "winner05": "Sharda Rathore",
-      "electors05": 206493
+      "party07": "INC",
+      "winner_07": "Sharda Rathore",
+      "electors_07": 206493
     },
     {
-      "n": 54,
-      "party05": "INC",
+      "ac_no": 54,
       "name": "Palwal",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         84,
@@ -1423,62 +1048,62 @@
       ],
       "note": "The name continued as new No. 84; part of its territory also went to Prithla.",
       "extent": "Palwal —Palwal K.C. and P.Cs. 17—Chhaprola, 18— Pirthala* 19—Dudaula, 20—Bhagola, 21—Ferozepur, 22—Janauli, 23—Badraon, 24—Alawalpur and 25—Khijurka in Chandhat K.C. in Palwal tahsil.",
-      "winner05": "Karan Singh Dalal",
-      "electors05": 148591
+      "party07": "INC",
+      "winner_07": "Karan Singh Dalal",
+      "electors_07": 148591
     },
     {
-      "n": 55,
-      "party05": "INC",
+      "ac_no": 55,
       "name": "Hassanpur",
-      "sc": true,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "SC",
       "status": "abolished",
       "dest": [
         83,
         84
       ],
       "note": "Name vanished, and with it the SC reservation — transferred to the new Hodal (SC). Rest went to Palwal.",
-      "winner05": "Udai Bhan",
-      "electors05": 138284,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Udai Bhan",
+      "electors_07": 138284
     },
     {
-      "n": 56,
-      "party05": "IND",
+      "ac_no": 56,
       "name": "Hathin",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         82
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Hathin —Hodal K.C. (excluding P.Cs. 59-61—Hodal I to III, 62—Bhulwana, 63—Banswa and 64—Garota) in Palwal tahsilJ and Hathin K.C. in Nuh tahsil. 80. Ferozpur Jhirka Ferozepur Jhirka Tehsil 57. Ferozepur Jhirka .—Ferozepur Jhirka K.C. and Punhana K.C. (excluding P.Cs. 46—Khori Shahchoka, 47—Sarauli, 49— Gulalta and 50— Otha) in Ferozepur Jhirka tahsil.",
-      "winner05": "Harsh Kumar",
-      "electors05": 124694
+      "party07": "IND",
+      "winner_07": "Harsh Kumar",
+      "electors_07": 124694
     },
     {
-      "n": 57,
-      "party05": "INC",
+      "ac_no": 57,
       "name": "Ferozepur Jhirka",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         80,
         81
       ],
       "note": "The name continued as new No. 80; part of its territory also went to Punahana.",
-      "winner05": "Azad",
-      "electors05": 147823,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Azad",
+      "electors_07": 147823
     },
     {
-      "n": 58,
-      "party05": "IND",
+      "ac_no": 58,
       "name": "Nuh",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         79,
@@ -1486,15 +1111,15 @@
       ],
       "note": "The name continued as new No. 79; part of its territory also went to Punahana.",
       "extent": "Nuh —Nagina K.C. and P.Cs. 46—Khori Shahchoka, 47—Sarauli, 49—Gulalta and 50—Otha in Punhana K.C. in Ferozepur Jhirka tahsil; and Nuh K.C. in Nuh tahsil.",
-      "winner05": "Habib-Ur-Rehman",
-      "electors05": 137965
+      "party07": "IND",
+      "winner_07": "Habib-Ur-Rehman",
+      "electors_07": 137965
     },
     {
-      "n": 59,
-      "party05": "INLD",
+      "ac_no": 59,
       "name": "Taoru",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         79,
@@ -1502,30 +1127,30 @@
       ],
       "note": "Name vanished. Taoru’s area was divided between Nuh and Sohna.",
       "extent": "Taoru —Taoru and Ujina K.Cs. in Nuh tahsil.",
-      "winner05": "Sahida",
-      "electors05": 151648
+      "party07": "INLD",
+      "winner_07": "Sahida",
+      "electors_07": 151648
     },
     {
-      "n": 60,
-      "party05": "IND",
+      "ac_no": 60,
       "name": "Sohna",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         78
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Sohna —Sohna K.C, P.Cs. 29—Islampur, 30—Khandsa, 31— Sihi, 32—Wazirpur, 33—Bhangrola, 34—Manesar, 35— Shikohpur and 36—Palra in Gurgaon K.C. and P.Cs. 11— Kasan, 16—Pathreri and 17—Chandla-DungarWas in Farrukhnagar K.C. in Gurgaon tahsil.",
-      "winner05": "Sukhbir Singh",
-      "electors05": 157480
+      "party07": "IND",
+      "winner_07": "Sukhbir Singh",
+      "electors_07": 157480
     },
     {
-      "n": 61,
-      "party05": "INC",
+      "ac_no": 61,
       "name": "Gurgaon",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         77,
@@ -1533,60 +1158,60 @@
       ],
       "note": "The name continued as new No. 77; part of its territory also went to Badshahpur.",
       "extent": "Gurgaon —Gurgaon K.C. (excluding P.Cs. 29—Islampur, 30—• Khandsa, 31—Sihi, 32—Wazirpur, 33—Bhangrola, 34— Manesar, 35—Shikohpur and 36—Palra) in Gurgaon tahsil, 62. Pataudi(SC) —Pataudi K.C. and Farrukhnagar K.C. (excludingP.Cs.11—Kasan, 16—Pathreri and 17—Chandla Dungarwas) in Gurgaon tahsil. Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Faridabad Mainly Pataudi (SC), remainder in Faridabad district The Gurgaon district portion of old Faridabad was transferred to the reconstituted Pataudi (SC) (Manesar, Farukhnagar KC villages), while the urban Faridabad area remained in Faridabad district. Mewla Maharajpur Mainly Badshahpur, remainder in Faridab",
-      "winner05": "Dharambir",
-      "electors05": 292086
+      "party07": "INC",
+      "winner_07": "Dharambir",
+      "electors_07": 292086
     },
     {
-      "n": 62,
-      "party05": "INC",
+      "ac_no": 62,
       "name": "Pataudi",
-      "sc": true,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         75
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Bhupinder",
-      "electors05": 147187,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Bhupinder",
+      "electors_07": 147187
     },
     {
-      "n": 63,
-      "party05": "INC",
+      "ac_no": 63,
       "name": "Badhra",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         55
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Badhra —Badhra and Jhoju Kalan K.Cs. and P.Cs. 14—Pichopa",
-      "winner05": "Dharambir",
-      "electors05": 134422
+      "party07": "INC",
+      "winner_07": "Dharambir",
+      "electors_07": 134422
     },
     {
-      "n": 64,
-      "party05": "INC",
+      "ac_no": 64,
       "name": "Dadri",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         56
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Dadri —Dadri K.C. (excluding P.Cs. 14—Pichopa Khurd> 16—Rehrodi, 17—Umarwas and 18—Pichopa Kalan) and Sanwar K.C. (excluding P.Cs. 20—Bond Kalan, 21—Rankoli, 22—Malkosh, 23—Sanjarwas, 24—Sanwar, 25-26—Ranila I & II and 34—Kasni) in Dadri tahsil.",
-      "winner05": "Nirpender",
-      "electors05": 130154
+      "party07": "INC",
+      "winner_07": "Nirpender",
+      "electors_07": 130154
     },
     {
-      "n": 65,
-      "party05": "INC",
+      "ac_no": 65,
       "name": "Mundhal Khurd",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         53,
@@ -1594,137 +1219,137 @@
         50
       ],
       "note": "Name vanished. Mundhal Khurd’s villages went to the new Nalwa, Bhiwani and Hansi.",
-      "winner05": "Ranbir Singh Mahendra",
-      "electors05": 126496,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Ranbir Singh Mahendra",
+      "electors_07": 126496
     },
     {
-      "n": 66,
-      "party05": "INC",
+      "ac_no": 66,
       "name": "Bhiwani",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         57
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Bhiwani —Bhiwani K.C. in Bhiwani tahsil.",
-      "winner05": "Dr. Shiv Shanker Bhardwaj",
-      "electors05": 130320
+      "party07": "INC",
+      "winner_07": "Dr. Shiv Shanker Bhardwaj",
+      "electors_07": 130320
     },
     {
-      "n": 67,
-      "party05": "INC",
+      "ac_no": 67,
       "name": "Tosham",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         58
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Tosham .—Tosham, Jui Kalan and Kairu K.Cs. in Bhiwani tahsil.",
-      "winner05": "Surender Singh",
-      "electors05": 142617
+      "party07": "INC",
+      "winner_07": "Surender Singh",
+      "electors_07": 142617
     },
     {
-      "n": 68,
-      "party05": "INC",
+      "ac_no": 68,
       "name": "Loharu",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         54
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Loharu —Loharu tahsil. 59. Bawani Khera (SC) PCs Kharak Khurd-I & II, Kelanga-I & II of Bamla KC, KCs Chang & Mundhal Khurd of Bhiwani Tehsil & Bawani Khera Tehsil. 69. Bawani Khera (SC) .—Bawani Khera and Siwani K.Cs. and Mundhal Khurd K.C. (excluding P.Cs. 26—Talu, 27— Mundhal Kalan, 28-29—Mundhal Khurd I & II, 30—Badesra, 31-32—Dhanana I &II, 33— Mundhana and 37—Sui) in Bawani Khera tahsil. Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Badhra Badhra (majority) + Loharu Core retained in the new Badhra constituency (Jhojhu Kalan, Chiriya, Badhra & Kadma KCs). Loharu tehsil was separated to form the enlarged Loharu constituency. Dadri Dadri Direct",
-      "winner05": "Somvir Singh",
-      "electors05": 147474
+      "party07": "INC",
+      "winner_07": "Somvir Singh",
+      "electors_07": 147474
     },
     {
-      "n": 69,
-      "party05": "INC",
+      "ac_no": 69,
       "name": "Bawani Khera",
-      "sc": true,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         59
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Ramkishan Fauji",
-      "electors05": 133102,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Ramkishan Fauji",
+      "electors_07": 133102
     },
     {
-      "n": 70,
-      "party05": "INC",
+      "ac_no": 70,
       "name": "Barwala",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         51
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Barwala —Barwala and Kheri Jalab K.Cs. in Hansi tahsil.",
-      "winner05": "Randhir",
-      "electors05": 137170
+      "party07": "INC",
+      "winner_07": "Randhir",
+      "electors_07": 137170
     },
     {
-      "n": 71,
-      "party05": "BJP",
+      "ac_no": 71,
       "name": "Narnaund",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         49
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Narnaund —Narnaund K.C. and Sisai Kali Rawan K.C. (excluding 48. Uklana(SC) PCs Hasangarh, Kharkara, Gaibipur & Bobua of Barwala P.Cs. 39—Sisai Bola, 40-41— Sisai Kali Rawan I & II, 45—Bhatla, 46— Chanot, 47-48—Ghirai I & II and 50— Singhwa Ragho) in Hansi tahsil. KC, PCs Balak, Khedar I & II of Balak KC, KCs Landhari, Kharak, Uklana & Pabra of Hisar Tehsil.",
-      "winner05": "Ram Kumar",
-      "electors05": 116132
+      "party07": "BJP",
+      "winner_07": "Ram Kumar",
+      "electors_07": 116132
     },
     {
-      "n": 72,
-      "party05": "INC",
+      "ac_no": 72,
       "name": "Hansi",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         50
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Hansi —Hansi K.C. in Hansi tahsil.",
-      "winner05": "Amir Chand",
-      "electors05": 129661
+      "party07": "INC",
+      "winner_07": "Amir Chand",
+      "electors_07": 129661
     },
     {
-      "n": 73,
-      "party05": "INC",
+      "ac_no": 73,
       "name": "Bhattu Kalan",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         40,
         47
       ],
       "note": "Name vanished. Bhattu Kalan’s area was divided between Fatehabad and Adampur.",
-      "winner05": "Kulvir Singh",
-      "electors05": 124766,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Kulvir Singh",
+      "electors_07": 124766
     },
     {
-      "n": 74,
-      "party05": "INC",
+      "ac_no": 74,
       "name": "Hissar",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "renamed",
       "dest": [
         52,
@@ -1732,15 +1357,15 @@
       ],
       "note": "Direct continuity; the name was modernised to Hisar.",
       "extent": "Hissar —Hissar municipality, P.Cs. 1-3—Hissar I to III, 8— Juglan and 9—Talwandi Rana in Hissar K.C, P.Cs. 15-19— Bir Hissar I to V and 27—Gangwa in Bir Hissar K.C. in Hissar tahsil.",
-      "winner05": "Om Prakash Jindal",
-      "electors05": 162731
+      "party07": "INC",
+      "winner_07": "Om Prakash Jindal",
+      "electors_07": 162731
     },
     {
-      "n": 75,
-      "party05": "INC",
+      "ac_no": 75,
       "name": "Ghirai",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         50,
@@ -1749,122 +1374,122 @@
       ],
       "note": "Name vanished. Ghirai’s villages went to Hansi, Barwala and the new Uklana (SC).",
       "extent": "Ghirai —P.Cs. 39-Sisai Bola, 40-41—Sisai Kali Rawan I and II, 45—Bhatla, 46—Chanot, 47-48—Ghirai I & II and 50— Singhwa Ragho in Sisaikali Rawan K.C. in Hansi tahsil; Balak K.C. and Hissar K.C. (excluding Hissar municipality and P.Cs. 1-3—Hissar I to III, 8—Juglan and 9—Talwandi Rana) in Hissar tahsil.",
-      "winner05": "Prof. Chhattar Pal Singh",
-      "electors05": 129731
+      "party07": "INC",
+      "winner_07": "Prof. Chhattar Pal Singh",
+      "electors_07": 129731
     },
     {
-      "n": 76,
-      "party05": "INC",
+      "ac_no": 76,
       "name": "Tohana",
-      "sc": false,
-      "dist": "Fatehabad",
+      "district": "Fatehabad",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         39
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Paramvir Singh",
-      "electors05": 145532,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Paramvir Singh",
+      "electors_07": 145532
     },
     {
-      "n": 77,
-      "party05": "INLD",
+      "ac_no": 77,
       "name": "Ratia",
-      "sc": true,
-      "dist": "Fatehabad",
+      "district": "Fatehabad",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         41
       ],
       "note": "Direct continuity of the name with revised boundaries.",
-      "winner05": "Gian Chand",
-      "electors05": 127181,
-      "extent": ""
+      "extent": "",
+      "party07": "INLD",
+      "winner_07": "Gian Chand",
+      "electors_07": 127181
     },
     {
-      "n": 78,
-      "party05": "INC",
+      "ac_no": 78,
       "name": "Fatehabad",
-      "sc": false,
-      "dist": "Fatehabad",
+      "district": "Fatehabad",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         40
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Fatehabad .—Fatehabad and Bhirrana K.Cs. and Bighar K.C (excluding P.Cs. 53—Manawali, 54—Kukranwali, 55— Gila Khera and 56—Bodiwali) in Fatehabad tahsil.",
-      "winner05": "Dura Ram",
-      "electors05": 157160
+      "party07": "INC",
+      "winner_07": "Dura Ram",
+      "electors_07": 157160
     },
     {
-      "n": 79,
-      "party05": "INC",
+      "ac_no": 79,
       "name": "Adampur",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         47
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Adampur —Adampur, Balsmand and Mangali K.Cs. and Bir Hissar K.C [excluding P.Cs. 15-19—Bir Hissar I to V and 27—Gangwa] in Hissar tahsil. Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Barwala Barwala (majority) + Uklana (SC) + Adampur The constituency was reorganised. Its core became the new Barwala, while parts of Barwala KC (Hasangarh, Kharkara, Gaibipur, Bubak etc.) were transferred to Uklana (SC). Adampur expanded by acquiring Balsamand and Bir Hisar KCs. Narnaund Narnaund Direct continuity. The new constituency is centred on Narnaund Tehsil (Sisai, Khanda Kheri and Bass KCs), with only minor boundary rationalisation. Hansi Hansi Strong contin",
-      "winner05": "Bhajan Lal",
-      "electors05": 141094
+      "party07": "INC",
+      "winner_07": "Bhajan Lal",
+      "electors_07": 141094
     },
     {
-      "n": 80,
-      "party05": "INC",
+      "ac_no": 80,
       "name": "Darba Kalan",
-      "sc": false,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         45,
         42
       ],
       "note": "Name vanished. Darba Kalan’s area went to Sirsa and the new Kalanwali (SC).",
-      "winner05": "Bharat Singh",
-      "electors05": 139156,
-      "extent": ""
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Bharat Singh",
+      "electors_07": 139156
     },
     {
-      "n": 81,
-      "party05": "INLD",
+      "ac_no": 81,
       "name": "Ellenabad",
-      "sc": true,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         46,
         44
       ],
       "note": "The name continued as new No. 46; part of its territory also went to Rania. The seat lost its SC reservation.",
-      "winner05": "Dr. Sushil Kumar Indora",
-      "electors05": 142600,
-      "extent": ""
+      "extent": "",
+      "party07": "INLD",
+      "winner_07": "Dr. Sushil Kumar Indora",
+      "electors_07": 142600
     },
     {
-      "n": 82,
-      "party05": "INC",
+      "ac_no": 82,
       "name": "Sirsa",
-      "sc": false,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         45
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Sirsa —Sirsa K.C. and P.Cs. 110—Bhaudin, 111—Kawarpura, 112—Kotali, 113—Moriwala, 115—Darbi, 116—Baruwali Aval and 117—Bharoka in Ding K.C. in Sirsa tahsil.",
-      "winner05": "Lachhman Dass Arora",
-      "electors05": 154370
+      "party07": "INC",
+      "winner_07": "Lachhman Dass Arora",
+      "electors_07": 154370
     },
     {
-      "n": 83,
-      "party05": "INLD",
+      "ac_no": 83,
       "name": "Rori",
-      "sc": false,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         44,
@@ -1872,45 +1497,45 @@
       ],
       "note": "Name vanished. Rori’s villages went to the new Rania and Kalanwali (SC).",
       "extent": "Rori ,—Rori and Baragurah K.Cs. in Sirsa tahsil; Odhan K.C. and Bijuwali K.Cs. in Dabwali tahsil.",
-      "winner05": "Om Prakash Chautala",
-      "electors05": 128819
+      "party07": "INLD",
+      "winner_07": "Om Prakash Chautala",
+      "electors_07": 128819
     },
     {
-      "n": 84,
-      "party05": "INLD",
+      "ac_no": 84,
       "name": "Dabwali",
-      "sc": true,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         43
       ],
       "note": "Direct continuity of the name with revised boundaries. The seat lost its SC reservation.",
       "extent": "Dabwali (SC) —Dabwali, Abubshahr and Kalanwali K-Cs. in Dabwali tahsil",
-      "winner05": "Dr.Sita Ram",
-      "electors05": 132360
+      "party07": "INLD",
+      "winner_07": "Dr.Sita Ram",
+      "electors_07": 132360
     },
     {
-      "n": 85,
-      "party05": "IND",
+      "ac_no": 85,
       "name": "Bawal",
-      "sc": true,
-      "dist": "Rewari",
+      "district": "Rewari",
+      "type": "SC",
       "status": "continuing",
       "dest": [
         72
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Bawal (SC) —Bawal municipality, Bawal K.C. and Khori K.C. (excluding P.Cs. 44—Mundi, 49—Jadra, 50—Gokalgarh and 51—Bikaner) in Rewari tahsil.",
-      "winner05": "Shakuntla Bhagwaria",
-      "electors05": 148953
+      "party07": "IND",
+      "winner_07": "Shakuntla Bhagwaria",
+      "electors_07": 148953
     },
     {
-      "n": 86,
-      "party05": "INC",
+      "ac_no": 86,
       "name": "Rewari",
-      "sc": false,
-      "dist": "Rewari",
+      "district": "Rewari",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         74,
@@ -1918,15 +1543,15 @@
       ],
       "note": "The name continued as new No. 74; part of its territory also went to Kosli.",
       "extent": "Rewari —Rewari municipality, Rewari K.C. and P.Cs. 49— Jadra, 50—Gokalgarh and 51—Bikaner in Khori K.C. in Rewari tahsil.",
-      "winner05": "Ajay Singh",
-      "electors05": 148312
+      "party07": "INC",
+      "winner_07": "Ajay Singh",
+      "electors_07": 148312
     },
     {
-      "n": 87,
-      "party05": "INC",
+      "ac_no": 87,
       "name": "Jatusana",
-      "sc": false,
-      "dist": "Rewari",
+      "district": "Rewari",
+      "type": "GEN",
       "status": "abolished",
       "dest": [
         73,
@@ -1934,30 +1559,30 @@
       ],
       "note": "Name vanished. Jatusana’s area forms the core of the new Kosli, with a fringe to Rewari.",
       "extent": "Jatusana .—Kanina municipality and Kanina K.C. in Mahendragarh tahsil; and Jatusana K.C. and P.C. 44—Mundi in Khori: K.C. in Rewari tahsil.",
-      "winner05": "Yadavendra Singh Alias Baljit Singh",
-      "electors05": 155198
+      "party07": "INC",
+      "winner_07": "Yadavendra Singh Alias Baljit Singh",
+      "electors_07": 155198
     },
     {
-      "n": 88,
-      "party05": "INC",
+      "ac_no": 88,
       "name": "Mahendragarh",
-      "sc": false,
-      "dist": "Mahendragarh",
+      "district": "Mahendragarh",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         69
       ],
       "note": "Direct continuity of the name with revised boundaries.",
       "extent": "Mahendragarh .—Mahendragarh municipality and Mahendragarh and Pali K.Cs. in Mahendragarh tahsil. 71. Nangal Chaudhry KCs Nizampur & Nangal Chaudhry of Narnaul Tehsil.",
-      "winner05": "Dan Singh",
-      "electors05": 154280
+      "party07": "INC",
+      "winner_07": "Dan Singh",
+      "electors_07": 154280
     },
     {
-      "n": 89,
-      "party05": "IND",
+      "ac_no": 89,
       "name": "Ateli",
-      "sc": false,
-      "dist": "Mahendragarh",
+      "district": "Mahendragarh",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         68,
@@ -1965,15 +1590,15 @@
       ],
       "note": "The name continued as new No. 68; part of its territory also went to Nangal Chaudhry.",
       "extent": "Ateli —Ateli K.C, P.Cs. 34—Nangal Chaudhri, 35—Kanwin, 36—Bhojawas, 37—Kamania,38—Nangal Kalia and 49—Sirohi Bahali in Nangal Chaudhari K.C. and P.Cs. 3—Hudina, 4— Niwaznagar, 14—Shahpur-I and 16—Kodinja in Narnaul K.C. in Narnaul tahsil.",
-      "winner05": "Naresh Yadav",
-      "electors05": 153131
+      "party07": "IND",
+      "winner_07": "Naresh Yadav",
+      "electors_07": 153131
     },
     {
-      "n": 90,
-      "party05": "IND",
+      "ac_no": 90,
       "name": "Narnaul",
-      "sc": false,
-      "dist": "Mahendragarh",
+      "district": "Mahendragarh",
+      "type": "GEN",
       "status": "continuing",
       "dest": [
         70,
@@ -1981,1116 +1606,1511 @@
       ],
       "note": "The name continued as new No. 70; part of its territory also went to Nangal Chaudhry.",
       "extent": "Narnaul —Narnaul K.C. (excluding P.Cs. 3—Hudina, 4—Ni>- waznagar, 14—Shahpur-I and 16—Kodinja) and Nangal Chaudhri K.C. (excluding P.Cs. 34—Nangal Chaudhri, 35— Kanwin, 36—Bhojawas, 37—Kamania, 38—Nangal Kalia and 49—Sirohi Bahali) in Narnaul tahsil. Key Patterns Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Bawal (SC) Mostly Ateli, partly Narnaul The old Bawal (SC) constituency disappeared from Mahendragarh district. Its Mahendragarh-side Kanina and Dhanaunda areas became part of Ateli, while Bawal itself later formed part of the Rewari district constituency after reorganization. Rewari Mostly outside Mahendragarh district (Rewari district) The Rewari consti",
-      "winner05": "Radhey Shyam",
-      "electors05": 141082
+      "party07": "IND",
+      "winner_07": "Radhey Shyam",
+      "electors_07": 141082
     }
   ],
-  "constituencies_new": [
+  "post2008_constituencies": [
     {
-      "n": 1,
-      "party09": "INLD",
+      "ac_no": 1,
       "name": "Kalka",
-      "sc": false,
-      "dist": "Panchkula",
+      "district": "Panchkula",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        1
+      ],
       "note": "Direct continuity with the old Kalka.",
       "extent": "Kalka Kalka Tehsil; KCs Morni & Raipur Rani of Panchkula Tehsil.",
-      "winner09": "Pardeep Chaudhary",
-      "electors09": 122579
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Pardeep Chaudhary",
+      "electors_12": 122579
     },
     {
-      "n": 2,
-      "party09": "INC",
+      "ac_no": 2,
       "name": "Panchkula",
-      "sc": false,
-      "dist": "Panchkula",
+      "district": "Panchkula",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        1,
+        10
+      ],
       "note": "Newly created for the fast-growing Panchkula urban area, from the old Kalka seat’s Pinjore belt and parts of old Naggal.",
       "extent": "KC Panchkula & Panchkula (Municipal Council) of Panchkula Tehsil.",
-      "winner09": "Devender Kumar Bansal",
-      "electors09": 143985
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Devender Kumar Bansal",
+      "electors_12": 143985
     },
     {
-      "n": 3,
-      "party09": "INC",
+      "ac_no": 3,
       "name": "Naraingarh",
-      "sc": false,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        2,
+        10
+      ],
       "note": "Direct continuity with the old Naraingarh; also absorbed territory from Naggal.",
       "extent": "Naraingarh Naraingarh Tehsil; PCs Pilkhani & Khudda Kalan of Ambala Cantt. KC of Ambala Tehsil.",
-      "winner09": "Ram Kishan",
-      "electors09": 141746
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Ram Kishan",
+      "electors_12": 141746
     },
     {
-      "n": 4,
-      "party09": "BJP",
+      "ac_no": 4,
       "name": "Ambala Cantt.",
-      "sc": false,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "GEN",
       "status": "renamed",
+      "src": [
+        8
+      ],
       "note": "Direct continuity with old Ambala Cantonment; the spelling was modernised.",
-      "winner09": "Anil Vij",
-      "electors09": 147434,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "BJP",
+      "winner_12": "Anil Vij",
+      "electors_12": 147434
     },
     {
-      "n": 5,
-      "party09": "INC",
+      "ac_no": 5,
       "name": "Ambala City",
-      "sc": false,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        9,
+        10
+      ],
       "note": "Direct continuity with the old Ambala City; also absorbed territory from Naggal.",
-      "winner09": "Venod Sharma",
-      "electors09": 187813,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Venod Sharma",
+      "electors_12": 187813
     },
     {
-      "n": 6,
-      "party09": "INLD",
+      "ac_no": 6,
       "name": "Mulana",
-      "sc": true,
-      "dist": "Ambala",
+      "district": "Ambala",
+      "type": "SC",
       "status": "renamed",
+      "src": [
+        7
+      ],
       "note": "Direct continuity with old Mullana; the spelling was modernised.",
-      "winner09": "Rajbir Singh Barara",
-      "electors09": 167513,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Rajbir Singh Barara",
+      "electors_12": 167513
     },
     {
-      "n": 7,
-      "party09": "INC",
+      "ac_no": 7,
       "name": "Sadhaura",
-      "sc": true,
-      "dist": "Yamunanagar",
+      "district": "Yamunanagar",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        3,
+        4
+      ],
       "note": "Direct continuity with the old Sadhaura; also absorbed territory from Chhachhrauli.",
       "extent": "Sadhaura (SC) KCs Sadhaura, Bilaspur, PCs Pabni Kalan, Mussimbal & Mehlanwali of Jagadhri KC, PC Khera of Yamunanagar KC, PCs Bhambholi, Mustafabad, Chhappar Mansurpur, Jagdhauli, Kalawar, Talakaur, Ambli & Hangoli of Mustafabad KC of Jagadhri Tehsil.",
-      "winner09": "Rajpal",
-      "electors09": 165132
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Rajpal",
+      "electors_12": 165132
     },
     {
-      "n": 8,
-      "party09": "BSP",
+      "ac_no": 8,
       "name": "Jagadhri",
-      "sc": false,
-      "dist": "Yamunanagar",
+      "district": "Yamunanagar",
+      "type": "GEN",
       "status": "renamed",
+      "src": [
+        4,
+        6
+      ],
       "note": "Direct continuity with old Jagadhari; the spelling was modernised.",
       "extent": "Jagadhri Chhachhrauli Tehsil; PCs Jagadhri & Arnauli of Jagadhri KC & Jagadhri (Municipal Council) of Jagadhri Tehsil.",
-      "winner09": "Akram Khan",
-      "electors09": 158037
+      "sc_note": "",
+      "party12": "BSP",
+      "winner_12": "Akram Khan",
+      "electors_12": 158037
     },
     {
-      "n": 9,
-      "party09": "INLD",
+      "ac_no": 9,
       "name": "Yamunanagar",
-      "sc": false,
-      "dist": "Yamunanagar",
+      "district": "Yamunanagar",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        5
+      ],
       "note": "Direct continuity with the old Yamunanagar.",
       "extent": "Yamunanagar PCs Yamunanagar, Balachaur & Tejli of Yamunanagar KC, Yamunanagar (Municipal Council), PCs Buria Jagir, Kanalsi, Sabapur & Kharwan of Jagadhri KC of Jagadhri Tehsil.",
-      "winner09": "Dilbagh Singh",
-      "electors09": 153439
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Dilbagh Singh",
+      "electors_12": 153439
     },
     {
-      "n": 10,
-      "party09": "INLD",
+      "ac_no": 10,
       "name": "Radaur",
-      "sc": false,
-      "dist": "Yamunanagar",
+      "district": "Yamunanagar",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        21
+      ],
       "note": "Direct continuity with the old Radaur.",
-      "scNote": "Lost SC reservation.",
       "extent": "Radaur KC Radaur, PCs Hafizpur, Jhinwarheri, Uncha Chandana, Saran & Rapoli of Mustafabad KC, PCs Naharpur, Tigri, Khurdi, Damla, Aurangabad, Pansra & Sasauli of Yamunanagar KC of Jagadhri Tehsil. \\ Key Changes Old Constituency (Before, Ambala District) Where It's Located Now (After) New District Note Sadhaura (SC) old extent: Sadhaura K.C. + Bilaspur K.C. Sadhaura (SC) Yamunanagar Direct core continuity both Sadhaura K.C. and Bilaspur K.C. are named in both old and new extent text, word for word. New seat also gains PCs Pabni Kalan, Mussimbal, Mehlanwali (pulled from old Jagadhri's territory) and a large Mustafabad KC cluster (also old Jagadhri's) Chhachhrauli old extent: Chhachhrauli K.C. ",
-      "winner09": "Dr.Bishan Lal Saini",
-      "electors09": 146594
+      "sc_note": "Lost SC reservation.",
+      "party12": "INLD",
+      "winner_12": "Dr.Bishan Lal Saini",
+      "electors_12": 146594
     },
     {
-      "n": 11,
-      "party09": "INLD",
+      "ac_no": 11,
       "name": "Ladwa",
-      "sc": false,
-      "dist": "Kurukshetra",
+      "district": "Kurukshetra",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        21,
+        22
+      ],
       "note": "Newly created around Ladwa town, from parts of old Radaur and Thanesar.",
       "extent": "Ladwa PCs Pipli, Umri, Jhinwarheri, Mathana, Sirsama, Untheri, Morthala, Kanipla, Ishargarh & Deeg of Thanesar-I KC, KCs Babain, Ladwa & Ladwa (Municipal Committee) of Thanesar Tehsil. 21. Radaur(SC) -Radaur K.C. and Babain K.C. (excluding P.Cs. 29—Kharindwa, 30^—Teorah, 31—Charauni-Jattan, 32— Kanipla and 33—Khera) in Thanesar tahsil. 12. Shahbad(SC) Shahbad Tehsil; PCs Thol, Ajrawar & Shanti Nagar Urf Kurdi of Ismailabad KC of Pehowa Tehsil & KC Durala of Thanesar Tehsil.",
-      "winner09": "Sher Singh Barshami",
-      "electors09": 138172
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Sher Singh Barshami",
+      "electors_12": 138172
     },
     {
-      "n": 12,
-      "party09": "INC",
+      "ac_no": 12,
       "name": "Shahbad",
-      "sc": true,
-      "dist": "Kurukshetra",
+      "district": "Kurukshetra",
+      "type": "SC",
       "status": "renamed",
+      "src": [
+        20
+      ],
       "note": "Direct continuity with old Shahabad; the spelling was modernised.",
-      "scNote": "Newly SC-reserved.",
-      "winner09": "Anil Dhantori",
-      "electors09": 124883,
-      "extent": ""
+      "extent": "",
+      "sc_note": "Newly SC-reserved.",
+      "party12": "INC",
+      "winner_12": "Anil Dhantori",
+      "electors_12": 124883
     },
     {
-      "n": 13,
-      "party09": "INLD",
+      "ac_no": 13,
       "name": "Thanesar",
-      "sc": false,
-      "dist": "Kurukshetra",
+      "district": "Kurukshetra",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        22
+      ],
       "note": "Direct continuity with the old Thanesar.",
       "extent": "Thanesar PCs Darrakalan, Sirsala & Palwal of Thanesar-I KC, KC ThanesarII & Darrakalan MC of Thanesar Tehsil.",
-      "winner09": "Ashok Kumar Arora",
-      "electors09": 122244
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Ashok Kumar Arora",
+      "electors_12": 122244
     },
     {
-      "n": 14,
-      "party09": "INC",
+      "ac_no": 14,
       "name": "Pehowa",
-      "sc": false,
-      "dist": "Kurukshetra",
+      "district": "Kurukshetra",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        23
+      ],
       "note": "Direct continuity with the old Pehowa.",
       "extent": "Pehowa PCs Ismailabad, Jhansa, Bhusthla, Naisi, Jakhwala & Thaska Miranji of Ismailabad KC, KCs Murtzapur, Pehowa & Pehowa (Municipal Committee) of Pehowa Tehsil. 24. Guhla(SC) —Guhla and Siwan K.Cs. in Guhla tahsil.",
-      "winner09": "Harmohinder Singh",
-      "electors09": 134786
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Harmohinder Singh",
+      "electors_12": 134786
     },
     {
-      "n": 15,
-      "party09": "INLD",
+      "ac_no": 15,
       "name": "Guhla",
-      "sc": true,
-      "dist": "Kaithal",
+      "district": "Kaithal",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        24
+      ],
       "note": "Direct continuity with the old Guhla.",
       "extent": "Guhla (SC) Guhla Tehsil & KC Siwan of Kaithal Tehsil.",
-      "winner09": "Phool Singh",
-      "electors09": 143929
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Phool Singh",
+      "electors_12": 143929
     },
     {
-      "n": 16,
-      "party09": "INLD",
+      "ac_no": 16,
       "name": "Kalayat",
-      "sc": false,
-      "dist": "Kaithal",
+      "district": "Kaithal",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        27,
+        44,
+        47
+      ],
       "note": "Direct continuity with the old Kalayat; also absorbed territory from Pai, Rajond.",
-      "scNote": "Lost SC reservation.",
       "extent": "Kalayat KCs Jakholi, Rajound, Kalayat, Mator & Kalayat Municipal Committee of Kaithal Tehsil.",
-      "winner09": "Rampal Majra",
-      "electors09": 162982
+      "sc_note": "Lost SC reservation.",
+      "party12": "INLD",
+      "winner_12": "Rampal Majra",
+      "electors_12": 162982
     },
     {
-      "n": 17,
-      "party09": "INC",
+      "ac_no": 17,
       "name": "Kaithal",
-      "sc": false,
-      "dist": "Kaithal",
+      "district": "Kaithal",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        25
+      ],
       "note": "Direct continuity with the old Kaithal.",
       "extent": "Kaithal PCs Patti Kaisth Seth, Patti Gadar, Khurana, Deora, Keorak-I & II, Geong, Jaswanti, Sirta, Khanoda, Kathwar, Mundhari & Nawach of Kaithal-I KC, KC Kaithal-II & Kaithal (Municipal Council) of Kaithal Tehsil.",
-      "winner09": "Randeep Singh Surjewala",
-      "electors09": 150744
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Randeep Singh Surjewala",
+      "electors_12": 150744
     },
     {
-      "n": 18,
-      "party09": "IND",
+      "ac_no": 18,
       "name": "Pundri",
-      "sc": false,
-      "dist": "Kaithal",
+      "district": "Kaithal",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        26,
+        27
+      ],
       "note": "Direct continuity with the old Pundri; also absorbed territory from Pai.",
       "extent": "Pundri KCs Dhand, Pundri, Pai, PCs Barot & Teek of Kaithal-I KC & Pundri (Municipal Committee) of Kaithal Tehsil. Key Changes Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Kurukshetra Guhla (SC) Guhla (SC) Direct continuity. The constituency remained SC-reserved and continues to comprise Guhla Tehsil, while retaining Siwan KC of Kaithal Tehsil. Kurukshetra Kalayat Kalayat Direct continuity with revised boundaries. The constituency continues to include Jakholi, Rajound, Kalayat and Mator KCs together with Kalayat Municipal Committee. Kurukshetra Kaithal Kaithal Direct continuity. The constituency retained the Kaithal urban core and n",
-      "winner09": "Sultan",
-      "electors09": 146691
+      "sc_note": "",
+      "party12": "IND",
+      "winner_12": "Sultan",
+      "electors_12": 146691
     },
     {
-      "n": 19,
-      "party09": "INLD",
+      "ac_no": 19,
       "name": "Nilokheri",
-      "sc": true,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        12,
+        14
+      ],
       "note": "Continuing name, newly SC-reserved — the reservation of the abolished Jundla (SC) effectively moved here.",
-      "winner09": "Mamu Ram",
-      "electors09": 156170,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Mamu Ram",
+      "electors_12": 156170
     },
     {
-      "n": 20,
-      "party09": "INLD",
+      "ac_no": 20,
       "name": "Indri",
-      "sc": false,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        11
+      ],
       "note": "Direct continuity with the old Indri.",
       "extent": "Indri Indri Tehsil & KC Baragaon of Karnal Tehsil.",
-      "winner09": "Ashok Kashyap",
-      "electors09": 147068
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Ashok Kashyap",
+      "electors_12": 147068
     },
     {
-      "n": 21,
-      "party09": "INC",
+      "ac_no": 21,
       "name": "Karnal",
-      "sc": false,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        13,
+        14
+      ],
       "note": "Direct continuity with the old Karnal; also absorbed territory from Jundla.",
       "extent": "Karnal PCs Karnal I, II & III, Kachhwa-I & II, Pundrak of Karnal-I KC & Karnal (Municipal Council + OG) of Karnal Tehsil.",
-      "winner09": "Sumita Singh",
-      "electors09": 158695
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Sumita Singh",
+      "electors_12": 158695
     },
     {
-      "n": 22,
-      "party09": "INLD",
+      "ac_no": 22,
       "name": "Gharaunda",
-      "sc": false,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        15
+      ],
       "note": "Direct continuity with the old Gharaunda.",
       "extent": "Gharaunda Gharaunda Tehsil; KC Karnal-II, PCs Gogripur, Kambohpura, Kutail & Uncha Siwana of Karnal-I KC of Karnal Tehsil.",
-      "winner09": "Narender Sangwan",
-      "electors09": 159059
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Narender Sangwan",
+      "electors_12": 159059
     },
     {
-      "n": 23,
-      "party09": "HJCBL",
+      "ac_no": 23,
       "name": "Assandh",
-      "sc": false,
-      "dist": "Karnal",
+      "district": "Karnal",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        14,
+        16
+      ],
       "note": "Direct continuity with the old Assandh; also absorbed territory from Jundla.",
-      "scNote": "Lost SC reservation.",
       "extent": "Assandh Assandh Tehsil & KC Jundla of Karnal Tehsil.",
-      "winner09": "Pt. Zile Ram Chochra",
-      "electors09": 170814
+      "sc_note": "Lost SC reservation.",
+      "party12": "HJCBL",
+      "winner_12": "Pt. Zile Ram Chochra",
+      "electors_12": 170814
     },
     {
-      "n": 24,
-      "party09": "IND",
+      "ac_no": 24,
       "name": "Panipat Rural",
-      "sc": false,
-      "dist": "Panipat",
+      "district": "Panipat",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        17,
+        19
+      ],
       "note": "Newly created rural half of the old Panipat seat.",
       "extent": "Rural KCs of the old Panipat seat outside the Municipal Council area of Panipat Tehsil.",
-      "winner09": "Om Prakash Jain",
-      "electors09": 126347
+      "sc_note": "",
+      "party12": "IND",
+      "winner_12": "Om Prakash Jain",
+      "electors_12": 126347
     },
     {
-      "n": 25,
-      "party09": "INC",
+      "ac_no": 25,
       "name": "Panipat City",
-      "sc": false,
-      "dist": "Panipat",
+      "district": "Panipat",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        17
+      ],
       "note": "Newly created urban half of the old Panipat seat.",
       "extent": "Panipat (Municipal Council) of Panipat Tehsil — the urban half of the bifurcated old Panipat.",
-      "winner09": "Balbir Pal Shah",
-      "electors09": 144053
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Balbir Pal Shah",
+      "electors_12": 144053
     },
     {
-      "n": 26,
-      "party09": "INLD",
+      "ac_no": 26,
       "name": "Israna",
-      "sc": true,
-      "dist": "Panipat",
+      "district": "Panipat",
+      "type": "SC",
       "status": "new",
+      "src": [
+        19
+      ],
       "note": "Newly created SC seat; the bulk of old Naultha’s territory.",
-      "scNote": "Newly created SC-reserved seat.",
       "extent": "Israna (SC) KCs Madlauda-I, Madlauda-II of Panipat Tehsil & Israna Tehsil.",
-      "winner09": "Krishan Lal Panwar",
-      "electors09": 128894
+      "sc_note": "Newly created SC-reserved seat.",
+      "party12": "INLD",
+      "winner_12": "Krishan Lal Panwar",
+      "electors_12": 128894
     },
     {
-      "n": 27,
-      "party09": "HJCBL",
+      "ac_no": 27,
       "name": "Samalkha",
-      "sc": false,
-      "dist": "Panipat",
+      "district": "Panipat",
+      "type": "GEN",
       "status": "renamed",
+      "src": [
+        18
+      ],
       "note": "Direct continuity with old Sambhalka; the spelling was modernised.",
       "extent": "Samalkha Samalkha Tehsil. Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Panipat Panipat City and Panipat Rural The erstwhile Panipat constituency was bifurcated into an urban constituency (Panipat City) comprising Panipat Municipal Council and Out Growth area, and a rural constituency (Panipat Rural) comprising the Panipat Kanungo Circle. Naultha Israna (SC) and Panipat Rural The rural parts of Naultha were reorganised. Madlauda-I and Madlauda-II KCs were transferred to the newly reserved Israna (SC), while the Panipat KC became part of Panipat Rural. Samalkha Samalkha Retained with revised boundaries to correspond with the newly constituted Samal",
-      "winner09": "Dharm Singh",
-      "electors09": 143332
+      "sc_note": "",
+      "party12": "HJCBL",
+      "winner_12": "Dharm Singh",
+      "electors_12": 143332
     },
     {
-      "n": 28,
-      "party09": "INC",
+      "ac_no": 28,
       "name": "Ganaur",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        40
+      ],
       "note": "Newly created from old Kailana’s northern belt.",
       "extent": "Ganaur Ganaur Tehsil; PCs Sandal Kalan, Shahjadpur & Kurar Ibrahimpur of Murthal KC & PC Sonipat Patti Musalmanan of Sonipat-I KC of Sonipat Tehsil.",
-      "winner09": "Kuldeep Sharma",
-      "electors09": 127556
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Kuldeep Sharma",
+      "electors_12": 127556
     },
     {
-      "n": 29,
-      "party09": "INC",
+      "ac_no": 29,
       "name": "Rai",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        42,
+        43
+      ],
       "note": "Direct continuity with the old Rai; also absorbed territory from Rohat.",
       "extent": "Rai KC Rai, PCs Malikpur, Barauli, Basodi, Dipalpur, Jainpur, Khewra, Kumaspur & Murthal of Murthal KC, PCs Nahra, Nahri & Garhibala of Sonipat-II KC of Sonipat Tehsil. Mundlana K.C. in Gohana tahsil.",
-      "winner09": "Jai Tirath",
-      "electors09": 124163
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Jai Tirath",
+      "electors_12": 124163
     },
     {
-      "n": 30,
-      "party09": "INC",
+      "ac_no": 30,
       "name": "Kharkhauda",
-      "sc": true,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "SC",
       "status": "new",
+      "src": [
+        28,
+        43
+      ],
       "note": "Newly created SC seat from old Hassangarh and Rohat villages.",
-      "scNote": "Newly created SC-reserved seat.",
       "extent": "Kharkhauda (SC) Kharkhauda Tehsil; PCs Baiyanpur, Rathdhana, Kakroi, Harsana Kalan & Rohat of Sonipat-II KC of Sonipat Tehsil.",
-      "winner09": "Jaiveer",
-      "electors09": 119988
+      "sc_note": "Newly created SC-reserved seat.",
+      "party12": "INC",
+      "winner_12": "Jaiveer",
+      "electors_12": 119988
     },
     {
-      "n": 31,
-      "party09": "BJP",
+      "ac_no": 31,
       "name": "Sonipat",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "renamed",
+      "src": [
+        40,
+        41,
+        43
+      ],
       "note": "Direct continuity with old Sonepat; the spelling was modernised.",
       "extent": "Sonipat PC Raipur of Sonipat-I KC & Sonipat (Municipal Council) of Sonipat Tehsil.",
-      "winner09": "Kavita Jain",
-      "electors09": 130175
+      "sc_note": "",
+      "party12": "BJP",
+      "winner_12": "Kavita Jain",
+      "electors_12": 130175
     },
     {
-      "n": 32,
-      "party09": "INC",
+      "ac_no": 32,
       "name": "Gohana",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        39
+      ],
       "note": "Direct continuity with the old Gohana.",
       "extent": "Gohana KC Gohana-I & Gohana (Municipal Committee) of Gohana Tehsil; PCs Sonipat Patti Jatan, Guhna, Dubheta, Mahra, Doduwa, Chitana, Jaji, Jaun, Mohana & Pinana of Sonipat-I KC, PCs Bhatgaon Maliyan, Bhatgaon Dungran, Mehlana & Bagru of Sonipat-II KC of Sonipat Tehsil.",
-      "winner09": "Jagbir Singh Malik",
-      "electors09": 128991
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Jagbir Singh Malik",
+      "electors_12": 128991
     },
     {
-      "n": 33,
-      "party09": "INC",
+      "ac_no": 33,
       "name": "Baroda",
-      "sc": false,
-      "dist": "Sonipat",
+      "district": "Sonipat",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        38
+      ],
       "note": "Direct continuity with the old Baroda.",
-      "scNote": "Lost SC reservation.",
       "extent": "Baroda KCs Baroda, Gohana-II & Mundlana of Gohana Tehsil. Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Baroda (SC) Baroda, Gohana, Ganaur Old Baroda (SC) was split. The Baroda and Mundlana KCs became the core of the new Baroda constituency, while Khanpur Kalan and Saragthal areas shifted to Ganaur, and Samri villages became part of Gohana. The SC reservation was removed from Baroda. Gohana Mostly Gohana, small parts to Baroda Gohana retained its municipal town and KC as the constituency core but lost Mundlana KC to Baroda. It expanded by incorporating villages from the old Sonipat constituency. Kailana Mainly Kharkhauda (SC), parts to Rai The old",
-      "winner09": "Sri Krishan",
-      "electors09": 140925
+      "sc_note": "Lost SC reservation.",
+      "party12": "INC",
+      "winner_12": "Sri Krishan",
+      "electors_12": 140925
     },
     {
-      "n": 34,
-      "party09": "INLD",
+      "ac_no": 34,
       "name": "Julana",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        49
+      ],
       "note": "Direct continuity with the old Julana.",
       "extent": "Julana PCs Rajpura-I & II, Ramrai & Gobindpura of Jind KC, PCs 73—Kurar and 78—Dhundwa in Dhamtan Sahib K.C. in Narwana tahsil. Siwaha, Brah Kalan, Brah Khurd, Kharakramji & Nidana of Kandela KC, KC Kinana of Jind Tehsil & Julana Tehsil.",
-      "winner09": "Parminder Singh Dhull",
-      "electors09": 136988
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Parminder Singh Dhull",
+      "electors_12": 136988
     },
     {
-      "n": 35,
-      "party09": "INLD",
+      "ac_no": 35,
       "name": "Safidon",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        47,
+        50
+      ],
       "note": "Direct continuity with the old Safidon; also absorbed territory from Rajond.",
       "extent": "Safidon Safidon Tehsil 46. Uchana-Kalan —Uchana-Kalan K.C. and Narwana K.C. (excluding P.Cs. 41-42—Narwana I & II, 43—Gurthari, 46— Dablain, 47—Amargarh, 48—Farain Kalan, 49—Phulian Kalan, 50—Kaloda Kalan, 51—Sancha Khera and 57—Dharodi) in Narwana tahsil.",
-      "winner09": "Kali Ram Patwari",
-      "electors09": 139236
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Kali Ram Patwari",
+      "electors_12": 139236
     },
     {
-      "n": 36,
-      "party09": "INLD",
+      "ac_no": 36,
       "name": "Jind",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        47,
+        48
+      ],
       "note": "Direct continuity with the old Jind; also absorbed territory from Rajond.",
       "extent": "Jind PCs Jind-I & II, Intal Kalan, Jalalpur Kalan, Jajwan, Julani & Barsola of Jind KC, Jind (Municipal Council), PCs Kandela, Jhanj Kalan, Roopgarh, Khokhri, Nirjan & Lochab of Kandela KC, PCs Dalamwala & Sirirag of Alewa KC of Jind Tehsil.",
-      "winner09": "Dr. Hari Chand Middha",
-      "electors09": 125564
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Dr. Hari Chand Middha",
+      "electors_12": 125564
     },
     {
-      "n": 37,
-      "party09": "INLD",
+      "ac_no": 37,
       "name": "Uchana Kalan",
-      "sc": false,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        46
+      ],
       "note": "Direct continuity with the old Uchana Kalan.",
-      "winner09": "Om Parkash Chautala",
-      "electors09": 161358,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Om Parkash Chautala",
+      "electors_12": 161358
     },
     {
-      "n": 38,
-      "party09": "INLD",
+      "ac_no": 38,
       "name": "Narwana",
-      "sc": true,
-      "dist": "Jind",
+      "district": "Jind",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        45
+      ],
       "note": "Direct continuity with the old Narwana.",
-      "scNote": "Newly SC-reserved.",
-      "winner09": "Pirthi Singh",
-      "electors09": 159904,
-      "extent": ""
+      "extent": "",
+      "sc_note": "Newly SC-reserved.",
+      "party12": "INLD",
+      "winner_12": "Pirthi Singh",
+      "electors_12": 159904
     },
     {
-      "n": 39,
-      "party09": "INC",
+      "ac_no": 39,
       "name": "Tohana",
-      "sc": false,
-      "dist": "Fatehabad",
+      "district": "Fatehabad",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        76
+      ],
       "note": "Direct continuity with the old Tohana.",
       "extent": "Tohana Tohana Tehsil & KC Nadhori of Fatehabad Tehsil.",
-      "winner09": "Paramvir Singh",
-      "electors09": 167845
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Paramvir Singh",
+      "electors_12": 167845
     },
     {
-      "n": 40,
-      "party09": "IND",
+      "ac_no": 40,
       "name": "Fatehabad",
-      "sc": false,
-      "dist": "Fatehabad",
+      "district": "Fatehabad",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        73,
+        78
+      ],
       "note": "Direct continuity with the old Fatehabad; also absorbed territory from Bhattu Kalan.",
       "extent": "Fatehabad PCs Dhingsara-I & II, Bangram, Gilan Khera, Bodiwali-I & BodiwaliII of Dhingsara KC, PCs Dhangar-I & II, Mohammadpur Rohi & Khajuri Jatti of Dhangar KC, KCs Badopal, Bhattu Kalan, Dhabi Kalan & Bhuna, PCs Fatehabad-I & II, Basti Bhiwan-I & II & Majra of Fatehabad KC & Fatehabad (Municipal Council) of Fatehabad Tehsil. 41. Ratia( SC) Ratia Tehsil; PCs Daryapur, Khariati Khera, Kukranwali & Manawali of Dhingsara KC, KC Hirjawan Kalan, PCs Bhuthan Kalan-I &II, Bhirdana-I, II & III of Dhangar KC, PCs Dhir, Ayalki-I & II, Phull & Bhodia Khera of Fatehabad KC of Fatehabad Tehsil. Key Changes Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key",
-      "winner09": "Prahlad Singh Gillan Khera",
-      "electors09": 182826
+      "sc_note": "",
+      "party12": "IND",
+      "winner_12": "Prahlad Singh Gillan Khera",
+      "electors_12": 182826
     },
     {
-      "n": 41,
-      "party09": "INLD",
+      "ac_no": 41,
       "name": "Ratia",
-      "sc": true,
-      "dist": "Fatehabad",
+      "district": "Fatehabad",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        77
+      ],
       "note": "Direct continuity with the old Ratia.",
-      "winner09": "Gian Chand",
-      "electors09": 161695,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Gian Chand",
+      "electors_12": 161695
     },
     {
-      "n": 42,
-      "party09": "SAD",
+      "ac_no": 42,
       "name": "Kalanwali",
-      "sc": true,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "SC",
       "status": "new",
+      "src": [
+        80,
+        83
+      ],
       "note": "Newly created SC seat from old Darba Kalan and Rori territory.",
-      "scNote": "Newly created SC-reserved seat.",
-      "winner09": "Charanjeet Singh",
-      "electors09": 138779,
-      "extent": ""
+      "extent": "",
+      "sc_note": "Newly created SC-reserved seat.",
+      "party12": "SAD",
+      "winner_12": "Charanjeet Singh",
+      "electors_12": 138779
     },
     {
-      "n": 43,
-      "party09": "INLD",
+      "ac_no": 43,
       "name": "Dabwali",
-      "sc": false,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        84
+      ],
       "note": "Direct continuity with the old Dabwali.",
-      "scNote": "Lost SC reservation.",
-      "winner09": "Ajay Singh Chautala",
-      "electors09": 156245,
-      "extent": ""
+      "extent": "",
+      "sc_note": "Lost SC reservation.",
+      "party12": "INLD",
+      "winner_12": "Ajay Singh Chautala",
+      "electors_12": 156245
     },
     {
-      "n": 44,
-      "party09": "INLD",
+      "ac_no": 44,
       "name": "Rania",
-      "sc": false,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        81,
+        83
+      ],
       "note": "Newly created around Rania town, from old Rori and Ellenabad fringes.",
       "extent": "Rania PCs Mangala-I & II, Bhamboor, Jhorarnali-I & II, Moujdin of Madhosinghana KC, KC Panjuana of Sirsa Tehsil & Rania Tehsil.",
-      "winner09": "Krishan Lal S/O Ram Chand",
-      "electors09": 139469
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Krishan Lal S/O Ram Chand",
+      "electors_12": 139469
     },
     {
-      "n": 45,
-      "party09": "IND",
+      "ac_no": 45,
       "name": "Sirsa",
-      "sc": false,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        80,
+        82
+      ],
       "note": "Direct continuity with the old Sirsa; also absorbed territory from Darba Kalan.",
       "extent": "Sirsa KCs Shahpur Begu & Ding, PCs Sirsa (Rural) of Sirsa KC & Sirsa (Municipal Council) of Sirsa Tehsil.",
-      "winner09": "Gopal Kanda",
-      "electors09": 150395
+      "sc_note": "",
+      "party12": "IND",
+      "winner_12": "Gopal Kanda",
+      "electors_12": 150395
     },
     {
-      "n": 46,
-      "party09": "INLD",
+      "ac_no": 46,
       "name": "Ellenabad",
-      "sc": false,
-      "dist": "Sirsa",
+      "district": "Sirsa",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        81
+      ],
       "note": "Direct continuity with the old Ellenabad.",
-      "scNote": "Lost SC reservation.",
       "extent": "Ellenabad PCs Madhosinghana-I & II, Mallekan-I & II of Madhosinghana KC, KCs Nathusari Kalan, Chaharwala & Jamal of Sirsa Tehsil & Ellenabad Tehsil. Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Darba Kalan Split between Kalanwali (SC), Rania, and Sirsa Darba Kalan disappeared as an assembly constituency. The Dabwali-side villages (Chatargarh, Bharokhan, etc.) became part of Kalanwali (SC), the Madhosinghana area moved to Rania, while the Sirsa K.C. portion (Baragudha, Ding, etc.) became part of the new Sirsa constituency. Ellenabad (SC) Mostly Ellenabad Direct continuity. The constituency retained its Ellenabad core but was de-reserved (changed from SC-reser",
-      "winner09": "Om Parkash Chautala",
-      "electors09": 144181
+      "sc_note": "Lost SC reservation.",
+      "party12": "INLD",
+      "winner_12": "Om Parkash Chautala",
+      "electors_12": 144181
     },
     {
-      "n": 47,
-      "party09": "HJCBL",
+      "ac_no": 47,
       "name": "Adampur",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        73,
+        79
+      ],
       "note": "Direct continuity with the old Adampur; also absorbed territory from Bhattu Kalan.",
       "extent": "Adampur Adampur Tehsil; KCs Balsamand & Bir Hisar of Hisar Tehsil.",
-      "winner09": "Kuldeep Bishnoi",
-      "electors09": 129790
+      "sc_note": "",
+      "party12": "HJCBL",
+      "winner_12": "Kuldeep Bishnoi",
+      "electors_12": 129790
     },
     {
-      "n": 48,
-      "party09": "INC",
+      "ac_no": 48,
       "name": "Uklana",
-      "sc": true,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "SC",
       "status": "new",
+      "src": [
+        75
+      ],
       "note": "Newly created SC seat from old Ghirai’s villages.",
-      "scNote": "Newly created SC-reserved seat.",
-      "winner09": "Naresh Selwal",
-      "electors09": 152276,
-      "extent": ""
+      "extent": "",
+      "sc_note": "Newly created SC-reserved seat.",
+      "party12": "INC",
+      "winner_12": "Naresh Selwal",
+      "electors_12": 152276
     },
     {
-      "n": 49,
-      "party09": "INLD",
+      "ac_no": 49,
       "name": "Narnaund",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        71
+      ],
       "note": "Direct continuity with the old Narnaund.",
       "extent": "Narnaund Narnaund Tehsil; KCs Sisai, Khanda Kheri & Bass of Hansi Tehsil. 73. Bhattu Kalan .—Landhari-Sukh-Lambran K.C. in Hissar tahsil; Badopal K.C. and Bhattu Kalan K.C. (excluding P.Cs. 63—Dayar, 64—Jandwala, 65—Ramsara and 68—Pilimandori) in Fatehabad tahsil.",
-      "winner09": "Saroj",
-      "electors09": 160787
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Saroj",
+      "electors_12": 160787
     },
     {
-      "n": 50,
-      "party09": "HJCBL",
+      "ac_no": 50,
       "name": "Hansi",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        65,
+        72,
+        75
+      ],
       "note": "Direct continuity with the old Hansi; also absorbed territory from Mundhal Khurd, Ghirai.",
       "extent": "Hansi KCs Mehanda, Umra & Hansi & Hansi (Municipal Council) of Hansi Tehsil.",
-      "winner09": "Vinod Bhayana",
-      "electors09": 143621
+      "sc_note": "",
+      "party12": "HJCBL",
+      "winner_12": "Vinod Bhayana",
+      "electors_12": 143621
     },
     {
-      "n": 51,
-      "party09": "INC",
+      "ac_no": 51,
       "name": "Barwala",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        70,
+        75
+      ],
       "note": "Direct continuity with the old Barwala; also absorbed territory from Ghirai.",
       "extent": "Barwala PCs Talwandi Rana, Mirzapur I & II, Dhansu I & II, Kharkari, Bahbalpur & Juglan of Hisar KC, Ward Nos. 13 & 14 in Hisar (Municipal Council), KC Satrod, PCs Jeora, Kheri Barki, Sarsod, Rajli I & II & Bugana of Balak KC, PCs Barwala I to VI of Barwala KC & Barwala (Municipal Committee) of Hisar Tehsil.",
-      "winner09": "Ram Niwas Ghorela",
-      "electors09": 126513
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Ram Niwas Ghorela",
+      "electors_12": 126513
     },
     {
-      "n": 52,
-      "party09": "INC",
+      "ac_no": 52,
       "name": "Hisar",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "renamed",
+      "src": [
+        74
+      ],
       "note": "Direct continuity with old Hissar; the spelling was modernised.",
       "extent": "Hisar PCs Hisar I to III (Rural) of Hisar KC & Ward Nos. 1 to 12, 15 to 28, 32 & 33 in Hisar Municipal Council of Hisar Tehsil.",
-      "winner09": "Savitri Jindal",
-      "electors09": 118017
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Savitri Jindal",
+      "electors_12": 118017
     },
     {
-      "n": 53,
-      "party09": "INC",
+      "ac_no": 53,
       "name": "Nalwa",
-      "sc": false,
-      "dist": "Hisar",
+      "district": "Hisar",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        65,
+        74
+      ],
       "note": "Newly created from old Mundhal Khurd’s belt on the Hisar–Bhiwani border.",
       "extent": "Nalwa KCs Arya Nagar, Chaudhariwas, Mangali & Nalwa, PC Gangwa of Hisar KC, Ward Nos. 29, 30, 31 & CCS HAU Campus & Mini Secretariat (OG) – Ward No. 34 in Hisar (Municipal Council) of Hisar Tehsil. 77. Ratia(SC) .—Ratia and Nagpur K.Cs. in Fatehabad tahsil.",
-      "winner09": "Sampat Singh",
-      "electors09": 121852
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Sampat Singh",
+      "electors_12": 121852
     },
     {
-      "n": 54,
-      "party09": "INLD",
+      "ac_no": 54,
       "name": "Loharu",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        68
+      ],
       "note": "Direct continuity with the old Loharu.",
       "extent": "Loharu Siwani & Loharu Tehsils Khurd, 16—Rehrodi, 17—Umarwas and 18—Pichopa Kalan in Dadri K.C. in Dadri tahsil.",
-      "winner09": "Dharam Pal",
-      "electors09": 143693
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Dharam Pal",
+      "electors_12": 143693
     },
     {
-      "n": 55,
-      "party09": "INLD",
+      "ac_no": 55,
       "name": "Badhra",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        63
+      ],
       "note": "Direct continuity with the old Badhra.",
       "extent": "Badhra KCs Jhojhu Kalan, Chirya, Badhra & Kadma of Dadri Tehsil. 65. Mundhal Khurd —P.Cs. 20—Bond Kalan, 21—Rankoli, 22— Malkosh, 23—Sanjarwas, 24—Sanwar, 25-26—Ranila I & II and 34—Kasni in Sanwar K.C. in Dadri tahsil; Chang K. C. in Bhiwani tahsil; and P.Cs. 26—Talu, 27— Mundhal Kalan, 28-29—Mundhal Khurd I & II, 30— Badesra, 31-32— Dhanana I & II, 33—Mundhana and 37—Sui in Mundhal Khurd K.C. in Bawani Khera tahsil.",
-      "winner09": "Raghbir Singh",
-      "electors09": 147668
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Raghbir Singh",
+      "electors_12": 147668
     },
     {
-      "n": 56,
-      "party09": "HJCBL",
+      "ac_no": 56,
       "name": "Dadri",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        64
+      ],
       "note": "Direct continuity with the old Dadri.",
       "extent": "Dadri KCs Dadri, Sanwar, Atela Kalan & Dadri (Municipal Committee) of Dadri Tehsil.",
-      "winner09": "Satpal",
-      "electors09": 146447
+      "sc_note": "",
+      "party12": "HJCBL",
+      "winner_12": "Satpal",
+      "electors_12": 146447
     },
     {
-      "n": 57,
-      "party09": "BJP",
+      "ac_no": 57,
       "name": "Bhiwani",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        65,
+        66
+      ],
       "note": "Direct continuity with the old Bhiwani; also absorbed territory from Mundhal Khurd.",
       "extent": "Bhiwani KCs Bhiwani Jonpal & Bhiwani Urban, PCs Bamla, Phulpura, Sanga, Kayla, Dharedu, Nangal & Manheru of Bamla KC of Bhiwani Tehsil.",
-      "winner09": "Ghansyam Saraf",
-      "electors09": 145957
+      "sc_note": "",
+      "party12": "BJP",
+      "winner_12": "Ghansyam Saraf",
+      "electors_12": 145957
     },
     {
-      "n": 58,
-      "party09": "INC",
+      "ac_no": 58,
       "name": "Tosham",
-      "sc": false,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        67
+      ],
       "note": "Direct continuity with the old Tosham.",
       "extent": "Tosham KCs Bhiwani Lohar & Jui Kalan of Bhiwani Tehsil & Tosham Tehsil.",
-      "winner09": "Kiran Choudhary",
-      "electors09": 158501
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Kiran Choudhary",
+      "electors_12": 158501
     },
     {
-      "n": 59,
-      "party09": "INC",
+      "ac_no": 59,
       "name": "Bawani Khera",
-      "sc": true,
-      "dist": "Bhiwani",
+      "district": "Bhiwani",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        69
+      ],
       "note": "Direct continuity with the old Bawani Khera.",
-      "winner09": "Ram Kishan Fouji S/O Dharampal",
-      "electors09": 152436,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Ram Kishan Fouji S/O Dharampal",
+      "electors_12": 152436
     },
     {
-      "n": 60,
-      "party09": "INC",
+      "ac_no": 60,
       "name": "Meham",
-      "sc": false,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        31
+      ],
       "note": "Direct continuity with the old Meham.",
       "extent": "Meham Meham Tehsil; PCs Singhpura, Samargopalpur-I & II, Gharothi, Dobh, Bahu Akbarpur-I & II of Rohtak-II KC of Rohtak Tehsil.",
-      "winner09": "Anand Singh",
-      "electors09": 150515
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Anand Singh",
+      "electors_12": 150515
     },
     {
-      "n": 61,
-      "party09": "INC",
+      "ac_no": 61,
       "name": "Garhi Sampla-Kiloi",
-      "sc": false,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "GEN",
       "status": "renamed",
+      "src": [
+        28,
+        29
+      ],
       "note": "Renamed from the old Kiloi — same rural Rohtak base, now naming its Garhi Sampla anchor.",
-      "winner09": "Bhupinder Singh",
-      "electors09": 164050,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Bhupinder Singh",
+      "electors_12": 164050
     },
     {
-      "n": 62,
-      "party09": "INC",
+      "ac_no": 62,
       "name": "Rohtak",
-      "sc": false,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        30
+      ],
       "note": "Direct continuity with the old Rohtak.",
       "extent": "Rohtak Ward Nos. 7 to 31 & Sector-1 Housing Board Colony (OG) – Ward No. 32 in Rohtak (Municipal Council) of Rohtak Tehsil.",
-      "winner09": "Bharat Bhushan Batra",
-      "electors09": 133671
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Bharat Bhushan Batra",
+      "electors_12": 133671
     },
     {
-      "n": 63,
-      "party09": "INC",
+      "ac_no": 63,
       "name": "Kalanaur",
-      "sc": true,
-      "dist": "Rohtak",
+      "district": "Rohtak",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        32
+      ],
       "note": "Direct continuity with the old Kalanaur.",
-      "winner09": "Shakuntla",
-      "electors09": 147923,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Shakuntla",
+      "electors_12": 147923
     },
     {
-      "n": 64,
-      "party09": "INC",
+      "ac_no": 64,
       "name": "Bahadurgarh",
-      "sc": false,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        37
+      ],
       "note": "Direct continuity with the old Bahadurgarh.",
       "extent": "Bahadurgarh KC Bahadurgarh-I, PCs Asauda Siwan, Bahamnoli, Kanoda, Kulasi, Kheri Jasaur, Jasaur Kheri & Asauda Todran of Bahadurgarh-II KC & Bahadurgarh (Municipal Council) of Bahadurgarh Tehsil.",
-      "winner09": "Rajinder Singh Joon",
-      "electors09": 134227
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Rajinder Singh Joon",
+      "electors_12": 134227
     },
     {
-      "n": 65,
-      "party09": "INC",
+      "ac_no": 65,
       "name": "Badli",
-      "sc": false,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        36
+      ],
       "note": "Direct continuity with the old Badli.",
       "extent": "Badli KCs Kasani, Machhrauli & Jhajjar-II of Jhajjar Tehsil & KC Badli of Bahadurgarh Tehsil.",
-      "winner09": "Naresh Kumar",
-      "electors09": 137879
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Naresh Kumar",
+      "electors_12": 137879
     },
     {
-      "n": 66,
-      "party09": "INC",
+      "ac_no": 66,
       "name": "Jhajjar",
-      "sc": true,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        34,
+        35
+      ],
       "note": "Direct continuity with the old Jhajjar; also absorbed territory from Salhawas.",
       "extent": "Jhajjar (SC) KCs Jhajjar-I (Except Mehrana PC), Salhawas, Matanhail & Jhajjar (Municpal Committee) of Jhajjar Tehsil.",
-      "winner09": "Geeta",
-      "electors09": 136357
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Geeta",
+      "electors_12": 136357
     },
     {
-      "n": 67,
-      "party09": "INC",
+      "ac_no": 67,
       "name": "Beri",
-      "sc": false,
-      "dist": "Jhajjar",
+      "district": "Jhajjar",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        33,
+        34
+      ],
       "note": "Direct continuity with the old Beri; also absorbed territory from Salhawas.",
       "extent": "Beri Beri Tehsil; KC Dulhera, PCs Rohad-I & II of Bahadurgarh-II KC of Bahadurgarh Tehsil & PC Mehrana of Jhajjar-I KC of Jhajjar Tehsil. Key Changes Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Rohtak Bahadurgarh Bahadurgarh Retained as an Assembly constituency with revised boundaries. It now comprises Bahadurgarh-I KC, selected villages of Bahadurgarh-II KC (Asauda Siwan, Bahamnoli, Kandoa, Kulasi, Kheri Jasaur, Jasaur Kheri & Asauda Todran) and Bahadurgarh Municipal Council. Rohtak Badli Badli Continued with redefined limits. It now includes Kasani, Machhrauli and Jhajjar-II KCs of Jhajjar Tehsil together with Badli KC of Bahadu",
-      "winner09": "Dr. Raghubir Singh",
-      "electors09": 138650
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Dr. Raghubir Singh",
+      "electors_12": 138650
     },
     {
-      "n": 68,
-      "party09": "INC",
+      "ac_no": 68,
       "name": "Ateli",
-      "sc": false,
-      "dist": "Mahendragarh",
+      "district": "Mahendragarh",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        89
+      ],
       "note": "Direct continuity with the old Ateli.",
       "extent": "Ateli KCs Dhanunda & Kanina of Mahendragarh Tehsil & KC Ateli of Narnaul Tehsil.",
-      "winner09": "Anita Yadav",
-      "electors09": 150113
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Anita Yadav",
+      "electors_12": 150113
     },
     {
-      "n": 69,
-      "party09": "INC",
+      "ac_no": 69,
       "name": "Mahendragarh",
-      "sc": false,
-      "dist": "Mahendragarh",
+      "district": "Mahendragarh",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        88
+      ],
       "note": "Direct continuity with the old Mahendragarh.",
       "extent": "Mahendragarh KCs Mahendragarh, Pali, Satnali & Mahendragarh (Municipal Committee) of Mahendragarh Tehsil.",
-      "winner09": "Dan Singh",
-      "electors09": 149580
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Dan Singh",
+      "electors_12": 149580
     },
     {
-      "n": 70,
-      "party09": "HJCBL",
+      "ac_no": 70,
       "name": "Narnaul",
-      "sc": false,
-      "dist": "Mahendragarh",
+      "district": "Mahendragarh",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        90
+      ],
       "note": "Direct continuity with the old Narnaul.",
       "extent": "Narnaul KCs Narnaul, Hudina & Narnaul (Municipal Council) of Narnaul Tehsil.",
-      "winner09": "Narender Singh",
-      "electors09": 110141
+      "sc_note": "",
+      "party12": "HJCBL",
+      "winner_12": "Narender Singh",
+      "electors_12": 110141
     },
     {
-      "n": 71,
-      "party09": "INLD",
+      "ac_no": 71,
       "name": "Nangal Chaudhry",
-      "sc": false,
-      "dist": "Mahendragarh",
+      "district": "Mahendragarh",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        89,
+        90
+      ],
       "note": "Newly created from the eastern parts of old Narnaul and Ateli.",
       "extent": "Nangal Chaudhry KCs Nizampur & Nangal Chaudhry of Narnaul Tehsil.",
-      "winner09": "Bahadur Singh",
-      "electors09": 119990
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Bahadur Singh",
+      "electors_12": 119990
     },
     {
-      "n": 72,
-      "party09": "INLD",
+      "ac_no": 72,
       "name": "Bawal",
-      "sc": true,
-      "dist": "Rewari",
+      "district": "Rewari",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        85
+      ],
       "note": "Direct continuity with the old Bawal.",
       "extent": "Bawal (SC) PCs Bharawas, Husainpur, Karnawas, Kamalpur, Bolni & Dhamlawas of Rewari KC, KC Khori, PCs Nandrampur Bas, Bhatsana, Jarthal & Raliawas of Dharuhera KC of Rewari Tehsil & Bawal Tehsil.",
-      "winner09": "Rameshwar Dayal",
-      "electors09": 165046
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Rameshwar Dayal",
+      "electors_12": 165046
     },
     {
-      "n": 73,
-      "party09": "INC",
+      "ac_no": 73,
       "name": "Kosli",
-      "sc": false,
-      "dist": "Rewari",
+      "district": "Rewari",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        86,
+        87
+      ],
       "note": "Newly created around Kosli town; the core of the abolished Jatusana.",
       "extent": "Kosli Kosli Tehsil; KCs Jatusana & Dahina, PCs Chandanwas, Roharai, Karawara Manakpur & Mustafapur of Chillar KC of Rewari Tehsil.",
-      "winner09": "Yaduvender Singh",
-      "electors09": 184860
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Yaduvender Singh",
+      "electors_12": 184860
     },
     {
-      "n": 74,
-      "party09": "INC",
+      "ac_no": 74,
       "name": "Rewari",
-      "sc": false,
-      "dist": "Rewari",
+      "district": "Rewari",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        86,
+        87
+      ],
       "note": "Direct continuity with the old Rewari; also absorbed territory from Jatusana.",
       "extent": "Rewari PCs Rewari, Sangwari, Qutabpur Mola, Padniawas & Hansaka of Rewari KC, Rewari (Municipal Council), PCs Chillar, Kakodia, Dhoki, Bikaner, Kishangarh, Meerpur & Gokalgarh of Chillar KC, PCs Masani, Dharuhera, Malpura, Garhi Alawalpur & Khatawali of Dharuhera KC of Rewari Tehsil. Key Changes Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Mahendragarh Bawal (SC) Bawal (SC) Direct continuity. The constituency remained SC-reserved but was reorganised under the newly constituted Rewari district. It now comprises the entire Bawal Tehsil, Khori KC, and selected PCs of Rewari KC and Dharuhera KC. Mahendragarh Jatusana Kosli Renamed and ",
-      "winner09": "Ajay Singh S/O Abhey Singh",
-      "electors09": 165691
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Ajay Singh S/O Abhey Singh",
+      "electors_12": 165691
     },
     {
-      "n": 75,
-      "party09": "INLD",
+      "ac_no": 75,
       "name": "Pataudi",
-      "sc": true,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "SC",
       "status": "continuing",
+      "src": [
+        62
+      ],
       "note": "Direct continuity with the old Pataudi.",
       "extent": "Pataudi (SC) Pataudi Tehsil; KCs Manesar, PCs Jatola, Khandewla, Tajnagar, Khurampur, Mushedpur, Siwari & Mahchana of Farukh Nagar KC of Gurgaon Tehsil. in Ballabhgarh K.C. in Ballabgarh tahsil. 52. Mewla Maharajapur —Faridabad K.C. (excluding Faridabad N.L.T. and PCs. 13—Dabwa, 22—Gonchhi and 23—Fatehpur Taga) in Ballabgarh tahsil.",
-      "winner09": "Ganga Ram",
-      "electors09": 159063
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Ganga Ram",
+      "electors_12": 159063
     },
     {
-      "n": 76,
-      "party09": "INC",
+      "ac_no": 76,
       "name": "Badshahpur",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        61
+      ],
       "note": "Newly created for Gurgaon’s urban growth, carved from the old Gurgaon seat.",
       "extent": "Badshahpur PCs Dhankot, Wazirpur, Sarhol, Bajghera, Daultabad, Budhera & Garhi Harsaru of Gurgaon KC, KC Badshahpur, PCs Patli Hajipur, Khetawas, Sultanpur, Mubarikpur & Farukhnagar of Farukhnagar KC of Gurgaon Tehsil & PC Shikohpur of Sohna KC of Sohna Tehsil.",
-      "winner09": "Dharam Pal",
-      "electors09": 226206
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Dharam Pal",
+      "electors_12": 226206
     },
     {
-      "n": 77,
-      "party09": "IND",
+      "ac_no": 77,
       "name": "Gurgaon",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        61
+      ],
       "note": "Direct continuity with the old Gurgaon.",
       "extent": "Gurgaon PCs Gurgaon, Wazirabad & Sukhrali of Gurgaon KC & Gurgaon (Municipal Council) of Gurgaon Tehsil.",
-      "winner09": "Sukhbeer",
-      "electors09": 231340
+      "sc_note": "",
+      "party12": "IND",
+      "winner_12": "Sukhbeer",
+      "electors_12": 231340
     },
     {
-      "n": 78,
-      "party09": "INC",
+      "ac_no": 78,
       "name": "Sohna",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        59,
+        60
+      ],
       "note": "Direct continuity with the old Sohna; also absorbed territory from Taoru.",
       "extent": "Sohna PCs Sohna, Silani, Bhondsi, Garhi Bazidpur, Daula, Ghamdoj, Saramathla, Raisina, Harchandpur, Ghangola & Ulhawas of Sohna KC, Sohna (Municipal Committee) of Sohna Tehsil & Taoru Tehsil. 55. Hassanpur(SC) —Hassanpur K.C, Chandhat K.C. (excluding P.Cs. 17—Chhaprola, 18—Pirthala, 19— Dudaula, 20—Bhagola, 21—Ferozepur, 22—Janauli, 23—Badraon, 24—Alawalpuf and 25—Khijurka) and P.Cs. 59-61—Hodal I to III, 62— Bhulwana, 63—Banswa and 64—Garota in Hodal K.C. in Palwal tahsil.",
-      "winner09": "Dharambir",
-      "electors09": 153130
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Dharambir",
+      "electors_12": 153130
     },
     {
-      "n": 79,
-      "party09": "INC",
+      "ac_no": 79,
       "name": "Nuh",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        58,
+        59
+      ],
       "note": "Direct continuity with the old Nuh; also absorbed territory from Taoru.",
-      "winner09": "Aftab Ahmed",
-      "electors09": 116128,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Aftab Ahmed",
+      "electors_12": 116128
     },
     {
-      "n": 80,
-      "party09": "INLD",
+      "ac_no": 80,
       "name": "Ferozepur Jhirka",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        57
+      ],
       "note": "Direct continuity with the old Ferozepur Jhirka.",
-      "winner09": "Naseem Ahmed",
-      "electors09": 130045,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Naseem Ahmed",
+      "electors_12": 130045
     },
     {
-      "n": 81,
-      "party09": "INLD",
+      "ac_no": 81,
       "name": "Punahana",
-      "sc": false,
-      "dist": "Gurgaon",
+      "district": "Gurgaon",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        57,
+        58
+      ],
       "note": "Newly created in eastern Mewat from parts of old Ferozepur Jhirka and Nuh.",
-      "winner09": "Mohammed Ilyas",
-      "electors09": 111551,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Mohammed Ilyas",
+      "electors_12": 111551
     },
     {
-      "n": 82,
-      "party09": "IND",
+      "ac_no": 82,
       "name": "Hathin",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        56
+      ],
       "note": "Direct continuity with the old Hathin.",
       "extent": "Hathin PCs Teharki, Jaindapur, Maheshpur, Aharwan, Khera Sarai & Ratipur of Palwal-I KC of Palwal Tehsil & Hathin Tehsil.",
-      "winner09": "Jaleb Khan",
-      "electors09": 148764
+      "sc_note": "",
+      "party12": "IND",
+      "winner_12": "Jaleb Khan",
+      "electors_12": 148764
     },
     {
-      "n": 83,
-      "party09": "INLD",
+      "ac_no": 83,
       "name": "Hodal",
-      "sc": true,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "SC",
       "status": "new",
+      "src": [
+        55
+      ],
       "note": "Newly created SC seat around Hodal town; inherits the reservation of the abolished Hassanpur (SC).",
-      "scNote": "Newly created SC-reserved seat.",
-      "winner09": "Jagdish Nayar",
-      "electors09": 124181,
-      "extent": ""
+      "extent": "",
+      "sc_note": "Newly created SC-reserved seat.",
+      "party12": "INLD",
+      "winner_12": "Jagdish Nayar",
+      "electors_12": 124181
     },
     {
-      "n": 84,
-      "party09": "INLD",
+      "ac_no": 84,
       "name": "Palwal",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        54,
+        55
+      ],
       "note": "Direct continuity with the old Palwal; also absorbed territory from Hassanpur.",
       "extent": "Palwal KC Chandhat, PCs Dhatir, Allika, Ghughera & Palwal of Palwal-I KC, PCs Rundhi, Asaota & Rasulpur of Palwal-II KC & Palwal (Municipal Council) of Palwal Tehsil.",
-      "winner09": "Subhash Choudhary",
-      "electors09": 154279
+      "sc_note": "",
+      "party12": "INLD",
+      "winner_12": "Subhash Choudhary",
+      "electors_12": 154279
     },
     {
-      "n": 85,
-      "party09": "INC",
+      "ac_no": 85,
       "name": "Prithla",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        53,
+        54
+      ],
       "note": "Newly created from northern Palwal-belt villages.",
       "extent": "Prithla KC Ballabgarh, PCs Chhainsa, Mohna, Jawan, Atali, Dayalpur, Panehra Khurd & Shahjahanpur of Chhainsa KC of Ballabgarh Tehsil; PCs Alawalpur, Katesra, Chhaprola, Prithla, Dudola, Asaoti, Mandkol, Baghola & Janauli of Palwal-II KC of Palwal Tehsil. 86. Faridabad NIT PCs Paota, Pali, Dhoj & Sirohi of Faridabad KC, Ward Nos. 1, 2, 5, 6 & 7 in Faridabad (Municipal Corporation) of Faridabad Tehsil.",
-      "winner09": "Raghubir Singh",
-      "electors09": 135348
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Raghubir Singh",
+      "electors_12": 135348
     },
     {
-      "n": 86,
-      "party09": "IND",
+      "ac_no": 86,
       "name": "Faridabad NIT",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        51,
+        52
+      ],
       "note": "Newly created city seat covering Faridabad’s NIT (New Industrial Township) area.",
       "extent": "Faridabad NIT PCs Paota, Pali, Dhoj & Sirohi of Faridabad KC, Ward Nos. 1, 2, 5, 6 & 7 in Faridabad (Municipal Corporation) of Faridabad Tehsil.",
-      "winner09": "Pt. Shiv Charan Lal Sharma",
-      "electors09": 129293
+      "sc_note": "",
+      "party12": "IND",
+      "winner_12": "Pt. Shiv Charan Lal Sharma",
+      "electors_12": 129293
     },
     {
-      "n": 87,
-      "party09": "INC",
+      "ac_no": 87,
       "name": "Badkhal",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        52
+      ],
       "note": "Newly created city seat from old Mewla Maharajpur’s Badkhal belt.",
       "extent": "Badkhal Ward Nos. 8 & 10 to 14 in Faridabad (Municipal Corporation) of Faridabad Tehsil. 88. Ballabgarh Ward Nos. 3, 4 & 22 to 25 in Faridabad (Municipal Corporation) of Faridabad Tehsil.",
-      "winner09": "Mahender Partap Singh",
-      "electors09": 134480
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Mahender Partap Singh",
+      "electors_12": 134480
     },
     {
-      "n": 88,
-      "party09": "INC",
+      "ac_no": 88,
       "name": "Ballabhgarh",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "renamed",
+      "src": [
+        53
+      ],
       "note": "Direct continuity with old Ballabgarh; the spelling was modernised.",
-      "winner09": "Sharda Rathore",
-      "electors09": 129275,
-      "extent": ""
+      "extent": "",
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Sharda Rathore",
+      "electors_12": 129275
     },
     {
-      "n": 89,
-      "party09": "INC",
+      "ac_no": 89,
       "name": "Faridabad",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "continuing",
+      "src": [
+        51
+      ],
       "note": "Direct continuity with the old Faridabad.",
       "extent": "Faridabad Ward Nos. 9 & 17 to 21 in Faridabad (Municipal Corporation) of Faridabad Tehsil.",
-      "winner09": "Anand Kaushik",
-      "electors09": 132953
+      "sc_note": "",
+      "party12": "INC",
+      "winner_12": "Anand Kaushik",
+      "electors_12": 132953
     },
     {
-      "n": 90,
-      "party09": "BJP",
+      "ac_no": 90,
       "name": "Tigaon",
-      "sc": false,
-      "dist": "Faridabad",
+      "district": "Faridabad",
+      "type": "GEN",
       "status": "new",
+      "src": [
+        52,
+        53
+      ],
       "note": "Newly created from Ballabgarh-belt and Mewla Maharajpur villages as Faridabad city grew.",
       "extent": "Tigaon PCs Tigaon, Faridabad, Tilpat, Dadsia, Bhuapur, Rajpur Kalan, Kheri Kalan, Bhupani & Chirsi of Faridabad KC, Ward Nos. 15 & 16 in Faridabad (Municipal Corporation) of Faridabad Tehsil; PCs Korali, Manjhawali & Mandhawali of Chhainsa KC of Ballabgarh Tehsil. Key Changes Old District (Before 2008 / 1976 Order) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Gurgaon Hathin Hathin Direct continuity with revised boundaries. The new constituency comprises most of Hathin Tehsil along with selected Patwar Circles of Palwal-I KC. Gurgaon Hodal (SC) Hodal (SC) Direct continuity. The constituency remained SC-reserved and now covers the entire Hodal Tehsil. Gurgaon ",
-      "winner09": "Krishan Pal",
-      "electors09": 135437
+      "sc_note": "",
+      "party12": "BJP",
+      "winner_12": "Krishan Pal",
+      "electors_12": 135437
     }
   ],
-  "sources": "Delimitation of Parliamentary and Assembly Constituencies Order, 1976 & 2008; District-wise comparison of Haryana Assembly Constituencies Before and After the 2008 Delimitation; ECI Statistical Reports, 2005 & 2009 Haryana Assembly elections; ECI constituency polygons (2008); pre-delimitation all-India assembly-constituency shapefile.",
-  "method": "Plate I draws the actual 1976-order boundaries from the pre-delimitation all-India assembly-constituency shapefile — all 90 Haryana seats present. Plate II draws the 2008 boundaries from the ECI's published polygons. Plate III sets both orders on one projection for direct comparison. Plate IV is schematic: tiles carry the record, not the geometry.",
+  "sources": [
+    "Delimitation of Parliamentary and Assembly Constituencies Order, 1976 & 2008",
+    "District-wise comparison of Haryana Assembly Constituencies Before and After the 2008 Delimitation",
+    "ECI Statistical Reports, 2005 & 2009 Haryana Assembly elections",
+    "ECI constituency polygons (2008)",
+    "Pre-delimitation all-India assembly-constituency shapefile"
+  ],
+  "map_caveats": [
+    "Plate I draws the actual 1976-order boundaries from the pre-delimitation all-India assembly-constituency shapefile — all 90 Haryana seats present.",
+    "Plate II draws the 2008 boundaries from the ECI’s published polygons.",
+    "Plate III sets both orders on one projection for direct comparison.",
+    "Plate IV is schematic: tiles carry the record, not the geometry."
+  ],
   "footnotes": [
-    {
-      "t": "Mewat (2005), Palwal (2008) and Charkhi Dadri (2016) districts post-date the map source; their seats are shown under Gurgaon, Faridabad and Bhiwani."
-    },
-    {
-      "t": "2005 winners are attached to the 1976-order seats and 2009 winners to the 2008-order seats, from the ECI statistical reports (2005: INC 67, INLD 9, BJP 2, BSP 1, NCP 1, IND 10 · 2009: INC 40, INLD 31, HJC(BL) 6, BJP 4, BSP 1, SAD 1, IND 7)."
-    },
-    {
-      "t": "The Flipped/Held chips compare parties across the two elections only for seats whose name survived the redraw (continuing or renamed), traced by name or a single unambiguous parent."
-    }
+    "Mewat (2005), Palwal (2008) and Charkhi Dadri (2016) districts post-date the map source; their seats are shown under Gurgaon, Faridabad and Bhiwani.",
+    "2005 winners attached to 1976-order seats and 2009 winners to 2008-order seats, from ECI statistical reports (2005: INC 67, INLD 9, BJP 2, BSP 1, NCP 1, IND 10 · 2009: INC 40, INLD 31, HJC(BL) 6, BJP 4, BSP 1, SAD 1, IND 7).",
+    "The Flipped/Held chips compare parties across both elections only for seats whose name survived the redraw (continuing or renamed), traced by name or a single unambiguous parent."
   ]
 }
