@@ -340,7 +340,7 @@
       "name": "Badarpur",
       "district": "Karimganj",
       "type": "GEN",
-      "status": "replaced",
+      "status": "abolished",
       "dest": [
         126
       ],
@@ -370,7 +370,7 @@
       "name": "Katlicherra",
       "district": "Hailakandi",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         122
       ],
@@ -385,7 +385,7 @@
       "name": "Algapur",
       "district": "Hailakandi",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         122
       ],
@@ -565,7 +565,7 @@
       "name": "Baithalangso",
       "district": "Karbi Anglong",
       "type": "ST",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         111,
         112
@@ -596,7 +596,7 @@
       "name": "Salmara South",
       "district": "Dhuburi",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         11
       ],
@@ -656,7 +656,7 @@
       "name": "Bilasipara West",
       "district": "Dhuburi",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         9,
         10
@@ -672,7 +672,7 @@
       "name": "Bilasipara East",
       "district": "Dhuburi",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         10
       ],
@@ -702,7 +702,7 @@
       "name": "Kokrajhar West",
       "district": "Kokrajhar",
       "type": "ST",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         2,
         4
@@ -718,7 +718,7 @@
       "name": "Kokrajhar East",
       "district": "Kokrajhar",
       "type": "ST",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         3
       ],
@@ -733,7 +733,7 @@
       "name": "Sidli",
       "district": "Kokrajhar",
       "type": "ST",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         3,
         19
@@ -779,7 +779,7 @@
       "name": "Abhayapuri North",
       "district": "Bongaigaon",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         16
       ],
@@ -794,7 +794,7 @@
       "name": "Abhayapuri South",
       "district": "Bongaigaon",
       "type": "SC",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         16,
         17
@@ -870,7 +870,7 @@
       "name": "Sorbhog",
       "district": "Barpeta",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         21
       ],
@@ -885,7 +885,7 @@
       "name": "Bhabanipur",
       "district": "Barpeta",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         21,
         26
@@ -901,7 +901,7 @@
       "name": "Patacharkuchi",
       "district": "Barpeta",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         21,
         26
@@ -933,7 +933,7 @@
       "name": "Jania",
       "district": "Barpeta",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         22,
         23,
@@ -950,7 +950,7 @@
       "name": "Baghbor",
       "district": "Barpeta",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         22
       ],
@@ -965,7 +965,7 @@
       "name": "Sarukhetri",
       "district": "Barpeta",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         23,
         24
@@ -996,7 +996,7 @@
       "name": "Boko",
       "district": "Kamrup",
       "type": "SC",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         28
       ],
@@ -1011,7 +1011,7 @@
       "name": "Chaygaon",
       "district": "Kamrup",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         28
       ],
@@ -1071,7 +1071,7 @@
       "name": "Gauhati East",
       "district": "Kamrup",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         33,
         35,
@@ -1088,7 +1088,7 @@
       "name": "Gauhati West",
       "district": "Kamrup",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         36,
         37
@@ -1104,7 +1104,7 @@
       "name": "Hajo",
       "district": "Kamrup",
       "type": "GEN",
-      "status": "replaced",
+      "status": "abolished",
       "dest": [
         30
       ],
@@ -1233,7 +1233,7 @@
       "name": "Panery",
       "district": "Darrang",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         46,
         47
@@ -1249,7 +1249,7 @@
       "name": "Kalaigaon",
       "district": "Darrang",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         49
       ],
@@ -1399,7 +1399,7 @@
       "name": "Sootea",
       "district": "Sonitpur",
       "type": "GEN",
-      "status": "replaced",
+      "status": "abolished",
       "dest": [
         69
       ],
@@ -1534,7 +1534,7 @@
       "name": "Batadroba",
       "district": "Nagaon",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         60
       ],
@@ -1564,7 +1564,7 @@
       "name": "Nowgong",
       "district": "Nagaon",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         60
       ],
@@ -1624,7 +1624,7 @@
       "name": "Jamunamukh",
       "district": "Nagaon",
       "type": "GEN",
-      "status": "split",
+      "status": "abolished",
       "dest": [
         62,
         63
@@ -2025,7 +2025,7 @@
       "name": "Lahowal",
       "district": "Dibrugarh",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         87
       ],
@@ -2085,7 +2085,7 @@
       "name": "Chabua",
       "district": "Tinsukia",
       "type": "GEN",
-      "status": "merged",
+      "status": "abolished",
       "dest": [
         87
       ],
@@ -2193,7 +2193,7 @@
       "name": "Dotma",
       "district": "Kokrajhar",
       "type": "ST",
-      "status": "carved",
+      "status": "new",
       "src": [
         29
       ],
@@ -2208,7 +2208,7 @@
       "name": "Kokrajhar",
       "district": "Kokrajhar",
       "type": "ST",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         30,
         31
@@ -2224,7 +2224,7 @@
       "name": "Baokhungri",
       "district": "Kokrajhar",
       "type": "GEN",
-      "status": "carved",
+      "status": "new",
       "src": [
         29
       ],
@@ -2297,7 +2297,7 @@
       "name": "Birsing Jarua",
       "district": "Dhubri",
       "type": "GEN",
-      "status": "carved",
+      "status": "new",
       "src": [
         26
       ],
@@ -2312,7 +2312,7 @@
       "name": "Bilasipara",
       "district": "Dhubri",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         26,
         27
@@ -2404,7 +2404,7 @@
       "name": "Abhayapuri",
       "district": "Bongaigaon",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         34,
         35
@@ -2420,7 +2420,7 @@
       "name": "Srijangram",
       "district": "Bongaigaon",
       "type": "GEN",
-      "status": "carved",
+      "status": "new",
       "src": [
         35
       ],
@@ -2450,7 +2450,7 @@
       "name": "Sidli–Chirang",
       "district": "Chirang",
       "type": "ST",
-      "status": "carved",
+      "status": "new",
       "src": [
         31
       ],
@@ -2480,7 +2480,7 @@
       "name": "Bhowanipur–Sorbhog",
       "district": "Bajali",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         40,
         41,
@@ -2497,7 +2497,7 @@
       "name": "Mandia",
       "district": "Barpeta",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         44,
         45
@@ -2547,7 +2547,7 @@
       "name": "Pakabetbari",
       "district": "Barpeta",
       "type": "GEN",
-      "status": "carved",
+      "status": "new",
       "src": [
         43
       ],
@@ -2562,7 +2562,7 @@
       "name": "Bajali",
       "district": "Bajali",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         41,
         42
@@ -2591,7 +2591,7 @@
       "name": "Boko–Chaygaon",
       "district": "Kamrup",
       "type": "ST",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         48,
         49
@@ -2622,7 +2622,7 @@
       "name": "Hajo–Sualkuchi",
       "district": "Kamrup",
       "type": "SC",
-      "status": "replaces",
+      "status": "renamed",
       "src": [
         55
       ],
@@ -2696,7 +2696,7 @@
       "name": "New Guwahati",
       "district": "Kamrup Metropolitan",
       "type": "GEN",
-      "status": "carved",
+      "status": "new",
       "src": [
         53
       ],
@@ -2711,7 +2711,7 @@
       "name": "Guwahati Central",
       "district": "Kamrup Metropolitan",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         53,
         54
@@ -3064,7 +3064,7 @@
       "name": "Nagaon–Batadraba",
       "district": "Nagaon",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         84,
         86
@@ -3095,7 +3095,7 @@
       "name": "Binnakandi",
       "district": "Hojai",
       "type": "GEN",
-      "status": "carved",
+      "status": "new",
       "src": [
         90
       ],
@@ -3201,7 +3201,7 @@
       "name": "Nadaur",
       "district": "Sonitpur",
       "type": "GEN",
-      "status": "replaces",
+      "status": "renamed",
       "src": [
         75
       ],
@@ -3276,7 +3276,7 @@
       "name": "Rongonadi",
       "district": "Lakhimpur",
       "type": "GEN",
-      "status": "carved",
+      "status": "new",
       "src": [
         110
       ],
@@ -3439,7 +3439,7 @@
       "name": "Makum",
       "district": "Tinsukia",
       "type": "GEN",
-      "status": "carved",
+      "status": "new",
       "src": [
         122
       ],
@@ -3469,7 +3469,7 @@
       "name": "Chabua–Lahowal",
       "district": "Dibrugarh",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         117,
         121
@@ -3826,7 +3826,7 @@
       "name": "Rongkhang",
       "district": "West Karbi Anglong",
       "type": "ST",
-      "status": "carved",
+      "status": "new",
       "src": [
         20
       ],
@@ -3841,7 +3841,7 @@
       "name": "Amri",
       "district": "West Karbi Anglong",
       "type": "ST",
-      "status": "carved",
+      "status": "new",
       "src": [
         20
       ],
@@ -3991,7 +3991,7 @@
       "name": "Algapur–Katlicherra",
       "district": "Hailakandi",
       "type": "GEN",
-      "status": "merged",
+      "status": "renamed",
       "src": [
         7,
         8
@@ -4052,7 +4052,7 @@
       "name": "Ram Krishna Nagar",
       "district": "Sribhumi",
       "type": "SC",
-      "status": "replaces",
+      "status": "renamed",
       "src": [
         5
       ],
@@ -4081,5 +4081,7 @@
     "Several districts were created after the 1976 order (Hailakandi 1989, Biswanath, Charaideo, Hojai, South Salmara-Mankachar, West Karbi Anglong 2016, Bajali, Tamulpur 2022). Seats are shown under their current district.",
     "2021 winners attached to the 1976-order seats; 2026 winners to the 2023-order seats, from ECI statistical reports.",
     "Party overlay shows BJP / INC / AIUDF seat tallies simultaneously on both maps."
-  ]
+  ],
+  "post_order_year": 2023,
+  "pre_order_year": 1976
 }
