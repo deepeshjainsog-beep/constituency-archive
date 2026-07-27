@@ -67,52 +67,46 @@
   ],
   "district_grid_old": [
     {
-      "name": "Barpeta"
-    },
-    {
-      "name": "Bongaigaon"
-    },
-    {
-      "name": "Cachar"
-    },
-    {
-      "name": "Darrang"
-    },
-    {
-      "name": "Dhemaji"
-    },
-    {
-      "name": "Dhuburi"
-    },
-    {
-      "name": "Dibrugarh"
-    },
-    {
-      "name": "Goalpara"
-    },
-    {
-      "name": "Golaghat"
+      "name": "Karimganj"
     },
     {
       "name": "Hailakandi"
     },
     {
-      "name": "Jorhat"
+      "name": "Cachar"
     },
     {
-      "name": "Kamrup"
+      "name": "North Cachar Hills"
     },
     {
       "name": "Karbi Anglong"
     },
     {
-      "name": "Karimganj"
+      "name": "Dhuburi"
     },
     {
       "name": "Kokrajhar"
     },
     {
-      "name": "Lakhimpur"
+      "name": "Bongaigaon"
+    },
+    {
+      "name": "Goalpara"
+    },
+    {
+      "name": "Barpeta"
+    },
+    {
+      "name": "Kamrup"
+    },
+    {
+      "name": "Nalbari"
+    },
+    {
+      "name": "Darrang"
+    },
+    {
+      "name": "Sonitpur"
     },
     {
       "name": "Marigaon"
@@ -121,16 +115,22 @@
       "name": "Nagaon"
     },
     {
-      "name": "Nalbari"
+      "name": "Golaghat"
     },
     {
-      "name": "North Cachar Hills"
+      "name": "Jorhat"
     },
     {
       "name": "Sibsagar"
     },
     {
-      "name": "Sonitpur"
+      "name": "Lakhimpur"
+    },
+    {
+      "name": "Dhemaji"
+    },
+    {
+      "name": "Dibrugarh"
     },
     {
       "name": "Tinsukia"
@@ -138,58 +138,28 @@
   ],
   "district_grid_new": [
     {
-      "name": "Bajali"
-    },
-    {
-      "name": "Baksa"
-    },
-    {
-      "name": "Barpeta"
-    },
-    {
-      "name": "Biswanath"
-    },
-    {
-      "name": "Bongaigaon"
-    },
-    {
-      "name": "Cachar"
-    },
-    {
-      "name": "Charaideo"
-    },
-    {
-      "name": "Chirang"
-    },
-    {
-      "name": "Darrang"
-    },
-    {
-      "name": "Dhemaji"
+      "name": "Kokrajhar"
     },
     {
       "name": "Dhubri"
     },
     {
-      "name": "Dibrugarh"
-    },
-    {
-      "name": "Dima Hasao"
+      "name": "South Salmara-Mankachar"
     },
     {
       "name": "Goalpara"
     },
     {
-      "name": "Golaghat"
+      "name": "Bongaigaon"
     },
     {
-      "name": "Hailakandi"
+      "name": "Chirang"
     },
     {
-      "name": "Hojai"
+      "name": "Bajali"
     },
     {
-      "name": "Jorhat"
+      "name": "Barpeta"
     },
     {
       "name": "Kamrup"
@@ -198,16 +168,19 @@
       "name": "Kamrup Metropolitan"
     },
     {
-      "name": "Karbi Anglong"
+      "name": "Nalbari"
     },
     {
-      "name": "Kokrajhar"
+      "name": "Baksa"
     },
     {
-      "name": "Lakhimpur"
+      "name": "Tamulpur"
     },
     {
-      "name": "Majuli"
+      "name": "Udalguri"
+    },
+    {
+      "name": "Darrang"
     },
     {
       "name": "Morigaon"
@@ -216,31 +189,58 @@
       "name": "Nagaon"
     },
     {
-      "name": "Nalbari"
-    },
-    {
-      "name": "Sivasagar"
+      "name": "Hojai"
     },
     {
       "name": "Sonitpur"
     },
     {
-      "name": "South Salmara-Mankachar"
+      "name": "Biswanath"
     },
     {
-      "name": "Sribhumi"
+      "name": "Lakhimpur"
     },
     {
-      "name": "Tamulpur"
+      "name": "Dhemaji"
     },
     {
       "name": "Tinsukia"
     },
     {
-      "name": "Udalguri"
+      "name": "Dibrugarh"
+    },
+    {
+      "name": "Charaideo"
+    },
+    {
+      "name": "Sivasagar"
+    },
+    {
+      "name": "Majuli"
+    },
+    {
+      "name": "Jorhat"
+    },
+    {
+      "name": "Golaghat"
+    },
+    {
+      "name": "Karbi Anglong"
     },
     {
       "name": "West Karbi Anglong"
+    },
+    {
+      "name": "Dima Hasao"
+    },
+    {
+      "name": "Cachar"
+    },
+    {
+      "name": "Hailakandi"
+    },
+    {
+      "name": "Sribhumi"
     }
   ],
   "party_overlay": {
