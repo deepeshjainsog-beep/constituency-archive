@@ -948,13 +948,13 @@
       "<div style=\"display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid rgba(41,36,27,0.35);padding-bottom:6px;margin-bottom:10px\">" +
       "<h3 style=\"margin:0;font-size:21px;font-weight:600\">Before <em style=\"font-weight:400\">\u2014 " + PRE_YEAR + " order</em></h3>" +
       "<span class=\"mono\" style=\"font-size:11px;color:var(--ink-60)\">" + olds.length + " seats</span></div>" +
-      "<div class=\"map-stage\" id=\"p3-pre-stage\"><div class=\"map-tip\"></div>" +
+      "<div class=\"map-stage\" id=\"p3-pre-stage\" style=\"min-height:600px\"><div class=\"map-tip\"></div>" +
       "<div data-svg-slot=\"pre3\" class=\"layer-base\"></div></div></div>" +
       "<div>" +
       "<div style=\"display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid rgba(41,36,27,0.35);padding-bottom:6px;margin-bottom:10px\">" +
       "<h3 style=\"margin:0;font-size:21px;font-weight:600\">After <em style=\"font-weight:400\">\u2014 " + POST_YEAR + " order</em></h3>" +
       "<span class=\"mono\" style=\"font-size:11px;color:var(--ink-60)\">" + news.length + " seats</span></div>" +
-      "<div class=\"map-stage\" id=\"p3-post-stage\"><div class=\"map-tip\"></div>" +
+      "<div class=\"map-stage\" id=\"p3-post-stage\" style=\"min-height:600px\"><div class=\"map-tip\"></div>" +
       "<div data-svg-slot=\"post3\" class=\"layer-base\"></div></div></div>" +
       "<aside id=\"p3-panel\" class=\"panel\" style=\"position:sticky;top:16px;max-height:calc(100vh - 32px);overflow-y:auto\" aria-live=\"polite\">" +
       "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60)\">Reading the comparison</div>" +
