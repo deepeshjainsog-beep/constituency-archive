@@ -13,19 +13,27 @@
 
   /* ---- Party colours ---- */
   const PARTY = {
-    SAD: { full: "Shiromani Akali Dal",            c: "oklch(0.5 0.14 265)" },
-    BJP: { full: "Bharatiya Janata Party",          c: "oklch(0.72 0.16 55)"  },
-    INC: { full: "Indian National Congress",        c: "oklch(0.66 0.11 230)" },
-    BSP: { full: "Bahujan Samaj Party",             c: "oklch(0.55 0.17 290)" },
-    CPI: { full: "Communist Party of India",        c: "oklch(0.58 0.18 25)"  },
-    CPM: { full: "Communist Party of India (M)",    c: "oklch(0.55 0.19 25)"  },
-    IND: { full: "Independent",                     c: "oklch(0.62 0.02 60)"  },
-    /* Rajasthan & others */
-    NCP: { full: "Nationalist Congress Party",      c: "oklch(0.62 0.14 240)" },
-    SP:  { full: "Samajwadi Party",                 c: "oklch(0.6  0.14 160)" },
-    JD:  { full: "Janata Dal",                      c: "oklch(0.65 0.12 90)"  },
-    JDU: { full: "Janata Dal (United)",             c: "oklch(0.65 0.12 90)"  },
-    BLD: { full: "Bharatiya Lok Dal",               c: "oklch(0.68 0.10 100)" },
+    SAD:   { full: "Shiromani Akali Dal",            c: "oklch(0.5 0.14 265)" },
+    BJP:   { full: "Bharatiya Janata Party",          c: "oklch(0.72 0.16 55)"  },
+    INC:   { full: "Indian National Congress",        c: "oklch(0.66 0.11 230)" },
+    BSP:   { full: "Bahujan Samaj Party",             c: "oklch(0.55 0.17 290)" },
+    CPI:   { full: "Communist Party of India",        c: "oklch(0.58 0.18 25)"  },
+    CPM:   { full: "Communist Party of India (M)",    c: "oklch(0.55 0.19 25)"  },
+    "CPI(M)": { full: "Communist Party of India (M)", c: "oklch(0.55 0.19 25)" },
+    IND:   { full: "Independent",                     c: "oklch(0.62 0.02 60)"  },
+    NCP:   { full: "Nationalist Congress Party",      c: "oklch(0.62 0.14 240)" },
+    SP:    { full: "Samajwadi Party",                 c: "oklch(0.6  0.14 160)" },
+    JD:    { full: "Janata Dal",                      c: "oklch(0.65 0.12 90)"  },
+    JDU:   { full: "Janata Dal (United)",             c: "oklch(0.65 0.12 90)"  },
+    BLD:   { full: "Bharatiya Lok Dal",               c: "oklch(0.68 0.10 100)" },
+    AGP:   { full: "Asom Gana Parishad",              c: "oklch(0.65 0.12 130)" },
+    AIUDF: { full: "All India United Democratic Front", c: "oklch(0.55 0.14 260)" },
+    BPF:   { full: "Bodoland People's Front",         c: "oklch(0.58 0.12 180)" },
+    UPPL:  { full: "United People's Party Liberal",   c: "oklch(0.62 0.13 210)" },
+    AIFB:  { full: "All India Forward Bloc",          c: "oklch(0.5 0.18 25)"   },
+    AITC:  { full: "All India Trinamool Congress",    c: "oklch(0.6 0.14 220)"  },
+    RSP:   { full: "Revolutionary Socialist Party",   c: "oklch(0.52 0.15 30)"  },
+    GNLF:  { full: "Gorkha National Liberation Front", c: "oklch(0.58 0.10 90)" },
   };
   function partyOf(code) {
     if (!code) return null;
@@ -55,6 +63,11 @@
     renamed:    { bg: "oklch(0.93 0.06 85)",   bc: "oklch(0.6 0.1 85)"   },
     "new":      { bg: "oklch(0.93 0.055 155)", bc: "oklch(0.55 0.09 155)" },
     abolished:  { bg: "oklch(0.94 0.05 30)",   bc: "oklch(0.6 0.12 30)"  },
+    merged:     { bg: "oklch(0.94 0.05 30)",   bc: "oklch(0.6 0.12 30)"  },
+    split:      { bg: "oklch(0.94 0.05 30)",   bc: "oklch(0.6 0.12 30)"  },
+    replaced:   { bg: "oklch(0.94 0.05 30)",   bc: "oklch(0.6 0.12 30)"  },
+    carved:     { bg: "oklch(0.93 0.055 155)", bc: "oklch(0.55 0.09 155)" },
+    replaces:   { bg: "oklch(0.93 0.06 85)",   bc: "oklch(0.6 0.1 85)"   },
   };
 
   const root = $("state-root");
@@ -67,13 +80,13 @@
 
   const entry = (manifest.states || []).find(s => s.slug === slug);
   if (!entry) {
-    document.title = "Not in the register · Boundaries";
+    document.title = "Not in the register \u00b7 Boundaries";
     root.innerHTML = shell("<header class=\"hero wrap\"><div class=\"hero__eyebrow\">Boundaries</div><h1>Not in the register</h1><p class=\"hero__lede\">No assembly with the reference \u201c" + esc(slug) + "\u201d is listed in the manifest. <a href=\"index.html\">Return to the archive index</a>.</p></header>");
     return;
   }
   if (entry.status !== "live") {
-    document.title = entry.name + " · coming soon · Boundaries";
-    root.innerHTML = shell("<header class=\"hero wrap\"><div class=\"hero__eyebrow\">Delimitation \u00b7 " + esc(entry.name) + "</div><h1>" + esc(entry.name) + "</h1><p class=\"hero__lede\">The pre-2008 record for this assembly has not been published yet. The archive is updated state by state.</p>" + (entry.note ? "<p class=\"notice\">" + esc(entry.note) + "</p>" : "") + "<p style=\"margin-top:22px\"><a href=\"index.html\">Return to the archive index</a></p></header>");
+    document.title = entry.name + " \u00b7 coming soon \u00b7 Boundaries";
+    root.innerHTML = shell("<header class=\"hero wrap\"><div class=\"hero__eyebrow\">Delimitation \u00b7 " + esc(entry.name) + "</div><h1>" + esc(entry.name) + "</h1><p class=\"hero__lede\">The pre-delimitation record for this assembly has not been published yet. The archive is updated state by state.</p>" + (entry.note ? "<p class=\"notice\">" + esc(entry.note) + "</p>" : "") + "<p style=\"margin-top:22px\"><a href=\"index.html\">Return to the archive index</a></p></header>");
     return;
   }
 
@@ -82,7 +95,15 @@
   try { data = await (await fetch(base + "data.json")).json(); }
   catch (e) { root.innerHTML = errHTML("The data module for " + entry.name + " could not be loaded."); return; }
 
-  document.title = data.title + " · Boundaries";
+  document.title = data.title + " \u00b7 Boundaries";
+
+  /* ---- Resolve order years from data (with 2008/1976 fallbacks) ---- */
+  const PRE_YEAR  = data.pre_order_year  || 1976;
+  const POST_YEAR = data.post_order_year || 2008;
+  const PRE_LABEL  = data.pre_order_label  || (PRE_YEAR + " order");
+  const POST_LABEL = data.post_order_label || (POST_YEAR + " order");
+  const PRE_ELEC   = data.pre_election_year  || (POST_YEAR === 2023 ? 2021 : 2007);
+  const POST_ELEC  = data.post_election_year || (POST_YEAR === 2023 ? 2026 : 2012);
 
   const olds = data.constituencies || [];
   const news = data.post2008_constituencies || [];
@@ -111,6 +132,10 @@
       else { flipOldSet.add(o.ac_no); flipNewSet.add(s.ac_no); }
     });
   })();
+
+  /* ---- Party overlay (Assam-style: per-party seat counts) ---- */
+  const partyOverlay = data.party_overlay || null;
+  let cPartyMode = "none"; // "none" | "flipped" | "held" | party-code
 
   const maps = data.maps || {};
 
@@ -158,7 +183,7 @@
   let selOld = null;
   let selNew = null;
   let filter = "all";
-  let cFlipMode = "none"; // party overlay on Plate III
+  let cFlipMode = "none";
   let tsel = null;
   let searchQ = "";
 
@@ -193,8 +218,11 @@
   function tipHTML(c, key) {
     const isOld = key === "pre";
     const party = partyOf(isOld ? c.party07 : c.party12);
-    return "<div class=\"n\">AC " + c.ac_no + " \u00b7 " + (isOld ? "pre-2008" : "2008 order") + "</div>" +
-      "<strong>" + esc(c.name) + "</strong>" + (c.type === "SC" ? " <span style=\"font-size:9px;background:#29241b;color:#f2ecdf;padding:0 3px;border-radius:2px\">SC</span>" : "") +
+    const orderLabel = isOld ? (PRE_YEAR + " order") : (POST_YEAR + " order");
+    return "<div class=\"n\">AC " + c.ac_no + " \u00b7 " + orderLabel + "</div>" +
+      "<strong>" + esc(c.name) + "</strong>" +
+      (c.type === "SC" ? " <span style=\"font-size:9px;background:#29241b;color:#f2ecdf;padding:0 3px;border-radius:2px\">SC</span>" : "") +
+      (c.type === "ST" ? " <span style=\"font-size:9px;background:#4a6741;color:#f2ecdf;padding:0 3px;border-radius:2px\">ST</span>" : "") +
       "<div class=\"r\">" + esc(c.district) + " district</div>" +
       (party ? "<div class=\"r\" style=\"display:flex;align-items:center;gap:5px\"><span style=\"" + partyDotStyle(party) + "\"></span><span>" + esc(partyLine(party)) + "</span></div>" : "");
   }
@@ -237,13 +265,13 @@
     }
     const orderLine = $("p1-order-line");
     if (orderLine) orderLine.textContent =
-      view1 === "post" ? "Assembly constituencies \u00b7 Delimitation Order, 2008" :
-      "Assembly constituencies \u00b7 Delimitation Order, 1976";
+      view1 === "post" ? "Assembly constituencies \u00b7 Delimitation Order, " + POST_YEAR :
+      "Assembly constituencies \u00b7 Delimitation Order, " + PRE_YEAR;
     const caption = $("p1-caption");
     if (caption) caption.textContent =
-      view1 === "post" ? "2008 order \u00b7 in force from 2012" :
-      view1 === "overlay" ? "In force 1977\u20132007 \u00b7 2008 boundaries overlaid" :
-      "Actual pre-2008 boundaries, digitised \u00b7 " + olds.length + " seats";
+      view1 === "post" ? (POST_YEAR + " order \u00b7 in force from " + POST_YEAR) :
+      view1 === "overlay" ? ("In force " + PRE_YEAR + "\u2013" + (POST_YEAR-1) + " \u00b7 " + POST_YEAR + " boundaries overlaid") :
+      "Actual pre-" + POST_YEAR + " boundaries, digitised \u00b7 " + olds.length + " seats";
     document.querySelectorAll("#p1-stage [data-svg-slot=\"pre\"] path.ac").forEach(p => {
       p.classList.toggle("is-selected", selOld !== null && +p.dataset.ac === selOld);
     });
@@ -259,9 +287,7 @@
       const isLinked = selOld !== null && (oldByN[selOld] || {}).dest && (oldByN[selOld].dest || []).indexOf(+p.dataset.ac) !== -1;
       p.classList.toggle("is-linked", isLinked);
     });
-    /* District ledger */
     renderDistrictLedger();
-    /* Malapportionment band */
     renderMalapportionmentBand();
   }
 
@@ -269,33 +295,31 @@
     const el = $("district-ledger");
     if (!el) return;
     const distNew = data.district_grid_new || [];
-    const REN = { Firozpur: "Ferozpur", Jalandhar: "Jullundur", Rupnagar: "Ropar", Bathinda: "Bhatinda" };
     const oc = {}, nc = {};
     olds.forEach(o => { oc[o.district] = (oc[o.district] || 0) + 1; });
     news.forEach(s => { nc[s.district] = (nc[s.district] || 0) + 1; });
     let nGain = 0, nLoss = 0, nNew = 0;
     const rows = distNew.map(d => {
-      const oldName = (d.name in oc) ? d.name : (REN[d.name] || d.name);
       const cNow = nc[d.name] || 0;
-      const isNew = !(oldName in oc);
-      const diff = isNew ? 0 : cNow - oc[oldName];
+      const isNew = !(d.name in oc);
+      const diff = isNew ? 0 : cNow - oc[d.name];
       if (isNew) nNew++; else if (diff > 0) nGain++; else if (diff < 0) nLoss++;
       const deltaCol = diff === 0 && !isNew ? "rgba(41,36,27,0.35)" : "#29241b";
       return "<div style=\"display:flex;align-items:baseline;gap:8px;border-bottom:1px dotted rgba(41,36,27,0.3);padding:3px 0 4px\">" +
         "<span style=\"font-family:var(--sans);font-size:13px;font-weight:600;letter-spacing:0.04em;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis\">" + esc(d.name.toUpperCase()) + "</span>" +
         (isNew ? "<span style=\"font-family:var(--sans);font-size:9.5px;font-weight:700;letter-spacing:0.1em;background:#29241b;color:#f2ecdf;padding:0 5px 1px;border-radius:2px;flex:none\">NEW</span>" : "") +
-        "<span style=\"font-family:var(--mono);font-size:11px;color:rgba(41,36,27,0.75);flex:none\">" + (isNew ? "\u2014" : oc[oldName]) + " \u2192 " + cNow + "</span>" +
+        "<span style=\"font-family:var(--mono);font-size:11px;color:rgba(41,36,27,0.75);flex:none\">" + (isNew ? "\u2014" : oc[d.name]) + " \u2192 " + cNow + "</span>" +
         "<span style=\"font-family:var(--mono);font-size:11px;font-weight:700;flex:none;width:28px;text-align:right;color:" + deltaCol + "\">" + (isNew ? "" : diff > 0 ? "+" + diff : diff < 0 ? "\u2212" + (-diff) : "\u00b10") + "</span>" +
         "</div>";
     });
     const summary = distNew.length + " districts \u00b7 " + nNew + " new \u00b7 " + nLoss + " shed seats \u00b7 " + nGain + " gained";
     el.innerHTML =
       "<div style=\"display:flex;align-items:baseline;gap:16px;flex-wrap:wrap;border-bottom:1px solid rgba(41,36,27,0.45);padding-bottom:8px;margin-bottom:12px\">" +
-      "<span style=\"font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase\">District ledger \u00b7 seats per district, 1976 order \u2192 2008 order</span>" +
+      "<span style=\"font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase\">District ledger \u00b7 seats per district, " + PRE_YEAR + " order \u2192 " + POST_YEAR + " order</span>" +
       "<span style=\"margin-left:auto;font-family:var(--mono);font-size:10.5px;letter-spacing:0.06em;color:rgba(41,36,27,0.65)\">" + esc(summary) + "</span>" +
       "</div>" +
       "<div style=\"display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:3px 26px\">" + rows.join("") + "</div>" +
-      "<p style=\"margin:12px 0 0;font-size:11.5px;font-style:italic;line-height:1.5;color:rgba(41,36,27,0.65);max-width:880px\">Old counts refer to the district groupings of the 1976 order; renamed districts (Firozpur, Jalandhar, Rupnagar, Bathinda) are matched to their old spellings. Districts marked NEW were carved out of those groupings between 1992 and the mid-2000s and received seat groupings of their own for the first time in 2008 — so a parent district\u2019s \u201closs\u201d is usually its new offspring\u2019s gain. The state total stayed fixed at " + olds.length + " seats.</p>";
+      "<p style=\"margin:12px 0 0;font-size:11.5px;font-style:italic;line-height:1.5;color:rgba(41,36,27,0.65);max-width:880px\">Districts marked NEW were carved out between the two orders. The state total stayed fixed at " + olds.length + " seats.</p>";
   }
 
   function renderMalapportionmentBand() {
@@ -314,16 +338,16 @@
     }
     const ma = stats(electors07), mb = stats(electors12);
     const rows = [
-      { label: "Smallest seat",         v07: fmt(ma.lo),                      v12: fmt(mb.lo),                      note: "electors on the rolls" },
-      { label: "Largest seat",          v07: fmt(ma.hi),                      v12: fmt(mb.hi),                      note: "electors on the rolls" },
-      { label: "Largest \u00f7 smallest", v07: ma.ratio.toFixed(1) + "\u00d7", v12: mb.ratio.toFixed(1) + "\u00d7", note: "spread between extremes" },
-      { label: "Mean deviation",        v07: ma.meanDev.toFixed(0) + "%",     v12: mb.meanDev.toFixed(0) + "%",     note: "avg distance from state mean" },
-      { label: "Seats >25% off mean",   v07: ma.over25 + " of " + olds.length, v12: mb.over25 + " of " + news.length, note: "over- or under-populated" },
+      { label: "Smallest seat",           v07: fmt(ma.lo),                      v12: fmt(mb.lo),                      note: "electors on the rolls" },
+      { label: "Largest seat",            v07: fmt(ma.hi),                      v12: fmt(mb.hi),                      note: "electors on the rolls" },
+      { label: "Largest \u00f7 smallest", v07: ma.ratio.toFixed(1) + "\u00d7",  v12: mb.ratio.toFixed(1) + "\u00d7",  note: "spread between extremes" },
+      { label: "Mean deviation",          v07: ma.meanDev.toFixed(0) + "%",     v12: mb.meanDev.toFixed(0) + "%",     note: "avg distance from state mean" },
+      { label: "Seats >25% off mean",     v07: ma.over25 + " of " + olds.length, v12: mb.over25 + " of " + news.length, note: "over- or under-populated" },
     ];
     el.innerHTML =
       "<div style=\"display:flex;align-items:baseline;gap:16px;border-bottom:1px solid rgba(41,36,27,0.45);padding-bottom:8px;margin-bottom:14px\">" +
       "<span style=\"font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase\">What the redraw fixed \u00b7 electors per seat, " +
-      (data.pre_election_year || "2007") + " vs " + (data.post_election_year || "2012") + "</span></div>" +
+      PRE_ELEC + " vs " + POST_ELEC + "</span></div>" +
       "<div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px 28px\">" +
       rows.map(r =>
         "<div style=\"border-left:2px solid #29241b;padding-left:12px\">" +
@@ -334,19 +358,32 @@
       ).join("") +
       "</div>" +
       "<p style=\"margin:12px 0 0;font-size:11.5px;font-style:italic;line-height:1.5;color:rgba(41,36,27,0.65);max-width:880px\">" +
-      "Electors on the rolls at the pre-2008 election (1976 map) and the first post-2008 election (2008 map). Deviation figures compare each seat to the state mean of its year.</p>";
+      "Electors on the rolls at the " + PRE_ELEC + " election (" + PRE_YEAR + " map) and the " + POST_ELEC + " election (" + POST_YEAR + " map). Deviation figures compare each seat to the state mean of its year.</p>";
   }
 
   /* ==== PLATE III ==== */
   const REL_FILL = "#c4d8ec", REL_STROKE = "#4a7ba6", SEL_FILL = "rgba(41,36,27,0.18)";
   const FLIP_FILL = "oklch(0.9 0.07 30)", HELD_FILL = "oklch(0.92 0.055 155)";
 
-  function flipFillFor(acNo, side) {
-    if (cFlipMode === "none") return null;
-    const inFlip = (side === "old" ? flipOldSet : flipNewSet).has(acNo);
-    const inHeld = (side === "old" ? heldOldSet : heldNewSet).has(acNo);
-    if (cFlipMode === "flipped") return inFlip ? FLIP_FILL : (inHeld ? "#f8f4eb" : "rgba(41,36,27,0.06)");
-    return inHeld ? HELD_FILL : (inFlip ? "#f8f4eb" : "rgba(41,36,27,0.06)");
+  function partyFillFor(acNo, side) {
+    if (cPartyMode === "none") return null;
+    if (cPartyMode === "flipped") {
+      const inFlip = (side === "old" ? flipOldSet : flipNewSet).has(acNo);
+      const inHeld = (side === "old" ? heldOldSet : heldNewSet).has(acNo);
+      return inFlip ? FLIP_FILL : (inHeld ? "#f8f4eb" : "rgba(41,36,27,0.06)");
+    }
+    if (cPartyMode === "held") {
+      const inHeld = (side === "old" ? heldOldSet : heldNewSet).has(acNo);
+      const inFlip = (side === "old" ? flipOldSet : flipNewSet).has(acNo);
+      return inHeld ? HELD_FILL : (inFlip ? "#f8f4eb" : "rgba(41,36,27,0.06)");
+    }
+    /* party-code mode */
+    const c = side === "old" ? oldByN[acNo] : newByN[acNo];
+    if (!c) return "rgba(41,36,27,0.06)";
+    const won = (side === "old" ? c.party07 : c.party12);
+    if (!won) return "rgba(41,36,27,0.06)";
+    const p = partyOf(won);
+    return (p && p.code === cPartyMode) ? (p.c || FLIP_FILL) : "rgba(41,36,27,0.06)";
   }
 
   function updatePlate3() {
@@ -357,7 +394,7 @@
       const no = +p.dataset.ac;
       const isSel = selOld !== null && no === selOld;
       const isLinked = selNew !== null && selNewSrcs.has(no);
-      const ff = flipFillFor(no, "old");
+      const ff = partyFillFor(no, "old");
       p.style.fill = isSel ? SEL_FILL : isLinked ? REL_FILL : (ff || "");
       p.style.stroke = isSel ? "#29241b" : isLinked ? REL_STROKE : "";
       p.style.strokeWidth = isSel ? "2.4" : isLinked ? "1.8" : "";
@@ -367,28 +404,40 @@
       const no = +p.dataset.ac;
       const isSel = selNew !== null && no === selNew;
       const isLinked = selOld !== null && selOldSet.has(no);
-      const ff = flipFillFor(no, "new");
+      const ff = partyFillFor(no, "new");
       p.style.fill = isSel ? SEL_FILL : isLinked ? REL_FILL : (ff || "");
       p.style.stroke = isSel ? "#29241b" : isLinked ? REL_STROKE : "";
       p.style.strokeWidth = isSel ? "2.4" : isLinked ? "1.8" : "";
     });
 
-    /* party overlay chips */
+    /* update chip states */
     document.querySelectorAll(".p3-flip-chip").forEach(b => {
-      const active = b.dataset.mode === cFlipMode;
+      const active = b.dataset.mode === cPartyMode;
       b.style.border = "1px solid " + (active ? "#29241b" : "rgba(41,36,27,0.45)");
       b.style.background = active ? "#29241b" : "rgba(255,255,255,0.5)";
       b.style.color = active ? "#f2ecdf" : "#29241b";
     });
+
     const flipNote = $("p3-flip-note");
     if (flipNote) {
-      if (cFlipMode === "none") { flipNote.style.display = "none"; }
-      else {
+      if (cPartyMode === "none") {
+        flipNote.style.display = "none";
+      } else if (cPartyMode === "flipped" || cPartyMode === "held") {
         flipNote.style.display = "inline-flex";
         const sw = flipNote.querySelector(".p3-flip-swatch");
-        if (sw) sw.style.background = cFlipMode === "flipped" ? FLIP_FILL : HELD_FILL;
+        if (sw) sw.style.background = cPartyMode === "flipped" ? FLIP_FILL : HELD_FILL;
         const txt = flipNote.querySelector(".p3-flip-text");
-        if (txt) txt.textContent = cFlipMode === "flipped" ? "seats won by different parties in both elections" : "seats won by the same party in both elections";
+        if (txt) txt.textContent = cPartyMode === "flipped" ? "seats won by different parties in both elections" : "seats won by the same party in both elections";
+      } else {
+        /* party mode */
+        const p = partyOf(cPartyMode);
+        flipNote.style.display = "inline-flex";
+        const sw = flipNote.querySelector(".p3-flip-swatch");
+        if (sw) { sw.style.background = p ? p.c : FLIP_FILL; }
+        const txt = flipNote.querySelector(".p3-flip-text");
+        const oldCount = olds.filter(c => c.party07 === cPartyMode).length;
+        const newCount = news.filter(c => c.party12 === cPartyMode).length;
+        if (txt) txt.textContent = (p ? partyLine(p) : cPartyMode) + " \u00b7 " + oldCount + " seats (" + PRE_ELEC + ") \u2192 " + newCount + " seats (" + POST_ELEC + ")";
       }
     }
 
@@ -402,7 +451,7 @@
       panel.innerHTML =
         "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60)\">Reading the comparison</div>" +
         "<p style=\"margin:14px 0 12px;font-size:14px;line-height:1.55\">Plates I and II drawn on one projection, at one scale. Click a constituency on either map: it is outlined and its counterpart territory on the opposite map fills <span style=\"background:#c4d8ec;border:1px solid #4a7ba6;padding:0 6px;border-radius:2px\">blue</span>.</p>" +
-        "<p style=\"margin:0;font-size:14px;line-height:1.55\">For an old seat, that is where its territory went in 2008; for a new seat, the pre-2008 seats it was built from.</p>";
+        "<p style=\"margin:0;font-size:14px;line-height:1.55\">For an old seat, that is where its territory went; for a new seat, the pre-" + POST_YEAR + " seats it was built from.</p>";
       return;
     }
     const isOld = selOld !== null;
@@ -427,6 +476,7 @@
       if (!c) return;
       let show = true;
       if (filter === "sc") show = c.type === "SC" || !!(c.sc_note);
+      else if (filter === "st") show = c.type === "ST";
       else if (filter === "flipped") show = (side === "old" ? flipOldSet : flipNewSet).has(no);
       else if (filter === "held") show = (side === "old" ? heldOldSet : heldNewSet).has(no);
       else if (filter !== "all") show = c.status === filter;
@@ -434,9 +484,9 @@
       const isSel = tsel && tsel.kind === "seat" && tsel.side === side && tsel.n === no;
       const isRel = side === "old" ? relOld.has(no) : relNew.has(no);
       const col = T_COL[c.status] || T_COL.continuing;
-      if (isSel)       { tile.style.background = "rgba(41,36,27,0.18)"; tile.style.borderColor = "#29241b"; tile.style.boxShadow = "0 0 0 2px #29241b"; }
-      else if (isRel)  { tile.style.background = "#c4d8ec"; tile.style.borderColor = "#4a7ba6"; tile.style.boxShadow = "0 0 0 1.5px #4a7ba6"; }
-      else             { tile.style.background = col.bg; tile.style.borderColor = col.bc; tile.style.boxShadow = ""; }
+      if (isSel)      { tile.style.background = "rgba(41,36,27,0.18)"; tile.style.borderColor = "#29241b"; tile.style.boxShadow = "0 0 0 2px #29241b"; }
+      else if (isRel) { tile.style.background = "#c4d8ec"; tile.style.borderColor = "#4a7ba6"; tile.style.boxShadow = "0 0 0 1.5px #4a7ba6"; }
+      else            { tile.style.background = col.bg; tile.style.borderColor = col.bc; tile.style.boxShadow = ""; }
     });
     document.querySelectorAll(".t4dist-btn").forEach(btn => {
       const isSel = tsel && tsel.kind === "dist" && tsel.side === btn.dataset.side && tsel.name === btn.dataset.name;
@@ -455,7 +505,7 @@
       const cnt = list.filter(c => c.district === tsel.name).length;
       panel.innerHTML =
         "<div style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:10px\">" +
-        "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60)\">" + esc(tsel.side === "old" ? "Before 2008 \u00b7 district" : "After 2008 \u00b7 district") + "</div>" +
+        "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60)\">" + esc(tsel.side === "old" ? "Before " + POST_YEAR + " \u00b7 district" : "After " + POST_YEAR + " \u00b7 district") + "</div>" +
         "<button data-t4-clear=\"1\" style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12px;color:var(--ink-60);border-bottom:1px dotted rgba(41,36,27,0.5)\">\u00d7 clear</button></div>" +
         "<h3 style=\"margin:8px 0 4px;font-size:25px;font-weight:600\">" + esc(tsel.name) + "</h3>" +
         "<div style=\"font-family:var(--mono);font-size:11px;color:var(--ink-60);margin-bottom:12px\">" + cnt + " constituencies</div>" +
@@ -472,39 +522,55 @@
   /* ---- Shared seat panel HTML ---- */
   function seatPanelHTML(c, side, prefix) {
     const isOld = side === "old";
-    const STATUS_LABELS = { continuing: "Name continued", abolished: "Name abolished", renamed: "Renamed", "new": "Created 2008" };
+    const STATUS_LABELS = {
+      continuing: "Name continued",
+      abolished:  "Name abolished",
+      renamed:    "Renamed",
+      "new":      "Created " + POST_YEAR,
+      merged:     "Merged " + POST_YEAR,
+      split:      "Split " + POST_YEAR,
+      replaced:   "Replaced " + POST_YEAR,
+      carved:     "Created " + POST_YEAR,
+      replaces:   "Renamed " + POST_YEAR,
+    };
     const STATUS_PILL = {
       continuing: { bg: "#f0ede4", bc: "rgba(41,36,27,0.4)" },
       abolished:  { bg: "#f5e8e0", bc: "#c0603a" },
+      merged:     { bg: "#f5e8e0", bc: "#c0603a" },
+      split:      { bg: "#f5e8e0", bc: "#c0603a" },
+      replaced:   { bg: "#f5e8e0", bc: "#c0603a" },
       renamed:    { bg: "oklch(0.93 0.06 85)", bc: "oklch(0.6 0.1 85)" },
+      replaces:   { bg: "oklch(0.93 0.06 85)", bc: "oklch(0.6 0.1 85)" },
       "new":      { bg: "oklch(0.93 0.055 155)", bc: "oklch(0.55 0.09 155)" },
+      carved:     { bg: "oklch(0.93 0.055 155)", bc: "oklch(0.55 0.09 155)" },
     };
     const col = STATUS_PILL[c.status] || STATUS_PILL.continuing;
     const statusLabel = STATUS_LABELS[c.status] || c.status || "";
     const links = isOld
-      ? (c.dest || []).map(n => { const s = newByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":""), n, side:"new", pfx:prefix } : null; }).filter(Boolean)
-      : (c.src  || []).map(n => { const s = oldByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":""), n, side:"old", pfx:prefix } : null; }).filter(Boolean);
-    const linksLabel = isOld ? "Territory went to (2008 seats)" : "Built from (pre-2008 seats)";
-    const partyCode = isOld ? c.party07 : c.party12;
+      ? (c.dest || []).map(n => { const s = newByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":s.type==="ST"?" (ST)":""), n, side:"new", pfx:prefix } : null; }).filter(Boolean)
+      : (c.src  || []).map(n => { const s = oldByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":s.type==="ST"?" (ST)":""), n, side:"old", pfx:prefix } : null; }).filter(Boolean);
+    const linksLabel = isOld ? "Territory went to (" + POST_YEAR + " seats)" : "Built from (pre-" + POST_YEAR + " seats)";
+    const partyCode  = isOld ? c.party07 : c.party12;
     const winnerName = isOld ? c.winner_07 : c.winner_12;
-    const electors = isOld ? c.electors_07 : c.electors_12;
+    const electors   = isOld ? c.electors_07 : c.electors_12;
     const electorArr = isOld ? electors07 : electors12;
     const electionLabel = isOld
-      ? "Won in " + (data.pre_election_year || "2007") + " \u2014 last election on this map"
-      : "Won in " + (data.post_election_year || "2012") + " \u2014 first election on this map";
+      ? "Won in " + PRE_ELEC + " \u2014 last election on this map"
+      : "Won in " + POST_ELEC + " \u2014 first election on this map";
     const electorLabel = isOld
-      ? "Electorate \u00b7 " + (data.pre_election_label || "pre-2008 election")
-      : "Electorate \u00b7 " + (data.post_election_label || "post-2008 election");
+      ? "Electorate \u00b7 " + (data.pre_election_label || PRE_ELEC + " election")
+      : "Electorate \u00b7 " + (data.post_election_label || POST_ELEC + " election");
     const party = partyOf(partyCode);
 
     let html =
       "<div style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:10px\">" +
       "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60)\">" +
-      esc((isOld ? "Before 2008" : "After 2008") + " \u00b7 " + c.district + " district \u00b7 No. " + c.ac_no) + "</div>" +
+      esc((isOld ? "Before " + POST_YEAR : "After " + POST_YEAR) + " \u00b7 " + c.district + " district \u00b7 No. " + c.ac_no) + "</div>" +
       "</div>" +
       "<div style=\"display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:8px 0 4px\">" +
       "<h3 style=\"margin:0;font-size:25px;font-weight:600;line-height:1.1\">" + esc(c.name) + "</h3>" +
       (c.type === "SC" ? "<span style=\"font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:0.06em;background:#29241b;color:#f2ecdf;padding:1px 6px;border-radius:2px\">SC</span>" : "") +
+      (c.type === "ST" ? "<span style=\"font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:0.06em;background:#4a6741;color:#f2ecdf;padding:1px 6px;border-radius:2px\">ST</span>" : "") +
       "</div>" +
       "<div style=\"margin-bottom:12px\"><span style=\"display:inline-block;padding:2px 10px;border-radius:3px;font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:0.06em;background:" + col.bg + ";border:1px solid " + col.bc + "\">" + esc(statusLabel) + "</span></div>";
 
@@ -550,7 +616,8 @@
   }
 
   function renderStatsTable() {
-    return "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60);margin-bottom:12px\">The 2008 delimitation at a glance</div>" +
+    const delimLabel = data.post_order_year ? data.post_order_year + " delimitation" : "2008 delimitation";
+    return "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60);margin-bottom:12px\">The " + delimLabel + " at a glance</div>" +
       "<table style=\"border-collapse:collapse;width:100%\">" +
       (data.stats || []).map(s =>
         "<tr><td style=\"font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-60);padding:6px 10px 6px 0;border-bottom:1px dashed var(--ink-20)\">" + esc(s.k) + "</td>" +
@@ -590,7 +657,7 @@
     const open = q.length >= 2 || /^\d+$/.test(q);
     drop.style.display = open ? "block" : "none";
     if (!open) return;
-    const smatch = (c, field) => {
+    const smatch = (c) => {
       const n = c.ac_no !== undefined ? c.ac_no : c.n;
       const name = (c.name || "").toLowerCase();
       const dist = (c.district || c.dist || "").toLowerCase();
@@ -600,17 +667,17 @@
     const rows = [];
     olds.filter(c => smatch(c)).slice(0,8).forEach(c => {
       rows.push("<button data-search-old=\"" + c.ac_no + "\" style=\"all:unset;cursor:pointer;box-sizing:border-box;width:100%;display:flex;align-items:baseline;gap:8px;padding:6px 10px;border-bottom:1px dotted rgba(41,36,27,0.25)\">" +
-        "<span style=\"" + tagBase + "border:1px solid rgba(41,36,27,0.55)\">1976</span>" +
+        "<span style=\"" + tagBase + "border:1px solid rgba(41,36,27,0.55)\">" + PRE_YEAR + "</span>" +
         "<span style=\"font-family:var(--mono);font-size:10px;color:rgba(41,36,27,0.55);flex:none\">" + String(c.ac_no).padStart(2,"0") + "</span>" +
-        "<span style=\"font-family:var(--sans);font-size:13px;font-weight:600;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis\">" + esc(c.name) + (c.type==="SC"?" (SC)":"") + "</span>" +
+        "<span style=\"font-family:var(--sans);font-size:13px;font-weight:600;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis\">" + esc(c.name) + (c.type==="SC"?" (SC)":c.type==="ST"?" (ST)":"") + "</span>" +
         "<span style=\"font-family:var(--sans);font-size:11px;color:rgba(41,36,27,0.55);flex:none\">" + esc(c.district) + "</span>" +
         "</button>");
     });
     news.filter(c => smatch(c)).slice(0,8).forEach(c => {
       rows.push("<button data-search-new=\"" + c.ac_no + "\" style=\"all:unset;cursor:pointer;box-sizing:border-box;width:100%;display:flex;align-items:baseline;gap:8px;padding:6px 10px;border-bottom:1px dotted rgba(41,36,27,0.25)\">" +
-        "<span style=\"" + tagBase + "background:#29241b;color:#f2ecdf;border:1px solid #29241b\">2008</span>" +
+        "<span style=\"" + tagBase + "background:#29241b;color:#f2ecdf;border:1px solid #29241b\">" + POST_YEAR + "</span>" +
         "<span style=\"font-family:var(--mono);font-size:10px;color:rgba(41,36,27,0.55);flex:none\">" + String(c.ac_no).padStart(2,"0") + "</span>" +
-        "<span style=\"font-family:var(--sans);font-size:13px;font-weight:600;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis\">" + esc(c.name) + (c.type==="SC"?" (SC)":"") + "</span>" +
+        "<span style=\"font-family:var(--sans);font-size:13px;font-weight:600;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis\">" + esc(c.name) + (c.type==="SC"?" (SC)":c.type==="ST"?" (ST)":"") + "</span>" +
         "<span style=\"font-family:var(--sans);font-size:11px;color:rgba(41,36,27,0.55);flex:none\">" + esc(c.district) + "</span>" +
         "</button>");
     });
@@ -620,23 +687,19 @@
 
   /* ==== EVENT DELEGATION ==== */
   document.addEventListener("click", e => {
-    /* search */
     const sOld = e.target.closest("[data-search-old]");
     const sNew = e.target.closest("[data-search-new]");
     if (sOld) { selOld = +sOld.dataset.searchOld; selNew = null; searchQ = ""; update(); const d = $("search-drop"); if(d) d.style.display="none"; return; }
     if (sNew) { selNew = +sNew.dataset.searchNew; selOld = null; searchQ = ""; update(); const d = $("search-drop"); if(d) d.style.display="none"; return; }
 
-    /* cross-links */
     const gn = e.target.closest("[data-goto-new]");
     const go = e.target.closest("[data-goto-old]");
     if (gn) { e.preventDefault(); selNew = +gn.dataset.gotoNew; selOld = null; update(); }
     if (go) { e.preventDefault(); selOld = +go.dataset.gotoOld; selNew = null; update(); }
 
-    /* clear */
     if (e.target.closest("[data-clear-sel]")) { selOld = null; selNew = null; update(); }
     if (e.target.closest("[data-p3-clear]"))  { selOld = null; selNew = null; update(); }
 
-    /* p3 links */
     const pl = e.target.closest("[data-p3-link-side]");
     if (pl) {
       e.preventDefault();
@@ -645,11 +708,9 @@
       update();
     }
 
-    /* p3 party overlay chips */
     const pc = e.target.closest(".p3-flip-chip");
-    if (pc) { cFlipMode = pc.dataset.mode; updatePlate3(); return; }
+    if (pc) { cPartyMode = pc.dataset.mode; updatePlate3(); return; }
 
-    /* tile clicks */
     const t4t = e.target.closest(".t4tile");
     if (t4t) { tsel = { kind:"seat", side:t4t.dataset.side, n:+t4t.dataset.ac }; updatePlate4(); }
     const t4d = e.target.closest(".t4dist-btn");
@@ -658,7 +719,6 @@
     const t4l = e.target.closest("[data-t4-link-side]");
     if (t4l) { e.preventDefault(); tsel = { kind:"seat", side:t4l.dataset.t4LinkSide, n:+t4l.dataset.t4LinkN }; updatePlate4(); }
 
-    /* idx */
     const b = e.target.closest("button[data-idx-side]");
     if (b) {
       const no = +b.dataset.ac;
@@ -670,16 +730,13 @@
     }
   });
 
-  /* search input */
   document.addEventListener("input", e => {
     if (e.target.id === "search-input") { searchQ = e.target.value; renderSearch(); }
   });
 
-  /* Plate I controls */
   const p1ctrl = $("p1-controls");
   if (p1ctrl) p1ctrl.addEventListener("click", e => { const b = e.target.closest(".p1-tbtn"); if (!b) return; view1 = b.dataset.val; update(); });
 
-  /* Chip filter */
   document.addEventListener("click", e => { const chip = e.target.closest(".chip[data-filter]"); if (!chip) return; filter = chip.dataset.filter; updatePlate4(); });
 
   /* Clone SVG slots */
@@ -711,12 +768,14 @@
     if (!svg) return;
     svg.setAttribute("width", "100%");
     svg.style.height = "auto";
-    const REGION_COLS = { Majha: "#e8f4f0", Doaba: "#e4eef8", Malwa: "#f0ede4" };
     svg.querySelectorAll("path.ac").forEach(p => {
       const c = oldByN[+p.dataset.ac];
-      if (c && REGION_COLS[c.region]) p.style.fill = REGION_COLS[c.region];
+      if (c && c.region) {
+        const REGION_COLS = { Majha: "#e8f4f0", Doaba: "#e4eef8", Malwa: "#f0ede4" };
+        if (REGION_COLS[c.region]) p.style.fill = REGION_COLS[c.region];
+      }
     });
-    svg.addEventListener("pointerover", e => { const p = e.target.closest("path.ac"); if (!p || !tip) return; const ac = oldByN[+p.dataset.ac]; if (!ac) return; tip.innerHTML = "<strong>" + ac.name + "</strong><small>AC " + ac.ac_no + " \u00b7 " + ac.region + "</small>"; tip.style.display = "block"; });
+    svg.addEventListener("pointerover", e => { const p = e.target.closest("path.ac"); if (!p || !tip) return; const ac = oldByN[+p.dataset.ac]; if (!ac) return; tip.innerHTML = "<strong>" + ac.name + "</strong><small>AC " + ac.ac_no + "</small>"; tip.style.display = "block"; });
     svg.addEventListener("pointermove", e => { if (tip.style.display !== "block") return; const r = slot.getBoundingClientRect(); let x = e.clientX-r.left+10, y = e.clientY-r.top-44; if (x+160>r.width) x = e.clientX-r.left-165; if (y<0) y = e.clientY-r.top+10; tip.style.left = x+"px"; tip.style.top = y+"px"; });
     svg.addEventListener("pointerout", () => { tip.style.display = "none"; });
     svg.addEventListener("click", e => { const p = e.target.closest("path.ac"); if (!p) return; selOld = +p.dataset.ac; selNew = null; update(); const t = $("p1"); if (t) t.scrollIntoView({ behavior:"smooth", block:"start" }); });
@@ -727,6 +786,7 @@
   /* ========================= HTML BUILDERS ========================= */
 
   function heroHTML() {
+    const preLabel = data.pre_order_year ? "PRE-" + data.pre_order_year : "PRE-" + POST_YEAR;
     return "<header class=\"state-hero wrap\">" +
       "<div class=\"state-hero__text\">" +
       "<div class=\"hero__eyebrow\">" + esc(data.assembly) + " \u00b7 A Cartographic Record</div>" +
@@ -734,7 +794,7 @@
       "<p class=\"hero__lede\">" + esc((data.intro && data.intro[0]) || "") + "</p>" +
       "<div class=\"hero__meta\">" + esc(data.assembly) + " \u00b7 " + olds.length + " constituencies \u00b7 in force " + esc(data.in_force) + "</div>" +
       "<nav class=\"plate-nav\" aria-label=\"Plates\">" +
-      ["Plate I \u00b7 Pre-2008 map","Plate II \u00b7 Post-2008 map","Plate III \u00b7 Side by side","Plate IV \u00b7 Seat by seat","Sources"].map(function(t,i){
+      ["Plate I \u00b7 Pre-" + POST_YEAR + " map","Plate II \u00b7 Post-" + POST_YEAR + " map","Plate III \u00b7 Side by side","Plate IV \u00b7 Seat by seat","Sources"].map(function(t,i){
         return "<a href=\"#" + ["p1","p2","p3","p4","sources"][i] + "\">" + esc(t) + "</a>";
       }).join("") + "</nav>" +
       "</div>" +
@@ -742,7 +802,7 @@
       "<div class=\"state-hero__map-inner\">" +
       "<div class=\"hero-map-tip\" id=\"hero-tip\"></div>" +
       "<div class=\"hero-map-sheet\"><div class=\"hero-map-label\">" +
-      "<span class=\"mono\" style=\"font-size:9px;letter-spacing:0.08em;color:var(--ink-45)\">PRE-2008 \u00b7 " + esc(data.name).toUpperCase() + " \u00b7 " + olds.length + " SEATS</span>" +
+      "<span class=\"mono\" style=\"font-size:9px;letter-spacing:0.08em;color:var(--ink-45)\">" + preLabel + " \u00b7 " + esc(data.name).toUpperCase() + " \u00b7 " + olds.length + " SEATS</span>" +
       "</div>" +
       "<img src=\"" + (data.maps && data.maps.hero ? base + data.maps.hero : "assets/hero-illustration.jpg") + "\" style=\"width:100%;height:auto;display:block;border-radius:4px\" alt=\"\">" +
       "</div>" +
@@ -771,15 +831,15 @@
   function plate1HTML() {
     const hasPost = !!maps.post2008;
     return "<section class=\"section\" id=\"p1\">" +
-      "<div class=\"section__head\"><span class=\"plate\">Plate I \u00b7 1976\u20132008</span>" +
-      "<h2>The state as delimited in 1976</h2></div>" +
+      "<div class=\"section__head\"><span class=\"plate\">Plate I \u00b7 " + PRE_YEAR + "\u2013" + POST_YEAR + "</span>" +
+      "<h2>The state as delimited in " + PRE_YEAR + "</h2></div>" +
       "<p>" + esc((data.intro && data.intro[0]) || "") + "</p>" +
       "<div class=\"map-grid\">" +
       "<div class=\"sheet\">" +
       "<div class=\"sheet__title\">" +
       "<div class=\"t1\">" + esc((data.name || "").toUpperCase()) + "</div>" +
-      "<div class=\"t2\" id=\"p1-order-line\">Assembly constituencies \u00b7 Delimitation Order, 1976</div>" +
-      "<div class=\"t3\" id=\"p1-caption\">Actual pre-2008 boundaries, digitised \u00b7 " + olds.length + " seats</div></div>" +
+      "<div class=\"t2\" id=\"p1-order-line\">Assembly constituencies \u00b7 Delimitation Order, " + PRE_YEAR + "</div>" +
+      "<div class=\"t3\" id=\"p1-caption\">Actual pre-" + POST_YEAR + " boundaries, digitised \u00b7 " + olds.length + " seats</div></div>" +
       "<div class=\"map-stage\" id=\"p1-stage\">" +
       "<div class=\"map-tip\"></div>" +
       "<div data-svg-slot=\"pre\" class=\"layer-base\"></div>" +
@@ -796,7 +856,9 @@
     const seatList = side === "old" ? olds : news;
     const byDist = {};
     seatList.forEach(c => { (byDist[c.district] = byDist[c.district] || []).push(c); });
-    const label = side === "old" ? "Index of seats \u00b7 by district of 1976" : "Index of seats \u00b7 by district of 2008";
+    const label = side === "old"
+      ? "Index of seats \u00b7 by district of " + PRE_YEAR
+      : "Index of seats \u00b7 by district of " + POST_YEAR;
     return "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:var(--ink-60);margin-bottom:12px\">" + esc(label) + "</div>" +
       distMeta.filter(d => byDist[d.name] && byDist[d.name].length).map(d => {
         const seats = byDist[d.name];
@@ -810,6 +872,7 @@
             "<span style=\"font-family:var(--mono);font-size:10.5px;color:var(--ink-60);width:22px;flex:none\">" + String(c.ac_no).padStart(2,"0") + "</span>" +
             "<span style=\"flex:1;font-family:var(--serif);font-size:14px\">" + esc(c.name) + "</span>" +
             (c.type === "SC" ? "<span style=\"font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:0.05em;border:1px solid rgba(41,36,27,0.6);padding:0 4px;border-radius:2px;flex:none\">SC</span>" : "") +
+            (c.type === "ST" ? "<span style=\"font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:0.05em;border:1px solid #4a6741;color:#4a6741;padding:0 4px;border-radius:2px;flex:none\">ST</span>" : "") +
             (c.approx ? "<span style=\"font-family:var(--sans);font-size:10.5px;font-style:italic;color:var(--ink-60);flex:none\">approx.</span>" : "") +
             "</button>"
           ).join("") + "</div></div>";
@@ -819,16 +882,16 @@
   function plate2HTML() {
     if (!maps.post2008) return "";
     return "<section class=\"section\" id=\"p2\">" +
-      "<div class=\"section__head\"><span class=\"plate\">Plate II \u00b7 2008\u2013present</span>" +
-      "<h2>The state as re-delimited in 2008</h2></div>" +
-      "<p>The " + news.length + " constituencies in force today, drawn from the Election Commission\u2019s published polygons. First fought at the " + (data.post_election_label || "first post-2008 election") + ". Each seat\u2019s panel lists the pre-2008 seats it was built from, the winner and electorate of that first election.</p>" +
+      "<div class=\"section__head\"><span class=\"plate\">Plate II \u00b7 " + POST_YEAR + "\u2013present</span>" +
+      "<h2>The state as re-delimited in " + POST_YEAR + "</h2></div>" +
+      "<p>The " + news.length + " constituencies in force today. First fought at the " + (data.post_election_label || "first post-" + POST_YEAR + " election") + ". Each seat\u2019s panel lists the pre-" + POST_YEAR + " seats it was built from, the winner and electorate of that first election.</p>" +
       "<div id=\"district-ledger\" style=\"border:1px solid rgba(41,36,27,0.45);background:#f8f4eb;padding:16px 20px 18px;box-sizing:border-box;margin-bottom:24px\"></div>" +
       "<div class=\"map-grid\">" +
       "<div class=\"sheet\">" +
       "<div class=\"sheet__title\">" +
       "<div class=\"t1\">" + esc((data.name || "").toUpperCase()) + "</div>" +
-      "<div class=\"t2\">Assembly constituencies \u00b7 Delimitation Order, 2008</div>" +
-      "<div class=\"t3\">" + news.length + " seats \u00b7 in force since 2008</div></div>" +
+      "<div class=\"t2\">Assembly constituencies \u00b7 Delimitation Order, " + POST_YEAR + "</div>" +
+      "<div class=\"t3\">" + news.length + " seats \u00b7 in force since " + POST_YEAR + "</div></div>" +
       "<div class=\"map-stage\" id=\"p2-stage\">" +
       "<div class=\"map-tip\"></div>" +
       "<div data-svg-slot=\"post2\" class=\"layer-base\"></div>" +
@@ -841,42 +904,62 @@
 
   function plate3HTML() {
     if (!maps.post2008) return "";
+
+    /* Party overlay chips — Assam gets per-party chips; others get flipped/held */
+    let chipRowHTML;
+    if (partyOverlay && partyOverlay.parties && partyOverlay.parties.length) {
+      const stdChips = ["none","flipped","held"].map((m,i) => {
+        const labels = ["Off", "Flipped " + PRE_ELEC + "\u2192" + POST_ELEC, "Held by same party"];
+        return "<button class=\"p3-flip-chip\" data-mode=\"" + m + "\" style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid rgba(41,36,27,0.45);background:rgba(255,255,255,0.5);color:#29241b;padding:3px 10px;border-radius:99px\">" + labels[i] + "</button>";
+      }).join("");
+      const partyChips = partyOverlay.parties.map(code => {
+        const p = partyOf(code);
+        const oldCount = (partyOverlay.old || {})[code] || 0;
+        const newCount = (partyOverlay.new || {})[code] || 0;
+        return "<button class=\"p3-flip-chip\" data-mode=\"" + esc(code) + "\" style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid rgba(41,36,27,0.45);background:rgba(255,255,255,0.5);color:#29241b;padding:3px 10px;border-radius:99px;display:inline-flex;align-items:center;gap:6px\">" +
+          "<span style=\"display:inline-block;width:9px;height:9px;border-radius:2px;background:" + (p ? p.c : "#888") + ";border:1px solid rgba(41,36,27,0.3)\"></span>" +
+          esc(code) + " <span style=\"font-family:var(--mono);font-size:10.5px;opacity:0.65\">" + oldCount + "\u2192" + newCount + "</span>" +
+          "</button>";
+      }).join("");
+      chipRowHTML = stdChips + partyChips;
+    } else {
+      chipRowHTML = ["none","flipped","held"].map((m,i) => {
+        const labels = ["Off", "Flipped " + PRE_ELEC + "\u2192" + POST_ELEC, "Held by same party"];
+        return "<button class=\"p3-flip-chip\" data-mode=\"" + m + "\" style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid rgba(41,36,27,0.45);background:rgba(255,255,255,0.5);color:#29241b;padding:3px 10px;border-radius:99px\">" + labels[i] + "</button>";
+      }).join("");
+    }
+
     return "<section class=\"section\" id=\"p3\">" +
       "<div class=\"section__head\"><span class=\"plate\">Plate III</span>" +
       "<h2>The two orders, side by side</h2>" +
       "<span class=\"aside\">One projection, both maps \u00b7 click a seat on either side to trace it on the other</span></div>" +
-      "<p>The maps of Plates I and II drawn to the same projection for direct comparison. Click any seat: on the 1976 side, the 2008 seats its territory went to light up opposite; on the 2008 side, the pre-2008 seats it was built from.</p>" +
-      /* Malapportionment band */
+      "<p>The maps of Plates I and II drawn to the same projection for direct comparison. Click any seat: on the " + PRE_YEAR + " side, the " + POST_YEAR + " seats its territory went to light up opposite; on the " + POST_YEAR + " side, the pre-" + POST_YEAR + " seats it was built from.</p>" +
       "<div id=\"mal-band\" style=\"border:1px solid rgba(41,36,27,0.45);background:#f8f4eb;padding:16px 20px 18px;box-sizing:border-box;margin-bottom:24px\"></div>" +
-      /* Party overlay chips */
       "<div style=\"display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:14px\">" +
       "<span style=\"font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:rgba(41,36,27,0.65);margin-right:4px\">Party overlay</span>" +
-      ["none","flipped","held"].map((m,i) => {
-        const labels = ["Off","Flipped 2007\u21922012","Held by same party"];
-        return "<button class=\"p3-flip-chip\" data-mode=\"" + m + "\" style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid rgba(41,36,27,0.45);background:rgba(255,255,255,0.5);color:#29241b;padding:3px 10px;border-radius:99px\">" + labels[i] + "</button>";
-      }).join("") +
+      chipRowHTML +
       "<span id=\"p3-flip-note\" style=\"display:none;align-items:center;gap:7px;font-family:var(--sans);font-size:12px;color:rgba(41,36,27,0.75);margin-left:10px;padding-left:12px;border-left:1px solid rgba(41,36,27,0.35)\">" +
       "<span class=\"p3-flip-swatch\" style=\"display:inline-block;width:10px;height:10px;border-radius:2px;border:1px solid rgba(41,36,27,0.45)\"></span>" +
       "<span class=\"p3-flip-text\"></span>" +
-      " \u2014 shown on both maps; grey seats have no traceable same-name or single-parent lineage</span>" +
+      "</span>" +
       "</div>" +
       "<div class=\"p3-grid\">" +
       "<div>" +
       "<div style=\"display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid rgba(41,36,27,0.35);padding-bottom:6px;margin-bottom:10px\">" +
-      "<h3 style=\"margin:0;font-size:21px;font-weight:600\">Before <em style=\"font-weight:400\">\u2014 1976 order</em></h3>" +
+      "<h3 style=\"margin:0;font-size:21px;font-weight:600\">Before <em style=\"font-weight:400\">\u2014 " + PRE_YEAR + " order</em></h3>" +
       "<span class=\"mono\" style=\"font-size:11px;color:var(--ink-60)\">" + olds.length + " seats</span></div>" +
       "<div class=\"map-stage\" id=\"p3-pre-stage\"><div class=\"map-tip\"></div>" +
       "<div data-svg-slot=\"pre3\" class=\"layer-base\"></div></div></div>" +
       "<div>" +
       "<div style=\"display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid rgba(41,36,27,0.35);padding-bottom:6px;margin-bottom:10px\">" +
-      "<h3 style=\"margin:0;font-size:21px;font-weight:600\">After <em style=\"font-weight:400\">\u2014 2008 order</em></h3>" +
+      "<h3 style=\"margin:0;font-size:21px;font-weight:600\">After <em style=\"font-weight:400\">\u2014 " + POST_YEAR + " order</em></h3>" +
       "<span class=\"mono\" style=\"font-size:11px;color:var(--ink-60)\">" + news.length + " seats</span></div>" +
       "<div class=\"map-stage\" id=\"p3-post-stage\"><div class=\"map-tip\"></div>" +
       "<div data-svg-slot=\"post3\" class=\"layer-base\"></div></div></div>" +
       "<aside id=\"p3-panel\" class=\"panel\" style=\"position:sticky;top:16px;max-height:calc(100vh - 32px);overflow-y:auto\" aria-live=\"polite\">" +
       "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60)\">Reading the comparison</div>" +
       "<p style=\"margin:14px 0 12px;font-size:14px;line-height:1.55\">Plates I and II drawn on one projection, at one scale. Click a constituency on either map: it is outlined and its counterpart territory on the opposite map fills <span style=\"background:#c4d8ec;border:1px solid #4a7ba6;padding:0 6px;border-radius:2px\">blue</span>.</p>" +
-      "<p style=\"margin:0;font-size:14px;line-height:1.55\">For an old seat, that is where its territory went in 2008; for a new seat, the pre-2008 seats it was built from.</p>" +
+      "<p style=\"margin:0;font-size:14px;line-height:1.55\">For an old seat, that is where its territory went in " + POST_YEAR + "; for a new seat, the pre-" + POST_YEAR + " seats it was built from.</p>" +
       "</aside></div>" +
       "</section>";
   }
@@ -904,6 +987,7 @@
               "<span style=\"display:flex;align-items:center;gap:3px\">" +
               "<span style=\"font-family:var(--mono);font-size:8.5px;opacity:0.55\">" + String(c.ac_no).padStart(2,"0") + "</span>" +
               (c.type === "SC" ? "<span style=\"font-family:var(--sans);font-size:8px;font-weight:700;background:#29241b;color:#f2ecdf;padding:0 3px;border-radius:2px;line-height:1.5\">SC</span>" : "") +
+              (c.type === "ST" ? "<span style=\"font-family:var(--sans);font-size:8px;font-weight:700;background:#4a6741;color:#f2ecdf;padding:0 3px;border-radius:2px;line-height:1.5\">ST</span>" : "") +
               "</span>" +
               "<span style=\"font-family:var(--sans);font-size:10.5px;font-weight:500;line-height:1.15\">" + esc(c.name) + "</span>" +
               "</button>";
@@ -912,17 +996,20 @@
         }).join("") + "</div>";
     }
 
-    /* chips — now include Flipped & Held */
+    const hasScOld = olds.some(c => c.type === "SC");
+    const hasStOld = olds.some(c => c.type === "ST");
     const chipDefs = [
-      { key:"all",       label:"All seats",            count:olds.length+"+"+news.length, sw:null },
-      { key:"continuing",label:"Name continued",       count: olds.filter(c=>c.status==="continuing").length*2, sw:T_COL.continuing },
-      { key:"renamed",   label:"Renamed",              count: (olds.filter(c=>c.status==="renamed").length)*2, sw:T_COL.renamed },
-      { key:"new",       label:"Created 2008",         count: news.filter(c=>c.status==="new").length, sw:T_COL["new"] },
-      { key:"abolished", label:"Abolished",            count: olds.filter(c=>c.status==="abolished").length, sw:T_COL.abolished },
-      { key:"flipped",   label:"Flipped \u21922008",   count: flipOldSet.size+"+"+flipNewSet.size, sw:{ bg:"oklch(0.9 0.07 30)", bc:"oklch(0.6 0.12 30)" } },
-      { key:"held",      label:"Held by same party",  count: heldOldSet.size+"+"+heldNewSet.size, sw:{ bg:"oklch(0.92 0.055 155)", bc:"oklch(0.55 0.09 155)" } },
-      { key:"sc",        label:"SC-reserved",          count: olds.filter(c=>c.type==="SC").length+"+"+news.filter(c=>c.type==="SC"||c.sc_note).length, sw:{ bg:"#29241b", bc:"#29241b" } },
+      { key:"all",       label:"All seats",           count: olds.length+"+"+news.length,                                                                   sw:null },
+      { key:"continuing",label:"Name continued",      count: olds.filter(c=>c.status==="continuing").length*2,                                               sw:T_COL.continuing },
+      { key:"renamed",   label:"Renamed",             count: olds.filter(c=>c.status==="renamed"||c.status==="replaces").length*2,                            sw:T_COL.renamed },
+      { key:"new",       label:"Created " + POST_YEAR, count: news.filter(c=>c.status==="new"||c.status==="carved").length,                                  sw:T_COL["new"] },
+      { key:"abolished", label:"Abolished",           count: olds.filter(c=>["abolished","merged","split","replaced"].includes(c.status)).length,             sw:T_COL.abolished },
+      { key:"flipped",   label:"Flipped \u2192" + POST_YEAR, count: flipOldSet.size+"+"+flipNewSet.size,                                                     sw:{ bg:"oklch(0.9 0.07 30)", bc:"oklch(0.6 0.12 30)" } },
+      { key:"held",      label:"Held by same party",  count: heldOldSet.size+"+"+heldNewSet.size,                                                            sw:{ bg:"oklch(0.92 0.055 155)", bc:"oklch(0.55 0.09 155)" } },
     ];
+    if (hasScOld) chipDefs.push({ key:"sc", label:"SC-reserved", count: olds.filter(c=>c.type==="SC").length+"+"+news.filter(c=>c.type==="SC"||c.sc_note).length, sw:{ bg:"#29241b", bc:"#29241b" } });
+    if (hasStOld) chipDefs.push({ key:"st", label:"ST-reserved", count: olds.filter(c=>c.type==="ST").length+"+"+news.filter(c=>c.type==="ST").length,           sw:{ bg:"#4a6741", bc:"#4a6741" } });
+
     const chipsHTML = chipDefs.map(c =>
       "<button class=\"chip\" data-filter=\"" + c.key + "\" aria-pressed=\"" + (c.key==="all"?"true":"false") + "\" style=\"display:inline-flex;align-items:center;gap:6px\">" +
       (c.sw ? "<span style=\"width:10px;height:10px;border-radius:2px;background:" + c.sw.bg + ";border:1px solid " + c.sw.bc + ";flex:none\"></span>" : "") +
@@ -935,14 +1022,14 @@
       "<div class=\"section__head\"><span class=\"plate\">Plate IV</span>" +
       "<h2>The same change, seat by seat</h2>" +
       "<span class=\"aside\">Schematic tiles, grouped by district in rough geographic position</span></div>" +
-      "<p>Every constituency before and after the 2008 order, one tile per seat. Click any seat for its delimited extent, results and where its territory went; click a district name for its pattern of change.</p>" +
+      "<p>Every constituency before and after the " + POST_YEAR + " order, one tile per seat. Click any seat for its delimited extent, results and where its territory went; click a district name for its pattern of change.</p>" +
       "<div style=\"display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:20px\">" +
       "<span style=\"font-family:var(--sans);font-size:12.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-60);margin-right:4px\">Highlight</span>" +
       chipsHTML + "</div>" +
       "<div class=\"p4-grid\">" +
-      "<div><div style=\"display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid rgba(41,36,27,0.35);padding-bottom:6px;margin-bottom:12px\"><h3 style=\"margin:0;font-size:21px;font-weight:600\">Before <em style=\"font-weight:400\">\u2014 1976 order</em></h3><span class=\"mono\" style=\"font-size:11px;color:var(--ink-60)\">" + olds.length + " seats</span></div>" +
+      "<div><div style=\"display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid rgba(41,36,27,0.35);padding-bottom:6px;margin-bottom:12px\"><h3 style=\"margin:0;font-size:21px;font-weight:600\">Before <em style=\"font-weight:400\">\u2014 " + PRE_YEAR + " order</em></h3><span class=\"mono\" style=\"font-size:11px;color:var(--ink-60)\">" + olds.length + " seats</span></div>" +
       makeGrid(distOld, byDistOld, "old") + "</div>" +
-      "<div><div style=\"display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid rgba(41,36,27,0.35);padding-bottom:6px;margin-bottom:12px\"><h3 style=\"margin:0;font-size:21px;font-weight:600\">After <em style=\"font-weight:400\">\u2014 2008 order</em></h3><span class=\"mono\" style=\"font-size:11px;color:var(--ink-60)\">" + news.length + " seats</span></div>" +
+      "<div><div style=\"display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid rgba(41,36,27,0.35);padding-bottom:6px;margin-bottom:12px\"><h3 style=\"margin:0;font-size:21px;font-weight:600\">After <em style=\"font-weight:400\">\u2014 " + POST_YEAR + " order</em></h3><span class=\"mono\" style=\"font-size:11px;color:var(--ink-60)\">" + news.length + " seats</span></div>" +
       makeGrid(distNew, byDistNew, "new") + "</div>" +
       "<aside id=\"p4-panel\" class=\"panel\" style=\"position:sticky;top:16px;max-height:calc(100vh - 32px);overflow-y:auto\" aria-live=\"polite\">" +
       renderStatsTable() +
