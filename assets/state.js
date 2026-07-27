@@ -999,16 +999,15 @@
     const hasScOld = olds.some(c => c.type === "SC");
     const hasStOld = olds.some(c => c.type === "ST");
     const chipDefs = [
-      { key:"all",       label:"All seats",           count: olds.length+"+"+news.length,                                                                   sw:null },
-      { key:"continuing",label:"Name continued",      count: olds.filter(c=>c.status==="continuing").length*2,                                               sw:T_COL.continuing },
-      { key:"renamed",   label:"Renamed",             count: olds.filter(c=>c.status==="renamed"||c.status==="replaces").length*2,                            sw:T_COL.renamed },
-      { key:"new",       label:"Created " + POST_YEAR, count: news.filter(c=>c.status==="new"||c.status==="carved").length,                                  sw:T_COL["new"] },
-      { key:"abolished", label:"Abolished",           count: olds.filter(c=>["abolished","merged","split","replaced"].includes(c.status)).length,             sw:T_COL.abolished },
-      { key:"flipped",   label:"Flipped \u2192" + POST_YEAR, count: flipOldSet.size+"+"+flipNewSet.size,                                                     sw:{ bg:"oklch(0.9 0.07 30)", bc:"oklch(0.6 0.12 30)" } },
-      { key:"held",      label:"Held by same party",  count: heldOldSet.size+"+"+heldNewSet.size,                                                            sw:{ bg:"oklch(0.92 0.055 155)", bc:"oklch(0.55 0.09 155)" } },
+      { key:"all",        label:"All seats",          count: olds.length+"+"+news.length, sw:null },
+      { key:"continuing", label:"Name continued",     count: olds.filter(c=>c.status==="continuing").length*2, sw:T_COL.continuing },
+      { key:"new",        label:"New in " + POST_YEAR, count: news.filter(c=>c.status==="new"||c.status==="renamed"||c.status==="carved").length, sw:T_COL["new"] },
+      { key:"abolished",  label:"No successor",       count: olds.filter(c=>c.status==="abolished").length, sw:T_COL.abolished },
+      { key:"flipped",    label:"Flipped \u2192" + POST_YEAR, count: flipOldSet.size+"+"+flipNewSet.size, sw:{ bg:"oklch(0.9 0.07 30)", bc:"oklch(0.6 0.12 30)" } },
+      { key:"held",       label:"Held by same party", count: heldOldSet.size+"+"+heldNewSet.size, sw:{ bg:"oklch(0.92 0.055 155)", bc:"oklch(0.55 0.09 155)" } },
     ];
     if (hasScOld) chipDefs.push({ key:"sc", label:"SC-reserved", count: olds.filter(c=>c.type==="SC").length+"+"+news.filter(c=>c.type==="SC"||c.sc_note).length, sw:{ bg:"#29241b", bc:"#29241b" } });
-    if (hasStOld) chipDefs.push({ key:"st", label:"ST-reserved", count: olds.filter(c=>c.type==="ST").length+"+"+news.filter(c=>c.type==="ST").length,           sw:{ bg:"#4a6741", bc:"#4a6741" } });
+    if (hasStOld) chipDefs.push({ key:"st", label:"ST-reserved", count: olds.filter(c=>c.type==="ST").length+"+"+news.filter(c=>c.type==="ST").length, sw:{ bg:"#4a6741", bc:"#4a6741" } });
 
     const chipsHTML = chipDefs.map(c =>
       "<button class=\"chip\" data-filter=\"" + c.key + "\" aria-pressed=\"" + (c.key==="all"?"true":"false") + "\" style=\"display:inline-flex;align-items:center;gap:6px\">" +
