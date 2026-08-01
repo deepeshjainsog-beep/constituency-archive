@@ -91,7 +91,7 @@
   }
 
   const base = "states/" + entry.slug + "/";
-  let data;
+  let data = null;
   try { data = await (await fetch(base + "data.json")).json(); }
   catch (e) { root.innerHTML = errHTML("The data module for " + entry.name + " could not be loaded."); return; }
 
