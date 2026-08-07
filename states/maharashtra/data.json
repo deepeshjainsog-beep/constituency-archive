@@ -1615,6 +1615,7 @@
       "type": "ST",
       "status": "abolished",
       "dest": [
+        4,
         5
       ],
       "note": "Retained with revised municipal wards. The old municipal wards were replaced by the revised Nagpur Municipal Corporation ward structure, while the constituency continued to cover the eastern part of Nagpur city.",
@@ -1630,9 +1631,9 @@
       "type": "ST",
       "status": "abolished",
       "dest": [
-        1,
         2,
-        3
+        3,
+        4
       ],
       "note": "Retained. Continues to cover Nandurbar Tehsil, with boundaries revised after the creation of Nandurbar district.",
       "extent": "Nandurb ar tahsil. 7. Dhule City . Dhule Tehsil (Part) – Dhule (M.Corp.).",
@@ -1647,7 +1648,7 @@
       "type": "ST",
       "status": "abolished",
       "dest": [
-        4
+        1
       ],
       "note": "Abolished. The former Taloda and Akkalkuwa Tahsils were redistributed, mainly into Akkalkuwa (ST) and Shahada.",
       "extent": "Taloda and Akkalkuwa tahsils",
@@ -1692,8 +1693,7 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        9,
-        231
+        9
       ],
       "note": "Retained. Continues to comprise Shirpur Tehsil, but became a Scheduled Tribe reserved constituency after delimitation.",
       "extent": "Shirpur tahsil.",
@@ -2023,7 +2023,7 @@
       "status": "continuing",
       "dest": [
         26,
-        66
+        27
       ],
       "note": "Retained with expanded boundaries. Continued to include Khamgaon Tehsil and gained Jalamb, Pahurjira and Matargaon Revenue Circles from Shegaon Tehsil.",
       "extent": "Khamgaon tahsil (excluding Jalamb RIC).",
@@ -2039,7 +2039,7 @@
       "status": "renamed",
       "dest": [
         26,
-        66
+        27
       ],
       "note": "",
       "extent": "Jalamb RIC in Khamgaon tahsil; and Jalgaon tahsil.",
@@ -2402,7 +2402,8 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        51
+        51,
+        58
       ],
       "note": "Retained with revised boundaries. Continued to include Umred Tehsil, while Kuhi Revenue Circle was separated to form the new Kuhi Tehsil within Umred (SC). Bhiwapur Tehsil was added, and the constituency became Scheduled Caste (SC) reserved.",
       "extent": "Umrer tahsil [excluding Kuhi RIC and villages in Umrer RIC specified in item (10) of the Appendix].",
@@ -2418,7 +2419,8 @@
       "status": "abolished",
       "dest": [
         51,
-        56
+        56,
+        58
       ],
       "note": "Reorganised. Kamthi town, Kamthi Cantonment and Kamthi Tehsil remained in Kamthi, while Kuhi Revenue Circle and specified villages of Umred were transferred to Umred (SC). Mouda Tehsil (part) was added to Kamthi.",
       "extent": "Kuhi RIC and villages in Umrer RIC specified in item (10) of the Appendix, in Umrer tahsil; and Kamptee municipality, Kamptee Cantonment, Kamptee and Pardi RICs in Nagpur tahsil.",
@@ -2496,8 +2498,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        56,
-        58
+        56
       ],
       "note": "",
       "extent": "ds 4-Jail, 61-Gorewada, 62-Borgaon, 65-Sadar, 66-Civil Lines, 67-Telangkhedi, 68-Gokulpeth 69-Dharampeth, 70-Ramdaspeth, 71-Shivaji Nagar, 72-Ambazari, 73-Shradhanandpeth, 74-Khamla and 75-Sonegaon in Nagpur Corporation and Nagpur RIC in Nagpur tahsil.",
@@ -2658,7 +2659,8 @@
         62,
         63,
         64,
-        65
+        65,
+        66
       ],
       "note": "",
       "extent": "Goregaon RIC in Gondia tahsil ; and Sadak Arjuni (Saundad) RIC [excluding villages specified in items (14) and (15) of the Appendix] in Sakoli tahsil.",
@@ -2675,7 +2677,8 @@
       "dest": [
         62,
         63,
-        65
+        65,
+        66
       ],
       "note": "Retained with revised boundaries. Earlier covered Amgaon Revenue Circle and Deori Revenue Circle. Reorganised to include the newly constituted Amgaon and Deori Tehsils.",
       "extent": "Amgaon RIC in Gondia tahsil; and Deori RIC in Sakoli tahsil.",
@@ -3002,6 +3005,7 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
+        83,
         84
       ],
       "note": "Reorganised. Earlier comprised the entire Hadgaon Tahsil. Expanded to include the newly created Himayatnagar Tehsil, while retaining Hadgaon Tehsil.",
@@ -3996,8 +4000,6 @@
       "status": "abolished",
       "dest": [
         26,
-        27,
-        66,
         222,
         223
       ],
@@ -4015,8 +4017,6 @@
       "status": "abolished",
       "dest": [
         26,
-        27,
-        66,
         221,
         222
       ],
@@ -4113,6 +4113,7 @@
       "status": "continuing",
       "dest": [
         127,
+        216,
         217,
         218
       ],
@@ -4130,6 +4131,7 @@
       "status": "renamed",
       "dest": [
         127,
+        216,
         217
       ],
       "note": "",
@@ -4293,8 +4295,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        215,
-        216
+        215
       ],
       "note": "Reorganised. Earlier comprised PMC Wards 23–40 and 46. After delimitation it comprises PMC Wards 41, 76, 78, 81–82, 91–94, 103, 105–118 and 120–124.",
       "extent": "Wards 23-Sadashiv Peth Hand, 24-Shivaji Mandir, 27-Wadia Hospital, 28-Mahatma Phule Market, 29-Nutan Marathi Vidyalaya, 30-Post Ward, 31-Kasba Ganapati, 32-Jijamata Udyan, 33-Kasba Peth, 35-Satatoti, 36-Vajradehi, 37-Someshwar Mandir, 38-Dr. Kotnis Hospital, 39-Municipal Technical School, 40- Subhash Nagar and 46-Puncha Houd in Poona Municipal Corporation.",
@@ -4309,8 +4310,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        215,
-        216
+        215
       ],
       "note": "Abolished. Earlier comprised PMC Wards 34, 49–66. These wards were redistributed mainly among Pune Cantonment (SC), Hadapsar and Kasba Peth.",
       "extent": "Wards 34-Mangalwar Peth Bhimnagar, 49- Burud Bridge, 50-Ganeshpeth Market, 51-Samarth Vyayam Mandir, 52-Ramala Nehru Hospital, 53-Shri Shahu Udyan, 54-Ambedkar Udyan, 55-Sangam, 56-Deccan College, 57-Yervada New Khadaki, 61-Mahatma Gandhi Udyan, 62-General Post Office, 63-Power House, 64-",
@@ -4932,8 +4932,8 @@
       "type": "ST",
       "status": "new",
       "src": [
-        84,
-        82
+        83,
+        84
       ],
       "note": "",
       "extent": "Tehsil and 2. Akrani Tehsil",
@@ -4979,7 +4979,8 @@
       "type": "ST",
       "status": "new",
       "src": [
-        83
+        81,
+        82
       ],
       "note": "",
       "extent": "1. Nawapur Tehsil and 2. Nandurbar Tehsil (Part), Revenue CircleDhanora and Ashte.",
@@ -5343,8 +5344,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        231,
-        232
+        107,
+        108
       ],
       "note": "",
       "extent": ") 1. Sangrampur Tehsil, 2. Jalgaon (Jamod) Tehsil, 3. Shegaon Tehsil (Part), Revenue Circle – Manasgaon, Shegaon and Shegaon (MC).",
@@ -5834,7 +5835,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        137
+        132,
+        131
       ],
       "note": "",
       "extent": "1. Kamthi Tehsil, 2. Mouda Tehsil (Part), Revenue Circle Khat and Mouda and 3. Nagpur (Rural) Tehsil (Part), Revenue Circle Nagpur. . 59. Ramtek 1. Parseoni Tehsil, 2. Ramtek Tehsil and 3. Mouda Tehsil (Part), Revenue Circle Nimkheda.",
@@ -5967,10 +5969,8 @@
       "type": "ST",
       "status": "new",
       "src": [
-        107,
-        108,
-        231,
-        232
+        148,
+        147
       ],
       "note": "",
       "extent": "1. Deori Tehsil, 2. Salekasa Tehsil 3. Amgaon Tehsil.",
@@ -6238,7 +6238,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        168
+        168,
+        169
       ],
       "note": "",
       "extent": "1. Mahur Tehsil 2. Kinwat Tehsil",
@@ -8344,8 +8345,8 @@
       "type": "ST",
       "status": "new",
       "src": [
-        250,
-        249
+        238,
+        239
       ],
       "note": "",
       "extent": "1. Akole Tehsil, 2. Sangamner Tehsil (Part) Revenue Circle Ghargaon",
@@ -8587,7 +8588,6 @@
       "status": "new",
       "src": [
         199,
-        86,
         198
       ],
       "note": "",
