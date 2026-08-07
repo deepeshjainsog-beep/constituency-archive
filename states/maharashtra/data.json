@@ -326,8 +326,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        45,
-        193,
         268,
         269,
         270
@@ -345,8 +343,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        45,
-        193,
         268,
         269,
         270
@@ -443,7 +439,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        23,
         264,
         265,
         266,
@@ -462,7 +457,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        23,
         264,
         265
       ],
@@ -526,11 +520,9 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        64,
         81,
         192,
-        193,
-        194
+        193
       ],
       "note": "Retained with revised boundaries. Earlier included Shrivardhan, Mhasala and Murud Tahsils together with Goregaon RIC. After 2008 it continued as Shrivardhan, with boundaries reorganised using Shrivardhan, Mhasala and parts of Mangaon Tehsil system.",
       "extent": "Shriwardhan; Mhasala; and Murud tahsils; and Goregaon RIC in Mangaon tahsil.",
@@ -545,7 +537,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        64,
         81,
         191,
         192,
@@ -566,8 +557,7 @@
       "status": "continuing",
       "dest": [
         191,
-        192,
-        193
+        192
       ],
       "note": "Retained with revised boundaries. Earlier included Nagothana RIC of Roha Tahsil together with Pen and Sudhagad Tahsils. After delimitation it was reorganised using Pen and parts of Sudhagad and Roha Tehsils (Revenue Circles).",
       "extent": "Nagothana RIC in Roha tahsil; and Pen and Sudhagad tahsils.",
@@ -598,6 +588,7 @@
       "status": "abolished",
       "dest": [
         188,
+        189,
         190
       ],
       "note": "Retained with major urban expansion. Earlier consisted of Panvel Tahsil together with Uran Tahsil (excluding Uran Municipality and Uran RIC). After delimitation it became an urban-centric constituency confined largely to Panvel Taluka, while Uran was separated.",
@@ -1208,7 +1199,6 @@
       "status": "abolished",
       "dest": [
         138,
-        139,
         140,
         142,
         143,
@@ -1246,8 +1236,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        129,
-        134,
         135,
         136,
         137,
@@ -1271,9 +1259,7 @@
       "type": "ST",
       "status": "abolished",
       "dest": [
-        75,
-        252,
-        257
+        129
       ],
       "note": "Abolished. Vikramgad, Jawhar and Mokhada areas formed Vikramgad part of Bhiwandi Rural (ST); Mandva Revenue Circle was transferred to Shahapur (ST).",
       "extent": "Vikramgad RIC in Jawhar tahsil; Wada tahsil (excluding MandyaRIC); Bhiwandi tahsil (excluding Bhiwandi municipality, Bhiwandi RIC and Kharbao RIC); and MandviRIC in Bassein tahsil.",
@@ -1341,6 +1327,7 @@
       "status": "abolished",
       "dest": [
         128,
+        129,
         130,
         131
       ],
@@ -1374,8 +1361,6 @@
       "type": "ST",
       "status": "continuing",
       "dest": [
-        129,
-        134,
         135
       ],
       "note": "Retained with revised boundaries. Continued to cover Shahapur Tehsil, while Mandva Revenue Circle from the former Wada (ST) constituency was added and Vashind area was redistributed.",
@@ -1488,8 +1473,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        33,
-        76,
         113,
         115
       ],
@@ -1521,8 +1504,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        33,
-        76,
         113,
         114,
         115
@@ -1540,8 +1521,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        33,
-        76,
         113,
         115,
         118
@@ -1640,8 +1619,7 @@
       "type": "ST",
       "status": "abolished",
       "dest": [
-        5,
-        8
+        5
       ],
       "note": "Retained with revised municipal wards. The old municipal wards were replaced by the revised Nagpur Municipal Corporation ward structure, while the constituency continued to cover the eastern part of Nagpur city.",
       "extent": "Nawapur tahsil; and Dahiwel RIC in Sakri tahsil",
@@ -1688,7 +1666,6 @@
       "type": "ST",
       "status": "abolished",
       "dest": [
-        80,
         103
       ],
       "note": "Abolished. The former Akrani Tahsil and Aslod, Prakasha and Mhaswada RICs of Shahada were merged primarily into Akkalkuwa (ST), with parts included in Shahada (ST).",
@@ -1704,8 +1681,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        8,
-        24
+        2
       ],
       "note": "Reorganised. Retained as Shahada (ST). The constituency now covers Shahada Tehsil after separation of areas that became part of Akkalkuwa (ST).",
       "extent": "Shahada municipality and Shahada, Vadali and SarangkhedaRICs in Shahada tahsil; Dondaicha municipality and Dondaicha and Virdel RICs in Sindkheda tahsil.",
@@ -1721,7 +1697,6 @@
       "status": "continuing",
       "dest": [
         9,
-        196,
         231
       ],
       "note": "Retained. Continues to comprise Shirpur Tehsil, but became a Scheduled Tribe reserved constituency after delimitation.",
@@ -1737,8 +1712,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        8,
-        24
+        8
       ],
       "note": "Retained. Continues to include Sindkheda Tehsil. Earlier Songir RIC linkage with Dhulia Tahsil was removed, while Dusane Circle from Sakri was added.",
       "extent": "Sindkheda tahsil (excluding Dondaicha municipality and Dondaicha and Virdel RICs); and Songir RIC in, Dhulia tahsil.",
@@ -1845,10 +1819,8 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        13,
         14,
-        16,
-        228
+        16
       ],
       "note": "Retained with revised boundaries. Continued to include Erandol Tehsil and incorporated Parola town, Parola Municipal Council, Chorwad, Tamaswadi and Amdade Revenue Circle from neighbouring constituencies.",
       "extent": "Erandol tahsil 14. Jalgaon Rural 1. Jalgaon Tehsil (Part) Revenue Circle Kanalde, Asoda, Jalgaon, Nashirabad and Mhasawad 2. Dharangaon Tehsil.",
@@ -1863,6 +1835,8 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
+        13,
+        14,
         110
       ],
       "note": "Split. Jalgaon Municipal Corporation became Jalgaon City, while Kanalde, Asoda, Nashirabad, Mhasawad Revenue Circles and Dharangaon Tehsil formed Jalgaon Rural.",
@@ -1909,10 +1883,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        12,
-        13,
-        14,
-        228
+        12
       ],
       "note": "Reorganised. Bhusawal Tehsil became Bhusawal (SC), while rural areas outside Bhusawal town, together with parts of the former Edlabad constituency, became part of Muktainagar. The constituency also became SC reserved.",
       "extent": "Bhusawal municipality and Bhusawal RIC in Bhusawal tahsil; and Jalgaon RIC (Rural) in Jalgaon tahsil.",
@@ -2024,7 +1995,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        23,
         24,
         25
       ],
@@ -2072,11 +2042,8 @@
       "type": "GEN",
       "status": "renamed",
       "dest": [
-        13,
-        14,
         26,
-        66,
-        228
+        66
       ],
       "note": "",
       "extent": "Jalamb RIC in Khamgaon tahsil; and Jalgaon tahsil.",
@@ -2092,8 +2059,6 @@
       "status": "continuing",
       "dest": [
         28,
-        29,
-        32,
         237
       ],
       "note": "Reorganised. Continued to include Akot town and Umara, Panaj and Akot Revenue Circles. Telhara Tehsil was added to the new Akot constituency, while Kutasa and Chohatta Revenue Circles were transferred to Akola East. Jaulka and Panchgavan Revenue Circles, excluded earlier, remained outside Akot.",
@@ -2110,7 +2075,6 @@
       "status": "abolished",
       "dest": [
         28,
-        29,
         32,
         237
       ],
@@ -2160,6 +2124,7 @@
       "type": "GEN",
       "status": "renamed",
       "dest": [
+        33,
         34,
         243
       ],
@@ -2176,6 +2141,7 @@
       "type": "SC",
       "status": "abolished",
       "dest": [
+        33,
         34,
         243
       ],
@@ -2223,7 +2189,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        32,
         35
       ],
       "note": "Retained with revised boundaries. Continued to cover the rural areas of the former Murtijapur Tehsil excluding Murtijapur town, with boundaries subsequently aligned to the reorganised Karanja Tehsil under the 2008 delimitation.",
@@ -2254,7 +2219,6 @@
       "type": "ST",
       "status": "continuing",
       "dest": [
-        40,
         41,
         42
       ],
@@ -2289,8 +2253,7 @@
       "status": "abolished",
       "dest": [
         39,
-        43,
-        68
+        43
       ],
       "note": "Reorganised. Continued to include Warud, Morshi, Ambada, Hiwarkhed and Rithpur areas. Ner Pinglai and Dhamangaon Revenue Circles were transferred to Teosa.",
       "extent": "Shendurjana municipality, Pusla RIC, Warud municipality, Jarud RIC, Morshi municipality and villages in Morsh, RIC specified in item (7) of the Appendix, in Morshi tahsil.",
@@ -2307,8 +2270,7 @@
       "dest": [
         18,
         39,
-        43,
-        68
+        43
       ],
       "note": "Expanded. The former constituency based on Morshi and Chandur areas was reorganised to comprise Teosa Tehsil, Ner Pinglai, Dhamangaon, Shirala, Mahuli Jahangir, Nandgaon Peth, Walgaon, Ashti and Kholapur Revenue Circles.",
       "extent": "Morshi RIC [excluding villages specified in item (7) of the Appendix] and Rithpur RIC in Morshi tahsil; and Teosa RIC and Kurha RIC [excluding villages specified in item (8) of the Appendix] in Chandur tahsil.",
@@ -2323,8 +2285,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        39,
-        40
+        39
       ],
       "note": "Abolished. Ashti, Kholapur and Mahuli Revenue Circles became part of Teosa, while areas around Badnera and Amravati were reorganised into Badnera.",
       "extent": "Ashti, Kholapur and Mahuli RICs in Amravati tahsil; and Khallar RIC in Daryapur tahsil.",
@@ -2387,8 +2348,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        193,
-        218,
         223
       ],
       "note": "Retained with revised boundaries. The former constituency comprising Arvi Municipal Council, Arvi and Ashti Revenue Circles, Karanja Revenue Circle, Kharangana Revenue Circle and specified villages of Rohana Revenue Circle was reorganised to include the entire Arvi, Ashti and Karanja Tehsils.",
@@ -2406,9 +2365,7 @@
       "dest": [
         44,
         45,
-        47,
-        134,
-        193
+        47
       ],
       "note": "Abolished. The former constituency comprising Pulgaon Municipal Council, Pulgaon Camp, Pulgaon, Deoli and Wardha Revenue Circles and the remaining Rohana Revenue Circle was reorganised into Deoli, which now includes Deoli Tehsil, Anji, Sevagram, Waigaon and Waifad Revenue Circles of Wardha Tehsil, and Kangaon and Alipur Revenue Circles from Hinganghat Tehsil.",
       "extent": "Rohana RIC [excluding villages specified in item (9) of the Appendix] in Arvi tahsil; and Pulgaon Municipal Council, Pulgaon Camp, Pulgaon RIC, Deoli Municipal Council, Deoli and Wardha RICs in Wardha tahsil.",
@@ -2692,6 +2649,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
+        63,
         64,
         65
       ],
@@ -2709,6 +2667,7 @@
       "status": "abolished",
       "dest": [
         62,
+        63,
         64,
         65
       ],
@@ -2726,7 +2685,7 @@
       "status": "abolished",
       "dest": [
         62,
-        64,
+        63,
         65
       ],
       "note": "Retained with revised boundaries. Earlier covered Amgaon Revenue Circle and Deori Revenue Circle. Reorganised to include the newly constituted Amgaon and Deori Tehsils.",
@@ -2900,9 +2859,7 @@
       "type": "GEN",
       "status": "renamed",
       "dest": [
-        75,
-        252,
-        257
+        75
       ],
       "note": "Abolished. Earlier comprised Warora Municipality, Warora, Bhadrawati, Shegaon Revenue Circles and specified villages of Chimur. The area was merged into the expanded Warora constituency comprising Warora and Bhadravati Tehsils.",
       "extent": "Villages in Chimur RIC specified in item (19) of the Appendix, Shegaon RIC (including forest villages)5 Warora municipality and Warora RIC and Bhadrawati RIC (including forest villages) in Warora tahsil.",
@@ -2932,8 +2889,6 @@
       "type": "ST",
       "status": "abolished",
       "dest": [
-        40,
-        76,
         77,
         80
       ],
@@ -2981,6 +2936,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
+        76,
         79
       ],
       "note": "",
@@ -3237,8 +3193,7 @@
       "status": "continuing",
       "dest": [
         93,
-        94,
-        258
+        94
       ],
       "note": "Retained. Earlier comprised Kalamnuri Tahsil and most of Aundha Revenue Circle. Continued with revised boundaries following the creation of Aundha-Nagnath Tehsil in Hingoli district.",
       "extent": "Kalamnuri tahsil ; and Aundha RIC [excluding villages specified in item (24) of the Appendix], in Hingoli tahsil.",
@@ -3253,11 +3208,8 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        64,
         93,
-        94,
-        97,
-        258
+        94
       ],
       "note": "",
       "extent": "Hingoli municipality and Hingoli RIC, Narsi RIC, Goregaon RIC and villages in Aundha RIC specified in item (24) of the Appendix, in Hingoli tahsil.",
@@ -3287,8 +3239,7 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        95,
-        97
+        95
       ],
       "note": "Abolished. Earlier comprised Sonpeth Municipality, Sonpeth Revenue Circle, Manwath Municipality, Manwath Revenue Circle, Singnapur Revenue Circle and Pingli Revenue Circle. Sonpeth and Manwath became part of Pathri, Singnapur, Pedgaon and Daithana areas were merged into Pathri, Pingli shifted to Parbhani, while parts around Palam–Sonpeth were included in Gangakhed.",
       "extent": "Pathri municipality, Pathri RIC, Sailu municipality, Sailu RIC and villages in Manwath RIC specified in item (22) of the Appendix, in Pathri tahsil.",
@@ -3303,7 +3254,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        29,
         99
       ],
       "note": "Reorganised (shifted district). Earlier comprised the entire Partur Tahsil. Expanded to include Partur Tehsil, Mantha Tehsil, and Ner Revenue Circle of Jalna Tehsil, and now falls in Jalna district.",
@@ -3358,9 +3308,7 @@
         100,
         101,
         103,
-        139,
-        233,
-        245
+        233
       ],
       "note": "Reorganised. Earlier covered Ner, Peer Kalyan and Badnapur RICs of Jalna Tahsil and Tembhurni RIC of Jafrabad Tahsil. Expanded to include the newly created Badnapur Tehsil, parts of Bhokardan Tehsil Revenue Circles) and parts of Ambad Tehsil. Reserved for Scheduled Castes.",
       "extent": "Ner, Peer Kalyan and Badnapur RICs in Jalna tahsil; and Tembhurni RIC in Jafrabad tahsil.",
@@ -3391,7 +3339,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        94,
         104,
         105
       ],
@@ -3539,6 +3486,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
+        228,
         230,
         231
       ],
@@ -3571,7 +3519,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        228,
         232
       ],
       "note": "",
@@ -3761,7 +3708,6 @@
       "type": "GEN",
       "status": "renamed",
       "dest": [
-        24,
         240
       ],
       "note": "Renamed as Umarga (SC). Earlier included Omerga and Murum Municipal Councils, Omerga and Murum RICs, and villages of Lohara RIC. Reorganised into Umarga (SC) comprising the newly formed Umarga and Lohara Tehsils, and became Scheduled Caste reserved.",
@@ -3869,7 +3815,8 @@
       "type": "SC",
       "status": "renamed",
       "dest": [
-        248
+        248,
+        252
       ],
       "note": "Abolished. Earlier comprised the entire Mangalwedha Tahsil along with Savaleshwar and Wagholi Revenue Circles of Mohol Tahsil. Savaleshwar and Wagholi became part of Mohol was divided mainly between Pandharpur and Sangole under the new delimitation.",
       "extent": "'—Mangalwedha tahsil; and Savajeshwar and Wagholi RICs in Mohol tahsil,",
@@ -3900,9 +3847,7 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        194,
         244,
-        245,
         246
       ],
       "note": "Retained with boundary changes. Earlier comprised Barshi Tahsil excluding Upale Dumale and Vairag Revenue Circles. After delimitation it consists of the entire Barshi Tehsil, while Upale Dumale and Vairag ceased to be separate exclusions and Mohol was compensated through additions from Solapur North and Pandharpur.",
@@ -3918,7 +3863,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        194,
         244,
         245
       ],
@@ -3970,7 +3914,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        245,
         254
       ],
       "note": "",
@@ -3986,7 +3929,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        189,
         227,
         244
       ],
@@ -4003,7 +3945,6 @@
       "type": "SC",
       "status": "abolished",
       "dest": [
-        189,
         227
       ],
       "note": "Abolished. Earlier comprised Jamkhed Tahsil and Karjat Tahsil (excluding Mirajgaon RIC). After delimitation it became Karjat Jamkhed, covering the entire Karjat and Jamkhed Tehsils, while Mirajgaon area remained with Shrigonda.",
@@ -4019,7 +3960,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        189,
         226,
         227
       ],
@@ -4200,11 +4140,8 @@
       "type": "ST",
       "status": "renamed",
       "dest": [
-        29,
-        32,
         127,
-        217,
-        218
+        217
       ],
       "note": "",
       "extent": "Akola tahsil ; and Ghargaon RIC in Sangamner tahsil",
@@ -4219,7 +4156,8 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        195
+        195,
+        196
       ],
       "note": "Retained. Earlier comprised Junnar Tahsil excluding villages of Narayangaon RIC. After delimitation it comprises the entire Junnar Tehsil, with the excluded Narayangaon RIC villages transferred to Ambegaon.",
       "extent": "Junnar tahsil [excluding villages in Narayangaon RIC specified in item (32) of the Appendix].",
@@ -4267,13 +4205,7 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        9,
-        202,
-        204,
-        205,
-        206,
-        207,
-        208
+        204
       ],
       "note": "Reorganised. Earlier comprised Maval Tahsil and Dehu Road Cantonment in Haveli Tahsil. After delimitation it retains Maval Tehsil, while Dehu Road Cantonment and Chinchwad (Dehu Saza) form part of the new Chinchwad constituency.",
       "extent": "Maval tahsil ; and Dehu Road Cantonment in Haveli tahsil.",
@@ -4288,14 +4220,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        9,
-        202,
         203,
-        204,
-        205,
-        206,
-        207,
-        208,
         210,
         211
       ],
@@ -4312,13 +4237,10 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        9,
-        202,
         204,
         205,
         206,
-        207,
-        208
+        207
       ],
       "note": "Abolished. Earlier comprised Pimpri-Chinchwad Municipal Council, Chinchwad (Urban), Chinchwad RIC Lohagaon (Urban) and Wagholi RIC. These areas were redistributed mainly among Chinchwad, Pimpri (SC), Bhosari and Vadgaon Sheri.",
       "extent": "Pimpri Chinchwad Municipal Council, Chinchwad (Urban), Chinchwad RIC (excluding Dehu Road Cantonment), Lohagaon (Urban) and Wagholi RIC, in Haveli tahsil.",
@@ -4333,6 +4255,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
+        207,
         209
       ],
       "note": "",
@@ -4348,6 +4271,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
+        208,
         209,
         210,
         212
@@ -4412,12 +4336,7 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        9,
         202,
-        204,
-        205,
-        206,
-        207,
         208,
         213,
         214
@@ -4480,14 +4399,7 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        9,
-        201,
-        202,
-        204,
-        205,
-        206,
-        207,
-        208
+        201
       ],
       "note": "Reorganised. Earlier comprised Baramati Tahsil excluding Supe RIC. After delimitation it comprises the entire Baramati Tehsil, including Supe Revenue Circle.",
       "extent": "Baramati tahsil (excluding Supe RIC).",
@@ -4502,13 +4414,7 @@
       "type": "GEN",
       "status": "renamed",
       "dest": [
-        9,
         202,
-        204,
-        205,
-        206,
-        207,
-        208,
         213
       ],
       "note": "Reorganised. Earlier comprised Purandhar Tahsil and Uralikanchan RIC of Haveli Tahsil. After delimitation it retains Purandar Tehsil and additionally includes Hadapsar Revenue Circle (excluding PMC areas) and Pisoli, Undri, Ambegaon BK and Ambegaon KD villages.",
@@ -4524,14 +4430,8 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        9,
         202,
-        203,
-        204,
-        205,
-        206,
-        207,
-        208
+        203
       ],
       "note": "Retained with revised boundaries. Earlier included Beed Municipality, Beed and Rajuri RICs, and Padali RIC of Patoda Tahsil. Reconstituted to include Beed Municipal Council, Manjarsumba, Chausala, Nalwandi, Rajuri Navgan and Beed Revenue Circles, and Raimoha Revenue Circle of Shirur Tehsil.",
       "extent": "Bhor tahsil Velhe tahsil; and village 57-Antroli in Khed-Shivapur RIC in Haveli tahsil.",
@@ -4595,8 +4495,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        63,
-        64,
         255,
         257,
         259
@@ -4630,8 +4528,6 @@
       "status": "abolished",
       "dest": [
         256,
-        257,
-        259,
         262
       ],
       "note": "",
@@ -4647,8 +4543,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        257,
-        259,
         262
       ],
       "note": "Reorganised. Earlier comprised Satara Municipal Council and parts of Satara Tahsil. After delimitation it comprises Jaoli Tehsil and Varye, Dahivad, Parali, Ambavade Kh, Shendre, Satara Revenue Circles and Satara Municipal Council of Satara Tehsil.",
@@ -4696,7 +4590,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        259,
         260,
         261
       ],
@@ -4713,7 +4606,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        283,
         284
       ],
       "note": "Retained ; Yelur RC retained in Shirala, remaining Walva areas shifted to Islampur.",
@@ -4745,7 +4637,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        189,
         190,
         286
       ],
@@ -4764,7 +4655,6 @@
       "dest": [
         281,
         282,
-        283,
         285
       ],
       "note": "Retained ; reorganised with revised Sangli-Miraj-Kupwad Municipal Corporation wards, the municipal area redistributed between Sangli and Miraj (SC).",
@@ -4814,7 +4704,6 @@
       "type": "GEN",
       "status": "renamed",
       "dest": [
-        189,
         190,
         286
       ],
@@ -4833,7 +4722,6 @@
       "dest": [
         281,
         282,
-        283,
         287
       ],
       "note": "Merged with most of Tasgaon to form Tasgaon-Kavathe Mahankal.",
@@ -5072,7 +4960,8 @@
       "type": "ST",
       "status": "new",
       "src": [
-        82
+        82,
+        85
       ],
       "note": "",
       "extent": "1. Taloda Tehsil, 2. Shahada Tehsil (Part) Revenue Circle - Mhasavad, Brahmanpuri, Asalod, Shahada and Shahada (MC).",
@@ -5164,10 +5053,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        80,
-        81,
-        85,
-        87
+        87,
+        80
       ],
       "note": "",
       "extent": "Sindkheda Tehsil, 2. Sakri Tehsil (Part), Revenue CircleDusane.",
@@ -5182,14 +5069,7 @@
       "type": "ST",
       "status": "new",
       "src": [
-        86,
-        243,
-        244,
-        245,
-        251,
-        255,
-        256,
-        257
+        86
       ],
       "note": "",
       "extent": "Shirpur Tehsil.",
@@ -5252,9 +5132,7 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        94,
-        98,
-        108
+        95
       ],
       "note": "",
       "extent": "1. Jalgaon Tehsil (Part) - Jalgaon (M.Corp.)",
@@ -5269,9 +5147,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        94,
-        98,
-        108
+        95,
+        94
       ],
       "note": "",
       "extent": "1. Jalgaon Tehsil (Part) Revenue Circle Kanalde, Asoda, Jalgaon, Nashirabad and Mhasawad 2. Dharangaon Tehsil.",
@@ -5413,11 +5290,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        8,
-        9,
-        103,
         104,
-        105
+        103
       ],
       "note": "",
       "extent": "1. Chikhli Tehsil (Part), Revenue Circle - Undri, Amdapur, Eklara, Hatni, Kolara, Chikhli and Chikhli (MC), 2. Buldhana Tehsil (Part), Revenue Circle - Raipur, Dhad and Mhasla Bk.",
@@ -5432,12 +5306,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        85,
-        87,
-        103,
-        104,
         105,
-        212
+        103,
+        104
       ],
       "note": "",
       "extent": "1. Deolgaon Raja Tehsil, 2. Sindkhed Raja Tehsil, 3. Chikhli Tehsil (Part), Revenue Circle - Mera and 4. Lonar Tehsil (Part), Revenue Circle Bibi.",
@@ -5518,12 +5389,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        109,
-        110,
         112,
-        116,
-        184,
-        239
+        116
       ],
       "note": "",
       "extent": "1. Balapur Tehsil, 2. Patur Tehsil, 3. Akola Tehsil (Part) Revenue Circle - Ugawa.",
@@ -5569,10 +5436,7 @@
       "status": "new",
       "src": [
         116,
-        109,
-        110,
-        117,
-        239
+        110
       ],
       "note": "",
       "extent": "1. Murtizapur Tehsil, 2. Barshitakli Tehsil, and 3. Akola Tehsil (Part), Revenue Circle - Kurankhed.",
@@ -5587,9 +5451,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        72,
-        74,
-        75
+        114,
+        113
       ],
       "note": "",
       "extent": "1. Malegaon Tehsil, 2. Risod Tehsil",
@@ -5700,10 +5563,7 @@
       "status": "new",
       "src": [
         118,
-        119,
-        120,
-        123,
-        161
+        120
       ],
       "note": "",
       "extent": "1. Daryapur Tehsil, 2. Anjangaon Surji Tehsil 3. Achalpur Tehsil (Part), Revenue Circle Rasegaon.",
@@ -5782,11 +5642,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        1,
-        2,
-        128,
         129,
-        130
+        130,
+        128
       ],
       "note": "",
       "extent": "1. Deoli Tehsil, 2. Wardha Tehsil (Part), Revenue Circle Anji, Sevagram, Waigaon and Waifad 3. Hinganghat Tehsil (Part), Revenue Circle Kangaon and Alipur.",
@@ -6071,7 +5929,9 @@
       "type": "SC",
       "status": "new",
       "src": [
-        261
+        146,
+        147,
+        148
       ],
       "note": "",
       "extent": "1. Sadak-Arjuni Tehsil, 2. Goregaon Tehsil (Part), Revenue CircleMohadi and 3. Arjuni Morgaon Tehsil.",
@@ -6086,14 +5946,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        147,
-        13,
-        14,
         145,
         146,
-        148,
-        181,
-        261
+        147
       ],
       "note": "",
       "extent": "1. Tirora Tehsil and Tirora (MC), 2. Gondiya Tehsil (Part), Revenue Circle Gangazari, 3. Goregaon Tehsil (Part) Revenue Circle Goregaon.",
@@ -6160,10 +6015,8 @@
       "status": "new",
       "src": [
         152,
-        153,
-        121,
-        122,
-        151
+        151,
+        153
       ],
       "note": "",
       "extent": "1. Gadchiroli Tehsil, 2. Chamorshi Tehsil 3. Dhanora Tehsil (Part), Revenue Circle Dhanora and Chatgaon.",
@@ -6273,9 +6126,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        59,
-        158,
-        159
+        159,
+        158
       ],
       "note": "",
       "extent": "1. Warora Tehsil 2. Bhadravati Tehsil.",
@@ -6290,11 +6142,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        72,
-        74,
-        75,
         160,
-        161
+        164
       ],
       "note": "",
       "extent": "1. Maregaon Tehsil, 2. Zari-Jamani Tehsil, 3. Wani Tehsil.",
@@ -6357,9 +6206,8 @@
       "type": "ST",
       "status": "new",
       "src": [
-        84,
-        161,
-        162
+        162,
+        161
       ],
       "note": "",
       "extent": "1. Arni Tehsil, 2. Ghatanji Tehsil, 3. Kelapur Tehsil (Part), Revenue Circle Patan Bori, Pandharkavda and Pandharkavda (MC).",
@@ -6586,7 +6434,6 @@
       "src": [
         180,
         181,
-        189,
         190
       ],
       "note": "",
@@ -6633,11 +6480,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        177,
         176,
         178,
-        181,
-        183
+        177
       ],
       "note": "",
       "extent": "1. Gangakhed Tehsil, 2. Palam Tehsil 3. Purna Tehsil. Appendix, Puma municipality. Purna RIC, Parbhani municipality and Parbhani RIC, in Parbhani tahsil.",
@@ -7141,8 +6986,8 @@
       "type": "ST",
       "status": "new",
       "src": [
-        64,
-        63
+        63,
+        64
       ],
       "note": "",
       "extent": "Talasari Tehsil, 2. Dahanu Tehsil (Part), Revenue Circle Saivan, Malyan, Dahanu and Dahanu (M.C.)",
@@ -7157,9 +7002,9 @@
       "type": "ST",
       "status": "new",
       "src": [
-        58,
-        64,
-        65
+        59,
+        63,
+        64
       ],
       "note": "",
       "extent": "Vikramgad Tehsil, 2. Jawhar Tehsil, 3. Mokhada Tehsil, 4. Wada Tehsil (Part), Revenue Circle Kanchad.",
@@ -7238,10 +7083,7 @@
       "type": "ST",
       "status": "new",
       "src": [
-        58,
-        60,
-        65,
-        128
+        60
       ],
       "note": "",
       "extent": "Bhiwandi Tehsil (Part), Revenue Circle Dighashi, Angaon, Padgha, Additional Bhiwandi, Kharbav, Padgha (CT), Kon (CT) 2. Wada Tehsil (Part), Revenue Circle-Wada.",
@@ -7322,9 +7164,7 @@
       "status": "new",
       "src": [
         58,
-        56,
-        57,
-        187
+        57
       ],
       "note": "",
       "extent": "Murbad Tehsil, 2. Kalyan Tehsil (Part)-Revenue Circle-Titwala , Nadgaon 3.Ambernath Tehsil (Part), Revenue Circle Badlapur , Goregaon, Kulgaon-Badlapur (MC), Ambernath Revenue Circle (Part) Manjarli and Kharwai Saza.",
@@ -8099,11 +7939,7 @@
       "status": "new",
       "src": [
         18,
-        226,
-        227,
-        228,
-        270,
-        274
+        17
       ],
       "note": "",
       "extent": "Karjat Tehsil, 2. Khalapur Tehsil (Part), Revenue Circle Vavashi, Khopoli and Khopoli (MC).",
@@ -8169,13 +8005,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        14,
-        1,
-        2,
         13,
-        15,
-        127,
-        128
+        14
       ],
       "note": "",
       "extent": "Shrivardhan Tehsil, 2. Mhasla Tehsil, 3. Roha Tehsil (Part) Revenue Circle Roha and Roha Ashtami (MC), 4. Mangaon Tehsil(Part)-Revenue Circle Mangaon, 5. Tala Tehsil.",
@@ -8191,10 +8022,7 @@
       "status": "new",
       "src": [
         12,
-        13,
-        14,
-        221,
-        222
+        14
       ],
       "note": "",
       "extent": "Mahad Tehsil, 2. Poladpur Tehsil, 3. Mangaon Tehsil (Part) Revenue Circle Nijampur and Goregaon.",
@@ -8225,8 +8053,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        86,
-        241
+        241,
+        240
       ],
       "note": "",
       "extent": "1. Ambegaon Tehsil, 2. Shirur Tehsil (Part) - Revenue Circle",
@@ -8317,13 +8145,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        251,
-        255,
         256,
-        243,
-        244,
-        245,
-        257
+        257,
+        251
       ],
       "note": "",
       "extent": "1. Purandar Tehsil, 2. Haveli Tehsil (Part) – Revenue Circle Hadapsar (Excluding area covered in PMC as wards), Pisoli village in Hadapsar Revenue Circle (Ward No. 135 of PMC), Undri village in Hadaspur Revenue Circle (Ward No. 136 of PMC), Ambegaon Bk village in Hadapsar Revenue Circle (Ward No 141 of PMC), Ambegaon Kd village in Hadapsar Revenue Circle (Ward 21-Shaniwarwada and 22-Rashtra-Bhasha Bhuvan in Poona Municipal Corporation. No. 142 of PMC).",
@@ -8355,12 +8179,7 @@
       "status": "new",
       "src": [
         243,
-        245,
-        244,
-        251,
-        255,
-        256,
-        257
+        245
       ],
       "note": "",
       "extent": "1. Maval Tehsil, 2. Haveli Tehsil (Part) - Chinchwad Revenue Circle (Dehu Saza) and Dehu Road Cantonment.",
@@ -8375,13 +8194,7 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        243,
-        244,
-        245,
-        251,
-        255,
-        256,
-        257
+        245
       ],
       "note": "",
       "extent": "Haveli Tehsil (Part) - Pimpri Chinchwad M.Corp. (Part)-Ward No 38 to 51, 53, 67 to 73, and 91 to 95. Nanapeth, 65-Doke and Hamd Khadki Talim and 66-Laxmi Bazar in Poona Municipal Corporation.",
@@ -8396,13 +8209,7 @@
       "type": "SC",
       "status": "new",
       "src": [
-        243,
-        244,
-        245,
-        251,
-        255,
-        256,
-        257
+        245
       ],
       "note": "",
       "extent": "Haveli Tehsil (Part)-Pimpri Chinchwad M.Corp (Part) - Ward No. 1 to 7, 13 to 18, 31 to 37, 52, 54 to 58, 61 to 66, 74 to 79, 87 to 90, CME – 999.",
@@ -8417,13 +8224,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        243,
-        244,
         245,
-        251,
-        255,
-        256,
-        257
+        246
       ],
       "note": "",
       "extent": "Haveli Tehsil (Part),-Pimpri Chinchwad M.Corp. (Part) - Ward No. 8 to 12, 19 to 30, 59, 60, 80 to 86.",
@@ -8438,13 +8240,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        243,
-        244,
-        245,
         251,
-        255,
-        256,
-        257
+        247
       ],
       "note": "",
       "extent": "1. Pune Municipal Corp. (Part)-Ward No. 8 to 15, 64 to 68, 125 to 129, 2. Haveli Tehsil (Part)- Revenue Circle Kalas (excluding Area Transferred to PMC).",
@@ -8602,11 +8399,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        127,
         234,
-        235,
         238,
-        239
+        235
       ],
       "note": "",
       "extent": "1. Sangamner Tehsil (Part) Revenue Circle - Ashwi . 2. Rahata Tehsil (Part) Revenue Circle - Rahata, Rajuri, Loni, Shirdi (MC), and Rahata Pimplas (MC).",
@@ -8767,11 +8562,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        94,
-        98,
-        108,
         196,
-        200
+        198
       ],
       "note": "",
       "extent": "1. Georai Tehsil, 2. Majalgaon Tehsil (Part) Revenue Circle Talkhed, 3. Beed Tehsil (Part) Revenue Circle Pimpalner, Pendgaon.",
@@ -9045,12 +8837,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        187,
-        221,
         222,
         223,
-        224,
-        225
+        224
       ],
       "note": "",
       "extent": "1. Madha Tehsil (Part) Revenue Circle- Tembhurni, Modnimb , Laul, Madha, Darfal, 2. Pandharpur Tehsil (Part) Revenue Circle-Patvardhan Kuroli, Karkamb,Tungat, 3. Malsiras Tehsil(Part) Revenue Circle Mahalung",
@@ -9161,9 +8950,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        59,
-        159,
-        223
+        223,
+        219
       ],
       "note": "",
       "extent": "1. Mangalvedhe Tehsil, 2. Pandharpur Tehsil (Part) Revenue Circle- Kasegaon, Pandharpur and Pandharpur (MC).",
@@ -9244,12 +9032,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        59,
-        159,
-        260,
         261,
-        263,
-        264
+        260
       ],
       "note": "",
       "extent": "1. Khatav Tehsil (Part) Revenue Circle - Pusegaon, Khatav, 2. Koregaon Tehsil (Part) Revenue Circle Satara Road, Kinhai, Kumthe, Koregaon, 3. Satara Tehsil (Part) Revenue Circle - Vaduth, Khed, Tasgaon.",
@@ -9264,8 +9048,6 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        180,
-        181,
         259,
         260
       ],
@@ -9282,12 +9064,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        260,
-        261,
-        263,
-        264,
         266,
-        267
+        261,
+        260
       ],
       "note": "",
       "extent": "1. Khatav Tehsil (Part) Revenue Circle - Puse Sawali, 2. Koregaon Tehsil (Part) Revenue Circle - Wathar Kiroli, Rahimatpur and Rahimatpur (MC), 3. Satara Tehsil (Part) Revenue Circle - Apashinge, Nagthane, 4. Karad Tehsil (Part) Revenue Circle-Endoli, Masur, Umbraj, Koparde Haveli.",
@@ -9687,11 +9466,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        268,
         269,
-        271,
-        272,
-        275
+        272
       ],
       "note": "",
       "extent": "1. Walwa Tehsil (Part) Revenue Circle Takari Walwa, Islampur and Uran Islampur (MC), Ashta and Ashta (MC), 2. Miraj Tehsil (Part) Revenue Circle Kasbe Digras.",
@@ -9788,11 +9564,10 @@
   ],
   "map_caveats": [
     "In dense urban seats (Greater Mumbai, Pune city, Nashik, Nagpur, Solapur city), drawn boundaries follow the source shapefile and may differ slightly from the exact ward extent specified in the delimitation orders.",
-    "Lineage links (came from / went to) for all seats are derived from the 1976 and 2008 delimitation order texts; ward-defined urban seats carry approximate area shares."
+    "Lineage links for all seats are derived from the 1976 and 2008 delimitation order texts; ward-defined urban seats carry approximate area shares."
   ],
   "footnotes": [
     "2004 winners attached to 1978-order seats and 2009 winners to 2008-order seats, from ECI statistical reports.",
-    "Lineage for rural seats computed from tehsil and revenue-circle overlap between the 1976 and 2008 delimitation orders. Urban seat lineage derived from ward geography and locality names in both orders.",
-    "The Flipped/Held chips compare parties across both elections for seats whose name survived the redraw, traced by primary predecessor."
+    "Lineage for rural seats computed from tehsil and revenue-circle overlap between the 1976 and 2008 delimitation orders. Urban seat lineage derived from ward geography and locality names in both orders."
   ]
 }
