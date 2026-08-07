@@ -473,7 +473,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        197,
         263,
         264
       ],
@@ -520,7 +519,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        81,
         192,
         193
       ],
@@ -537,7 +535,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        81,
         191,
         192,
         193,
@@ -605,6 +602,7 @@
       "status": "renamed",
       "dest": [
         189,
+        190,
         227
       ],
       "note": "Abolished. Earlier consisted of Tadval RIC (excluding specified villages) of Akkalkot Tahsil and the whole South Solapur Tahsil. Most of the constituency became Solapur South, while Boramani, Musti and Valsang Revenue Circles were transferred to Akkalkot.",
@@ -1243,8 +1241,7 @@
         139,
         142,
         143,
-        144,
-        267
+        144
       ],
       "note": "Retained with revised boundaries. Continued to include Murbad Tehsil, while Badlapur, Titwala and adjoining villages from the former Ambernath and Kalyan constituencies were incorporated.",
       "extent": "Murbad tahsil; Nadgaon RIC and Titwala RIC [excluding villages specified in item (4) of the Appendix] in Kalyan tahsil; and Vashind RIC in Shahapur tahsil.",
@@ -1587,7 +1584,6 @@
       "type": "ST",
       "status": "continuing",
       "dest": [
-        100,
         116
       ],
       "note": "Retained and reserved. Continued to cover Baglan Tehsil, transferred Virgaon Revenue Circle to Kalwan (ST), and became a Scheduled Tribe (ST) reserved constituency. Notes Central and West), with adjoining suburban/rural areas assigned to Deolali (SC).",
@@ -1666,7 +1662,7 @@
       "type": "ST",
       "status": "abolished",
       "dest": [
-        103
+        1
       ],
       "note": "Abolished. The former Akrani Tahsil and Aslod, Prakasha and Mhaswada RICs of Shahada were merged primarily into Akkalkuwa (ST), with parts included in Shahada (ST).",
       "extent": "Akrani tahsil; and Aslod, Prakasha and Mhaswada RICs in Shahada tahsil.",
@@ -2058,8 +2054,7 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        28,
-        237
+        28
       ],
       "note": "Reorganised. Continued to include Akot town and Umara, Panaj and Akot Revenue Circles. Telhara Tehsil was added to the new Akot constituency, while Kutasa and Chohatta Revenue Circles were transferred to Akola East. Jaulka and Panchgavan Revenue Circles, excluded earlier, remained outside Akot.",
       "extent": "Akot tahsil (excluding Jaulka and Panchgavan RICs)",
@@ -2075,8 +2070,7 @@
       "status": "abolished",
       "dest": [
         28,
-        32,
-        237
+        32
       ],
       "note": "",
       "extent": "Jaulka and Panchgavan RICs in Akot tahsil; and Akola (Rural), Borgaon Manju and Ugwa RICs in Akola tahsil.",
@@ -2108,7 +2102,6 @@
       "status": "continuing",
       "dest": [
         29,
-        72,
         102
       ],
       "note": "Retained with expanded boundaries. Continued to include Balapur Tehsil and additionally incorporated Patur Tehsil and Ugawa Revenue Circle from the former Borgaon Manju constituency.",
@@ -2125,8 +2118,7 @@
       "status": "renamed",
       "dest": [
         33,
-        34,
-        243
+        34
       ],
       "note": "Renamed and reorganised. The former Medshi constituency, comprising Pardi Tekmore, Malegaon, Gowardhan and most of Risod Revenue Circle, became Risod, with boundaries revised after redistribution of villages to Washim and Washim (SC).",
       "extent": "Pardi Tekmore, Malegaon 32. Murtizapur . Murtizapur Tehsil, 2. and Gowardhan RICs and Risod RIC [excluding villages specified in item (6) of the Appendix] in Washim tahsil. (SC) Barshitakli Tehsil, and 3. Akola Tehsil (Part), Revenue Circle - Kurankhed.",
@@ -2142,8 +2134,7 @@
       "status": "abolished",
       "dest": [
         33,
-        34,
-        243
+        34
       ],
       "note": "",
       "extent": "Washim municipality and Washim, Ansing and Rithad RICs and villages in Risod RIC specified in item (6) of the Appendix, in Washim tahsil.",
@@ -2268,7 +2259,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        18,
         39,
         43
       ],
@@ -2331,7 +2321,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        18,
         36,
         217
       ],
@@ -3355,7 +3344,6 @@
       "type": "GEN",
       "status": "continuing",
       "dest": [
-        94,
         104,
         105
       ],
@@ -3660,7 +3648,8 @@
       "status": "abolished",
       "dest": [
         241,
-        242
+        242,
+        243
       ],
       "note": "Abolished. Earlier comprised Kalamb Tahsil and villages of Washi RIC in Bhum Tahsil. Most of the area became part of Osmanabad, while the Washi–Bhum region was included in Paranda.",
       "extent": "Osmanabad tahsil.",
@@ -4637,7 +4626,6 @@
       "type": "GEN",
       "status": "abolished",
       "dest": [
-        190,
         286
       ],
       "note": "Abolished ; Kadepur & Wangi areas shifted to Palus-Kadegaon, Bhilawadi area to Tasgaon-Kavathe Mahankal.",
@@ -4704,7 +4692,6 @@
       "type": "GEN",
       "status": "renamed",
       "dest": [
-        190,
         286
       ],
       "note": "Renamed as Khanapur; retained Khanapur (Vita) and Atpadi, with Visapur RC added.",
@@ -4945,6 +4932,7 @@
       "type": "ST",
       "status": "new",
       "src": [
+        84,
         82
       ],
       "note": "",
@@ -5209,10 +5197,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        91,
         96,
-        122,
-        126
+        91
       ],
       "note": "",
       "extent": "1. Pachora Tehsil (excluding Revenue Circle Kurhad), 2. Bhadgaon Tehsil (Part), Revenue Circle - Kolgaon, Bhadgaon and Gondgaon.",
@@ -6080,7 +6066,6 @@
       "src": [
         155,
         156,
-        112,
         154
       ],
       "note": "",
@@ -6222,8 +6207,6 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        13,
-        14,
         166,
         167
       ],
@@ -6432,9 +6415,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        180,
         181,
-        190
+        180
       ],
       "note": "",
       "extent": "1. Sengaon Tehsil, 2. Hingoli Tehsil (Part), Revenue Circle Malhiwara, Narsi, Hingoli and Hingoli (MC).",
@@ -6531,7 +6513,6 @@
       "status": "new",
       "src": [
         186,
-        79,
         185,
         187
       ],
@@ -6583,7 +6564,6 @@
       "status": "new",
       "src": [
         188,
-        84,
         187
       ],
       "note": "",
@@ -7956,8 +7936,7 @@
       "src": [
         17,
         16,
-        270,
-        274
+        18
       ],
       "note": "",
       "extent": "Uran Tehsil, 2. Khalapur Tehsil (Part) - Revenue Circle Chauk, 3. Panvel Tehsil (Part), Revenue Circle Owle and Poyanje.",
@@ -8069,7 +8048,6 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        10,
         242
       ],
       "note": "",
@@ -8704,8 +8682,6 @@
       "type": "SC",
       "status": "new",
       "src": [
-        109,
-        110,
         204,
         205
       ],
@@ -8803,9 +8779,8 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        113,
-        114,
-        208
+        208,
+        209
       ],
       "note": "",
       "extent": "1. Paranda Tehsil, 2. Bhum Tehsil 3. Washi Tehsil",
@@ -9199,10 +9174,9 @@
       "type": "GEN",
       "status": "new",
       "src": [
-        7,
         5,
-        8,
-        58
+        7,
+        8
       ],
       "note": "",
       "extent": "Rajapur Tehsil, 2. Lanja Tehsil, 3. Sangameshwar Tehsil (Part) Revenue Circle-Kondgaon.",
