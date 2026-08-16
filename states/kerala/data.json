@@ -1,0 +1,5144 @@
+{
+  "title": "The Kerala Assembly, Before and After 2008",
+  "name": "Kerala",
+  "assembly": "Kerala Legislative Assembly",
+  "slug": "kerala",
+  "in_force": "1977–2006",
+  "pre_election_year": 2006,
+  "post_election_year": 2011,
+  "pre_election_label": "April 2006",
+  "post_election_label": "April 2011",
+  "post_order_year": 2008,
+  "pre_order_year": 1976,
+  "maps": {
+    "pre2008": "map-pre2008.svg",
+    "post2008": "map-post2008.svg",
+    "hero": "hero.jpg"
+  },
+  "intro": [
+    "For three decades, Kerala was fought on the 140 constituencies of the 1976 delimitation order. The 2008 order redrew all of them.",
+    "The assembly map Kerala retired in 2008"
+  ],
+  "figures": [
+    {
+      "v": "140 → 140",
+      "k": "Seats, unchanged in number"
+    },
+    {
+      "v": "14 → 14",
+      "k": "Districts framing them"
+    },
+    {
+      "v": "13 → 14",
+      "k": "SC-reserved seats"
+    },
+    {
+      "v": "1 → 2",
+      "k": "ST-reserved seats"
+    }
+  ],
+  "stats": [
+    {
+      "k": "Constituencies",
+      "v": "140 → 140"
+    },
+    {
+      "k": "SC-reserved",
+      "v": "13 → 14"
+    },
+    {
+      "k": "ST-reserved",
+      "v": "1 → 2"
+    },
+    {
+      "k": "New seats (2008)",
+      "v": "140"
+    },
+    {
+      "k": "2006 result",
+      "v": "LDF 98 (CPM 61, CPI 17), UDF 42 (INC 24), others 0"
+    },
+    {
+      "k": "2011 result",
+      "v": "UDF 72 (INC 38, MUL 20), LDF 68 (CPM 45, CPI 13)"
+    }
+  ],
+  "district_grid_old": [
+    {
+      "name": "Kasaragod"
+    },
+    {
+      "name": "Kannur"
+    },
+    {
+      "name": "Wayanad"
+    },
+    {
+      "name": "Kozhikode"
+    },
+    {
+      "name": "Malappuram"
+    },
+    {
+      "name": "Palakkad"
+    },
+    {
+      "name": "Thrissur"
+    },
+    {
+      "name": "Ernakulam"
+    },
+    {
+      "name": "Idukki"
+    },
+    {
+      "name": "Kottayam"
+    },
+    {
+      "name": "Alappuzha"
+    },
+    {
+      "name": "Pathanamthitta"
+    },
+    {
+      "name": "Kollam"
+    },
+    {
+      "name": "Thiruvananthapuram"
+    }
+  ],
+  "district_grid_new": [
+    {
+      "name": "Kasaragod"
+    },
+    {
+      "name": "Kannur"
+    },
+    {
+      "name": "Wayanad"
+    },
+    {
+      "name": "Kozhikode"
+    },
+    {
+      "name": "Malappuram"
+    },
+    {
+      "name": "Palakkad"
+    },
+    {
+      "name": "Thrissur"
+    },
+    {
+      "name": "Ernakulam"
+    },
+    {
+      "name": "Idukki"
+    },
+    {
+      "name": "Kottayam"
+    },
+    {
+      "name": "Alappuzha"
+    },
+    {
+      "name": "Pathanamthitta"
+    },
+    {
+      "name": "Kollam"
+    },
+    {
+      "name": "Thiruvananthapuram"
+    }
+  ],
+  "party_overlay": {
+    "old": {
+      "CPM": 61,
+      "MUL": 7,
+      "CPI": 17,
+      "INC": 24,
+      "C(S)": 1,
+      "JD(S)": 5,
+      "NCP": 1,
+      "IND": 5,
+      "INL": 1,
+      "KEC(M)": 7,
+      "KEC": 4,
+      "KCS": 1,
+      "DIC": 1,
+      "JPSS": 1,
+      "KEC(B)": 1,
+      "RSP": 3
+    },
+    "new": {
+      "MUL": 20,
+      "CPM": 45,
+      "CPI": 13,
+      "INC": 38,
+      "SJD": 2,
+      "JD(S)": 4,
+      "NCP": 2,
+      "IND": 2,
+      "KEC(M)": 9,
+      "KEC(J)": 1,
+      "KRSP": 1,
+      "RSP": 2,
+      "KEC(B)": 1
+    },
+    "parties": [
+      "CPM",
+      "INC",
+      "CPI",
+      "MUL",
+      "KEC(M)"
+    ]
+  },
+  "constituencies": [
+    {
+      "ac_no": 1,
+      "name": "Manjeswar",
+      "district": "Kasaragod",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        1,
+        2
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "C H Kunhambu",
+      "electors_07": 154227
+    },
+    {
+      "ac_no": 2,
+      "name": "Kasaragod",
+      "district": "Kasaragod",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        3,
+        2
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "MUL",
+      "winner_07": "C T Ahamedali",
+      "electors_07": 154904
+    },
+    {
+      "ac_no": 3,
+      "name": "Udma",
+      "district": "Kasaragod",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        3,
+        4
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K V Kunhiraman",
+      "electors_07": 173879
+    },
+    {
+      "ac_no": 4,
+      "name": "Hosdrug",
+      "district": "Kasaragod",
+      "type": "SC",
+      "status": "continuing",
+      "dest": [
+        4,
+        5
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Pallipram Balan",
+      "electors_07": 183771
+    },
+    {
+      "ac_no": 5,
+      "name": "Trikkarpur",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        6,
+        5,
+        9,
+        4
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Kunhiraman K",
+      "electors_07": 185121
+    },
+    {
+      "ac_no": 6,
+      "name": "Irikkur",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        9,
+        15,
+        8,
+        16
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Advocate K C Joseph",
+      "electors_07": 165884
+    },
+    {
+      "ac_no": 7,
+      "name": "Payyannur",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        7,
+        6,
+        8,
+        9
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "P K Sreemathi Teacher",
+      "electors_07": 162770
+    },
+    {
+      "ac_no": 8,
+      "name": "Taliparamba",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        8,
+        9,
+        7
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "C.K.P Padmanabhan",
+      "electors_07": 185539
+    },
+    {
+      "ac_no": 9,
+      "name": "Azhicode",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        7,
+        10,
+        8
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "M Prakasan Master",
+      "electors_07": 133825
+    },
+    {
+      "ac_no": 10,
+      "name": "Cannanore",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        11,
+        10,
+        12
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "K Sudhakaran S/O Ramunni",
+      "electors_07": 130348
+    },
+    {
+      "ac_no": 11,
+      "name": "Edakkad",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        12,
+        11,
+        8
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "C(S)",
+      "winner_07": "Ramachandran Kadannapally",
+      "electors_07": 160984
+    },
+    {
+      "ac_no": 12,
+      "name": "Tellicherry",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        13,
+        12
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Kodiyeri Balakrishnan",
+      "electors_07": 131410
+    },
+    {
+      "ac_no": 13,
+      "name": "Peringalam",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        14,
+        13,
+        20
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "JD(S)",
+      "winner_07": "K P Mohanan S/O P R Kurup",
+      "electors_07": 148842
+    },
+    {
+      "ac_no": 14,
+      "name": "Kuthuparamba",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        14,
+        15,
+        16,
+        12,
+        13
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "P Jayarajan",
+      "electors_07": 157631
+    },
+    {
+      "ac_no": 15,
+      "name": "Peravoor",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        16,
+        15,
+        11
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K K Shylaja Teacher",
+      "electors_07": 179145
+    },
+    {
+      "ac_no": 16,
+      "name": "North Wynad",
+      "district": "Wayanad",
+      "type": "ST",
+      "status": "continuing",
+      "dest": [
+        17,
+        16,
+        19,
+        22
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K C Kunhiraman",
+      "electors_07": 179901
+    },
+    {
+      "ac_no": 17,
+      "name": "Badagara",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        20,
+        21,
+        14,
+        23
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "JD(S)",
+      "winner_07": "Advocate M K Premnath",
+      "electors_07": 158018
+    },
+    {
+      "ac_no": 18,
+      "name": "Nadapuram",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        22,
+        21,
+        24,
+        20
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Binoy Viswam",
+      "electors_07": 166365
+    },
+    {
+      "ac_no": 19,
+      "name": "Meppayur",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        21,
+        24,
+        23,
+        20
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K K Lathika",
+      "electors_07": 161852
+    },
+    {
+      "ac_no": 20,
+      "name": "Quilandy",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        23
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "P Viswan",
+      "electors_07": 173818
+    },
+    {
+      "ac_no": 21,
+      "name": "Perambra",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        24,
+        25,
+        23,
+        21
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K Kunhammed Master",
+      "electors_07": 168021
+    },
+    {
+      "ac_no": 22,
+      "name": "Balusseri",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        25,
+        26,
+        23,
+        27,
+        24
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "NCP",
+      "winner_07": "A K Saseendran",
+      "electors_07": 154915
+    },
+    {
+      "ac_no": 23,
+      "name": "Koduvally",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        26,
+        31,
+        25,
+        27,
+        28
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "IND",
+      "winner_07": "Advocate P T A Rahim",
+      "electors_07": 172424
+    },
+    {
+      "ac_no": 24,
+      "name": "Calicut-I",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        27,
+        28
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "A Pradeep Kumar",
+      "electors_07": 134380
+    },
+    {
+      "ac_no": 25,
+      "name": "Calicut-II",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        28
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INL",
+      "winner_07": "Advocate P M A Salam",
+      "electors_07": 144934
+    },
+    {
+      "ac_no": 26,
+      "name": "Beypore",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        29,
+        28,
+        30
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Elamaram Kareem",
+      "electors_07": 188861
+    },
+    {
+      "ac_no": 27,
+      "name": "Kunnamangalam",
+      "district": "Kozhikode",
+      "type": "SC",
+      "status": "continuing",
+      "dest": [
+        30,
+        32,
+        31,
+        26,
+        27
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "IND",
+      "winner_07": "U C Raman",
+      "electors_07": 165951
+    },
+    {
+      "ac_no": 28,
+      "name": "Thiruvambadi",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        32,
+        31,
+        25
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Mathayi Chacko",
+      "electors_07": 161002
+    },
+    {
+      "ac_no": 29,
+      "name": "Kalpetta",
+      "district": "Wayanad",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        19,
+        32,
+        18,
+        25
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "JD(S)",
+      "winner_07": "M V Sreyams Kumar",
+      "electors_07": 157684
+    },
+    {
+      "ac_no": 30,
+      "name": "Sultan's Battery",
+      "district": "Wayanad",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        18
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "P Krishna Prasad",
+      "electors_07": 182483
+    },
+    {
+      "ac_no": 31,
+      "name": "Wandoor",
+      "district": "Malappuram",
+      "type": "SC",
+      "status": "abolished",
+      "dest": [
+        36,
+        34,
+        37,
+        54,
+        35
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "A.P. Anilkumar",
+      "electors_07": 201112
+    },
+    {
+      "ac_no": 32,
+      "name": "Nilambur",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        35,
+        36,
+        34,
+        32
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Aryadan Muhammed",
+      "electors_07": 203352
+    },
+    {
+      "ac_no": 33,
+      "name": "Manjeri",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        34,
+        37,
+        40,
+        33,
+        32
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "MUL",
+      "winner_07": "P.K Abdu Rabb",
+      "electors_07": 191141
+    },
+    {
+      "ac_no": 34,
+      "name": "Malappuram",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        40,
+        41,
+        46,
+        43,
+        39
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "MUL",
+      "winner_07": "Advocate M. Ummer",
+      "electors_07": 186292
+    },
+    {
+      "ac_no": 35,
+      "name": "Kondotty",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        33,
+        42,
+        40,
+        41,
+        30
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "MUL",
+      "winner_07": "K. Muhammadunni Haji",
+      "electors_07": 189580
+    },
+    {
+      "ac_no": 36,
+      "name": "Tirurangadi",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        42,
+        29,
+        43
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "MUL",
+      "winner_07": "Kutty Ahammed Kutty",
+      "electors_07": 181774
+    },
+    {
+      "ac_no": 37,
+      "name": "Tanur",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        43,
+        44,
+        41,
+        42
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "MUL",
+      "winner_07": "Abdurahiman Randathani",
+      "electors_07": 185327
+    },
+    {
+      "ac_no": 38,
+      "name": "Tirur",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        47,
+        45,
+        44,
+        48
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "P.P Abdullakkutty",
+      "electors_07": 186852
+    },
+    {
+      "ac_no": 39,
+      "name": "Ponnani",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        48,
+        47
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Paloli Mohamedkutty",
+      "electors_07": 157795
+    },
+    {
+      "ac_no": 40,
+      "name": "Kuttippuram",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        45,
+        46,
+        43,
+        44,
+        41
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "IND",
+      "winner_07": "K.T Jaleel",
+      "electors_07": 158951
+    },
+    {
+      "ac_no": 41,
+      "name": "Mankada",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        39,
+        46,
+        40,
+        38
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "IND",
+      "winner_07": "Manjalamkuzhi Ali",
+      "electors_07": 193087
+    },
+    {
+      "ac_no": 42,
+      "name": "Perinthalmanna",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        38,
+        37,
+        39,
+        40
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Sasi Kumar",
+      "electors_07": 187336
+    },
+    {
+      "ac_no": 43,
+      "name": "Thrithala",
+      "district": "Palakkad",
+      "type": "SC",
+      "status": "continuing",
+      "dest": [
+        49,
+        50,
+        46,
+        47,
+        48
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "T.P. Kunjunni",
+      "electors_07": 160629
+    },
+    {
+      "ac_no": 44,
+      "name": "Pattambi",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        50,
+        51,
+        49,
+        61,
+        38
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "C.P. Mohammed",
+      "electors_07": 166031
+    },
+    {
+      "ac_no": 45,
+      "name": "Ottapalam",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        51,
+        52,
+        61
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "M. Hamsa",
+      "electors_07": 159447
+    },
+    {
+      "ac_no": 46,
+      "name": "Sreekrishnapuram",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        52,
+        53,
+        51,
+        55,
+        38
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K.S. Saleeka",
+      "electors_07": 184636
+    },
+    {
+      "ac_no": 47,
+      "name": "Mannarkkad",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        54,
+        53,
+        52,
+        38
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Jose Baby",
+      "electors_07": 189065
+    },
+    {
+      "ac_no": 48,
+      "name": "Malampuzha",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        55,
+        58,
+        56,
+        53
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "V.S. Achuthanandan",
+      "electors_07": 152322
+    },
+    {
+      "ac_no": 49,
+      "name": "Palghat",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        56,
+        53,
+        55,
+        52,
+        60
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K.K Divakaran",
+      "electors_07": 155550
+    },
+    {
+      "ac_no": 50,
+      "name": "Chittur",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        58,
+        59,
+        55
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "K Achuthan",
+      "electors_07": 147882
+    },
+    {
+      "ac_no": 51,
+      "name": "Kollengode",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        59,
+        60,
+        72
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "V. Chenthamarakshan",
+      "electors_07": 151147
+    },
+    {
+      "ac_no": 52,
+      "name": "Coyalmannam",
+      "district": "Palakkad",
+      "type": "SC",
+      "status": "abolished",
+      "dest": [
+        57,
+        60,
+        56,
+        61
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "A.K. Balan",
+      "electors_07": 157508
+    },
+    {
+      "ac_no": 53,
+      "name": "Alathur",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        60,
+        57,
+        66,
+        61,
+        71
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "M. Chandhran",
+      "electors_07": 157465
+    },
+    {
+      "ac_no": 54,
+      "name": "Chelakara",
+      "district": "Thrissur",
+      "type": "SC",
+      "status": "continuing",
+      "dest": [
+        61,
+        51,
+        49
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K Radhakrishnan",
+      "electors_07": 157690
+    },
+    {
+      "ac_no": 55,
+      "name": "Wadakkancherry",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        62,
+        65,
+        61,
+        49,
+        48
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "A.C.Moideen",
+      "electors_07": 166588
+    },
+    {
+      "ac_no": 56,
+      "name": "Kunnamkulam",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        65,
+        62,
+        64,
+        63
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Babu M Palissery",
+      "electors_07": 165142
+    },
+    {
+      "ac_no": 57,
+      "name": "Cherpu",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        68,
+        67,
+        71
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Adv.V.S.Sunilkumar",
+      "electors_07": 145868
+    },
+    {
+      "ac_no": 58,
+      "name": "Trichur",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        67,
+        65,
+        66,
+        64,
+        68
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Adv.Therambil Ramakrishnan",
+      "electors_07": 141489
+    },
+    {
+      "ac_no": 59,
+      "name": "Ollur",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        66,
+        65,
+        67,
+        61
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Rajaji Mathew Thomas",
+      "electors_07": 173657
+    },
+    {
+      "ac_no": 60,
+      "name": "Kodakara",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        71,
+        72,
+        66
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Prof.C.Raveendranath",
+      "electors_07": 152159
+    },
+    {
+      "ac_no": 61,
+      "name": "Chalakudi",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        72,
+        71,
+        59
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "B D Devassy",
+      "electors_07": 136449
+    },
+    {
+      "ac_no": 62,
+      "name": "Mala",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        73,
+        72,
+        70
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "A K Chandran",
+      "electors_07": 143976
+    },
+    {
+      "ac_no": 63,
+      "name": "Irinjalakuda",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        70,
+        71,
+        73,
+        69,
+        68
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC(M)",
+      "winner_07": "Adv.Thomas Unniyadan",
+      "electors_07": 154002
+    },
+    {
+      "ac_no": 64,
+      "name": "Manalur",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        64,
+        68,
+        63
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Murali Perunelli",
+      "electors_07": 136457
+    },
+    {
+      "ac_no": 65,
+      "name": "Guruvayoor",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        63,
+        48,
+        64
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K V Abdul Khader",
+      "electors_07": 147386
+    },
+    {
+      "ac_no": 66,
+      "name": "Nattika",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        68,
+        63,
+        69,
+        64
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "T N Prathapan",
+      "electors_07": 135865
+    },
+    {
+      "ac_no": 67,
+      "name": "Kodungallur",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        69,
+        73,
+        78,
+        76,
+        75
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Adv.K.P.Rajendran",
+      "electors_07": 150578
+    },
+    {
+      "ac_no": 68,
+      "name": "Ankamali",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        75,
+        76,
+        72,
+        74
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "JD(S)",
+      "winner_07": "Jose Thettayil",
+      "electors_07": 159574
+    },
+    {
+      "ac_no": 69,
+      "name": "Vadakkekara",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        76,
+        77
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "S Sharma",
+      "electors_07": 141413
+    },
+    {
+      "ac_no": 70,
+      "name": "Parur",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        77,
+        78,
+        79
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Adv. V D Satheesan",
+      "electors_07": 133426
+    },
+    {
+      "ac_no": 71,
+      "name": "Narakal",
+      "district": "Ernakulam",
+      "type": "SC",
+      "status": "renamed",
+      "dest": [
+        79,
+        82,
+        83
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "M K Purushothaman",
+      "electors_07": 135335
+    },
+    {
+      "ac_no": 72,
+      "name": "Ernakulam",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        83,
+        82,
+        79,
+        80,
+        77
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Prof. K V Thomas",
+      "electors_07": 141853
+    },
+    {
+      "ac_no": 73,
+      "name": "Mattancherry",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        80
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "MUL",
+      "winner_07": "V K Ibrahim Kunju",
+      "electors_07": 92926
+    },
+    {
+      "ac_no": 74,
+      "name": "Palluruthy",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        81,
+        80,
+        83,
+        102
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "C M Dinesh Mani",
+      "electors_07": 172602
+    },
+    {
+      "ac_no": 75,
+      "name": "Thrippunithura",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        81,
+        77,
+        83,
+        102,
+        76
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "K Babu",
+      "electors_07": 202066
+    },
+    {
+      "ac_no": 76,
+      "name": "Alwaye",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        78,
+        77,
+        76,
+        79,
+        82
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "A M Yousuf",
+      "electors_07": 181995
+    },
+    {
+      "ac_no": 77,
+      "name": "Perumbavoor",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        74,
+        75,
+        72,
+        84
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Saju Paul",
+      "electors_07": 151391
+    },
+    {
+      "ac_no": 78,
+      "name": "Kunnathunad",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        86,
+        84,
+        85
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Adv M M Monayi",
+      "electors_07": 150915
+    },
+    {
+      "ac_no": 79,
+      "name": "Piravom",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        85,
+        81,
+        84,
+        94,
+        95
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "M J Jacob",
+      "electors_07": 144261
+    },
+    {
+      "ac_no": 80,
+      "name": "Muvattupuzha",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        85,
+        86,
+        94
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Babu Paul",
+      "electors_07": 143555
+    },
+    {
+      "ac_no": 81,
+      "name": "Kothamangalam",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        87,
+        84,
+        86,
+        74,
+        76
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC",
+      "winner_07": "Chev. T. U Kuruvila",
+      "electors_07": 156066
+    },
+    {
+      "ac_no": 82,
+      "name": "Thodupuzha",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        90,
+        86,
+        93
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC",
+      "winner_07": "P J Joseph",
+      "electors_07": 164884
+    },
+    {
+      "ac_no": 83,
+      "name": "Devicolam",
+      "district": "Idukki",
+      "type": "SC",
+      "status": "continuing",
+      "dest": [
+        88,
+        87
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "S Rajendran",
+      "electors_07": 152351
+    },
+    {
+      "ac_no": 84,
+      "name": "Idukki",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        91,
+        90,
+        88,
+        89,
+        93
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC(M)",
+      "winner_07": "Roshy Augustine",
+      "electors_07": 159615
+    },
+    {
+      "ac_no": 85,
+      "name": "Udumbanchola",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        89,
+        91,
+        88,
+        92
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K K Jayachandran",
+      "electors_07": 183919
+    },
+    {
+      "ac_no": 86,
+      "name": "Peermade",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        92,
+        101,
+        114,
+        112
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "E S Bijimol",
+      "electors_07": 132794
+    },
+    {
+      "ac_no": 87,
+      "name": "Kanjirappally",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        101,
+        100,
+        93,
+        112
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "IND",
+      "winner_07": "Alphons Kannanthanam",
+      "electors_07": 141268
+    },
+    {
+      "ac_no": 88,
+      "name": "Vazhoor",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        100,
+        98,
+        99,
+        97,
+        111
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC(M)",
+      "winner_07": "Jayarajan",
+      "electors_07": 121233
+    },
+    {
+      "ac_no": 89,
+      "name": "Changanacherry",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        99,
+        106,
+        98,
+        111
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC(M)",
+      "winner_07": "C F Thomas",
+      "electors_07": 142800
+    },
+    {
+      "ac_no": 90,
+      "name": "Kottayam",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        96,
+        97,
+        106
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "V N Vasavan",
+      "electors_07": 144841
+    },
+    {
+      "ac_no": 91,
+      "name": "Ettumanoor",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        96,
+        95,
+        97
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC(M)",
+      "winner_07": "Thomas Chazhikkadan",
+      "electors_07": 138564
+    },
+    {
+      "ac_no": 92,
+      "name": "Puthuppally",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        98,
+        97,
+        100,
+        93
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Oommen Chandy",
+      "electors_07": 153117
+    },
+    {
+      "ac_no": 93,
+      "name": "Poonjar",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        101,
+        93
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KCS",
+      "winner_07": "P C George (Plathottam)",
+      "electors_07": 124825
+    },
+    {
+      "ac_no": 94,
+      "name": "Palai",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        93,
+        94,
+        96,
+        85,
+        98
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC(M)",
+      "winner_07": "K M Mani",
+      "electors_07": 128184
+    },
+    {
+      "ac_no": 95,
+      "name": "Kaduthuruthy",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        94,
+        95,
+        96,
+        98,
+        85
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC",
+      "winner_07": "Adv. Mons Joseph",
+      "electors_07": 131824
+    },
+    {
+      "ac_no": 96,
+      "name": "Vaikom",
+      "district": "Kottayam",
+      "type": "SC",
+      "status": "continuing",
+      "dest": [
+        95,
+        102,
+        103,
+        85
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "K Ajith",
+      "electors_07": 138949
+    },
+    {
+      "ac_no": 97,
+      "name": "Aroor",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        102,
+        80,
+        103
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Adv. A.M.Ariff",
+      "electors_07": 150164
+    },
+    {
+      "ac_no": 98,
+      "name": "Sherthalai",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        103,
+        102,
+        81
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "P.Thilothaman",
+      "electors_07": 135676
+    },
+    {
+      "ac_no": 99,
+      "name": "Mararikulam",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        104,
+        103
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Dr.Thomas Issac",
+      "electors_07": 178438
+    },
+    {
+      "ac_no": 100,
+      "name": "Alleppey",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        104,
+        105
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "K.C.Venugopal",
+      "electors_07": 114192
+    },
+    {
+      "ac_no": 101,
+      "name": "Ambalapuzha",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        105
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "G.Sudhakaran",
+      "electors_07": 128577
+    },
+    {
+      "ac_no": 102,
+      "name": "Kuttanad",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        106,
+        105,
+        104
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "DIC",
+      "winner_07": "Thomas Chandy",
+      "electors_07": 111058
+    },
+    {
+      "ac_no": 103,
+      "name": "Haripad",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        107,
+        105,
+        106
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Adv.B.Babuprasad",
+      "electors_07": 144188
+    },
+    {
+      "ac_no": 104,
+      "name": "Kayamkulam",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        108,
+        107
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "C K Sadasivan",
+      "electors_07": 129524
+    },
+    {
+      "ac_no": 105,
+      "name": "Thiruvalla",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        111,
+        106,
+        113,
+        99,
+        107
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "JD(S)",
+      "winner_07": "Mathew T Thomas",
+      "electors_07": 110867
+    },
+    {
+      "ac_no": 106,
+      "name": "Kallooppara",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        111,
+        112,
+        113,
+        100,
+        99
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC(M)",
+      "winner_07": "Joseph M Puthusseri",
+      "electors_07": 112932
+    },
+    {
+      "ac_no": 107,
+      "name": "Aranmula",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        113,
+        112,
+        110,
+        115
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "K.C Rajagopalan",
+      "electors_07": 112086
+    },
+    {
+      "ac_no": 108,
+      "name": "Chengannur",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        110,
+        111,
+        109,
+        106
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "P.C.Vishnunath",
+      "electors_07": 121105
+    },
+    {
+      "ac_no": 109,
+      "name": "Mavelikara",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        108,
+        109,
+        107,
+        110,
+        116
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "M.Murali",
+      "electors_07": 131267
+    },
+    {
+      "ac_no": 110,
+      "name": "Pandalam",
+      "district": "Alappuzha",
+      "type": "SC",
+      "status": "abolished",
+      "dest": [
+        109,
+        115,
+        110,
+        108
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "JPSS",
+      "winner_07": "K.K.Shaju",
+      "electors_07": 144463
+    },
+    {
+      "ac_no": 111,
+      "name": "Ranni",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        112,
+        114,
+        101
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Raju Abraham",
+      "electors_07": 119189
+    },
+    {
+      "ac_no": 112,
+      "name": "Pathanamthitta",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        113,
+        114
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Adv. K Sivadasan Nair",
+      "electors_07": 121979
+    },
+    {
+      "ac_no": 113,
+      "name": "Konni",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        114,
+        112,
+        115
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Adoor Prakash",
+      "electors_07": 128760
+    },
+    {
+      "ac_no": 114,
+      "name": "Pathanapuram",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        121,
+        120,
+        114,
+        119,
+        115
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC(B)",
+      "winner_07": "K.B.Ganesh Kumar",
+      "electors_07": 144025
+    },
+    {
+      "ac_no": 115,
+      "name": "Punaloor",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        121,
+        122,
+        120,
+        119,
+        131
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Adv.K.Raju",
+      "electors_07": 158123
+    },
+    {
+      "ac_no": 116,
+      "name": "Chadayamangalam",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        122,
+        121,
+        128,
+        127
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Mullakkara Rathnakaran",
+      "electors_07": 134953
+    },
+    {
+      "ac_no": 117,
+      "name": "Kottarakara",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        119,
+        120,
+        118,
+        122,
+        115
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Adv. Aisha Potti",
+      "electors_07": 135841
+    },
+    {
+      "ac_no": 118,
+      "name": "Neduvathur",
+      "district": "Kollam",
+      "type": "SC",
+      "status": "abolished",
+      "dest": [
+        119,
+        118,
+        123,
+        126,
+        122
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "B. Raghavan",
+      "electors_07": 138696
+    },
+    {
+      "ac_no": 119,
+      "name": "Adoor",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        115,
+        109,
+        114
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Thiruvanchoor Radhakrishnan",
+      "electors_07": 128472
+    },
+    {
+      "ac_no": 120,
+      "name": "Kunnathur",
+      "district": "Kollam",
+      "type": "SC",
+      "status": "abolished",
+      "dest": [
+        118,
+        115,
+        116,
+        109
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "RSP",
+      "winner_07": "Kovoor Kunjumon",
+      "electors_07": 162149
+    },
+    {
+      "ac_no": 121,
+      "name": "Karunagapally",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        116,
+        108,
+        109
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "C.Divakaran",
+      "electors_07": 139839
+    },
+    {
+      "ac_no": 122,
+      "name": "Chavara",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        117,
+        116,
+        118
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "RSP",
+      "winner_07": "N K Premachandran",
+      "electors_07": 142401
+    },
+    {
+      "ac_no": 123,
+      "name": "Kundara",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        118,
+        117,
+        124,
+        123
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "M.A. Baby",
+      "electors_07": 129453
+    },
+    {
+      "ac_no": 124,
+      "name": "Quilon",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        124,
+        117
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "P.K.Gurudasan",
+      "electors_07": 125888
+    },
+    {
+      "ac_no": 125,
+      "name": "Eravipuram",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        125,
+        124,
+        123
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "RSP",
+      "winner_07": "A.A. Azeez",
+      "electors_07": 177809
+    },
+    {
+      "ac_no": 126,
+      "name": "Chathanoor",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        126,
+        123,
+        125
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "N Anirudhan",
+      "electors_07": 160650
+    },
+    {
+      "ac_no": 127,
+      "name": "Varkala",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        127,
+        126,
+        128
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Varkala Kahar",
+      "electors_07": 127337
+    },
+    {
+      "ac_no": 128,
+      "name": "Attingal",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        128,
+        129,
+        127
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "Anathalavattom Anandan",
+      "electors_07": 118939
+    },
+    {
+      "ac_no": 129,
+      "name": "Kilimanoor",
+      "district": "Thiruvananthapuram",
+      "type": "SC",
+      "status": "abolished",
+      "dest": [
+        128,
+        127,
+        126,
+        129,
+        122
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "N Rajan",
+      "electors_07": 156986
+    },
+    {
+      "ac_no": 130,
+      "name": "Vamanapuram",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        131,
+        130,
+        129,
+        128,
+        122
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "J Arundhathi",
+      "electors_07": 145921
+    },
+    {
+      "ac_no": 131,
+      "name": "Ariyanad",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        136,
+        131
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "G Karthikeyan Aryanad",
+      "electors_07": 132567
+    },
+    {
+      "ac_no": 132,
+      "name": "Nedumangad",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        130,
+        131,
+        136,
+        132,
+        133
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPI",
+      "winner_07": "Mankode Radhakrishnan",
+      "electors_07": 171173
+    },
+    {
+      "ac_no": 133,
+      "name": "Kazhakuttam",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        129,
+        130,
+        132
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "M A Vahid",
+      "electors_07": 163999
+    },
+    {
+      "ac_no": 134,
+      "name": "Trivandrum North",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        132,
+        133,
+        129,
+        130
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "M Vijayakumar",
+      "electors_07": 194130
+    },
+    {
+      "ac_no": 135,
+      "name": "Trivandrum West",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "renamed",
+      "dest": [
+        132,
+        134
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "KEC",
+      "winner_07": "V Surendran Pillai",
+      "electors_07": 139835
+    },
+    {
+      "ac_no": 136,
+      "name": "Trivandrum East",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        134,
+        133,
+        132,
+        135
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "V Sivankutty",
+      "electors_07": 135171
+    },
+    {
+      "ac_no": 137,
+      "name": "Nemom",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        138,
+        133,
+        134,
+        135,
+        139
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "N Sakthan",
+      "electors_07": 180034
+    },
+    {
+      "ac_no": 138,
+      "name": "Kovalam",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "continuing",
+      "dest": [
+        139,
+        135,
+        134
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "INC",
+      "winner_07": "Adv George Mercier",
+      "electors_07": 168386
+    },
+    {
+      "ac_no": 139,
+      "name": "Neyyattinkara",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        137,
+        140,
+        138,
+        136,
+        139
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "V J Thankappan",
+      "electors_07": 161090
+    },
+    {
+      "ac_no": 140,
+      "name": "Parassala",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "abolished",
+      "dest": [
+        140,
+        137,
+        139
+      ],
+      "note": "",
+      "extent": "",
+      "party07": "CPM",
+      "winner_07": "R Selvaraj",
+      "electors_07": 158092
+    }
+  ],
+  "post2008_constituencies": [
+    {
+      "ac_no": 1,
+      "name": "Manjeshwar",
+      "district": "Kasaragod",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        1
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "P B Abdul Razak",
+      "electors_12": 176817
+    },
+    {
+      "ac_no": 2,
+      "name": "Kasaragod",
+      "district": "Kasaragod",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        2,
+        1
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "N.A.Nellikkunnu",
+      "electors_12": 159289
+    },
+    {
+      "ac_no": 3,
+      "name": "Udma",
+      "district": "Kasaragod",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        3,
+        2
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.Kunhiraman",
+      "electors_12": 173459
+    },
+    {
+      "ac_no": 4,
+      "name": "Kanhangad",
+      "district": "Kasaragod",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        4,
+        3,
+        5
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "E.Chandrashekharan",
+      "electors_12": 178139
+    },
+    {
+      "ac_no": 5,
+      "name": "Trikaripur",
+      "district": "Kasaragod",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        5,
+        4
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K Kunhiraman",
+      "electors_12": 169395
+    },
+    {
+      "ac_no": 6,
+      "name": "Payyannur",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        5,
+        7
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "C.Krishnan",
+      "electors_12": 158613
+    },
+    {
+      "ac_no": 7,
+      "name": "Kalliasseri",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        7,
+        9,
+        8
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "T.V. Rajesh",
+      "electors_12": 157384
+    },
+    {
+      "ac_no": 8,
+      "name": "Taliparamba",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        8,
+        6,
+        7,
+        9
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "James Mathew",
+      "electors_12": 174788
+    },
+    {
+      "ac_no": 9,
+      "name": "Irikkur",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        6,
+        8,
+        5
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "K. C. Joseph",
+      "electors_12": 169262
+    },
+    {
+      "ac_no": 10,
+      "name": "Azhikode",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        10,
+        9,
+        8
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "K.M.Shaji",
+      "electors_12": 147782
+    },
+    {
+      "ac_no": 11,
+      "name": "Kannur",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        10,
+        11,
+        15
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "A.P Abdullakutty",
+      "electors_12": 143828
+    },
+    {
+      "ac_no": 12,
+      "name": "Dharmadam",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        11,
+        14,
+        12,
+        15
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.K. Narayanan",
+      "electors_12": 163674
+    },
+    {
+      "ac_no": 13,
+      "name": "Thalassery",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        12,
+        13,
+        14
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Kodiyeri Balakrishnan",
+      "electors_12": 149689
+    },
+    {
+      "ac_no": 14,
+      "name": "Kuthuparamba",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        14,
+        13,
+        18
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "SJD",
+      "winner_12": "K.P.Mohanan S/O P R Kurup",
+      "electors_12": 160335
+    },
+    {
+      "ac_no": 15,
+      "name": "Mattannur",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        15,
+        14,
+        6
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "E.P.Jayarajan",
+      "electors_12": 160711
+    },
+    {
+      "ac_no": 16,
+      "name": "Peravoor",
+      "district": "Kannur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        15,
+        16,
+        14,
+        6
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Adv.Sunny Joseph",
+      "electors_12": 145983
+    },
+    {
+      "ac_no": 17,
+      "name": "Mananthavady",
+      "district": "Wayanad",
+      "type": "ST",
+      "status": "new",
+      "src": [
+        16
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "P.K.Jayalakshmi",
+      "electors_12": 167097
+    },
+    {
+      "ac_no": 18,
+      "name": "Sulthanbathery",
+      "district": "Wayanad",
+      "type": "ST",
+      "status": "new",
+      "src": [
+        30,
+        29
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "I.C Balakrishnan",
+      "electors_12": 198645
+    },
+    {
+      "ac_no": 19,
+      "name": "Kalpetta",
+      "district": "Wayanad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        29,
+        16,
+        30
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "SJD",
+      "winner_12": "M.V Sreyamskumar",
+      "electors_12": 170245
+    },
+    {
+      "ac_no": 20,
+      "name": "Vadakara",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        17,
+        18,
+        19,
+        13
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "JD(S)",
+      "winner_12": "C.K.Nanu",
+      "electors_12": 141564
+    },
+    {
+      "ac_no": 21,
+      "name": "Kuttiadi",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        19,
+        18,
+        17,
+        21
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.K.Lathika",
+      "electors_12": 162389
+    },
+    {
+      "ac_no": 22,
+      "name": "Nadapuram",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        18,
+        16,
+        14
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "E.K.Vijayan",
+      "electors_12": 177993
+    },
+    {
+      "ac_no": 23,
+      "name": "Quilandy",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        20,
+        22,
+        19,
+        21,
+        17
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.Dasan",
+      "electors_12": 166632
+    },
+    {
+      "ac_no": 24,
+      "name": "Perambra",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        21,
+        19,
+        18,
+        22
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K. Kunhammad Master",
+      "electors_12": 159699
+    },
+    {
+      "ac_no": 25,
+      "name": "Balusseri",
+      "district": "Kozhikode",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        21,
+        22,
+        23,
+        28,
+        29
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Purushan Kadalundi",
+      "electors_12": 185109
+    },
+    {
+      "ac_no": 26,
+      "name": "Elathur",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        23,
+        22,
+        27
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "NCP",
+      "winner_12": "A.K. Saseendran",
+      "electors_12": 162830
+    },
+    {
+      "ac_no": 27,
+      "name": "Kozhikode North",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        23,
+        24,
+        27,
+        22
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "A. Pradeep Kumar",
+      "electors_12": 150425
+    },
+    {
+      "ac_no": 28,
+      "name": "Kozhikode South",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        23,
+        25,
+        26,
+        24,
+        27
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "Dr. M.K. Muneer",
+      "electors_12": 132780
+    },
+    {
+      "ac_no": 29,
+      "name": "Beypore",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        36,
+        26,
+        35
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Elamaram Kareem",
+      "electors_12": 164045
+    },
+    {
+      "ac_no": 30,
+      "name": "Kunnamangalam",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        27,
+        35,
+        26
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "IND",
+      "winner_12": "Adv.P.T.A.Rahim",
+      "electors_12": 178089
+    },
+    {
+      "ac_no": 31,
+      "name": "Koduvally",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        28,
+        23,
+        27
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "V.M.Ummer Master",
+      "electors_12": 142384
+    },
+    {
+      "ac_no": 32,
+      "name": "Thiruvambady",
+      "district": "Kozhikode",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        28,
+        27,
+        29,
+        32,
+        33
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "C Moyinkutty",
+      "electors_12": 145763
+    },
+    {
+      "ac_no": 33,
+      "name": "Kondotty",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        35,
+        33
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "K Muhammedunni Haji",
+      "electors_12": 158057
+    },
+    {
+      "ac_no": 34,
+      "name": "Eranad",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        33,
+        31,
+        32
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "P.K.Basheer",
+      "electors_12": 141833
+    },
+    {
+      "ac_no": 35,
+      "name": "Nilambur",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        32,
+        31
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Aryadan Mohammed",
+      "electors_12": 174945
+    },
+    {
+      "ac_no": 36,
+      "name": "Wandoor",
+      "district": "Malappuram",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        31,
+        32
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "A.P.Anilkumar",
+      "electors_12": 180715
+    },
+    {
+      "ac_no": 37,
+      "name": "Manjeri",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        31,
+        42,
+        33,
+        47
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "Adv.M.Ummer",
+      "electors_12": 164144
+    },
+    {
+      "ac_no": 38,
+      "name": "Perinthalmanna",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        42,
+        41,
+        47,
+        46,
+        44
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "Manjalamkuzhi Ali",
+      "electors_12": 165042
+    },
+    {
+      "ac_no": 39,
+      "name": "Mankada",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        41,
+        42,
+        34,
+        44
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "T.A.Ahmed Kabeer",
+      "electors_12": 164067
+    },
+    {
+      "ac_no": 40,
+      "name": "Malappuram",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        34,
+        33,
+        35,
+        41,
+        42
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "P. Ubaidulla",
+      "electors_12": 167739
+    },
+    {
+      "ac_no": 41,
+      "name": "Vengara",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        34,
+        37,
+        35,
+        40
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "P.K.Kunhalikutty",
+      "electors_12": 144317
+    },
+    {
+      "ac_no": 42,
+      "name": "Vallikkunnu",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        36,
+        35,
+        37
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "Adv.K.N.A.Khader",
+      "electors_12": 156307
+    },
+    {
+      "ac_no": 43,
+      "name": "Tirurangadi",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        37,
+        40,
+        34,
+        36
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "P.K.Abdu Rabb",
+      "electors_12": 152896
+    },
+    {
+      "ac_no": 44,
+      "name": "Tanur",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        38,
+        37,
+        40
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "Abdurahiman Randathani",
+      "electors_12": 133276
+    },
+    {
+      "ac_no": 45,
+      "name": "Tirur",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        40,
+        38
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "C Mammootty",
+      "electors_12": 166314
+    },
+    {
+      "ac_no": 46,
+      "name": "Kottakkal",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        40,
+        41,
+        34,
+        43
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "Abdussamad Samadani",
+      "electors_12": 167498
+    },
+    {
+      "ac_no": 47,
+      "name": "Thavanur",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        38,
+        39,
+        43,
+        40
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "IND",
+      "winner_12": "Dr.K.T. Jaleel",
+      "electors_12": 156486
+    },
+    {
+      "ac_no": 48,
+      "name": "Ponnani",
+      "district": "Malappuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        39,
+        55,
+        38,
+        43,
+        65
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "P.Sreeramakrishnan",
+      "electors_12": 158680
+    },
+    {
+      "ac_no": 49,
+      "name": "Thrithala",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        43,
+        55,
+        44,
+        54
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Adv.V.T. Balram",
+      "electors_12": 155638
+    },
+    {
+      "ac_no": 50,
+      "name": "Pattambi",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        44,
+        43,
+        42,
+        41
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "C.P.Mohammed",
+      "electors_12": 153713
+    },
+    {
+      "ac_no": 51,
+      "name": "Shornur",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        45,
+        46,
+        44,
+        54
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.S.Saleekha",
+      "electors_12": 163885
+    },
+    {
+      "ac_no": 52,
+      "name": "Ottapalam",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        46,
+        45,
+        47,
+        49
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "M. Hamza",
+      "electors_12": 175066
+    },
+    {
+      "ac_no": 53,
+      "name": "Kongad",
+      "district": "Palakkad",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        47,
+        46,
+        49,
+        48
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.V.Vijayadas",
+      "electors_12": 155799
+    },
+    {
+      "ac_no": 54,
+      "name": "Mannarkad",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        47,
+        31
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "Advocate N. Samsudheen",
+      "electors_12": 166275
+    },
+    {
+      "ac_no": 55,
+      "name": "Malampuzha",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        48,
+        49,
+        46,
+        50
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "V.S.Achuthanandan.",
+      "electors_12": 180648
+    },
+    {
+      "ac_no": 56,
+      "name": "Palakkad",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        49,
+        52,
+        48
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Shafi Parambil",
+      "electors_12": 154374
+    },
+    {
+      "ac_no": 57,
+      "name": "Tarur",
+      "district": "Palakkad",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        52,
+        53
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "A. K. Balan",
+      "electors_12": 149387
+    },
+    {
+      "ac_no": 58,
+      "name": "Chittur",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        50,
+        48
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "K.Achuthan",
+      "electors_12": 167800
+    },
+    {
+      "ac_no": 59,
+      "name": "Nenmara",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        51,
+        50
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "V. Chenthamarakshan",
+      "electors_12": 172069
+    },
+    {
+      "ac_no": 60,
+      "name": "Alathur",
+      "district": "Palakkad",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        53,
+        52,
+        51,
+        49
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "M.Chandran",
+      "electors_12": 152827
+    },
+    {
+      "ac_no": 61,
+      "name": "Chelakkara",
+      "district": "Thrissur",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        54,
+        55,
+        53,
+        52,
+        44
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.Radhakrishnan",
+      "electors_12": 173746
+    },
+    {
+      "ac_no": 62,
+      "name": "Kunnamkulam",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        55,
+        56
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Babu.M.Palissery",
+      "electors_12": 174161
+    },
+    {
+      "ac_no": 63,
+      "name": "Guruvayoor",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        65,
+        66,
+        56,
+        64,
+        55
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.V.Abdul Khader",
+      "electors_12": 178144
+    },
+    {
+      "ac_no": 64,
+      "name": "Manalur",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        64,
+        56,
+        66,
+        58,
+        55
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "P.A. Madhavan",
+      "electors_12": 189976
+    },
+    {
+      "ac_no": 65,
+      "name": "Wadakkanchery",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        55,
+        56,
+        58,
+        59
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "C.N.Balakrishnan",
+      "electors_12": 176069
+    },
+    {
+      "ac_no": 66,
+      "name": "Ollur",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        59,
+        60,
+        53,
+        58
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "M.P. Vincent",
+      "electors_12": 176875
+    },
+    {
+      "ac_no": 67,
+      "name": "Thrissur",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        58,
+        57,
+        59
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Adv.Therambil Ramakrishnan",
+      "electors_12": 161886
+    },
+    {
+      "ac_no": 68,
+      "name": "Nattika",
+      "district": "Thrissur",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        57,
+        66,
+        64,
+        63,
+        58
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "Geetha Gopi",
+      "electors_12": 179535
+    },
+    {
+      "ac_no": 69,
+      "name": "Kaipamangalam",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        67,
+        66,
+        63
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "Adv.V S Sunilkumar",
+      "electors_12": 151356
+    },
+    {
+      "ac_no": 70,
+      "name": "Irinjalakkuda",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        63,
+        62
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "Adv.Thomas Unniyadan",
+      "electors_12": 174214
+    },
+    {
+      "ac_no": 71,
+      "name": "Puthukkad",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        60,
+        63,
+        61,
+        53
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Prof: C. Raveendranath",
+      "electors_12": 176055
+    },
+    {
+      "ac_no": 72,
+      "name": "Chalakkudy",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        61,
+        60,
+        62,
+        51,
+        68
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Devassy.B.D.",
+      "electors_12": 172679
+    },
+    {
+      "ac_no": 73,
+      "name": "Kodungallur",
+      "district": "Thrissur",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        62,
+        67,
+        63
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "T.N.Prathapan",
+      "electors_12": 169056
+    },
+    {
+      "ac_no": 74,
+      "name": "Perumbavoor",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        77,
+        81,
+        68
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Saju Paul",
+      "electors_12": 154432
+    },
+    {
+      "ac_no": 75,
+      "name": "Angamaly",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        68,
+        77,
+        67,
+        83
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "JD(S)",
+      "winner_12": "Advocate Jose Thettayil",
+      "electors_12": 152370
+    },
+    {
+      "ac_no": 76,
+      "name": "Aluva",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        67,
+        69,
+        68,
+        76,
+        81
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Anwar Sadath",
+      "electors_12": 158819
+    },
+    {
+      "ac_no": 77,
+      "name": "Kalamassery",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        70,
+        76,
+        75,
+        67,
+        81
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "MUL",
+      "winner_12": "V. K. Ebrahim Kunju",
+      "electors_12": 165107
+    },
+    {
+      "ac_no": 78,
+      "name": "Paravur",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        76,
+        67,
+        70
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Adv.V.D.Satheesan",
+      "electors_12": 171172
+    },
+    {
+      "ac_no": 79,
+      "name": "Vypen",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        71,
+        72,
+        76,
+        67,
+        70
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "S.Sarma",
+      "electors_12": 152040
+    },
+    {
+      "ac_no": 80,
+      "name": "Kochi",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        74,
+        97,
+        72,
+        73
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Dominic Presentation",
+      "electors_12": 158548
+    },
+    {
+      "ac_no": 81,
+      "name": "Thripunithura",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        75,
+        74,
+        79,
+        98
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "K.Babu",
+      "electors_12": 171652
+    },
+    {
+      "ac_no": 82,
+      "name": "Eranakulam",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        72,
+        71,
+        76,
+        74
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Hibi Eden",
+      "electors_12": 136722
+    },
+    {
+      "ac_no": 83,
+      "name": "Thrikkakara",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        72,
+        75,
+        74
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Benny Behanan",
+      "electors_12": 159877
+    },
+    {
+      "ac_no": 84,
+      "name": "Kunnathunad",
+      "district": "Ernakulam",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        81,
+        78,
+        79,
+        77
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "V.P. Sajeendran",
+      "electors_12": 153102
+    },
+    {
+      "ac_no": 85,
+      "name": "Piravom",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        79,
+        80,
+        81,
+        78,
+        94
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(J)",
+      "winner_12": "T. M. Jacob",
+      "electors_12": 176302
+    },
+    {
+      "ac_no": 86,
+      "name": "Muvattupuzha",
+      "district": "Ernakulam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        78,
+        81,
+        80,
+        82
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Joseph Vazhackkan",
+      "electors_12": 154440
+    },
+    {
+      "ac_no": 87,
+      "name": "Kothamangalam",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        83,
+        81
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "Shev.T.U.Kuruvilla",
+      "electors_12": 144256
+    },
+    {
+      "ac_no": 88,
+      "name": "Devikulam",
+      "district": "Idukki",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        83,
+        85,
+        84
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "S. Rajendran",
+      "electors_12": 147855
+    },
+    {
+      "ac_no": 89,
+      "name": "Udumbanchola",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        85,
+        84
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "K.K.Jayachandran",
+      "electors_12": 153563
+    },
+    {
+      "ac_no": 90,
+      "name": "Thodupuzha",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        82,
+        84,
+        83
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "P.J.Joseph",
+      "electors_12": 177529
+    },
+    {
+      "ac_no": 91,
+      "name": "Idukki",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        84,
+        85
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "Roshy Augustine,",
+      "electors_12": 169984
+    },
+    {
+      "ac_no": 92,
+      "name": "Peerumade",
+      "district": "Idukki",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        86,
+        85,
+        113
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "E. S. Bijimol",
+      "electors_12": 165380
+    },
+    {
+      "ac_no": 93,
+      "name": "Pala",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        94,
+        93,
+        92,
+        87,
+        84
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "K.M.Mani",
+      "electors_12": 169192
+    },
+    {
+      "ac_no": 94,
+      "name": "Kaduthuruthy",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        94,
+        95,
+        80
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "Adv.Mons Joseph",
+      "electors_12": 171486
+    },
+    {
+      "ac_no": 95,
+      "name": "Vaikom",
+      "district": "Kottayam",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        96,
+        95,
+        91,
+        79
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "K. Ajith",
+      "electors_12": 153205
+    },
+    {
+      "ac_no": 96,
+      "name": "Ettumanoor",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        91,
+        90,
+        95,
+        94
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Adv. K. Suresh Kurup",
+      "electors_12": 150807
+    },
+    {
+      "ac_no": 97,
+      "name": "Kottayam",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        92,
+        90,
+        88,
+        91
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Thiruvanchoor Radhakrishnan",
+      "electors_12": 148225
+    },
+    {
+      "ac_no": 98,
+      "name": "Puthuppally",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        92,
+        88,
+        95,
+        94,
+        89
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Oommen Chandy",
+      "electors_12": 157222
+    },
+    {
+      "ac_no": 99,
+      "name": "Changanassery",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        89,
+        88,
+        105,
+        106,
+        92
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "C.F Thomas",
+      "electors_12": 149193
+    },
+    {
+      "ac_no": 100,
+      "name": "Kanjirappally",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        87,
+        88,
+        92,
+        106
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "Dr. N.Jayaraj",
+      "electors_12": 161648
+    },
+    {
+      "ac_no": 101,
+      "name": "Poonjar",
+      "district": "Kottayam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        87,
+        93,
+        86
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(M)",
+      "winner_12": "P C George, Plathottam",
+      "electors_12": 167928
+    },
+    {
+      "ac_no": 102,
+      "name": "Aroor",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        98,
+        97,
+        96,
+        75,
+        74
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Adv.Am.Ariff",
+      "electors_12": 174130
+    },
+    {
+      "ac_no": 103,
+      "name": "Cherthala",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        98,
+        99,
+        97,
+        96
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "P.Thilothaman",
+      "electors_12": 190806
+    },
+    {
+      "ac_no": 104,
+      "name": "Alappuzha",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        99,
+        100,
+        102
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Dr.T.M.Thomas Isaac",
+      "electors_12": 173942
+    },
+    {
+      "ac_no": 105,
+      "name": "Ambalapuzha",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        102,
+        101,
+        103,
+        100
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "G.Sudhakaran",
+      "electors_12": 146890
+    },
+    {
+      "ac_no": 106,
+      "name": "Kuttanad",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        102,
+        105,
+        89,
+        90,
+        103
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "NCP",
+      "winner_12": "Thomas Chandy",
+      "electors_12": 150213
+    },
+    {
+      "ac_no": 107,
+      "name": "Haripad",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        103,
+        104,
+        109,
+        105
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Ramesh Chennithala",
+      "electors_12": 171834
+    },
+    {
+      "ac_no": 108,
+      "name": "Kayamkulam",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        109,
+        104,
+        121,
+        110
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "C.K.Sadasivan",
+      "electors_12": 182036
+    },
+    {
+      "ac_no": 109,
+      "name": "Mavelikara",
+      "district": "Alappuzha",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        110,
+        109,
+        120,
+        108,
+        121
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "R. Rajesh",
+      "electors_12": 177789
+    },
+    {
+      "ac_no": 110,
+      "name": "Chengannur",
+      "district": "Alappuzha",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        108,
+        107,
+        109,
+        110
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "P.C.Vishnunath",
+      "electors_12": 176875
+    },
+    {
+      "ac_no": 111,
+      "name": "Thiruvalla",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        106,
+        105,
+        108,
+        88
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "JD(S)",
+      "winner_12": "Adv Mathew T Thomas",
+      "electors_12": 193874
+    },
+    {
+      "ac_no": 112,
+      "name": "Ranni",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        111,
+        113,
+        106,
+        86,
+        107
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Raju Abrham",
+      "electors_12": 175669
+    },
+    {
+      "ac_no": 113,
+      "name": "Aranmula",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        112,
+        107,
+        106,
+        105,
+        111
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Adv.K.Sivadasan Nair",
+      "electors_12": 207229
+    },
+    {
+      "ac_no": 114,
+      "name": "Konni",
+      "district": "Pathanamthitta",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        113,
+        112,
+        86
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Adv. Adoor Prakash",
+      "electors_12": 182384
+    },
+    {
+      "ac_no": 115,
+      "name": "Adoor",
+      "district": "Pathanamthitta",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        119,
+        110,
+        120,
+        113,
+        114
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "Chittayam Gopakumar",
+      "electors_12": 194014
+    },
+    {
+      "ac_no": 116,
+      "name": "Karunagappally",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        121,
+        122,
+        120,
+        109
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "C. Divakaran",
+      "electors_12": 182508
+    },
+    {
+      "ac_no": 117,
+      "name": "Chavara",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        123,
+        122,
+        124
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KRSP",
+      "winner_12": "Shibu Baby John",
+      "electors_12": 159655
+    },
+    {
+      "ac_no": 118,
+      "name": "Kunnathur",
+      "district": "Kollam",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        123,
+        120,
+        118,
+        117,
+        122
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "RSP",
+      "winner_12": "Kovoor Kunjumon",
+      "electors_12": 194463
+    },
+    {
+      "ac_no": 119,
+      "name": "Kottarakkara",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        117,
+        118,
+        115,
+        114
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Adv:p.Aisha Potty",
+      "electors_12": 184917
+    },
+    {
+      "ac_no": 120,
+      "name": "Pathanapuram",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        114,
+        117,
+        115,
+        113
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "KEC(B)",
+      "winner_12": "K.B Ganesh Kumar",
+      "electors_12": 172946
+    },
+    {
+      "ac_no": 121,
+      "name": "Punalur",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        115,
+        114
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "Adv.K.Raju",
+      "electors_12": 189994
+    },
+    {
+      "ac_no": 122,
+      "name": "Chadayamangalam",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        116,
+        115,
+        118,
+        117,
+        130
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "Mullakkara Ratnakaran",
+      "electors_12": 177610
+    },
+    {
+      "ac_no": 123,
+      "name": "Kundara",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        126,
+        118,
+        125,
+        123
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "M.A. Baby",
+      "electors_12": 178990
+    },
+    {
+      "ac_no": 124,
+      "name": "Kollam",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        125,
+        123,
+        124
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "P.K.Gurudasan",
+      "electors_12": 160475
+    },
+    {
+      "ac_no": 125,
+      "name": "Eravipuram",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        125,
+        126
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "RSP",
+      "winner_12": "A.A. Azeez",
+      "electors_12": 153575
+    },
+    {
+      "ac_no": 126,
+      "name": "Chathannur",
+      "district": "Kollam",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        126,
+        118,
+        129,
+        127
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "G.S.Jayalal",
+      "electors_12": 160688
+    },
+    {
+      "ac_no": 127,
+      "name": "Varkala",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        129,
+        127,
+        128,
+        116
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Varkala Kahar",
+      "electors_12": 151930
+    },
+    {
+      "ac_no": 128,
+      "name": "Attingal",
+      "district": "Thiruvananthapuram",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        129,
+        128,
+        130,
+        116,
+        127
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Advocate. B. Satyan",
+      "electors_12": 171684
+    },
+    {
+      "ac_no": 129,
+      "name": "Chirayinkeezhu",
+      "district": "Thiruvananthapuram",
+      "type": "SC",
+      "status": "new",
+      "src": [
+        133,
+        128,
+        129,
+        130,
+        134
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPI",
+      "winner_12": "V.Sasi",
+      "electors_12": 169988
+    },
+    {
+      "ac_no": 130,
+      "name": "Nedumangad",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        132,
+        133,
+        130,
+        134
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Palode Ravi",
+      "electors_12": 175795
+    },
+    {
+      "ac_no": 131,
+      "name": "Vamanapuram",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        130,
+        131,
+        132,
+        115
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "Koliakode.N. Krishnan Nair",
+      "electors_12": 174408
+    },
+    {
+      "ac_no": 132,
+      "name": "Kazhakkoottam",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        134,
+        135,
+        136,
+        133,
+        132
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Adv. M. A. Vaheed",
+      "electors_12": 163199
+    },
+    {
+      "ac_no": 133,
+      "name": "Vattiyoorkavu",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        136,
+        134,
+        137,
+        132
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "K.Muralidharan",
+      "electors_12": 175398
+    },
+    {
+      "ac_no": 134,
+      "name": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        136,
+        135,
+        137,
+        138
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "Adv.V.S.Sivakumar",
+      "electors_12": 177442
+    },
+    {
+      "ac_no": 135,
+      "name": "Nemom",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        138,
+        137,
+        136
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "V.Sivankutty",
+      "electors_12": 172493
+    },
+    {
+      "ac_no": 136,
+      "name": "Aruvikkara",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        131,
+        132,
+        139
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "G. Karthikeyen",
+      "electors_12": 165638
+    },
+    {
+      "ac_no": 137,
+      "name": "Parassala",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        139,
+        140
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "A.T. George",
+      "electors_12": 188442
+    },
+    {
+      "ac_no": 138,
+      "name": "Kattakkada",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        137,
+        139,
+        131
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "INC",
+      "winner_12": "N Sakthan",
+      "electors_12": 166306
+    },
+    {
+      "ac_no": 139,
+      "name": "Kovalam",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        138,
+        140,
+        139,
+        137
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "JD(S)",
+      "winner_12": "Jameela Prakasam",
+      "electors_12": 183616
+    },
+    {
+      "ac_no": 140,
+      "name": "Neyyattinkara",
+      "district": "Thiruvananthapuram",
+      "type": "GEN",
+      "status": "new",
+      "src": [
+        140,
+        139
+      ],
+      "note": "",
+      "extent": "",
+      "party12": "CPM",
+      "winner_12": "R Selvaraj",
+      "electors_12": 157851
+    }
+  ],
+  "sources": [
+    "Delimitation of Parliamentary and Assembly Constituencies Order, 1976",
+    "Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
+    "ECI Statistical Reports, 2006 & 2011 Kerala Assembly elections"
+  ],
+  "map_caveats": [
+    "Drawn boundaries follow the source shapefiles from the delimitation orders."
+  ],
+  "footnotes": [
+    "2006 winners attached to 1976-order seats; 2011 winners to 2008-order seats.",
+    "Front abbreviations: LDF = Left Democratic Front, UDF = United Democratic Front, NDA = National Democratic Alliance."
+  ]
+}
