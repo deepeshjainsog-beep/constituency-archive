@@ -65,7 +65,7 @@
   ],
   "district_grid_old": [
     {
-      "name": "Kutch"
+      "name": "Kachchh"
     },
     {
       "name": "Surendranagar"
@@ -92,7 +92,7 @@
       "name": "Gandhinagar"
     },
     {
-      "name": "Mehsana"
+      "name": "Mahesana"
     },
     {
       "name": "Banaskantha"
@@ -104,19 +104,19 @@
       "name": "Panchmahals"
     },
     {
-      "name": "Kaira"
+      "name": "Kheda"
     },
     {
-      "name": "Baroda"
+      "name": "Vadodara"
     },
     {
-      "name": "Broach"
+      "name": "Bharuch"
     },
     {
       "name": "Surat"
     },
     {
-      "name": "Bulsar and Dangs"
+      "name": "Valsad"
     }
   ],
   "district_grid_new": [
@@ -223,7 +223,7 @@
     {
       "ac_no": 1,
       "name": "Abdasa",
-      "district": "Kutch",
+      "district": "Kachchh",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -238,7 +238,7 @@
     {
       "ac_no": 2,
       "name": "Mandvi",
-      "district": "Kutch",
+      "district": "Kachchh",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -254,7 +254,7 @@
     {
       "ac_no": 3,
       "name": "Bhuj",
-      "district": "Kutch",
+      "district": "Kachchh",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -271,7 +271,7 @@
     {
       "ac_no": 4,
       "name": "Mundra",
-      "district": "Kutch",
+      "district": "Kachchh",
       "type": "SC",
       "status": "abolished",
       "dest": [
@@ -289,7 +289,7 @@
     {
       "ac_no": 5,
       "name": "Anjar",
-      "district": "Kutch",
+      "district": "Kachchh",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -306,7 +306,7 @@
     {
       "ac_no": 6,
       "name": "Rapar",
-      "district": "Kutch",
+      "district": "Kachchh",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -1595,7 +1595,7 @@
     {
       "ac_no": 80,
       "name": "Kalol",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -1613,7 +1613,7 @@
     {
       "ac_no": 81,
       "name": "Kadi",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -1631,7 +1631,7 @@
     {
       "ac_no": 82,
       "name": "Jotana",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "SC",
       "status": "abolished",
       "dest": [
@@ -1650,7 +1650,7 @@
     {
       "ac_no": 83,
       "name": "Mehsana",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -1669,7 +1669,7 @@
     {
       "ac_no": 84,
       "name": "Mansa",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -1687,7 +1687,7 @@
     {
       "ac_no": 85,
       "name": "Vijapur",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -1706,7 +1706,7 @@
     {
       "ac_no": 86,
       "name": "Visnagar",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -1725,7 +1725,7 @@
     {
       "ac_no": 87,
       "name": "Kheralu",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -1743,7 +1743,7 @@
     {
       "ac_no": 88,
       "name": "Unjha",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -1762,7 +1762,7 @@
     {
       "ac_no": 89,
       "name": "Sidhpur",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -1780,7 +1780,7 @@
     {
       "ac_no": 90,
       "name": "Vagdod",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -1799,7 +1799,7 @@
     {
       "ac_no": 91,
       "name": "Patan",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -1818,7 +1818,7 @@
     {
       "ac_no": 92,
       "name": "Chanasma",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -1834,7 +1834,7 @@
     {
       "ac_no": 93,
       "name": "Sami",
-      "district": "Mehsana",
+      "district": "Mahesana",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2390,7 +2390,7 @@
     {
       "ac_no": 124,
       "name": "Balasinor",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2408,7 +2408,7 @@
     {
       "ac_no": 125,
       "name": "Kapadvanj",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2426,7 +2426,7 @@
     {
       "ac_no": 126,
       "name": "Thasra",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2443,7 +2443,7 @@
     {
       "ac_no": 127,
       "name": "Umreth",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2460,7 +2460,7 @@
     {
       "ac_no": 128,
       "name": "Kathlal",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2478,7 +2478,7 @@
     {
       "ac_no": 129,
       "name": "Mehmedabad",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2496,7 +2496,7 @@
     {
       "ac_no": 130,
       "name": "Mahudha",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2513,7 +2513,7 @@
     {
       "ac_no": 131,
       "name": "Nadiad",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2531,7 +2531,7 @@
     {
       "ac_no": 132,
       "name": "Chakalasi",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2550,7 +2550,7 @@
     {
       "ac_no": 133,
       "name": "Anand",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2568,7 +2568,7 @@
     {
       "ac_no": 134,
       "name": "Sarsa",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2585,7 +2585,7 @@
     {
       "ac_no": 135,
       "name": "Petlad",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2603,7 +2603,7 @@
     {
       "ac_no": 136,
       "name": "Sojitra",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "SC",
       "status": "continuing",
       "dest": [
@@ -2622,7 +2622,7 @@
     {
       "ac_no": 137,
       "name": "Matar",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2639,7 +2639,7 @@
     {
       "ac_no": 138,
       "name": "Borsad",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2658,7 +2658,7 @@
     {
       "ac_no": 139,
       "name": "Bhadran",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2677,7 +2677,7 @@
     {
       "ac_no": 140,
       "name": "Cambay",
-      "district": "Kaira",
+      "district": "Kheda",
       "type": "GEN",
       "status": "renamed",
       "dest": [
@@ -2694,7 +2694,7 @@
     {
       "ac_no": 141,
       "name": "Chhota Udaipur",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "ST",
       "status": "continuing",
       "dest": [
@@ -2710,7 +2710,7 @@
     {
       "ac_no": 142,
       "name": "Jetpur",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2727,7 +2727,7 @@
     {
       "ac_no": 143,
       "name": "Nasvadi",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "ST",
       "status": "abolished",
       "dest": [
@@ -2744,7 +2744,7 @@
     {
       "ac_no": 144,
       "name": "Sankheda",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "ST",
       "status": "continuing",
       "dest": [
@@ -2762,7 +2762,7 @@
     {
       "ac_no": 145,
       "name": "Dabhoi",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2780,7 +2780,7 @@
     {
       "ac_no": 146,
       "name": "Savli",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2799,7 +2799,7 @@
     {
       "ac_no": 147,
       "name": "Baroda City",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2817,7 +2817,7 @@
     {
       "ac_no": 148,
       "name": "Sayajiganj",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2835,7 +2835,7 @@
     {
       "ac_no": 149,
       "name": "Raopura",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2852,7 +2852,7 @@
     {
       "ac_no": 150,
       "name": "Vaghodia",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2871,7 +2871,7 @@
     {
       "ac_no": 151,
       "name": "Baroda Rural",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2890,7 +2890,7 @@
     {
       "ac_no": 152,
       "name": "Padra",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2909,7 +2909,7 @@
     {
       "ac_no": 153,
       "name": "Karjan",
-      "district": "Baroda",
+      "district": "Vadodara",
       "type": "SC",
       "status": "continuing",
       "dest": [
@@ -2928,7 +2928,7 @@
     {
       "ac_no": 154,
       "name": "Jambusar",
-      "district": "Broach",
+      "district": "Bharuch",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2944,7 +2944,7 @@
     {
       "ac_no": 155,
       "name": "Vagra",
-      "district": "Broach",
+      "district": "Bharuch",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2962,7 +2962,7 @@
     {
       "ac_no": 156,
       "name": "Broach",
-      "district": "Broach",
+      "district": "Bharuch",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -2980,7 +2980,7 @@
     {
       "ac_no": 157,
       "name": "Ankleshwar",
-      "district": "Broach",
+      "district": "Bharuch",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -2998,7 +2998,7 @@
     {
       "ac_no": 158,
       "name": "Jhagadia",
-      "district": "Broach",
+      "district": "Bharuch",
       "type": "ST",
       "status": "continuing",
       "dest": [
@@ -3015,7 +3015,7 @@
     {
       "ac_no": 159,
       "name": "Dediapada",
-      "district": "Broach",
+      "district": "Bharuch",
       "type": "ST",
       "status": "continuing",
       "dest": [
@@ -3034,7 +3034,7 @@
     {
       "ac_no": 160,
       "name": "Rajpipla",
-      "district": "Broach",
+      "district": "Bharuch",
       "type": "ST",
       "status": "renamed",
       "dest": [
@@ -3262,7 +3262,7 @@
     {
       "ac_no": 173,
       "name": "Jalalpore",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "GEN",
       "status": "continuing",
       "dest": [
@@ -3278,7 +3278,7 @@
     {
       "ac_no": 174,
       "name": "Navsari",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "ST",
       "status": "continuing",
       "dest": [
@@ -3294,7 +3294,7 @@
     {
       "ac_no": 175,
       "name": "Gandevi",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -3312,7 +3312,7 @@
     {
       "ac_no": 176,
       "name": "Chikhli",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "ST",
       "status": "abolished",
       "dest": [
@@ -3329,7 +3329,7 @@
     {
       "ac_no": 177,
       "name": "Dangs-Bansda",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "ST",
       "status": "renamed",
       "dest": [
@@ -3345,7 +3345,7 @@
     {
       "ac_no": 178,
       "name": "Bulsar",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "GEN",
       "status": "abolished",
       "dest": [
@@ -3361,7 +3361,7 @@
     {
       "ac_no": 179,
       "name": "Dharampur",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "ST",
       "status": "abolished",
       "dest": [
@@ -3379,7 +3379,7 @@
     {
       "ac_no": 180,
       "name": "Mota Pondha",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "ST",
       "status": "renamed",
       "dest": [
@@ -3396,7 +3396,7 @@
     {
       "ac_no": 181,
       "name": "Pardi",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "ST",
       "status": "abolished",
       "dest": [
@@ -3414,7 +3414,7 @@
     {
       "ac_no": 182,
       "name": "Umbergaon",
-      "district": "Bulsar and Dangs",
+      "district": "Valsad",
       "type": "ST",
       "status": "continuing",
       "dest": [
@@ -6645,7 +6645,6 @@
     "In dense urban seats (Ahmedabad, Surat, Vadodara), drawn boundaries follow the source shapefile and may differ slightly from the exact ward extent in the delimitation orders."
   ],
   "footnotes": [
-    "2007 winners attached to 1976-order seats; 2012 winners to 2008-order seats, from ECI statistical reports.",
-    "Lineage links are sourced from the bundle data."
+    "2007 winners attached to 1976-order seats; 2012 winners to 2008-order seats, from ECI statistical reports."
   ]
 }
