@@ -179,9 +179,11 @@
   await Promise.all([fetchSVG("pre", maps.pre2008), fetchSVG("post", maps.post2008)]);
 
   /* ---- State ---- */
-  let view1 = "pre";
-  let selOld = null;
-  let selNew = null;
+  const seatParam  = parseInt(params.get("seat"), 10);
+  const orderParam = params.get("order");
+  let view1 = (orderParam === "new") ? "post" : "pre";
+  let selOld = (orderParam === "old" && seatParam) ? seatParam : null;
+  let selNew = (orderParam === "new" && seatParam) ? seatParam : null;
   let filter = "all";
   let cFlipMode = "none";
   let tsel = null;
@@ -782,6 +784,10 @@
   })();
 
   update();
+  if (selOld !== null || selNew !== null) {
+    const t = document.getElementById(selNew !== null ? "p2" : "p1");
+    if (t) t.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
 
   /* ========================= HTML BUILDERS ========================= */
 
