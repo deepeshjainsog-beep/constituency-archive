@@ -6,6 +6,9 @@
   const $ = id => document.getElementById(id);
   const CE = (tag, cls) => { const e = document.createElement(tag); if (cls) e.className = cls; return e; };
 
+  /* correction reports — declared early: sourcesHTML() runs before the helper block below */
+  const REPORT_TO = "boundaries.sog@gmail.com";
+
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"]/g, c =>
       ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;" }[c]));
@@ -694,8 +697,6 @@
   }
 
   /* ==== CITATION, DOWNLOAD, ERROR REPORT ==== */
-
-  const REPORT_TO = "boundaries.sog@gmail.com";
 
   function siteOrigin() {
     return (location.protocol === "http:" || location.protocol === "https:")
