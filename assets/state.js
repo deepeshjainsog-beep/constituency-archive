@@ -614,6 +614,12 @@
           return "<button " + attr + " style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid rgba(41,36,27,0.5);background:#fff;padding:3px 9px;border-radius:99px\">" + esc(lk.label) + " \u2192</button>";
         }).join("") + "</div>";
     }
+
+    html +=
+      "<div style=\"border-top:1px dotted rgba(41,36,27,0.4);margin-top:16px;padding-top:10px\">" +
+      "<a href=\"" + reportHref(c, isOld) + "\" style=\"font-family:var(--sans);font-size:12px;color:var(--ink-60);border-bottom:1px dotted rgba(41,36,27,0.5);text-decoration:none\">" +
+      "Report an error in this record</a></div>";
+
     return html;
   }
 
@@ -687,12 +693,114 @@
       "<div style=\"font-family:var(--sans);font-size:12.5px;font-style:italic;color:rgba(41,36,27,0.6);padding:8px 10px\">No seat or district matches</div>";
   }
 
+  /* ==== CITATION, DOWNLOAD, ERROR REPORT ==== */
+
+  const REPORT_TO = "boundaries.sog@gmail.com";
+
+  function siteOrigin() {
+    return (location.protocol === "http:" || location.protocol === "https:")
+      ? location.origin : "https://boundaries.in";
+  }
+  function stateURL() {
+    return siteOrigin() + "/state.html?state=" + entry.slug;
+  }
+  function accessedToday() {
+    try {
+      return new Date().toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+    } catch (e) { return new Date().toDateString(); }
+  }
+  function citationText() {
+    return "Boundaries. " + data.name + " Legislative Assembly: constituencies under the " +
+      PRE_YEAR + " and " + POST_YEAR + " delimitation orders. " + stateURL() +
+      ". Accessed " + accessedToday() + ".";
+  }
+
+  function reportHref(c, isOld) {
+    const orderLbl = (isOld ? PRE_YEAR : POST_YEAR) + " order";
+    const subject = "Boundaries correction \u00b7 " + data.name + " \u00b7 AC " + c.ac_no + " " + c.name + " (" + orderLbl + ")";
+    const body =
+      "State: " + data.name + "\n" +
+      "Seat: " + c.ac_no + " " + c.name + "\n" +
+      "Order: " + orderLbl + "\n" +
+      "Page: " + stateURL() + "\n\n" +
+      "What appears to be wrong:\n\n\n" +
+      "Source for the correction, if you have one:\n\n";
+    return "mailto:" + REPORT_TO +
+      "?subject=" + encodeURIComponent(subject) +
+      "&amp;body=" + encodeURIComponent(body);
+  }
+
+  /* ---- CSV / JSON export ---- */
+
+  function csvCell(v) {
+    const s = (v === null || v === undefined) ? "" : String(v).replace(/\s+/g, " ").trim();
+    return /[",\n]/.test(s) ? "\"" + s.replace(/"/g, "\"\"") + "\"" : s;
+  }
+  function linkList(nums, lookup) {
+    return (nums || []).map(function (n) {
+      const s = lookup[n];
+      return s ? (n + " " + s.name) : String(n);
+    }).join("; ");
+  }
+  function buildCSV() {
+    const cols = ["order", "ac_no", "name", "district", "reservation", "status",
+      "predecessor_seats", "successor_seats", "election_year", "winner", "party",
+      "electors", "note", "reservation_note", "extent"];
+    const lines = [cols.join(",")];
+    olds.forEach(function (c) {
+      lines.push([PRE_YEAR, c.ac_no, c.name, c.district, c.type || "GEN", c.status || "",
+        "", linkList(c.dest, newByN), PRE_ELEC, c.winner_07 || "", c.party07 || "",
+        c.electors_07 || "", c.note || "", c.sc_note || "", c.extent || c.extent_1976 || ""
+      ].map(csvCell).join(","));
+    });
+    news.forEach(function (c) {
+      lines.push([POST_YEAR, c.ac_no, c.name, c.district, c.type || "GEN", c.status || "",
+        linkList(c.src, oldByN), "", POST_ELEC, c.winner_12 || "", c.party12 || "",
+        c.electors_12 || "", c.note || "", c.sc_note || "", c.extent || ""
+      ].map(csvCell).join(","));
+    });
+    return "\ufeff" + lines.join("\r\n") + "\r\n";
+  }
+  function download(filename, text, mime) {
+    try {
+      const blob = new Blob([text], { type: mime + ";charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url; a.download = filename;
+      document.body.appendChild(a); a.click(); document.body.removeChild(a);
+      setTimeout(function () { URL.revokeObjectURL(url); }, 1500);
+    } catch (err) {}
+  }
+
   /* ==== EVENT DELEGATION ==== */
   document.addEventListener("click", e => {
     const sOld = e.target.closest("[data-search-old]");
     const sNew = e.target.closest("[data-search-new]");
     if (sOld) { selOld = +sOld.dataset.searchOld; selNew = null; searchQ = ""; update(); const d = $("search-drop"); if(d) d.style.display="none"; return; }
     if (sNew) { selNew = +sNew.dataset.searchNew; selOld = null; searchQ = ""; update(); const d = $("search-drop"); if(d) d.style.display="none"; return; }
+
+    if (e.target.closest("[data-cite-copy]")) {
+      const btn = e.target.closest("[data-cite-copy]");
+      const txt = citationText();
+      const done = function () { btn.textContent = "Copied"; setTimeout(function () { btn.textContent = "Copy citation"; }, 1800); };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(txt).then(done, function () {});
+      } else {
+        const ta = document.createElement("textarea");
+        ta.value = txt; document.body.appendChild(ta); ta.select();
+        try { document.execCommand("copy"); done(); } catch (err) {}
+        document.body.removeChild(ta);
+      }
+      return;
+    }
+    if (e.target.closest("[data-dl-csv]")) {
+      download("boundaries-" + entry.slug + "-" + PRE_YEAR + "-" + POST_YEAR + ".csv", buildCSV(), "text/csv");
+      return;
+    }
+    if (e.target.closest("[data-dl-json]")) {
+      download("boundaries-" + entry.slug + ".json", JSON.stringify(data, null, 2), "application/json");
+      return;
+    }
 
     const gn = e.target.closest("[data-goto-new]");
     const go = e.target.closest("[data-goto-old]");
@@ -1054,7 +1162,36 @@
       listBlock("Map caveats", data.map_caveats) +
       listBlock("Data flags", data.data_flags) +
       listBlock("District framework", data.footnotes) +
+      citeBlockHTML() +
       "</section>";
+  }
+
+  function citeBlockHTML() {
+    const stamp = data.last_updated
+      ? "<div style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.06em;color:var(--ink-45);margin-top:10px\">This page last revised " + esc(data.last_updated) + "</div>"
+      : "";
+    return "<div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;margin-top:32px\">" +
+
+      "<div style=\"border:1px solid rgba(41,36,27,0.45);background:#f8f4eb;padding:16px 18px 18px\">" +
+      "<div style=\"font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-60);border-bottom:1px solid rgba(41,36,27,0.3);padding-bottom:5px;margin-bottom:10px\">Cite this page</div>" +
+      "<div id=\"cite-text\" style=\"font-family:var(--mono);font-size:12px;line-height:1.65;background:var(--bg);border:1px solid rgba(41,36,27,0.25);border-radius:3px;padding:10px 12px;word-break:break-word\">" + esc(citationText()) + "</div>" +
+      "<button data-cite-copy=\"1\" style=\"all:unset;cursor:pointer;display:inline-block;margin-top:10px;font-family:var(--sans);font-size:12px;font-weight:500;border:1px solid rgba(41,36,27,0.55);padding:4px 12px;border-radius:99px\">Copy citation</button>" +
+      "<p style=\"margin:10px 0 0;font-size:11.5px;font-style:italic;line-height:1.5;color:var(--ink-60)\">The access date is filled in from your own clock. Adjust the style to suit your publication.</p>" +
+      stamp +
+      "</div>" +
+
+      "<div style=\"border:1px solid rgba(41,36,27,0.45);background:#f8f4eb;padding:16px 18px 18px\">" +
+      "<div style=\"font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-60);border-bottom:1px solid rgba(41,36,27,0.3);padding-bottom:5px;margin-bottom:10px\">Download the record</div>" +
+      "<p style=\"margin:0 0 12px;font-size:13.5px;line-height:1.6\">Every seat under both orders in one file: " + olds.length + " constituencies of the " + PRE_YEAR + " order and " + news.length + " of the " + POST_YEAR + " order, with district, reservation, status, lineage, winner, party and electorate.</p>" +
+      "<div style=\"display:flex;gap:8px;flex-wrap:wrap\">" +
+      "<button data-dl-csv=\"1\" style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12px;font-weight:500;border:1px solid rgba(41,36,27,0.55);padding:4px 12px;border-radius:99px\">CSV</button>" +
+      "<button data-dl-json=\"1\" style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12px;font-weight:500;border:1px solid rgba(41,36,27,0.55);padding:4px 12px;border-radius:99px\">JSON</button>" +
+      "</div>" +
+      "<p style=\"margin:12px 0 0;font-size:11.5px;font-style:italic;line-height:1.5;color:var(--ink-60)\">Lineage between the two orders is traced by name and by the delimitation order text. Urban seats defined by municipal wards cannot be matched mechanically, because the two orders use incompatible ward schemes; treat those links as indicative.</p>" +
+      "<p style=\"margin:10px 0 0;font-size:11.5px;line-height:1.5;color:var(--ink-60)\">Corrections to <a href=\"mailto:" + REPORT_TO + "\">" + REPORT_TO + "</a>.</p>" +
+      "</div>" +
+
+      "</div>";
   }
 
   function shell(inner) {
