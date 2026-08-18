@@ -264,8 +264,7 @@
    "dest": [
     52,
     51,
-    50,
-    49
+    50
    ],
    "note": "",
    "extent": "Aurad taluk in Bidar sub-division.",
@@ -482,7 +481,6 @@
    "status": "renamed",
    "dest": [
     40,
-    39,
     41,
     43
    ],
@@ -589,7 +587,6 @@
    "status": "continuing",
    "dest": [
     36,
-    57,
     56,
     26
    ],
@@ -659,8 +656,7 @@
     55,
     59,
     58,
-    53,
-    92
+    53
    ],
    "note": "",
    "extent": "Manvi taluk (excluding Sirwar and Kallur circles) in Raichur sub-division.",
@@ -693,8 +689,7 @@
    "dest": [
     58,
     59,
-    61,
-    92
+    61
    ],
    "note": "",
    "extent": "Sindhnoor taluk (excluding Turvihal circle) in Lingsugur sub-division.",
@@ -750,7 +745,6 @@
     61,
     60,
     62,
-    91,
     92,
     59
    ],
@@ -791,8 +785,7 @@
     88,
     62,
     89,
-    65,
-    90
+    65
    ],
    "note": "",
    "extent": "Koppal taluk (excluding Hittanhal circle) in Koppal sub-division. JI. Siruguppa.—Siruguppa taluk ; and Kolur circle in Bellary taluk in Bellary sub-division.",
@@ -973,8 +966,7 @@
     105,
     110,
     106,
-    107,
-    108
+    107
    ],
    "note": "",
    "extent": "Harihar taluk in Davangere sub-division.",
@@ -1305,8 +1297,7 @@
    "dest": [
     131,
     191,
-    185,
-    187
+    185
    ],
    "note": "",
    "extent": "Kunigal taluk (excluding Kothagere and Hutri- durga Hoblis and Kunigal Town and 1—Mallaghatta, 2—Bid- nagere, 50—Kunigal Bagayat and 51—Gar.gadahalli villages in Kunigal Hobli and 189—Yadehalli village in Huliyurdurga hobli) in Tumkur sub-division.",
@@ -1340,7 +1331,6 @@
    "status": "continuing",
    "dest": [
     130,
-    191,
     131,
     193
    ],
@@ -1471,8 +1461,7 @@
     143,
     142,
     140,
-    144,
-    148
+    144
    ],
    "note": "",
    "extent": "Chin.tamani taluk (exluding Kaiwara and Chin- tamani hoblis but including Chintamani town and village 72-Gownigadde) and Chelur hobli in Bagepalli taluk in Chikballapur sub-division.",
@@ -1824,10 +1813,7 @@
    "dest": [
     153,
     176,
-    154,
-    183,
-    175,
-    182
+    154
    ],
    "note": "",
    "extent": "Yeshawanthapur Hobli in Bangalore North taluk; and Uttarahalli and Kengeri Hoblis and Begur Hobli (exclu- ding i-Vittasandra, 2-Bettadasenapura, 3-Mylasandra, 4-Homma devanahalli, 5-Basavanapura, 6-Kammanahalli, 7-Yelanahalli, 8-Chandrasekharapura, 9-Kalenagrahara, 10-Be- gur, n-Hulimav, 33-Singasandra, 34-Parappanagrahara, 35-Basapura, 36-Naganathapura, 37-Beratenagrahara, 38-Doddanagamangala, 39-Chikkathogur, 40-Konappanagra- hara and 41-Doddathogur villages) in Bangalore South «luk in Bangalore sub-division.",
@@ -1881,8 +1867,7 @@
    "dest": [
     184,
     185,
-    186,
-    221
+    186
    ],
    "note": "",
    "extent": "Sathanur, Kodihalli and Uyyamballi hoblis in Kana- kapura taluk; and Virupakshipura Hobli (excluding villages 73-Saragur, 74-Iggalur, 75-Neralur, 76-Nunnuru, 77-Haro- koppa, 78-Ambadahalli, 81-Madapura, 82-Sogala, 83-Garka- halli, 84-Krishnapura, 85-Sadahalli, 86-Ankusanahalli, 87- Agraharvalarahalli, 88-Suleri, 89-Avverahalli, 90-Bangahalli, 93-Nagapura, 94-Akkur, 95-Hosahalli and 96-Malagalu) in Channapatna taluk in Ramanagaram sub-div}sion.",
@@ -1900,7 +1885,6 @@
     185,
     187,
     183,
-    186,
     182
    ],
    "note": "",
@@ -1989,10 +1973,8 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    179,
     152,
     174,
-    178,
     150
    ],
    "note": "",
@@ -2008,9 +1990,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    178,
     174,
-    149,
     151,
     177,
     152
@@ -2029,8 +2009,7 @@
    "status": "continuing",
    "dest": [
     177,
-    176,
-    183
+    176
    ],
    "note": "",
    "extent": "Anekal taluk in Doddaballapur sub-division; and i-Vittasandra, 2-Bettadasenapura, 3-Mylasandra, 4- Hommadevanahalli, 5-Basavani.pnra, 6-KammanahaIli, 7- Yelanahall, 8-Chandrasekharapura, 9-K.alenagrahara, 10-Begur, n-Hulimav, 33-Singasandra, 34-Parappanagrahara, 35-Basa- para, 36-Naganathapura, 37-Beratenagrahara, 38-Doddana- gamangala, 39-Chikkathogur, 40-Konappanagrahara and 41-Doddathogur villages in Begur hobliin Bangalore South taluk in Bangalore sub-division.",
@@ -2118,9 +2097,7 @@
     190,
     189,
     187,
-    188,
-    220,
-    186
+    188
    ],
    "note": "",
    "extent": "Mandya town, Mandya hobli (Circles I and II) and Kothathi Hobli Circle II in Mandya taluk in Mandya sub-division.",
@@ -2241,7 +2218,6 @@
    "status": "abolished",
    "dest": [
     220,
-    219,
     186
    ],
    "note": "",
@@ -2447,7 +2423,6 @@
    "status": "abolished",
    "dest": [
     211,
-    212,
     215
    ],
    "note": "",
@@ -2568,8 +2543,7 @@
     194,
     195,
     196,
-    199,
-    193
+    199
    ],
    "note": "",
    "extent": "",
@@ -2622,7 +2596,6 @@
    "dest": [
     198,
     210,
-    211,
     208
    ],
    "note": "",
@@ -2658,7 +2631,6 @@
    "dest": [
     199,
     208,
-    198,
     207
    ],
    "note": "",
@@ -2725,7 +2697,6 @@
    "dest": [
     200,
     207,
-    206,
     205
    ],
    "note": "",
@@ -2793,8 +2764,7 @@
    "dest": [
     203,
     202,
-    201,
-    204
+    201
    ],
    "note": "",
    "extent": "Surathkal firka, Padavu town, 3—Boloor and 6—Kadri villages in Mangalore \"A\" firka and Derebail town and 4—Bangarakulur, 5—Padukody, 7—Maroli, 8—Alape and 9—Kannur villages in Mangalore \"B\" firka in Mangalore taluk in Mangalore sub-division. Serial ro., name and extent of constituency",
@@ -2916,8 +2886,6 @@
    "dest": [
     201,
     202,
-    200,
-    205,
     203
    ],
    "note": "",
@@ -2954,7 +2922,6 @@
    "dest": [
     124,
     200,
-    199,
     195
    ],
    "note": "",
@@ -3026,8 +2993,7 @@
    "dest": [
     126,
     127,
-    123,
-    125
+    123
    ],
    "note": "",
    "extent": "Tarikere taluk (excluding Lingadahalli hobli) in Tarikere sub-division.",
@@ -3622,8 +3588,7 @@
    "dest": [
     68,
     69,
-    67,
-    66
+    67
    ],
    "note": "",
    "extent": "Naragund taluk. Hole-Alur circle and 5—Arahu, nashi village in Ron circle in Ron taluk and 41—Lingadhal 42—Balaganur, 43 —Kadadi and 44— Gawarwad villages in Betageri circle in Gadag taluk, in Gadag sub-division.",
@@ -3801,7 +3766,6 @@
     9,
     15,
     16,
-    17,
     13,
     10
    ],
@@ -3869,7 +3833,6 @@
    "dest": [
     7,
     1,
-    6,
     2
    ],
    "note": "",
@@ -3960,8 +3923,7 @@
    "dest": [
     3,
     4,
-    21,
-    20
+    21
    ],
    "note": "",
    "extent": "Athani Town, 1—Athani (Rural), 4—Muragunci, and 5—Masaraguppi villages in Athani circle and Ananthapur and Telsang circles in Athani taluk in Chikkodi sub- division. BIJAPUR D I S T R I C T",
@@ -3979,8 +3941,7 @@
     20,
     21,
     19,
-    5,
-    8
+    5
    ],
    "note": "",
    "extent": "Terdal circle, Jamkhandi town and 2— Hunnur} 3—Kadapatti, 4—Hanchinal, 5— Shiraguppi, 6—Maigur. 7—Muttur, 8—Albal, 9—Kankanwadi and 10—Kadakol villages in Jamkhandi circle and 26— Tungal, 42— Takkod 43—Jambagi B.K., 44—Jambagi K.H., 45—Shurapali and 46 -Tubachi villages in Savalgi circle in Jamkhandi taluk in Jamkhandi sub-division.",
@@ -4127,8 +4088,7 @@
     26,
     24,
     27,
-    28,
-    25
+    28
    ],
    "note": "",
    "extent": "Huvin Hippargi circle, 5—Ivanagi, 6 —Hanchinal, 7—Narasalgi, 8—Uppaldinni, 9 —Alannur, 18—Nagur, 24 -Hebbal, 25—Kirshyal 26—Abbihal and 27—Unnibhavi villages in Basavana Bagewadi cricle and 73 —Golasangi, 74 -Hargargi, 75—Mukartihal, 76—Biraldinni, 77 —Angadigeri, 78 Hunshyal P.C., 79 —Gudadinni, 80-WaaJal, 81—Benal, 82—Gonal, 83—Jeerlbhavi, 84—Maddapur, 85 -Katapur, 86— Nidgundi, 87-Devalapur, 88 -Araldinni, 89—Marimatti, 90—Alamatti 91 - Chimmalagi, 92 —Majarekoppa, 93 —Maradgi, 94 Gani, 95 - Bisalkopp, 96 -Sidanath, 105—Budni, 109—Sikalwacii, 110 —Akalwadi and in—Arasangi villages in Kolhar circle in Basavana Bagewadi taluk, and Dhavalgi circle a ' d 28 -Budihal P.N., 29—Masuti, 30—Yalgur, 31 Kashinakunti and 32—Wadawadgi villages in Muddebihal circle in Muddebihal taluk in Bijapur sub-division.",
@@ -4146,8 +4106,7 @@
     28,
     22,
     29,
-    27,
-    19
+    27
    ],
    "note": "",
    "extent": "Bisavana-B^gewadi taluk (excluding Huvin Hippargi circle and 5 —Ivanagi, 6—Hanchinal, 7—Narasalgi, 8—Uppaldinni, 9—Mannur, 18—Nagur, 24—Hebbal, 25—Kirshyal, 26—Abbihal and 27—Unnibhavi villages in Basavana-Bjgewadi circie \"and 73 —Golasangi, 74_Hargargi, 75—Mukartihal, 76 -Biraldinni, 77—Angad- geri, 78 -Hunshyal P.C., 79 -Gudadinni, 80—Wandal, 81—Benal, 82-Gonal, 83-Jeerlbhavi, 84-Maddapur, 85—Katapur, 86—Nidgundi, 87—Devalapur, 88—Araldinni, 89-Marimatti, 90 —Almatti, 91—Chimmalgi, 92—Majare- koppa, Q-X —Maradgi. 94 - G a n i , 95 -Bisalkopp, 96 -Sidanath, 10s—Budni, 109—Sikalwadi, no—Akalawadi and H I — A r a - sangi villages in Kolhar circle) and Mamadapur circle and 43-g4vanahalH,44-Honaganhalli, 45 -TonashyaUe-Kar 47—Kakhandaki, 48—Dudihal, 49—Halagani^o—Shegunashi, 51—Madagunaki and 52—Kfrnbagi villages in Bableshwar circle in Bijapur taluk, in Bijapur sub-division.",
@@ -4166,8 +4125,7 @@
     31,
     21,
     30,
-    3,
-    28
+    3
    ],
    "note": "",
    "extent": "Tikota and Nagathan circles and Bableshwar circle (excluding 43—Savanahalli, 44—Honaganhalli,45—Tonashyal, 46—Karajol, 47—Kakhandaki, 48—Dudihal, 49—Halagani, 50—Shegunashi, 51—Madagunaki and 52*—Kambagi villages) in Bijapur taluk in Bijapur sub-division.",
@@ -4236,7 +4194,6 @@
    "dest": [
     27,
     33,
-    26,
     35,
     31,
     28
@@ -4343,8 +4300,7 @@
     207,
     206,
     208,
-    205,
-    204
+    205
    ],
    "note": "",
    "extent": "3 Raybag Taluk (Part) 1 Raibag Circle Raibag TP Chikodi Taluk (Part) Nagarmunoli Circle.",
@@ -4379,8 +4335,7 @@
     201,
     207,
     212,
-    206,
-    210
+    206
    ],
    "note": "",
    "extent": "4 Gokak Taluk (Part) 3 Koujalagi Circle 2 Arabhavi Circle (Part) Arabhavi GP - Arabhavi, Sanganakeri, Lolasur GP - Lolasur, Badigwad GP - Badigwad, Dandapur, Ganeshwadi, Balobal GP- Balobal, Beerangaddi, Dharmatti GP- Dharmatti, Patagundi, Duradundi GP- Duradundi, Hallur GP - Hallur, Hunshyal (P.G.) GP - Hunshyal (P.G.), Kallolli GP - Kallolli, Hanamapur Masaguppi GP - Masaguppi, Gujanatti, Jokanatti, Munyal GP - Munyal, Kamaladinni, Rangapur, Naganur GP - Naganur, Nallanatti GP - Basaligundi, Nallanatti, Rajapur GP - Rajapur, Shivapur GP - Shivapur, Gurlapur, Khanatti, Mudalgi (Rural), Tukkanatti GP - Tukkanatti, Waderatti GP - Fulagaddi and Waderatti villages. Mudalgi TMC",
@@ -4537,8 +4492,7 @@
    "src": [
     193,
     192,
-    201,
-    200
+    201
    ],
    "note": "",
    "extent": "Yellamma 9 Parasgad Taluk (Part) 1 Saundatti Circle (Part) Betasur Betasur, Yadravi, Saundatti (Rural), Hanchinal Hanchinal, Hirekumbi, Dhaderkoppa, Dugabal, Hirekumbi, Inamhongal, Chikkulligeri, Hireulligeri, Inamhongal, Ugaragol, Harlapur, Renukanagar, Ugaragol and Kenchalarkop villages. 3 Yaragatti and 4 Munoli Circles. Saundatti Yellamma TMC",
@@ -4573,8 +4527,7 @@
    "src": [
     212,
     211,
-    210,
-    219
+    210
    ],
    "note": "",
    "extent": "3 Mudhol Taluk (Part) 2 Lokapur Circle 1 Mudhol Circle (Part) Belagali GP/Belagali, Halagali GP/Halgali, Melligeri, Kulali GP/Kulali, Malapur, Malali GP/Malali, Soragoan, Mantur GP/Budni (P.M), Kishori, Mantur, Mugalkhod GP/Mugalkhod, Nagaral GP/Akkimardi, Nagaral, Shirol GP/Shirol, Uttur GP/Jaliber, Ranjanagi, Rugi, Uttur, Vantigodi GP/Mallapur (P.J), Mirji, Vantigodi and Chanal villages. Mudhol TMC",
@@ -4590,8 +4543,7 @@
    "status": "new",
    "src": [
     210,
-    208,
-    209
+    208
    ],
    "note": "",
    "extent": "Ter 1 Jamkhandi Taluk (Part) 2 Terdal Circle (Including Rabkavi Banhatti CMC & Terdal TMC) 3 Mudhol Taluk (Part) 1 Mudhol Circle (Part) Dhavaleshwar/Dhavaleshwar, Nandagoan, Kesrakoppa, Bisanal, Kesrakoppa, Madhabhavi/Madhabhavi, Marapur, Sanganatti and Saidapur/Saidapur villages. Mahalingapur TMC",
@@ -4684,8 +4636,7 @@
     217,
     215,
     213,
-    26,
-    218
+    26
    ],
    "note": "",
    "extent": "6 Hungund Taluk (Part) 1 Hunagund, 2 Ilkal and 3 Karadi Circles. 4 Aminagad Circle (Part) Chikanal GP, Benakanavari, Bhimanagad, Chikanal, Chilapur, Kyadiggeri, Siddanakolla, Upnal (S.C.), Gudur GP, Gudur, Kelur GP Kelur, Kunabenchi, Tallikeri, Nagur GP, Ilal, Rakkasagi GP Rakkasagi, Sulibhavi GP Sulibhavi, Vadageri GP, Dammur, Gandal, Gorjnal, Muradi and Vadageri villages. Hungund TP Ilkal TMC",
@@ -4702,7 +4653,6 @@
    "src": [
     218,
     217,
-    224,
     19
    ],
    "note": "",
@@ -4741,8 +4691,7 @@
     219,
     221,
     218,
-    224,
-    220
+    224
    ],
    "note": "",
    "extent": "Bagevadi 4 Basavana Bagevadi Taluk (Part) 1 B.Bagewadi and 3 Kolhar Circles. Basavana Bagevadi TP.",
@@ -4934,8 +4883,7 @@
    "src": [
     16,
     14,
-    17,
-    13
+    17
    ],
    "note": "",
    "extent": "10 Yadgir Taluk (Part) 2 Gurmitkal, 3 Balichakra, Saidapur, 5 Hattikuni and 6 Konkal Circles.",
@@ -5115,8 +5063,7 @@
     5,
     4,
     2,
-    3,
-    1
+    3
    ],
    "note": "",
    "extent": "5 Homnabad Taluk (Part) 4 Nirna and 6 Bemalkheda Circles. 4 Bidar Taluk (Part) 2 Kamthana, 3 Bagdal, 4 Manhalli, and 6 Bidar (South) Circles.",
@@ -5250,7 +5197,6 @@
    "status": "continuing",
    "src": [
     24,
-    19,
     26,
     20,
     217
@@ -5411,8 +5357,7 @@
    "src": [
     188,
     191,
-    187,
-    190
+    187
    ],
    "note": "",
    "extent": "3 Gadag Taluk (Part) 1 Gadag, 2 Gadag Rural and 3 Mulgund Rural Circles. Gadag Betageri CMC Mulgund TP",
@@ -5852,8 +5797,7 @@
    "src": [
     34,
     29,
-    35,
-    30
+    35
    ],
    "note": "",
    "extent": "3 Hospet Taluk (Part) 1 Hospet and 2 Kamalapura Circles Hospet CMC Kamalapura TP",
@@ -5871,7 +5815,6 @@
     31,
     32,
     34,
-    28,
     29
    ],
    "note": "",
@@ -5888,9 +5831,7 @@
    "status": "continuing",
    "src": [
     31,
-    25,
-    28,
-    23
+    28
    ],
    "note": "",
    "extent": "4 Siruguppa Taluk",
@@ -6486,8 +6427,7 @@
     155,
     154,
     152,
-    156,
-    157
+    156
    ],
    "note": "",
    "extent": "6 Chikmagalur Taluk (Part) 8 Lakya, 1 Kasaba and 5 Jagara Circles. Chikmagalur CMC 5 Kadur Taluk (Part) 5 Sakrepatna Circle.",
@@ -6892,9 +6832,7 @@
    "status": "continuing",
    "src": [
     74,
-    73,
-    68,
-    99
+    73
    ],
    "note": "",
    "extent": "8 Kolar Taluk (Part) 2 Vokkaleri, 3 Narasapura and 4 Vemgal Circles. 1 Kolar Kasaba Circle entire Kolar CMC",
@@ -6910,8 +6848,7 @@
    "status": "continuing",
    "src": [
     75,
-    74,
-    99
+    74
    ],
    "note": "",
    "extent": "9 Malur Taluk",
@@ -7341,8 +7278,6 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    89,
-    84,
     90
    ],
    "note": "",
@@ -7394,9 +7329,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    99,
     66,
-    98,
     74,
     75
    ],
@@ -7413,7 +7346,6 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    98,
     97,
     65,
     64,
@@ -7472,7 +7404,6 @@
     94,
     58,
     96,
-    89,
     93
    ],
    "note": "",
@@ -7490,8 +7421,6 @@
    "src": [
     91,
     94,
-    100,
-    89,
     95,
     93
    ],
@@ -7547,9 +7476,7 @@
     104,
     103,
     92,
-    93,
-    112,
-    105
+    112
    ],
    "note": "",
    "extent": "7 Malavalli Taluk",
@@ -7566,7 +7493,6 @@
    "src": [
     102,
     103,
-    59,
     105,
     93
    ],
@@ -7641,7 +7567,6 @@
    "src": [
     101,
     102,
-    61,
     59,
     132
    ],
@@ -7678,8 +7603,7 @@
    "src": [
     132,
     62,
-    61,
-    131
+    61
    ],
    "note": "",
    "extent": "belagola 8 Channarayapatna Taluk (Part) 1 Kasaba, 2 Hirisave, 3 Shravanabelagola, 4 Nuggehalli and 5 Bagur Circles. Channarayapatna TMC",
@@ -7771,7 +7695,6 @@
     134,
     133,
     135,
-    136,
     128
    ],
    "note": "",
@@ -7790,7 +7713,6 @@
     136,
     135,
     129,
-    153,
     131
    ],
    "note": "",
@@ -7809,7 +7731,6 @@
     140,
     153,
     150,
-    151,
     141
    ],
    "note": "",
@@ -7880,7 +7801,6 @@
     143,
     142,
     141,
-    144,
     139
    ],
    "note": "",
@@ -7899,7 +7819,6 @@
     141,
     139,
     140,
-    151,
     143
    ],
    "note": "",
@@ -7916,8 +7835,7 @@
    "status": "continuing",
    "src": [
     138,
-    139,
-    140
+    139
    ],
    "note": "",
    "extent": "2 Bantval Taluk (Part) 3 Vittal Circle (Part) Biliyur, Perne, Kedila, Vittal, Peruvai, Manila, Alike, Idkidu, Kula, Vittalmudnoor, Kepu and Punacha villages. 4 Puttur Taluk (Part) 3 Puttur Circle 1 Uppinangady Circle (Part) Kabaka (Rural), Kudipadi, Padnoor (Rural), Bannur (Rural), Kodimbady, Chickamudnoor (Rural), Bellipadi, Nekkiladi, Hirebandadi, Uppinangady and Bajathuru villages. Puttur TMC",
@@ -8007,7 +7925,6 @@
     124,
     125,
     133,
-    134,
     109
    ],
    "note": "",
@@ -8024,8 +7941,7 @@
    "status": "continuing",
    "src": [
     123,
-    125,
-    124
+    125
    ],
    "note": "",
    "extent": "2 Hunsur Taluk",
@@ -8151,8 +8067,7 @@
     117,
     121,
     120,
-    107,
-    112
+    107
    ],
    "note": "",
    "extent": "4 Mysore Taluk (Part) 2 Varuna Circle. 6 Nanjangud Taluk (Part) 3 Chikkaiahna-Chatra and 4 Biligere Circles. 5 Doddakowlande Circle (Part) Varahalli, Kakkarahatti, Banooru, Hadya, Karepura, Karya, Chunchanahalli, Konanoor, Konanapura, Paduvalamarahalli, Ramasettipura, Hanumanapura, Paduvala Agrahara, Dasanooru, Doddahomma, Chikkahomma and Thoravalli villages. 7 Tirumakudal Narsipur Taluk (Part) 1 Kasaba Circle.",
@@ -8189,8 +8104,7 @@
    "src": [
     110,
     111,
-    104,
-    92
+    104
    ],
    "note": "",
    "extent": "4 Kollegal Taluk (Part) 2 Palya, 3 Hanur, 4 Ramapura and 5 Lokkanahalli Circles. Hanur TP",
