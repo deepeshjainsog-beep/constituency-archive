@@ -711,9 +711,11 @@
     } catch (e) { return new Date().toDateString(); }
   }
   function citationText() {
+    const revised = data.last_updated || entry.last_updated || "";
     return "Boundaries. " + data.name + " Legislative Assembly: constituencies under the " +
-      PRE_YEAR + " and " + POST_YEAR + " delimitation orders. " + stateURL() +
-      ". Accessed " + accessedToday() + ".";
+      PRE_YEAR + " and " + POST_YEAR + " delimitation orders. " +
+      (revised ? "Revised " + revised + ". " : "") +
+      stateURL() + ". Accessed " + accessedToday() + ".";
   }
 
   function reportHref(c, isOld) {
@@ -1168,8 +1170,9 @@
   }
 
   function citeBlockHTML() {
-    const stamp = data.last_updated
-      ? "<div style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.06em;color:var(--ink-45);margin-top:10px\">This page last revised " + esc(data.last_updated) + "</div>"
+    const revised = data.last_updated || entry.last_updated || "";
+    const stamp = revised
+      ? "<div style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.06em;color:var(--ink-45);margin-top:10px\">Record last revised " + esc(revised) + "</div>"
       : "";
     return "<div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;margin-top:32px\">" +
 
