@@ -2124,14 +2124,6 @@
      "pct": 60.4,
      "basis": "measured"
     },
-    "181": {
-     "pct": 31.9,
-     "basis": "measured"
-    },
-    "180": {
-     "pct": 4.2,
-     "basis": "measured"
-    },
     "133": {
      "pct": 1.3,
      "basis": "measured"
@@ -2157,10 +2149,6 @@
    "shares": {
     "133": {
      "pct": 77.9,
-     "basis": "measured"
-    },
-    "181": {
-     "pct": 1.0,
      "basis": "measured"
     },
     "132": {
@@ -2192,10 +2180,6 @@
     },
     "131": {
      "pct": 34.8,
-     "basis": "measured"
-    },
-    "182": {
-     "pct": 4.3,
      "basis": "measured"
     }
    }
@@ -2711,10 +2695,6 @@
     "147": {
      "pct": 5.2,
      "basis": "measured"
-    },
-    "178": {
-     "pct": 1.0,
-     "basis": "measured"
     }
    }
   },
@@ -2731,85 +2711,60 @@
    "extent": "i-Yeswanthapuram, 4-Malleswaram,' 5-Kcd- andaramapuram, 6-Swimming Pool and 7-Dathatreya Temple divisions of Bangalore City Corpo ration in Batgalor sab-div ision. 1 E.C.—14 \" ~™",
    "party07": "INC",
    "winner_07": "Seetharam M R",
-   "electors_07": 195353,
-   "shares": {
-    "150": {
-     "pct": 99.5,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 195353
   },
   {
    "ac_no": 77,
    "name": "Rajajinagar",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    150
+    150,
+    165
    ],
    "note": "",
    "extent": "2-Rajajinagar, 3-Subramanyapura and 10-Sri- ramapuram divisions of Bangalore City Corporation in Banga- lore sub-division.",
    "party07": "INC",
    "winner_07": "Narendra Babu N L",
-   "electors_07": 286222,
-   "shares": {
-    "150": {
-     "pct": 100.0,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 286222
   },
   {
    "ac_no": 78,
    "name": "Gandhinagar",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    152,
-    157,
     150,
-    158,
+    152,
     154,
-    155
+    155,
+    157,
+    158,
+    164
    ],
    "note": "",
    "extent": "8-Seshadripuram, 9—Maharaja Mills, II- Bashyam Nagar, 12-Ramachandrapuram, 13-Subhashnagar and 14-Gandhinagar divisions of Bangalore City Corpora- tion in Bangalore sub-division.",
    "party07": "INC",
    "winner_07": "Dinesh Gundurao",
-   "electors_07": 120650,
-   "shares": {
-    "150": {
-     "pct": 52.8,
-     "basis": "approx"
-    },
-    "154": {
-     "pct": 10.1,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 120650
   },
   {
    "ac_no": 79,
    "name": "Chickpet",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    150
+    150,
+    169
    ],
    "note": "",
    "extent": "15-Rangaswamy Temple, 16-Chickpet, 17-Sri Kasivisveswaraswamy Temple, 18-Sri Krishnarajendra Market, ip-Kemmanagundi, 20-Super Talkies and 41-An- janeyaswamy Temple divisions of Bangalore City Corporation in Bangalore sub-division.",
    "party07": "BJP",
    "winner_07": "Mohan P C",
-   "electors_07": 90564,
-   "shares": {
-    "150": {
-     "pct": 100.0,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 90564
   },
   {
    "ac_no": 80,
@@ -2824,13 +2779,7 @@
    "extent": "21-Binnypet, 22-Kempapura Agrahara, 23-Pada- rayanapura and 24-Azad Nagar divisions of Bangalore City Corporation in Bangalore sub-division.",
    "party07": "INC",
    "winner_07": "Somanna V",
-   "electors_07": 375753,
-   "shares": {
-    "150": {
-     "pct": 51.5,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 375753
   },
   {
    "ac_no": 81,
@@ -2846,26 +2795,21 @@
    "extent": "25-Chamarajapet (West), 26-Chamarajapet (East), 27-Fort, 38-Town Hall, 39-Kalasipalyam, 40-Sri Channarayaswamy Temple and 42-Dharamarayaswamy Temple divisions of Bangalore City Corporation in Bangalore sub-division.",
    "party07": "INC",
    "winner_07": "Krishna S M",
-   "electors_07": 97194,
-   "shares": {
-    "150": {
-     "pct": 92.5,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 97194
   },
   {
    "ac_no": 82,
    "name": "Basavanagudi",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
+    152,
     154,
     155,
     156,
     157,
-    152
+    170
    ],
    "note": "",
    "extent": "•28-Visveswarapuram, 29-Shankarapuram 30-Kempegowdanagar, 31-Hanumanthanagar, 32-Basa- veswaraTemple and 33-Basavanagudi divisions of Bangalore City Corporation in Bangalore sub-division.",
@@ -2918,22 +2862,17 @@
    "name": "Shivajinagar",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
+    150,
     152,
-    150
+    162
    ],
    "note": "",
    "extent": "43-Cubbonpet, 44-High Grounds, 54-Com- mercial Street, 57-Central Bazar, 58-Shivrjinagar and 59-Tasker town divisions of Bangalore City Corporation in Bangalore sub-division.",
    "party07": "BJP",
    "winner_07": "Kattasubramanya Naidu",
-   "electors_07": 81358,
-   "shares": {
-    "150": {
-     "pct": 6.7,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 81358
   },
   {
    "ac_no": 86,
@@ -2948,13 +2887,7 @@
    "extent": "49-Cox town, 50-Murphy towrj, 52-Ulsoor, 53-Shivanchetty Garden, 55-Bharathinagar and 56-Nehru- param divisions of Bangalore City Corporation in Bangalore sub-division.",
    "party07": "BJP",
    "winner_07": "Nirmal Surana",
-   "electors_07": 126479,
-   "shares": {
-    "150": {
-     "pct": 15.3,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 126479
   },
   {
    "ac_no": 87,
@@ -2969,13 +2902,7 @@
    "extent": "45-Palace, 46-Munireddipalya, 47-St. John's Hill and 48-Fraser Town divisions of Bangalore City Corporation in Bangalore sub-division.",
    "party07": "INC",
    "winner_07": "Roshan Baig",
-   "electors_07": 183381,
-   "shares": {
-    "150": {
-     "pct": 99.8,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 183381
   },
   {
    "ac_no": 88,
@@ -2990,13 +2917,7 @@
    "extent": "Bangalore North, Hesaraghatta and Yelahanka hoblis in Bangalore North taluk in Bangalore sub-division.",
    "party07": "INC",
    "winner_07": "Prasanna Kumar B",
-   "electors_07": 635308,
-   "shares": {
-    "150": {
-     "pct": 96.8,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 635308
   },
   {
    "ac_no": 89,
@@ -3006,24 +2927,15 @@
    "status": "abolished",
    "dest": [
     153,
-    176,
-    154
+    154,
+    175,
+    176
    ],
    "note": "",
    "extent": "Yeshawanthapur Hobli in Bangalore North taluk; and Uttarahalli and Kengeri Hoblis and Begur Hobli (exclu- ding i-Vittasandra, 2-Bettadasenapura, 3-Mylasandra, 4-Homma devanahalli, 5-Basavanapura, 6-Kammanahalli, 7-Yelanahalli, 8-Chandrasekharapura, 9-Kalenagrahara, 10-Be- gur, n-Hulimav, 33-Singasandra, 34-Parappanagrahara, 35-Basapura, 36-Naganathapura, 37-Beratenagrahara, 38-Doddanagamangala, 39-Chikkathogur, 40-Konappanagra- hara and 41-Doddathogur villages) in Bangalore South «luk in Bangalore sub-division.",
    "party07": "BJP",
    "winner_07": "Ashok R",
-   "electors_07": 1376130,
-   "shares": {
-    "153": {
-     "pct": 60.4,
-     "basis": "approx"
-    },
-    "176": {
-     "pct": 1.5,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 1376130
   },
   {
    "ac_no": 90,
@@ -3043,13 +2955,7 @@
    "extent": "Varthur and Krishnarajapura hoblis in Bangalore South taluk in Bangalore sub-division.",
    "party07": "INC",
    "winner_07": "Krishnappa A",
-   "electors_07": 510436,
-   "shares": {
-    "176": {
-     "pct": 31.7,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 510436
   },
   {
    "ac_no": 91,
@@ -3066,17 +2972,7 @@
    "extent": "Kinakapura,Harohalli and Maralavadi hoblis in Kanakapura taluk in Ramanagaram sub-division.",
    "party07": "JD(S)",
    "winner_07": "P G R Sindhia",
-   "electors_07": 166680,
-   "shares": {
-    "183": {
-     "pct": 63.6,
-     "basis": "measured"
-    },
-    "184": {
-     "pct": 27.7,
-     "basis": "measured"
-    }
-   }
+   "electors_07": 166680
   },
   {
    "ac_no": 92,
@@ -3093,17 +2989,7 @@
    "extent": "Sathanur, Kodihalli and Uyyamballi hoblis in Kana- kapura taluk; and Virupakshipura Hobli (excluding villages 73-Saragur, 74-Iggalur, 75-Neralur, 76-Nunnuru, 77-Haro- koppa, 78-Ambadahalli, 81-Madapura, 82-Sogala, 83-Garka- halli, 84-Krishnapura, 85-Sadahalli, 86-Ankusanahalli, 87- Agraharvalarahalli, 88-Suleri, 89-Avverahalli, 90-Bangahalli, 93-Nagapura, 94-Akkur, 95-Hosahalli and 96-Malagalu) in Channapatna taluk in Ramanagaram sub-div}sion.",
    "party07": "INC",
    "winner_07": "Shivakumar Dk",
-   "electors_07": 159115,
-   "shares": {
-    "184": {
-     "pct": 82.5,
-     "basis": "measured"
-    },
-    "185": {
-     "pct": 10.9,
-     "basis": "measured"
-    }
-   }
+   "electors_07": 159115
   },
   {
    "ac_no": 93,
@@ -3121,25 +3007,7 @@
    "extent": "Channapatna and Malur hoblis and 73-Saragur 74-Iggalur, 75-Neralur, 76-Nunnuru, 77-Harokoppa, 78-Am- badahalli, 81-Madapura, 82-Sogala, 83-Garakahalli, 84-Kri- shnapura, 85-Sadahalli, 86-Ankusanahalli5 87-Agraharavalara- halli, 88-Suleri, 89-Avverahalli, 90-Banagahalli, 93-Nagapuraj 94-Akkur, 95-HosahalIi and <?6-Malagalu villages in Virupakshipura hobli in Channapatna taluk in Ramanagaram sub-division.",
    "party07": "INC",
    "winner_07": "Yogeswara C P",
-   "electors_07": 168502,
-   "shares": {
-    "185": {
-     "pct": 90.7,
-     "basis": "measured"
-    },
-    "187": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "183": {
-     "pct": 4.1,
-     "basis": "measured"
-    },
-    "182": {
-     "pct": 3.1,
-     "basis": "measured"
-    }
-   }
+   "electors_07": 168502
   },
   {
    "ac_no": 94,
@@ -3157,21 +3025,7 @@
    "extent": "Ramanagaram taluk in Ramanagaram sub- division.",
    "party07": "JD(S)",
    "winner_07": "Kumaraswamy H D",
-   "electors_07": 196229,
-   "shares": {
-    "183": {
-     "pct": 42.6,
-     "basis": "measured"
-    },
-    "182": {
-     "pct": 52.4,
-     "basis": "measured"
-    },
-    "185": {
-     "pct": 1.1,
-     "basis": "measured"
-    }
-   }
+   "electors_07": 196229
   },
   {
    "ac_no": 95,
@@ -3189,17 +3043,7 @@
    "extent": "Magadi taluk (excluding Solur hobli) in Ramanagaram sub-division.",
    "party07": "JD(S)",
    "winner_07": "Balakrishna H C",
-   "electors_07": 173298,
-   "shares": {
-    "182": {
-     "pct": 73.2,
-     "basis": "measured"
-    },
-    "131": {
-     "pct": 0.7,
-     "basis": "measured"
-    }
-   }
+   "electors_07": 173298
   },
   {
    "ac_no": 96,
@@ -3218,21 +3062,7 @@
    "extent": "Nelamangala taluk (excluding Somapura and Thyamagondlu hoblis) and Madhurehobli in Doddaballa- pur talukinDoddaballapur sub-division; and Solur hobli in Magadi taluk in Ramanagaram sub-division.",
    "party07": "INC",
    "winner_07": "Anjanamurthy",
-   "electors_07": 182609,
-   "shares": {
-    "181": {
-     "pct": 58.0,
-     "basis": "measured"
-    },
-    "180": {
-     "pct": 17.9,
-     "basis": "measured"
-    },
-    "182": {
-     "pct": 1.9,
-     "basis": "measured"
-    }
-   }
+   "electors_07": 182609
   },
   {
    "ac_no": 97,
@@ -3250,21 +3080,7 @@
    "extent": "Doddaballapur taluk (excluding Madhure hobli) in Doddaballapur sub-division.",
    "party07": "INC",
    "winner_07": "Narashimha Swamy J.",
-   "electors_07": 189257,
-   "shares": {
-    "180": {
-     "pct": 65.5,
-     "basis": "measured"
-    },
-    "179": {
-     "pct": 27.9,
-     "basis": "measured"
-    },
-    "181": {
-     "pct": 0.6,
-     "basis": "measured"
-    }
-   }
+   "electors_07": 189257
   },
   {
    "ac_no": 98,
@@ -3273,29 +3089,17 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
+    150,
     152,
     174,
-    150
+    178,
+    179
    ],
    "note": "",
    "extent": "Devanahalli taluk; and 42-Sulibele 43-Kada- ranapura, 44-Rampura, 45-Arasanahalli, 46-Ankonahalli, 47-Nallaganahalli, 48-Bathiganahalli, 49-Shanthanapura, 50-Bettahalli, 58-Mattabaralu, 59-Thimmappanahalli, 61-Tene- yur, 100-Shivadenahalli, 101-Thirnmasandra, 102-Hasigala, 103-K.ammasandra, 105-Yanagunte and i):o-Athibele villages in Sulibele hobli in Hosakote taluk in Doddaballapur sub-division.",
    "party07": "JD(S)",
    "winner_07": "Chandranna G",
-   "electors_07": 197561,
-   "shares": {
-    "152": {
-     "pct": 42.4,
-     "basis": "approx"
-    },
-    "174": {
-     "pct": 2.4,
-     "basis": "approx"
-    },
-    "150": {
-     "pct": 32.0,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 197561
   },
   {
    "ac_no": 99,
@@ -3304,34 +3108,17 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    174,
     151,
+    152,
+    174,
     177,
-    152
+    178
    ],
    "note": "",
    "extent": "Hosakote taluk (excluding 42-Sulibele, 43-Kadarana- pura, 44-Rampura, 45-Arasanahalli, 46-Ankonahalli, 47-Nalla- ganahalli, 48-Bathiganahalli- 49-Shanhanapura, 50-Be.ttahalli, 58-Mattabaralu, 59-Thimmappanahalli, 61-Teneyur, 100-Shi- vadenahalli, 101-Thimmasandra, 102-Hasigala, 103-Kamma- sandra, 105-Yanagunte and i.to-Ath:bele villages in Sulibele hob]i in Doddaballapur sub-division.",
    "party07": "INC",
    "winner_07": "Nagaraju M T B",
-   "electors_07": 226567,
-   "shares": {
-    "174": {
-     "pct": 45.7,
-     "basis": "approx"
-    },
-    "151": {
-     "pct": 9.1,
-     "basis": "approx"
-    },
-    "177": {
-     "pct": 4.4,
-     "basis": "measured"
-    },
-    "152": {
-     "pct": 3.4,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 226567
   },
   {
    "ac_no": 100,
@@ -3347,17 +3134,7 @@
    "extent": "Anekal taluk in Doddaballapur sub-division; and i-Vittasandra, 2-Bettadasenapura, 3-Mylasandra, 4- Hommadevanahalli, 5-Basavani.pnra, 6-KammanahaIli, 7- Yelanahall, 8-Chandrasekharapura, 9-K.alenagrahara, 10-Begur, n-Hulimav, 33-Singasandra, 34-Parappanagrahara, 35-Basa- para, 36-Naganathapura, 37-Beratenagrahara, 38-Doddana- gamangala, 39-Chikkathogur, 40-Konappanagrahara and 41-Doddathogur villages in Begur hobliin Bangalore South taluk in Bangalore sub-division.",
    "party07": "BJP",
    "winner_07": "Narayana Swamy A",
-   "electors_07": 301071,
-   "shares": {
-    "177": {
-     "pct": 13.9,
-     "basis": "measured"
-    },
-    "176": {
-     "pct": 41.1,
-     "basis": "approx"
-    }
-   }
+   "electors_07": 301071
   },
   {
    "ac_no": 101,
@@ -3410,10 +3187,6 @@
     },
     "189": {
      "pct": 0.9,
-     "basis": "measured"
-    },
-    "185": {
-     "pct": 3.6,
      "basis": "measured"
     }
    }
@@ -3802,9 +3575,10 @@
    "name": "Narasimharaja",
    "district": "Mysore",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    216
+    216,
+    218
    ],
    "note": "",
    "extent": "T. Narasipur and Mugur hoblies in T-Narasi- pur taluk in Mysore sub-division; and Biligere and Chatra hoblis in Nanjangud taluk in Nanjangud sub-division. 114. Krishnaraj.—Divisions I, II and III of Mysore City muni- cipality in Mysore taluk in Mysore sub-division. 115. Chamaraj.—Divisions IV, y and VI of Mysore City muni- cipality in Mysore taluk in Mysore sub-division. H6. Narasimharaja.—Divisions VII, VIII and IX of Mysore City municipality in Mysore taluk in Mysore sub- division.",
@@ -5175,12 +4949,13 @@
    "name": "Shimoga",
    "district": "Shimoga",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    114,
-    123,
+    111,
     112,
-    111
+    113,
+    114,
+    123
    ],
    "note": "",
    "extent": "Shimoga City and Nidige hobli in Shimoga taluk in Shimoga sub-division.",
@@ -5627,14 +5402,15 @@
    "name": "Dharwad",
    "district": "Dharwad",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    75,
-    74,
-    73,
-    76,
     70,
-    72
+    71,
+    72,
+    73,
+    74,
+    75,
+    76
    ],
    "note": "",
    "extent": "Wards Nos. 1 to 5 of Hubli-Dharwar Corporation in Dharwar taluk in Dharwar sub-division.",
@@ -9611,12 +9387,13 @@
    "name": "Dharwad",
    "district": "Dharwad",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
     174,
-    194,
+    175,
     191,
     193,
+    194,
     195
    ],
    "note": "",
@@ -11020,8 +10797,9 @@
    "name": "Shimoga",
    "district": "Shimoga",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
+    162,
     164
    ],
    "note": "",
@@ -11667,10 +11445,6 @@
     "58": {
      "pct": 25.4,
      "basis": "measured"
-    },
-    "95": {
-     "pct": 0.5,
-     "basis": "measured"
     }
    }
   },
@@ -12250,25 +12024,7 @@
    "extent": "1 Bangalore North Taluk Rural (Part) 3 Dasanapura and 4 Hesaraghatta Circles 6 Yelahanka Circle (Part) Srinivasapura, Manchenahalli, Vasudevapura, Harohalli, Gantiganahalli, Ramgondanahalli, Kenchenahalli, Govindapura, Singanayakanahalli, Ananthapura, Nagadasanhalli, Avalhalli, Muddenahalli, Honnenahalli, Jarakabande Kaval, Dodabettahalli, Chikkabettahalli, Veerasagara, Vaderahalli, Mediagrahara and Shamarajapura villages. Yelahanka (CMC) (Part) Yelahanka (CMC) - Ward No.1 to 17 and 20 to 32.",
    "party12": "BJP",
    "winner_12": "S.R.Vishwanath",
-   "electors_12": 241439,
-   "shares": {
-    "81": {
-     "pct": 7.5,
-     "basis": "approx"
-    },
-    "80": {
-     "pct": 2.6,
-     "basis": "approx"
-    },
-    "88": {
-     "pct": 4.3,
-     "basis": "approx"
-    },
-    "76": {
-     "pct": 4.0,
-     "basis": "approx"
-    }
-   }
+   "electors_12": 241439
   },
   {
    "ac_no": 151,
@@ -12284,13 +12040,7 @@
    "extent": "Bangalore East Taluk (Part) 1 K.R.Pura Circle (Part) (Except 5 villages Hagadur, Thanisandra, Dasarahalli, Rachenahalli and Nagondahalli) K.R.Pura CMC Mahadevapura CMC (Part) Ward No. 3 to 11",
    "party12": "BJP",
    "winner_12": "N.S.Nandiesha Reddy",
-   "electors_12": 314832,
-   "shares": {
-    "99": {
-     "pct": 87.7,
-     "basis": "approx"
-    }
-   }
+   "electors_12": 314832
   },
   {
    "ac_no": 152,
@@ -12310,17 +12060,7 @@
    "extent": "pura 1 Bangalore North Taluk Rural (Part) Byatarayanapura CMC (Part) Ward No. 1 to 22 1 Bangalore North Taluk Rural (Part) 5 Jala Circle 6 Yelahanka Circle (Part) Bellahalli, Tirumenahalli, Chokkanalli, Sampigehalli, Venteshapura and Shivapura villages. Yelahanka Circle OG Yelahanka (CMC) (Part) Yelahanka (CMC) - Ward No.18 and 19 K.R. Pura Circle (Part) Thanisandra, Dasarahalli and Rachenahalli Villages",
    "party12": "INC",
    "winner_12": "Krishna Byregowda",
-   "electors_12": 266428,
-   "shares": {
-    "98": {
-     "pct": 80.0,
-     "basis": "approx"
-    },
-    "99": {
-     "pct": 7.5,
-     "basis": "approx"
-    }
-   }
+   "electors_12": 266428
   },
   {
    "ac_no": 153,
@@ -12337,13 +12077,7 @@
    "extent": "pura 1 Bangalore North Taluk Rural (Part) 2 Yeshvanthapura Circle (Part) Kariobanahally, Herohally, Hondrahally, Lingadeeranahally, Ullalu, Gidadakonenahally, Kodigehally, Kannahally, Managanhally, Seegehally, Hosahally Gollarapalya, Doddabidarakallu and Thirumalapura. 3 Bangalore South Taluk (Part) 1Tavarekere and 2 Kengeri Circles. Kengeri TMC Uttarahalli Circle (Part) Kaggalipur GP- Uttari, Kaggalipura and O.B.Chudahalli. Somanahalli GP- Vaddarapalya, Sunkadakatte, Ravagodlu, Nettigere, Somanahalli, Nellaguli, K. Chudahalli and Naganayakanahalli. Taralu GP- Gulakamale, Taralu, Alakabelapura and Thattaguppe. Talaghattapura GP- 1. Talaghattapura, 2.Mallasandra, 3. Vajarahalli, 4. Hosahalli, 5. Raghuvanahalli and 6. Uttarahalli manavarthe kaval. *Pattanagere CMC (Part) Ward No. 14, 15,19, 21 and 22",
    "party12": "BJP",
    "winner_12": "Shobha Karandlaje",
-   "electors_12": 265168,
-   "shares": {
-    "89": {
-     "pct": 48.0,
-     "basis": "approx"
-    }
-   }
+   "electors_12": 265168
   },
   {
    "ac_no": 154,
@@ -12361,17 +12095,7 @@
    "extent": "agar 1 Bangalore North Taluk Rural (Part) *Pattanagere CMC (Part) Ward No. 1 to 13, 16 to 18, 20 and 23 to 27. Dasarahalli (CMC+OG) (Part) Dasarahalli (CMC) - Ward No.26 and 30 to 32. Bangalore (M Corp.+OG) (Part) Bangalore (M Corp.) - Ward No.1 to 3 and 11.",
    "party12": "BJP",
    "winner_12": "M.Srinivas",
-   "electors_12": 301495,
-   "shares": {
-    "83": {
-     "pct": 19.1,
-     "basis": "approx"
-    },
-    "78": {
-     "pct": 4.0,
-     "basis": "approx"
-    }
-   }
+   "electors_12": 301495
   },
   {
    "ac_no": 155,
@@ -12472,13 +12196,7 @@
    "extent": "Bangalore (M Corp.+OG) (Part) Bangalore (M Corp.) - Ward No. 86 to 89 and 94. Byatarayanapura (Part) Ward No. 23 to 31.",
    "party12": "INC",
    "winner_12": "K.J.George",
-   "electors_12": 304880,
-   "shares": {
-    "99": {
-     "pct": 64.9,
-     "basis": "approx"
-    }
-   }
+   "electors_12": 304880
   },
   {
    "ac_no": 161,
@@ -12501,10 +12219,11 @@
    "name": "Shivajinagar",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
     83,
-    84
+    84,
+    85
    ],
    "note": "",
    "extent": "Bangalore (M Corp.+OG) (Part) Bangalore (M Corp.) - Ward No.77 to 81 and 92.",
@@ -12533,8 +12252,9 @@
    "name": "Gandhi Nagar",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
+    78,
     83
    ],
    "note": "",
@@ -12548,8 +12268,9 @@
    "name": "Rajaji Nagar",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
+    77,
     83,
     89
    ],
@@ -12611,8 +12332,9 @@
    "name": "Chickpet",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
+    79,
     83
    ],
    "note": "",
@@ -12626,8 +12348,9 @@
    "name": "Basavanagudi",
    "district": "Bangalore",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
+    82,
     83,
     89
    ],
@@ -12701,17 +12424,7 @@
    "extent": "(SC) Bangalore East Taluk (Part) Bidarahalli Circle (Excl.Channasandra (OG) - Ward No.33) 2 Varthur Circle 1 K.R.Pura Circle (Part) Hagadur and Nagondahalli villages. Mahadevapura CMC (Part) Ward No. 1, 2 and 12 to 31 Channasandra (OG) - Ward No. 33.",
    "party12": "BJP",
    "winner_12": "Aravind Limbavali",
-   "electors_12": 275355,
-   "shares": {
-    "99": {
-     "pct": 86.2,
-     "basis": "approx"
-    },
-    "98": {
-     "pct": 3.9,
-     "basis": "approx"
-    }
-   }
+   "electors_12": 275355
   },
   {
    "ac_no": 175,
@@ -12720,19 +12433,14 @@
    "type": "GEN",
    "status": "new",
    "src": [
+    89,
     90
    ],
    "note": "",
    "extent": "Bangalore South Taluk & Anekal Taluk (Parts) Bommanahalli CMC",
    "party12": "BJP",
    "winner_12": "Satish Reddy.M",
-   "electors_12": 273749,
-   "shares": {
-    "90": {
-     "pct": 87.5,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 273749
   },
   {
    "ac_no": 176,
@@ -12751,21 +12459,7 @@
    "extent": "3 Bangalore South Taluk (Part) 4 Begur Circle 3 Uttarahalli Circle (Part) Subramanyapura GP- 1.Subramanyapura, 2.Vasanthapura, 3. Gubbalalu and 4. Vaddarapalya. Uttarahalli GP- 1. Uttarahalli, 2. Arehalli and 3. Turalli. Anjanapura GP- 1. Anjanapura, 2. Prillaganahalli, 3. Kembathhalli, 4. Gollahalli and 5. Thippasandra. Gottigere GP- 1. Gottigere Kottanoor GP- 1.Kottanoor and 2. Raghuvanapalya. Doddakalla Sandra GP- 1. Doddakallasandra and 2. Alahalli Konanakunte GP- 1. Konanakunte (C.T.) and 2. Chunchagatta. 4 Anekal Taluk (Part)- 2 Jigani Circle. *Pattanagere CMC (Part) Pattanagere CMC - Ward No.28 to 31. Pattanagere CMC - Ward No.32 (OG).",
    "party12": "BJP",
    "winner_12": "M Krishnappa",
-   "electors_12": 379873,
-   "shares": {
-    "100": {
-     "pct": 73.1,
-     "basis": "approx"
-    },
-    "89": {
-     "pct": 2.0,
-     "basis": "approx"
-    },
-    "90": {
-     "pct": 19.0,
-     "basis": "approx"
-    }
-   }
+   "electors_12": 379873
   },
   {
    "ac_no": 177,
@@ -12782,17 +12476,7 @@
    "extent": "4 Anekal Taluk (Part) 1 Kasaba, 3 Attibele and 4 Sarjapura Circles. Anekal TMC * AC No. 153-Yeshvanthapura, 154-Rajarajeshwarinagar and 176-Bangalore South. The area comprised within wards 14 and 15 of Pattanagere CMC and Kengeri TMC is the same but geographically included in Kengeri TMC. Hence these two wards are included in Kengeri TMC only.",
    "party12": "BJP",
    "winner_12": "A Narayanaswamy",
-   "electors_12": 237971,
-   "shares": {
-    "100": {
-     "pct": 15.2,
-     "basis": "measured"
-    },
-    "99": {
-     "pct": 5.4,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 237971
   },
   {
    "ac_no": 178,
@@ -12803,19 +12487,15 @@
    "src": [
     66,
     74,
-    75
+    75,
+    98,
+    99
    ],
    "note": "",
    "extent": "4 Hosakote Taluk",
    "party12": "BJP",
    "winner_12": "B.N.Bachhe Gowda",
-   "electors_12": 158865,
-   "shares": {
-    "75": {
-     "pct": 1.2,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 158865
   },
   {
    "ac_no": 179,
@@ -12824,26 +12504,17 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    97,
-    65,
     64,
-    66
+    65,
+    66,
+    97,
+    98
    ],
    "note": "",
    "extent": "3 Devanahalli Taluk 2 Dod Ballapur Taluk (Part) 5 Thubagere Circle.",
    "party12": "INC",
    "winner_12": "Venkataswamy",
-   "electors_12": 167385,
-   "shares": {
-    "97": {
-     "pct": 30.6,
-     "basis": "measured"
-    },
-    "65": {
-     "pct": 0.5,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 167385
   },
   {
    "ac_no": 180,
@@ -12861,21 +12532,7 @@
    "extent": "2 Doddaballapur Taluk (Part) 2 Madhure, 3 Doddabelavangala, 4 Sasalu and 1 Kasaba Circles. Doddaballapura CMC.",
    "party12": "INC",
    "winner_12": "J.Narasimhaswamy",
-   "electors_12": 165178,
-   "shares": {
-    "97": {
-     "pct": 75.5,
-     "basis": "measured"
-    },
-    "56": {
-     "pct": 5.2,
-     "basis": "measured"
-    },
-    "96": {
-     "pct": 18.1,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 165178
   },
   {
    "ac_no": 181,
@@ -12893,25 +12550,7 @@
    "extent": "(SC) 5 Magadi Taluk (Part) 5 Solur Circle 1 Nelamangala Taluk",
    "party12": "BJP",
    "winner_12": "M.V.Nagaraju",
-   "electors_12": 163985,
-   "shares": {
-    "96": {
-     "pct": 53.1,
-     "basis": "measured"
-    },
-    "56": {
-     "pct": 35.5,
-     "basis": "measured"
-    },
-    "57": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
-    "97": {
-     "pct": 0.6,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 163985
   },
   {
    "ac_no": 182,
@@ -12930,29 +12569,7 @@
    "extent": "6 Ramanagaram Taluk (Part), 2 Bidadi and 4 Kutagal Circles. 5 Magadi Taluk (Part) 1 Kasaba, 2 Madabal, 3 Thippasandra and 4 Kudur Circles. Magadi TMC",
    "party12": "JD(S)",
    "winner_12": "H C Balakrishna",
-   "electors_12": 186252,
-   "shares": {
-    "95": {
-     "pct": 59.8,
-     "basis": "measured"
-    },
-    "94": {
-     "pct": 32.9,
-     "basis": "measured"
-    },
-    "58": {
-     "pct": 3.1,
-     "basis": "measured"
-    },
-    "96": {
-     "pct": 1.2,
-     "basis": "measured"
-    },
-    "93": {
-     "pct": 1.3,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 186252
   },
   {
    "ac_no": 183,
@@ -12970,21 +12587,7 @@
    "extent": "8 Kanakapura Taluk (Part) 2 Harohalli and 3 Doddamaralawadi Circles. 6 Ramanagaram Taluk (Part) 1 Kasaba and 3 Kylancha Circles. Ramanagar CMC",
    "party12": "JD(S)",
    "winner_12": "H D Kumara Swamy",
-   "electors_12": 173939,
-   "shares": {
-    "91": {
-     "pct": 57.8,
-     "basis": "measured"
-    },
-    "94": {
-     "pct": 35.0,
-     "basis": "measured"
-    },
-    "93": {
-     "pct": 2.3,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 173939
   },
   {
    "ac_no": 184,
@@ -13001,17 +12604,7 @@
    "extent": "8 Kanakapura Taluk (Part) 1 Kasaba, 4 Kodihalli, 5 Uyyamballi and 6 Sathnur Circles. Kanakapura TMC",
    "party12": "INC",
    "winner_12": "D.K.Shivakumar",
-   "electors_12": 184852,
-   "shares": {
-    "92": {
-     "pct": 77.4,
-     "basis": "measured"
-    },
-    "91": {
-     "pct": 17.5,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 184852
   },
   {
    "ac_no": 185,
@@ -13030,25 +12623,7 @@
    "extent": "7 Channapatna Taluk",
    "party12": "INC",
    "winner_12": "C.P.Yogeshwara",
-   "electors_12": 183793,
-   "shares": {
-    "93": {
-     "pct": 71.4,
-     "basis": "measured"
-    },
-    "92": {
-     "pct": 20.8,
-     "basis": "measured"
-    },
-    "94": {
-     "pct": 1.3,
-     "basis": "measured"
-    },
-    "102": {
-     "pct": 2.8,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 183793
   },
   {
    "ac_no": 186,
@@ -13106,10 +12681,6 @@
     },
     "103": {
      "pct": 43.6,
-     "basis": "measured"
-    },
-    "93": {
-     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -14062,8 +13633,9 @@
    "name": "Narasimharaja",
    "district": "Mysore",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
+    116,
     117
    ],
    "note": "",
