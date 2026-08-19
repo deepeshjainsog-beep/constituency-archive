@@ -232,7 +232,17 @@
    "extent": "Kalka Kalka tahsil; and P.Cs. 55—Kazampur, 56—Rattewali, 57—Manak Labra, 58— Khatauli, 59—Kot, 60—Bihla, 61— Mankan, 62—Ramgarh, 63—Bhoj Mataur, 64—Bhoj Naitay 65—Bhoj Darra, 66—Bhoj Rajpura and 67—Bhoj Nagal in. Raipur K.C. in Naraingarh tahsil.",
    "party07": "INC",
    "winner_07": "Chander Mohan",
-   "electors_07": 244462
+   "electors_07": 244462,
+   "shares": {
+    "1": {
+     "pct": 52.0,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 22.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 2,
@@ -247,7 +257,13 @@
    "extent": "Naraingarh —Shahzadpur K.C, Raipur K.C. (excluding P. Cs. 55—Kazampur, 56—Rattewali, 57—Manak labra, 58—Khatauli, 59—Kot, 60—Bihla, 61—Mankan, 62— Ramgarh, 63—Bhoj Mataur, 64—Bhoj Naita, 65—Bhoj Darra, 66—Bhoj Rajpura and 67—Bhoj Nagal) and P. Cs. 17—Bahrer, Kalan, 18—Kurali and 19—Badhauli in Sadhaura K.C. in Naraingarh tahsil. 4. Ambala Cantt. PCs Panjokhara & Mandhaur of Ambala City KC, PCs Babyal, Kardhan & Bara of Ambala Cantt. KC, Ambala Sadar (Municipal Council) & Ambala Cantt. (CB) of Ambala Tehsil. 3. Sadhaura(SC) —Sadhaura K.C. (excluding P.Cs. 17—Bharer, Kalan, 18—Kurali and 19—Badhauli) in Naraingarh tahsil; and Bilaspur K.C. in Jagadhri tahsil. 5. Ambala City PCs Ghel, Sonda, Ma",
    "party07": "INC",
    "winner_07": "Ram Kishan",
-   "electors_07": 120352
+   "electors_07": 120352,
+   "shares": {
+    "3": {
+     "pct": 86.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 3,
@@ -262,7 +278,13 @@
    "extent": "",
    "party07": "INLD",
    "winner_07": "Balwant Singh",
-   "electors_07": 136173
+   "electors_07": 136173,
+   "shares": {
+    "7": {
+     "pct": 59.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 4,
@@ -278,7 +300,17 @@
    "extent": "Chhachhrauli —Chhachhrauli K.C. and P.Cs. 21—Kharwan, 22—Nabh, 23—Buria Jagir, 24—Amadalpur, 26—Sabapur, 27—Pansara, 29—Chaneti and 40—Bibipur in Jagadhri K.C. in Jagadhri tahsil. 6. Mulana(SC) Barara Tehsil; PCs Dhanaura, Tharwa, Durana, Barauli & Mohri of Balana KC, PC Mohra of Ambala Cantt. KC & Saha KC of Ambala Tehsil.",
    "party07": "BSP",
    "winner_07": "Arjan Singh",
-   "electors_07": 122763
+   "electors_07": 122763,
+   "shares": {
+    "8": {
+     "pct": 71.6,
+     "basis": "approx"
+    },
+    "7": {
+     "pct": 15.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 5,
@@ -293,7 +325,13 @@
    "extent": "Yamunanagar Yamunanagar municipality and Jagadhri K.C. (excluding Jagadhri municipality and P.Cs. 21—Kharwan, 22—Nabh, 23—Buria Jagir, 24—Amadalpur, 26—Sabapur, 27—Pansara, 29—Chaneti, 30—Arnauli, 31—Mehlanwali, 32—Bhatauli and 40—Bibipur) in Jagadhri tahsil. 6. Jagadhri —Jagadhri municipality and P.Cs. 30—Arnauli, 31—Mehlanwali and 32—Bhatauli in Jagadhri K.C. and Mustifabad K.C. in Jagadhri tahsil.",
    "party07": "INC",
    "winner_07": "Dr Krishna Pandit",
-   "electors_07": 147154
+   "electors_07": 147154,
+   "shares": {
+    "9": {
+     "pct": 38.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 6,
@@ -308,7 +346,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Subhash Chand",
-   "electors_07": 131435
+   "electors_07": 131435,
+   "shares": {
+    "8": {
+     "pct": 3.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 7,
@@ -323,7 +367,13 @@
    "extent": "Mullana (SC) —Mullana and Kesri K.Cs. in Ambala tahsil. 8. Ambala Cantonment .—Ambala Cantonment and Mahesh Nagar N.A.C. in Ambala tahsil. 9. Ambala City —Ambala City municipality and P.Cs. 28—Patti Mehar, 29—Patti Jattan, 30—Ghel, 31—Manakpur, 32—Suba Akbarpur, 34—Mandhore, 35—Panjokhra and 36—Garnala in Ambala City K.C. in Ambala tahsil.",
    "party07": "INC",
    "winner_07": "Phool Chand Mullana",
-   "electors_07": 134001
+   "electors_07": 134001,
+   "shares": {
+    "6": {
+     "pct": 82.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 8,
@@ -338,7 +388,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Devender Kumar Bansal",
-   "electors_07": 85131
+   "electors_07": 85131,
+   "shares": {
+    "4": {
+     "pct": 75.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 9,
@@ -353,7 +409,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Venod Kumar Sharma",
-   "electors_07": 126615
+   "electors_07": 126615,
+   "shares": {
+    "5": {
+     "pct": 53.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 10,
@@ -370,7 +432,17 @@
    "extent": "Naggal .—Naggal K.C. and Ambala City K.C. (excluding Ambala City municipality, Ambala Cantonment, Maheshnagar N.A.C. and P.Cs. 28—Patti Mehar, 29—Patti Jattan, 30—Ghel, 31— Manakpur, 32—Suba Akbarpur, 34—Mandhore, 35—Panjokhra and 36—Garnala) in Ambala tahsil Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Ambala Kalka Kalka (Panchkula District) Direct continuity. The constituency retained Kalka as its core but was reorganised under the newly created Panchkula District. It also retained the transferred Raipur KC villages (Kazampur, Rattewali, Ramgarh, Bhoj Mataur, etc.). Ambala Naraingarh Naraingarh (Ambala District) Direct continuity",
    "party07": "INC",
    "winner_07": "Nirmal Singh Mohra",
-   "electors_07": 144635
+   "electors_07": 144635,
+   "shares": {
+    "5": {
+     "pct": 54.2,
+     "basis": "approx"
+    },
+    "3": {
+     "pct": 3.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 11,
@@ -385,7 +457,13 @@
    "extent": "Indri Indri and Baragaon K.Cs. in Karnal tahsil. 19. Nilokheri(SC) Nilokheri Tehsil & KC Nissing of Karnal Tehsil.",
    "party07": "INC",
    "winner_07": "Rakesh Kumar",
-   "electors_07": 144768
+   "electors_07": 144768,
+   "shares": {
+    "20": {
+     "pct": 93.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 12,
@@ -400,7 +478,13 @@
    "extent": "Nilokheri —Taraori K.C. and P.Cs. 66—Ramana Ramani and 67—Koer in Nissang K.C. in Karnal tahsil",
    "party07": "INC",
    "winner_07": "Jai Singh Rana",
-   "electors_07": 125399
+   "electors_07": 125399,
+   "shares": {
+    "19": {
+     "pct": 64.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 13,
@@ -415,7 +499,13 @@
    "extent": "Karnal .—Karnal municipality and Karnal K.C. (excluding P.Cs. 51—Mohammadpur, 52—Dibarki, 53—Dhakwala, 54—Sheikhpura and 55—Uncha Siwana; in Karnal tahsil.",
    "party07": "INC",
    "winner_07": "Sumita Singh",
-   "electors_07": 158894
+   "electors_07": 158894,
+   "shares": {
+    "21": {
+     "pct": 41.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 14,
@@ -432,7 +522,21 @@
    "extent": "Jundla (SC) .—Nissang K.C. (excluding P.Cs. 66—Ramana Ramani and 67—Koer) and Jundla K.C. in Karnal tahsil.",
    "party07": "INC",
    "winner_07": "Meena Rani",
-   "electors_07": 124362
+   "electors_07": 124362,
+   "shares": {
+    "21": {
+     "pct": 9.1,
+     "basis": "approx"
+    },
+    "19": {
+     "pct": 53.6,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 34.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 15,
@@ -447,7 +551,13 @@
    "extent": "Gharaunda —Gharaunda K.C. and P.Cs. 51—Mohammadpur, 52—Dibarki, 53—Dhakwala, 54—Sheikhpura and 55— Uncha Siwana in Karnal K.C. in Karnal tahsil.",
    "party07": "INLD",
    "winner_07": "Rekha Rana",
-   "electors_07": 131408
+   "electors_07": 131408,
+   "shares": {
+    "22": {
+     "pct": 62.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 16,
@@ -462,7 +572,13 @@
    "extent": "Assandh (SC —Assandh K.C. in Karnal] tahsil ; and Madlauda K.C. in Panipat tahsil",
    "party07": "INC",
    "winner_07": "Raj Rani Poonam",
-   "electors_07": 129087
+   "electors_07": 129087,
+   "shares": {
+    "23": {
+     "pct": 65.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 17,
@@ -478,7 +594,17 @@
    "extent": "Panipat .—Panipat municipality and P.Cs. 8—Panipat TarafMakhdoomzadgan, 9—Panipat-Taraf-Ansar, 12—Binjhaul, 13—Panipat Taraf-Rajputan and 15—Ugrakheri in Panipat K.C. in Panipat tahsil.",
    "party07": "INC",
    "winner_07": "Balbir Pal Shah",
-   "electors_07": 200927
+   "electors_07": 200927,
+   "shares": {
+    "25": {
+     "pct": 18.5,
+     "basis": "approx"
+    },
+    "24": {
+     "pct": 85.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 18,
@@ -493,7 +619,13 @@
    "extent": "Sambhalka —Panipat K.C. (excluding Panipat municipality and P.Cs. 1—Kabri, 2—Kutani, 8—Panipat-Taraf-Makhdoomza dgan, 9—Panipat-Taraf-Ansar, 10—Assan Kalan, n— Sutana, 12—Binjhaul, 13—Panipat-Taraf-Rajputan, 14— Siwah and 15—Ugrakheri) and Sarnbhalka K.C. in Panipat tahsil,",
    "party07": "INC",
    "winner_07": "Bhart Singh",
-   "electors_07": 137653
+   "electors_07": 137653,
+   "shares": {
+    "27": {
+     "pct": 81.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 19,
@@ -509,7 +641,17 @@
    "extent": "Naultha —Nauhha K.C. and P.Cs. 1—Kabri, 2—Kutani, 10— Assan Kalan, n—Sutana and 14—Siwah in Panipat K.C. in Panipat tahsil. Key Changes Old Constituency (Before, Karnal District) Where It's Located Now (After) New District Note Indri Indri + Baragaon K.C.s Indri Karnal Direct continuity confirmed the new extent literally repeats \"Indri Tehsil & KC Baragaon,\" matching the old K.C. list word for word Nilokheri Taraori K.C. + PCs Ramana Ramani, Koer (in Nissang K.C.) Nilokheri (SC) Karnal Core continuity new seat is \"Nilokheri Tehsil & KC Nissing,\" a spelling variant of old Nissang K.C.; now converted to SC-reserved Karnal Karnal municipality + Karnal K.C. (excluding PCs Mohammadpur, Dibarki, D",
    "party07": "INC",
    "winner_07": "Parsanni Devi",
-   "electors_07": 127220
+   "electors_07": 127220,
+   "shares": {
+    "26": {
+     "pct": 69.3,
+     "basis": "approx"
+    },
+    "24": {
+     "pct": 28.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 20,
@@ -524,7 +666,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Kharaiti Lal",
-   "electors_07": 120387
+   "electors_07": 120387,
+   "shares": {
+    "12": {
+     "pct": 82.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 21,
@@ -540,7 +688,17 @@
    "extent": "",
    "party07": "INLD",
    "winner_07": "Ishwar Singh Palaka",
-   "electors_07": 121718
+   "electors_07": 121718,
+   "shares": {
+    "10": {
+     "pct": 56.4,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 32.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 22,
@@ -556,7 +714,17 @@
    "extent": "Thanesar —Thanesar K.C. (excluding P.Cs. 44—Lukhi, 45— Dhurala, 46—Salpani Kalan, 47—Ajrana Khurd, 48—Ajrana Kalan, 49—DuniaMajra, 50—Thaska Miranji, 51—Naisi and 52—Kanthala) in Thanesar tahsil.",
    "party07": "INC",
    "winner_07": "Ramesh Kumar Gupta",
-   "electors_07": 157609
+   "electors_07": 157609,
+   "shares": {
+    "13": {
+     "pct": 43.2,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 47.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 23,
@@ -571,7 +739,13 @@
    "extent": "Pehowa —P.Cs. 44—Lukhi, 45—Dhurala, 46—Salpari Kalan, 47—Ajrana Khurd, 48—Ajrana Kalan, 49—Duma Majra, 50—Thaska Miranji, 51—Naisi and $2—Kanthala in Thanesar K.C. in Thanesar tahsil; and Pehowa K.C. in Guhla tahsil.",
    "party07": "INC",
    "winner_07": "Harmohinder Singh Chattha",
-   "electors_07": 133569
+   "electors_07": 133569,
+   "shares": {
+    "14": {
+     "pct": 69.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 24,
@@ -586,7 +760,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Dillu Ram",
-   "electors_07": 140466
+   "electors_07": 140466,
+   "shares": {
+    "15": {
+     "pct": 85.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 25,
@@ -601,7 +781,13 @@
    "extent": "Kaithal —Kaithal K.C. (excluding P.Cs. 15—Mundhri, 16— Kakaut, 17—Narar, 18—Peoda, 19—Titram, 20—Deoban, 21-22—Pai I and II, 23—Jakhauli, 24—Sangal, 25.—Bhana, 26—'Karora, 27—'Rihara, 28—.Sherhada, 29—'Kotra, 30— Guliana and 31—Sangri) in Kaithal tahsil.",
    "party07": "INC",
    "winner_07": "Shamsher Singh Surjewala",
-   "electors_07": 127632
+   "electors_07": 127632,
+   "shares": {
+    "17": {
+     "pct": 29.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 26,
@@ -616,7 +802,13 @@
    "extent": "Pundri —Pundri K.C. (excluding P.Cs. 41-—Dhos and 51—. Bakkal) in Kaithal tahsil.",
    "party07": "IND",
    "winner_07": "Dinesh Kaushik",
-   "electors_07": 127606
+   "electors_07": 127606,
+   "shares": {
+    "18": {
+     "pct": 95.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 27,
@@ -632,7 +824,17 @@
    "extent": "Pai —P.Cs. 41—Dhos and 51—Bakkal in Pundri K.C, and P.Cs. 1 •—Mundri, i6>—Kakaut, 17.—Narar, 18—'Peoda, 19—Titram, 20—Deoban, 21-22—Pai I & II, 23—Jakhauli, 24—Sangal, 2-\\—Bhaaa, 26—.Karora, 27—.Rihara, 28—-Sh^rhada, 29—. Kotra, 30—Guliana and 31—.Sangri in Kaithal K.C, in Kaithal tahsil. Key Changes Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Kurukshetra Shahabad Shahbad (SC) Retained with revised boundaries and converted into a Scheduled Caste reserved constituency. The new seat comprises the old Shahabad KC together with selected Babain KC villages. Kurukshetra Radaur (SC) Ladwa The old Radaur (SC) constituency was abolished in",
    "party07": "IND",
    "winner_07": "Tejender Pal Singh",
-   "electors_07": 112851
+   "electors_07": 112851,
+   "shares": {
+    "18": {
+     "pct": 26.8,
+     "basis": "approx"
+    },
+    "16": {
+     "pct": 53.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 28,
@@ -648,7 +850,17 @@
    "extent": "Hassangarh —Hassangarh K.C. and P.Cs. 13—•Ratauli, 14—• Baland and 15—Sunari Kalan in Rohtak K.C. in Rohtak tahsil.",
    "party07": "BJP",
    "winner_07": "Naresh Kumar",
-   "electors_07": 110742
+   "electors_07": 110742,
+   "shares": {
+    "30": {
+     "pct": 0.6,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 44.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 29,
@@ -663,7 +875,13 @@
    "extent": "Kiloi —Kilei K.C. and P.Cs. 19—Tatauli, 20-21—Rohtak Rural and 22—Chamaria in Rohtak K.C. in Rohtak tahsil. 61. Garhi Samplakiloi KCs Para & Bhalot, PCs Chuliana, Ismaila 9 Biswa, Ismaila 11 Biswa, Gandhra, Pakasma, Samchana, Hassangarh, Bahinsru khurd, Kheri Sampla & Sampla of Sampla KC, PCs Chiri-I & II & Titoli of Rohtak-II KC of Rohtak Tehsil.",
    "party07": "INC",
    "winner_07": "Shri Krishan",
-   "electors_07": 126463
+   "electors_07": 126463,
+   "shares": {
+    "61": {
+     "pct": 85.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 30,
@@ -678,7 +896,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Shadi Lal Batra",
-   "electors_07": 136960
+   "electors_07": 136960,
+   "shares": {
+    "62": {
+     "pct": 10.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 31,
@@ -693,7 +917,13 @@
    "extent": "Meham Meham K.C in Rohtak tahsil 63. Kalanaur(SC) KCs Kahnaur, Kalanaur, Rohtak-I, Kalanaur (Municipal Committee), PCs Baliana, Kheri Sadh, Kharawar of Sampla KC & Ward Nos. 1 to 6 in Rohtak (Municipal Council of Rohtak Tehsil). 32. Kalanpur(SC) ,—Rohtak K.C. (excluding Rohtak municipality and P.Cs. 13—Ratauli, 14—Baland, 15—Sunari Katon, 19— Tatauli, 20-21—Rohcak Rural and 22-—Cbamarij in Rohtak tahsil.",
    "party07": "INC",
    "winner_07": "Anand Singh Dangi",
-   "electors_07": 122239
+   "electors_07": 122239,
+   "shares": {
+    "60": {
+     "pct": 74.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 32,
@@ -708,7 +938,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Kartar Devi",
-   "electors_07": 101011
+   "electors_07": 101011,
+   "shares": {
+    "63": {
+     "pct": 58.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 33,
@@ -723,7 +959,13 @@
    "extent": "Beri Beri K.C. in Jhajjar tahsil.",
    "party07": "INC",
    "winner_07": "Dr. Raghuvir Singh",
-   "electors_07": 106166
+   "electors_07": 106166,
+   "shares": {
+    "67": {
+     "pct": 86.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 34,
@@ -739,7 +981,17 @@
    "extent": "Salhawas —Nahar K.C, Subana K.C. (excluding P.Cs. 35— Talao, 36—Dawla, 37—Surehti, 38—Kasni, 39—Subana, 40— Dhakla, 43—Khetawas, 44—Bhindawas and 45—Islamgarh) in Jhajjar tahsil. 35. Jhajjar(SC) .—P.Cs. 30—Surah, 31—Ukhal Chana and 32-34— Jhajjar I to III in Jhajjar K.C., Machhroli K.C. and P.Cs. 35—Talao, 36^—Dawla, 37—Surehti, 38—Kasni, 39—Subana, 40—Dhakla, 43—Khetawas, 44—Bhindawas and 45—Islamgarh in Subana K.C. in Jhajjar tahsil",
    "party07": "INC",
    "winner_07": "Anita Yadav",
-   "electors_07": 122521
+   "electors_07": 122521,
+   "shares": {
+    "66": {
+     "pct": 48.1,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 0.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 35,
@@ -754,7 +1006,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Hari Ram",
-   "electors_07": 130117
+   "electors_07": 130117,
+   "shares": {
+    "66": {
+     "pct": 11.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 36,
@@ -769,7 +1027,13 @@
    "extent": "Badli —P.Cs. 1-2—Chhara I and II, 3—Bhaproda, 4—Kharar, 7—Matan, 8—Daboda Khurd, 19—Luksar, 20—Gubhana, 21—Bupania, 22—Dulhera, 23-25—Badli I to III, 26^-Daryapur, 27—Barsa and 28—Munda Khera in Bahadurgarh K.C. in Bahadurgarh tahsil; and Jhajjar K.C. (excluding P.Cs. 30— Surah, 31—Ukhal Chana and 32-34^—Jhajjar I to III) in Jhajjar tahsil.",
    "party07": "IND",
    "winner_07": "Naresh Kumar",
-   "electors_07": 109750
+   "electors_07": 109750,
+   "shares": {
+    "65": {
+     "pct": 48.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 37,
@@ -784,7 +1048,13 @@
    "extent": "Bahadurgarh .—Bahadurgarh K.C. (excluding P.Cs. 1-2— Chhara I & II, 3—Bhaproda, 4—Kharar, 7—Matan, 8— Daboda Khurd, 19—Luksar, 20—Gubhana, 21—Bupania, 22—Dulhera, 23-25—Badli I to III, 26—Daryapur, 27—Barsa and 28—Mundakhera) in Bahadurgarh tahsil. Old District (Before 2008) Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Rohtak Hassangarh Garhi Sampla-Kiloi Renamed and reorganised. The old Hassangarh constituency was abolished and merged with parts of Kiloi to create the new Garhi Sampla-Kiloi constituency. Rohtak Kiloi Garhi Sampla-Kiloi The old Kiloi constituency ceased to exist independently. Its core territory, together with Hassangarh, formed the newly co",
    "party07": "INC",
    "winner_07": "Rajinder Singh S/o Suraj Mal",
-   "electors_07": 160225
+   "electors_07": 160225,
+   "shares": {
+    "64": {
+     "pct": 66.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 38,
@@ -799,7 +1069,13 @@
    "extent": "",
    "party07": "INLD",
    "winner_07": "Ramphal",
-   "electors_07": 101882
+   "electors_07": 101882,
+   "shares": {
+    "33": {
+     "pct": 95.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 39,
@@ -814,7 +1090,13 @@
    "extent": "Gohana —Gohana municipality and Gohana K.C. and P.Cs. 36—Ganwari, 37-38—Khanpur Kalan I & II, 39—Saragthal, 40—Kasandhi and 41-42—Samri I and II in",
    "party07": "INC",
    "winner_07": "Dharam Pal Singh Malik",
-   "electors_07": 129083
+   "electors_07": 129083,
+   "shares": {
+    "32": {
+     "pct": 38.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 40,
@@ -830,7 +1112,13 @@
    "extent": "Kailana —Kailana K.C. and Murthal K.C. (excluding P.Cs 94—Memarpur, 95—Malakpur, 100-101—Murthal Khas and Sani and 102—Nand Naur) in Sonepat tahsil.",
    "party07": "INC",
    "winner_07": "Jitender Singh",
-   "electors_07": 128649
+   "electors_07": 128649,
+   "shares": {
+    "28": {
+     "pct": 81.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 41,
@@ -845,7 +1133,13 @@
    "extent": "Sonepat —Sonepat municipality and Sonepat K.C. in Sonepat tahsil.",
    "party07": "INC",
    "winner_07": "Anil Thakar",
-   "electors_07": 166004
+   "electors_07": 166004,
+   "shares": {
+    "31": {
+     "pct": 18.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 42,
@@ -860,7 +1154,13 @@
    "extent": "Rai —Khewra K.C. and P.Cs. 94—Memarpur, 95—Malakpur, 100-101—Murthal Khas and Sani and 102—Nand Naur in Murthal K.C. in Sonepat tahsil.",
    "party07": "INC",
    "winner_07": "Ramesh Chander",
-   "electors_07": 136104
+   "electors_07": 136104,
+   "shares": {
+    "29": {
+     "pct": 69.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 43,
@@ -877,7 +1177,13 @@
    "extent": "Rohat —Rohat K.C. in Sonepat tahsil",
    "party07": "NCP",
    "winner_07": "Sukhbir Singh",
-   "electors_07": 113983
+   "electors_07": 113983,
+   "shares": {
+    "30": {
+     "pct": 74.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 44,
@@ -892,7 +1198,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Geeta",
-   "electors_07": 107989
+   "electors_07": 107989,
+   "shares": {
+    "16": {
+     "pct": 65.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 45,
@@ -907,7 +1219,13 @@
    "extent": "Narwana —Dhamtan Sahib K.C. (excluding P.Cs. 71—Sanghan, 72—Koel, 73—Kurar and 78—Dhundwa) and P.Cs. 41-42— Narwana I & II, 43—Gurthari, 46—Dablain, 47—Amargarh 48—Farain Kalan, 49—Phulian Kalan, 50—Kaloda Kalan, 51—Sancha Khera and 57—Dharodi in Narwana K.C. in Narwana tahsil.",
    "party07": "INC",
    "winner_07": "Randeep Singh Surjewala",
-   "electors_07": 123315
+   "electors_07": 123315,
+   "shares": {
+    "38": {
+     "pct": 84.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 46,
@@ -922,7 +1240,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Birender Singh",
-   "electors_07": 128418
+   "electors_07": 128418,
+   "shares": {
+    "37": {
+     "pct": 91.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 47,
@@ -939,7 +1263,21 @@
    "extent": "Rajond —Rajond and Alewa K.Cs. in Jind tahsil. 37. Uchana Kalan PCs Lodhar, Sudkain Kalan & Dumerkha Kalan of Dhakal KC, KCs Karsindhu, Uchana Kalan, Khatkar & Uchana (Municipal Committee) of Narwana Tehsil; PCs Alewa-I, II & III, Bighana, Durana, Dhilluwala & Pegan of Alewa KC & KC Naguran of Jind Tehsil.",
    "party07": "INC",
    "winner_07": "Satvinder Singh",
-   "electors_07": 105665
+   "electors_07": 105665,
+   "shares": {
+    "16": {
+     "pct": 21.9,
+     "basis": "approx"
+    },
+    "36": {
+     "pct": 1.5,
+     "basis": "approx"
+    },
+    "35": {
+     "pct": 26.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 48,
@@ -954,7 +1292,13 @@
    "extent": "Jind —Jind municipality and Jind K.C. in Jind tahsil. 38. Narwana(SC) KCs Narwana, Ujhana, Dhamtan Sahib & Danoda Kalan, PCs Dhakal, Hatho, Singhwal, Bhana Brahmnan & Gurthali of Dhakal KC & Narwana (Municipal Council) of Narwana Tehsil.",
    "party07": "INC",
    "winner_07": "Mange Ram Gupta",
-   "electors_07": 149623
+   "electors_07": 149623,
+   "shares": {
+    "36": {
+     "pct": 67.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 49,
@@ -969,7 +1313,13 @@
    "extent": "Julana —Kinana and Julana K.Cs. in Jind tahsil.",
    "party07": "INC",
    "winner_07": "Sher Singh",
-   "electors_07": 115008
+   "electors_07": 115008,
+   "shares": {
+    "34": {
+     "pct": 96.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 50,
@@ -984,7 +1334,13 @@
    "extent": "Safidon —Saridon tahsil, Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Kalayat (SC) Mainly Julana, partly outside Jind district The old Kalayat (SC) constituency disappeared from Jind district. Rajpur, Ramrai, Gobindpura and nearby villages became part of the newly constituted Julana constituency, while the remaining area went to the new Kalayat seat (Kaithal district). Narwana Mostly Narwana (SC), parts to Uchana Kalan Narwana retained its urban core but became SC-reserved. Several villages (e.g., Lodhar, Sudkain, Dumarkhan, etc.) were transferred to Uchana Kalan. Uchana-Kalan Mostly Uchana Kalan, parts to Jind The constituency continued but was ",
    "party07": "IND",
    "winner_07": "Bachan Singh Arya",
-   "electors_07": 126978
+   "electors_07": 126978,
+   "shares": {
+    "35": {
+     "pct": 98.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 51,
@@ -1000,7 +1356,17 @@
    "extent": "Faridabad .—Faridabad *N.I.T., P.Cs. 13-Dabwa, 22—Gonchhi and 23—Fatehpur Taga in Faridabad K.C. and PCs. 32— Piala, 34—Ferozepur Kalan, 35—Jhar Saintali, 36—Bhanakpur and 37—Sikri",
    "party07": "INC",
    "winner_07": "A C. Chaudhry",
-   "electors_07": 259874
+   "electors_07": 259874,
+   "shares": {
+    "89": {
+     "pct": 0.9,
+     "basis": "approx"
+    },
+    "86": {
+     "pct": 0.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 52,
@@ -1017,7 +1383,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Mahender Pratap",
-   "electors_07": 336587
+   "electors_07": 336587,
+   "shares": {
+    "87": {
+     "pct": 13.0,
+     "basis": "approx"
+    },
+    "90": {
+     "pct": 41.5,
+     "basis": "approx"
+    },
+    "86": {
+     "pct": 18.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 53,
@@ -1034,7 +1414,17 @@
    "extent": "Ballabgarh —Ballabgarh K.C. (excluding P.Cs. 32—Piala, 34— Ferozepur Kalan, 35—Jhar Saintali, 36—Bhanakpur and 37— Sikri) and Chhainsa K.C. in Ballabgarh tahsil.",
    "party07": "INC",
    "winner_07": "Sharda Rathore",
-   "electors_07": 206493
+   "electors_07": 206493,
+   "shares": {
+    "90": {
+     "pct": 14.5,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 47.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 54,
@@ -1050,7 +1440,17 @@
    "extent": "Palwal —Palwal K.C. and P.Cs. 17—Chhaprola, 18— Pirthala* 19—Dudaula, 20—Bhagola, 21—Ferozepur, 22—Janauli, 23—Badraon, 24—Alawalpur and 25—Khijurka in Chandhat K.C. in Palwal tahsil.",
    "party07": "INC",
    "winner_07": "Karan Singh Dalal",
-   "electors_07": 148591
+   "electors_07": 148591,
+   "shares": {
+    "84": {
+     "pct": 64.6,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 17.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 55,
@@ -1066,7 +1466,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Udai Bhan",
-   "electors_07": 138284
+   "electors_07": 138284,
+   "shares": {
+    "83": {
+     "pct": 33.3,
+     "basis": "measured"
+    },
+    "84": {
+     "pct": 33.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 56,
@@ -1081,7 +1491,13 @@
    "extent": "Hathin —Hodal K.C. (excluding P.Cs. 59-61—Hodal I to III, 62—Bhulwana, 63—Banswa and 64—Garota) in Palwal tahsilJ and Hathin K.C. in Nuh tahsil. 80. Ferozpur Jhirka Ferozepur Jhirka Tehsil 57. Ferozepur Jhirka .—Ferozepur Jhirka K.C. and Punhana K.C. (excluding P.Cs. 46—Khori Shahchoka, 47—Sarauli, 49— Gulalta and 50— Otha) in Ferozepur Jhirka tahsil.",
    "party07": "IND",
    "winner_07": "Harsh Kumar",
-   "electors_07": 124694
+   "electors_07": 124694,
+   "shares": {
+    "82": {
+     "pct": 29.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 57,
@@ -1097,7 +1513,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Azad",
-   "electors_07": 147823
+   "electors_07": 147823,
+   "shares": {
+    "80": {
+     "pct": 34.5,
+     "basis": "measured"
+    },
+    "81": {
+     "pct": 33.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 58,
@@ -1113,7 +1539,17 @@
    "extent": "Nuh —Nagina K.C. and P.Cs. 46—Khori Shahchoka, 47—Sarauli, 49—Gulalta and 50—Otha in Punhana K.C. in Ferozepur Jhirka tahsil; and Nuh K.C. in Nuh tahsil.",
    "party07": "IND",
    "winner_07": "Habib-Ur-Rehman",
-   "electors_07": 137965
+   "electors_07": 137965,
+   "shares": {
+    "79": {
+     "pct": 43.0,
+     "basis": "measured"
+    },
+    "81": {
+     "pct": 5.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 59,
@@ -1129,7 +1565,17 @@
    "extent": "Taoru —Taoru and Ujina K.Cs. in Nuh tahsil.",
    "party07": "INLD",
    "winner_07": "Sahida",
-   "electors_07": 151648
+   "electors_07": 151648,
+   "shares": {
+    "79": {
+     "pct": 27.3,
+     "basis": "measured"
+    },
+    "78": {
+     "pct": 34.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 60,
@@ -1144,7 +1590,13 @@
    "extent": "Sohna —Sohna K.C, P.Cs. 29—Islampur, 30—Khandsa, 31— Sihi, 32—Wazirpur, 33—Bhangrola, 34—Manesar, 35— Shikohpur and 36—Palra in Gurgaon K.C. and P.Cs. 11— Kasan, 16—Pathreri and 17—Chandla-DungarWas in Farrukhnagar K.C. in Gurgaon tahsil.",
    "party07": "IND",
    "winner_07": "Sukhbir Singh",
-   "electors_07": 157480
+   "electors_07": 157480,
+   "shares": {
+    "78": {
+     "pct": 53.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 61,
@@ -1160,7 +1612,17 @@
    "extent": "Gurgaon —Gurgaon K.C. (excluding P.Cs. 29—Islampur, 30—• Khandsa, 31—Sihi, 32—Wazirpur, 33—Bhangrola, 34— Manesar, 35—Shikohpur and 36—Palra) in Gurgaon tahsil, 62. Pataudi(SC) —Pataudi K.C. and Farrukhnagar K.C. (excludingP.Cs.11—Kasan, 16—Pathreri and 17—Chandla Dungarwas) in Gurgaon tahsil. Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Faridabad Mainly Pataudi (SC), remainder in Faridabad district The Gurgaon district portion of old Faridabad was transferred to the reconstituted Pataudi (SC) (Manesar, Farukhnagar KC villages), while the urban Faridabad area remained in Faridabad district. Mewla Maharajpur Mainly Badshahpur, remainder in Faridab",
    "party07": "INC",
    "winner_07": "Dharambir",
-   "electors_07": 292086
+   "electors_07": 292086,
+   "shares": {
+    "77": {
+     "pct": 27.7,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 63.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 62,
@@ -1175,7 +1637,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Bhupinder",
-   "electors_07": 147187
+   "electors_07": 147187,
+   "shares": {
+    "75": {
+     "pct": 75.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 63,
@@ -1190,7 +1658,13 @@
    "extent": "Badhra —Badhra and Jhoju Kalan K.Cs. and P.Cs. 14—Pichopa",
    "party07": "INC",
    "winner_07": "Dharambir",
-   "electors_07": 134422
+   "electors_07": 134422,
+   "shares": {
+    "55": {
+     "pct": 81.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 64,
@@ -1205,7 +1679,13 @@
    "extent": "Dadri —Dadri K.C. (excluding P.Cs. 14—Pichopa Khurd> 16—Rehrodi, 17—Umarwas and 18—Pichopa Kalan) and Sanwar K.C. (excluding P.Cs. 20—Bond Kalan, 21—Rankoli, 22—Malkosh, 23—Sanjarwas, 24—Sanwar, 25-26—Ranila I & II and 34—Kasni) in Dadri tahsil.",
    "party07": "INC",
    "winner_07": "Nirpender",
-   "electors_07": 130154
+   "electors_07": 130154,
+   "shares": {
+    "56": {
+     "pct": 74.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 65,
@@ -1222,7 +1702,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Ranbir Singh Mahendra",
-   "electors_07": 126496
+   "electors_07": 126496,
+   "shares": {
+    "57": {
+     "pct": 2.7,
+     "basis": "measured"
+    },
+    "50": {
+     "pct": 0.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 66,
@@ -1237,7 +1727,13 @@
    "extent": "Bhiwani —Bhiwani K.C. in Bhiwani tahsil.",
    "party07": "INC",
    "winner_07": "Dr. Shiv Shanker Bhardwaj",
-   "electors_07": 130320
+   "electors_07": 130320,
+   "shares": {
+    "57": {
+     "pct": 62.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 67,
@@ -1252,7 +1748,13 @@
    "extent": "Tosham .—Tosham, Jui Kalan and Kairu K.Cs. in Bhiwani tahsil.",
    "party07": "INC",
    "winner_07": "Surender Singh",
-   "electors_07": 142617
+   "electors_07": 142617,
+   "shares": {
+    "58": {
+     "pct": 86.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 68,
@@ -1267,7 +1769,13 @@
    "extent": "Loharu —Loharu tahsil. 59. Bawani Khera (SC) PCs Kharak Khurd-I & II, Kelanga-I & II of Bamla KC, KCs Chang & Mundhal Khurd of Bhiwani Tehsil & Bawani Khera Tehsil. 69. Bawani Khera (SC) .—Bawani Khera and Siwani K.Cs. and Mundhal Khurd K.C. (excluding P.Cs. 26—Talu, 27— Mundhal Kalan, 28-29—Mundhal Khurd I & II, 30—Badesra, 31-32—Dhanana I &II, 33— Mundhana and 37—Sui) in Bawani Khera tahsil. Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Badhra Badhra (majority) + Loharu Core retained in the new Badhra constituency (Jhojhu Kalan, Chiriya, Badhra & Kadma KCs). Loharu tehsil was separated to form the enlarged Loharu constituency. Dadri Dadri Direct",
    "party07": "INC",
    "winner_07": "Somvir Singh",
-   "electors_07": 147474
+   "electors_07": 147474,
+   "shares": {
+    "54": {
+     "pct": 78.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 69,
@@ -1282,7 +1790,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Ramkishan Fauji",
-   "electors_07": 133102
+   "electors_07": 133102,
+   "shares": {
+    "59": {
+     "pct": 39.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 70,
@@ -1297,7 +1811,13 @@
    "extent": "Barwala —Barwala and Kheri Jalab K.Cs. in Hansi tahsil.",
    "party07": "INC",
    "winner_07": "Randhir",
-   "electors_07": 137170
+   "electors_07": 137170,
+   "shares": {
+    "51": {
+     "pct": 11.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 71,
@@ -1312,7 +1832,13 @@
    "extent": "Narnaund —Narnaund K.C. and Sisai Kali Rawan K.C. (excluding 48. Uklana(SC) PCs Hasangarh, Kharkara, Gaibipur & Bobua of Barwala P.Cs. 39—Sisai Bola, 40-41— Sisai Kali Rawan I & II, 45—Bhatla, 46— Chanot, 47-48—Ghirai I & II and 50— Singhwa Ragho) in Hansi tahsil. KC, PCs Balak, Khedar I & II of Balak KC, KCs Landhari, Kharak, Uklana & Pabra of Hisar Tehsil.",
    "party07": "BJP",
    "winner_07": "Ram Kumar",
-   "electors_07": 116132
+   "electors_07": 116132,
+   "shares": {
+    "49": {
+     "pct": 83.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 72,
@@ -1327,7 +1853,13 @@
    "extent": "Hansi —Hansi K.C. in Hansi tahsil.",
    "party07": "INC",
    "winner_07": "Amir Chand",
-   "electors_07": 129661
+   "electors_07": 129661,
+   "shares": {
+    "50": {
+     "pct": 53.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 73,
@@ -1343,7 +1875,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Kulvir Singh",
-   "electors_07": 124766
+   "electors_07": 124766,
+   "shares": {
+    "40": {
+     "pct": 28.7,
+     "basis": "approx"
+    },
+    "47": {
+     "pct": 16.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 74,
@@ -1359,7 +1901,17 @@
    "extent": "Hissar —Hissar municipality, P.Cs. 1-3—Hissar I to III, 8— Juglan and 9—Talwandi Rana in Hissar K.C, P.Cs. 15-19— Bir Hissar I to V and 27—Gangwa in Bir Hissar K.C. in Hissar tahsil.",
    "party07": "INC",
    "winner_07": "Om Prakash Jindal",
-   "electors_07": 162731
+   "electors_07": 162731,
+   "shares": {
+    "52": {
+     "pct": 19.0,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 9.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 75,
@@ -1376,7 +1928,21 @@
    "extent": "Ghirai —P.Cs. 39-Sisai Bola, 40-41—Sisai Kali Rawan I and II, 45—Bhatla, 46—Chanot, 47-48—Ghirai I & II and 50— Singhwa Ragho in Sisaikali Rawan K.C. in Hansi tahsil; Balak K.C. and Hissar K.C. (excluding Hissar municipality and P.Cs. 1-3—Hissar I to III, 8—Juglan and 9—Talwandi Rana) in Hissar tahsil.",
    "party07": "INC",
    "winner_07": "Prof. Chhattar Pal Singh",
-   "electors_07": 129731
+   "electors_07": 129731,
+   "shares": {
+    "50": {
+     "pct": 24.2,
+     "basis": "approx"
+    },
+    "51": {
+     "pct": 38.5,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 18.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 76,
@@ -1391,7 +1957,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Paramvir Singh",
-   "electors_07": 145532
+   "electors_07": 145532,
+   "shares": {
+    "39": {
+     "pct": 79.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 77,
@@ -1406,7 +1978,13 @@
    "extent": "",
    "party07": "INLD",
    "winner_07": "Gian Chand",
-   "electors_07": 127181
+   "electors_07": 127181,
+   "shares": {
+    "41": {
+     "pct": 78.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 78,
@@ -1421,7 +1999,13 @@
    "extent": "Fatehabad .—Fatehabad and Bhirrana K.Cs. and Bighar K.C (excluding P.Cs. 53—Manawali, 54—Kukranwali, 55— Gila Khera and 56—Bodiwali) in Fatehabad tahsil.",
    "party07": "INC",
    "winner_07": "Dura Ram",
-   "electors_07": 157160
+   "electors_07": 157160,
+   "shares": {
+    "40": {
+     "pct": 31.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 79,
@@ -1436,7 +2020,13 @@
    "extent": "Adampur —Adampur, Balsmand and Mangali K.Cs. and Bir Hissar K.C [excluding P.Cs. 15-19—Bir Hissar I to V and 27—Gangwa] in Hissar tahsil. Key Changes Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Barwala Barwala (majority) + Uklana (SC) + Adampur The constituency was reorganised. Its core became the new Barwala, while parts of Barwala KC (Hasangarh, Kharkara, Gaibipur, Bubak etc.) were transferred to Uklana (SC). Adampur expanded by acquiring Balsamand and Bir Hisar KCs. Narnaund Narnaund Direct continuity. The new constituency is centred on Narnaund Tehsil (Sisai, Khanda Kheri and Bass KCs), with only minor boundary rationalisation. Hansi Hansi Strong contin",
    "party07": "INC",
    "winner_07": "Bhajan Lal",
-   "electors_07": 141094
+   "electors_07": 141094,
+   "shares": {
+    "47": {
+     "pct": 45.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 80,
@@ -1452,7 +2042,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Bharat Singh",
-   "electors_07": 139156
+   "electors_07": 139156,
+   "shares": {
+    "45": {
+     "pct": 26.7,
+     "basis": "approx"
+    },
+    "42": {
+     "pct": 14.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 81,
@@ -1468,7 +2068,17 @@
    "extent": "",
    "party07": "INLD",
    "winner_07": "Dr. Sushil Kumar Indora",
-   "electors_07": 142600
+   "electors_07": 142600,
+   "shares": {
+    "46": {
+     "pct": 35.7,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 59.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 82,
@@ -1483,7 +2093,13 @@
    "extent": "Sirsa —Sirsa K.C. and P.Cs. 110—Bhaudin, 111—Kawarpura, 112—Kotali, 113—Moriwala, 115—Darbi, 116—Baruwali Aval and 117—Bharoka in Ding K.C. in Sirsa tahsil.",
    "party07": "INC",
    "winner_07": "Lachhman Dass Arora",
-   "electors_07": 154370
+   "electors_07": 154370,
+   "shares": {
+    "45": {
+     "pct": 22.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 83,
@@ -1499,7 +2115,17 @@
    "extent": "Rori ,—Rori and Baragurah K.Cs. in Sirsa tahsil; Odhan K.C. and Bijuwali K.Cs. in Dabwali tahsil.",
    "party07": "INLD",
    "winner_07": "Om Prakash Chautala",
-   "electors_07": 128819
+   "electors_07": 128819,
+   "shares": {
+    "44": {
+     "pct": 7.7,
+     "basis": "measured"
+    },
+    "42": {
+     "pct": 48.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 84,
@@ -1514,7 +2140,13 @@
    "extent": "Dabwali (SC) —Dabwali, Abubshahr and Kalanwali K-Cs. in Dabwali tahsil",
    "party07": "INLD",
    "winner_07": "Dr.Sita Ram",
-   "electors_07": 132360
+   "electors_07": 132360,
+   "shares": {
+    "43": {
+     "pct": 81.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 85,
@@ -1529,7 +2161,13 @@
    "extent": "Bawal (SC) —Bawal municipality, Bawal K.C. and Khori K.C. (excluding P.Cs. 44—Mundi, 49—Jadra, 50—Gokalgarh and 51—Bikaner) in Rewari tahsil.",
    "party07": "IND",
    "winner_07": "Shakuntla Bhagwaria",
-   "electors_07": 148953
+   "electors_07": 148953,
+   "shares": {
+    "72": {
+     "pct": 72.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 86,
@@ -1545,7 +2183,17 @@
    "extent": "Rewari —Rewari municipality, Rewari K.C. and P.Cs. 49— Jadra, 50—Gokalgarh and 51—Bikaner in Khori K.C. in Rewari tahsil.",
    "party07": "INC",
    "winner_07": "Ajay Singh",
-   "electors_07": 148312
+   "electors_07": 148312,
+   "shares": {
+    "74": {
+     "pct": 51.4,
+     "basis": "approx"
+    },
+    "73": {
+     "pct": 3.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 87,
@@ -1561,7 +2209,13 @@
    "extent": "Jatusana .—Kanina municipality and Kanina K.C. in Mahendragarh tahsil; and Jatusana K.C. and P.C. 44—Mundi in Khori: K.C. in Rewari tahsil.",
    "party07": "INC",
    "winner_07": "Yadavendra Singh Alias Baljit Singh",
-   "electors_07": 155198
+   "electors_07": 155198,
+   "shares": {
+    "73": {
+     "pct": 46.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 88,
@@ -1576,7 +2230,13 @@
    "extent": "Mahendragarh .—Mahendragarh municipality and Mahendragarh and Pali K.Cs. in Mahendragarh tahsil. 71. Nangal Chaudhry KCs Nizampur & Nangal Chaudhry of Narnaul Tehsil.",
    "party07": "INC",
    "winner_07": "Dan Singh",
-   "electors_07": 154280
+   "electors_07": 154280,
+   "shares": {
+    "69": {
+     "pct": 91.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 89,
@@ -1592,7 +2252,17 @@
    "extent": "Ateli —Ateli K.C, P.Cs. 34—Nangal Chaudhri, 35—Kanwin, 36—Bhojawas, 37—Kamania,38—Nangal Kalia and 49—Sirohi Bahali in Nangal Chaudhari K.C. and P.Cs. 3—Hudina, 4— Niwaznagar, 14—Shahpur-I and 16—Kodinja in Narnaul K.C. in Narnaul tahsil.",
    "party07": "IND",
    "winner_07": "Naresh Yadav",
-   "electors_07": 153131
+   "electors_07": 153131,
+   "shares": {
+    "68": {
+     "pct": 45.7,
+     "basis": "measured"
+    },
+    "71": {
+     "pct": 7.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 90,
@@ -1608,7 +2278,17 @@
    "extent": "Narnaul —Narnaul K.C. (excluding P.Cs. 3—Hudina, 4—Ni>- waznagar, 14—Shahpur-I and 16—Kodinja) and Nangal Chaudhri K.C. (excluding P.Cs. 34—Nangal Chaudhri, 35— Kanwin, 36—Bhojawas, 37—Kamania, 38—Nangal Kalia and 49—Sirohi Bahali) in Narnaul tahsil. Key Patterns Old Constituency (Before 2008) Where It's Located Now (After 2008) Key Changes Bawal (SC) Mostly Ateli, partly Narnaul The old Bawal (SC) constituency disappeared from Mahendragarh district. Its Mahendragarh-side Kanina and Dhanaunda areas became part of Ateli, while Bawal itself later formed part of the Rewari district constituency after reorganization. Rewari Mostly outside Mahendragarh district (Rewari district) The Rewari consti",
    "party07": "IND",
    "winner_07": "Radhey Shyam",
-   "electors_07": 141082
+   "electors_07": 141082,
+   "shares": {
+    "70": {
+     "pct": 25.2,
+     "basis": "approx"
+    },
+    "71": {
+     "pct": 62.8,
+     "basis": "measured"
+    }
+   }
   }
  ],
  "post2008_constituencies": [
@@ -1626,7 +2306,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Pardeep Chaudhary",
-   "electors_12": 122579
+   "electors_12": 122579,
+   "shares": {
+    "1": {
+     "pct": 84.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 2,
@@ -1643,7 +2329,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Devender Kumar Bansal",
-   "electors_12": 143985
+   "electors_12": 143985,
+   "shares": {
+    "1": {
+     "pct": 85.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 3,
@@ -1660,7 +2352,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Ram Kishan",
-   "electors_12": 141746
+   "electors_12": 141746,
+   "shares": {
+    "2": {
+     "pct": 58.1,
+     "basis": "approx"
+    },
+    "10": {
+     "pct": 1.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 4,
@@ -1676,7 +2378,13 @@
    "sc_note": "",
    "party12": "BJP",
    "winner_12": "Anil Vij",
-   "electors_12": 147434
+   "electors_12": 147434,
+   "shares": {
+    "8": {
+     "pct": 53.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 5,
@@ -1693,7 +2401,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Venod Sharma",
-   "electors_12": 187813
+   "electors_12": 187813,
+   "shares": {
+    "9": {
+     "pct": 17.2,
+     "basis": "measured"
+    },
+    "10": {
+     "pct": 64.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 6,
@@ -1709,7 +2427,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Rajbir Singh Barara",
-   "electors_12": 167513
+   "electors_12": 167513,
+   "shares": {
+    "7": {
+     "pct": 68.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 7,
@@ -1726,7 +2450,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Rajpal",
-   "electors_12": 165132
+   "electors_12": 165132,
+   "shares": {
+    "3": {
+     "pct": 55.3,
+     "basis": "measured"
+    },
+    "4": {
+     "pct": 14.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 8,
@@ -1743,7 +2477,17 @@
    "sc_note": "",
    "party12": "BSP",
    "winner_12": "Akram Khan",
-   "electors_12": 158037
+   "electors_12": 158037,
+   "shares": {
+    "4": {
+     "pct": 86.9,
+     "basis": "approx"
+    },
+    "6": {
+     "pct": 2.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 9,
@@ -1759,7 +2503,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Dilbagh Singh",
-   "electors_12": 153439
+   "electors_12": 153439,
+   "shares": {
+    "5": {
+     "pct": 59.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 10,
@@ -1775,7 +2525,13 @@
    "sc_note": "Lost SC reservation.",
    "party12": "INLD",
    "winner_12": "Dr.Bishan Lal Saini",
-   "electors_12": 146594
+   "electors_12": 146594,
+   "shares": {
+    "21": {
+     "pct": 53.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 11,
@@ -1792,7 +2548,17 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Sher Singh Barshami",
-   "electors_12": 138172
+   "electors_12": 138172,
+   "shares": {
+    "21": {
+     "pct": 40.7,
+     "basis": "approx"
+    },
+    "22": {
+     "pct": 52.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 12,
@@ -1808,7 +2574,13 @@
    "sc_note": "Newly SC-reserved.",
    "party12": "INC",
    "winner_12": "Anil Dhantori",
-   "electors_12": 124883
+   "electors_12": 124883,
+   "shares": {
+    "20": {
+     "pct": 65.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 13,
@@ -1824,7 +2596,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Ashok Kumar Arora",
-   "electors_12": 122244
+   "electors_12": 122244,
+   "shares": {
+    "22": {
+     "pct": 65.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 14,
@@ -1840,7 +2618,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Harmohinder Singh",
-   "electors_12": 134786
+   "electors_12": 134786,
+   "shares": {
+    "23": {
+     "pct": 73.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 15,
@@ -1856,7 +2640,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Phool Singh",
-   "electors_12": 143929
+   "electors_12": 143929,
+   "shares": {
+    "24": {
+     "pct": 86.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 16,
@@ -1874,7 +2664,21 @@
    "sc_note": "Lost SC reservation.",
    "party12": "INLD",
    "winner_12": "Rampal Majra",
-   "electors_12": 162982
+   "electors_12": 162982,
+   "shares": {
+    "27": {
+     "pct": 28.8,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 42.7,
+     "basis": "approx"
+    },
+    "47": {
+     "pct": 11.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 17,
@@ -1890,7 +2694,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Randeep Singh Surjewala",
-   "electors_12": 150744
+   "electors_12": 150744,
+   "shares": {
+    "25": {
+     "pct": 59.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 18,
@@ -1907,7 +2717,17 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Sultan",
-   "electors_12": 146691
+   "electors_12": 146691,
+   "shares": {
+    "26": {
+     "pct": 54.5,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 23.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 19,
@@ -1924,7 +2744,17 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Mamu Ram",
-   "electors_12": 156170
+   "electors_12": 156170,
+   "shares": {
+    "12": {
+     "pct": 42.2,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 50.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 20,
@@ -1940,7 +2770,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Ashok Kashyap",
-   "electors_12": 147068
+   "electors_12": 147068,
+   "shares": {
+    "11": {
+     "pct": 68.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 21,
@@ -1957,7 +2793,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Sumita Singh",
-   "electors_12": 158695
+   "electors_12": 158695,
+   "shares": {
+    "13": {
+     "pct": 33.4,
+     "basis": "approx"
+    },
+    "14": {
+     "pct": 29.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 22,
@@ -1973,7 +2819,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Narender Sangwan",
-   "electors_12": 159059
+   "electors_12": 159059,
+   "shares": {
+    "15": {
+     "pct": 87.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 23,
@@ -1990,7 +2842,17 @@
    "sc_note": "Lost SC reservation.",
    "party12": "HJCBL",
    "winner_12": "Pt. Zile Ram Chochra",
-   "electors_12": 170814
+   "electors_12": 170814,
+   "shares": {
+    "14": {
+     "pct": 27.1,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 62.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 24,
@@ -2007,7 +2869,17 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Om Prakash Jain",
-   "electors_12": 126347
+   "electors_12": 126347,
+   "shares": {
+    "17": {
+     "pct": 25.1,
+     "basis": "approx"
+    },
+    "19": {
+     "pct": 55.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 25,
@@ -2023,7 +2895,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Balbir Pal Shah",
-   "electors_12": 144053
+   "electors_12": 144053,
+   "shares": {
+    "17": {
+     "pct": 84.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 26,
@@ -2039,7 +2917,13 @@
    "sc_note": "Newly created SC-reserved seat.",
    "party12": "INLD",
    "winner_12": "Krishan Lal Panwar",
-   "electors_12": 128894
+   "electors_12": 128894,
+   "shares": {
+    "19": {
+     "pct": 73.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 27,
@@ -2055,7 +2939,13 @@
    "sc_note": "",
    "party12": "HJCBL",
    "winner_12": "Dharm Singh",
-   "electors_12": 143332
+   "electors_12": 143332,
+   "shares": {
+    "18": {
+     "pct": 89.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 28,
@@ -2071,7 +2961,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Kuldeep Sharma",
-   "electors_12": 127556
+   "electors_12": 127556,
+   "shares": {
+    "40": {
+     "pct": 90.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 29,
@@ -2088,7 +2984,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Jai Tirath",
-   "electors_12": 124163
+   "electors_12": 124163,
+   "shares": {
+    "42": {
+     "pct": 92.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 30,
@@ -2105,7 +3007,17 @@
    "sc_note": "Newly created SC-reserved seat.",
    "party12": "INC",
    "winner_12": "Jaiveer",
-   "electors_12": 119988
+   "electors_12": 119988,
+   "shares": {
+    "28": {
+     "pct": 0.7,
+     "basis": "measured"
+    },
+    "43": {
+     "pct": 74.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 31,
@@ -2123,7 +3035,13 @@
    "sc_note": "",
    "party12": "BJP",
    "winner_12": "Kavita Jain",
-   "electors_12": 130175
+   "electors_12": 130175,
+   "shares": {
+    "41": {
+     "pct": 78.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 32,
@@ -2139,7 +3057,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Jagbir Singh Malik",
-   "electors_12": 128991
+   "electors_12": 128991,
+   "shares": {
+    "39": {
+     "pct": 45.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 33,
@@ -2155,7 +3079,13 @@
    "sc_note": "Lost SC reservation.",
    "party12": "INC",
    "winner_12": "Sri Krishan",
-   "electors_12": 140925
+   "electors_12": 140925,
+   "shares": {
+    "38": {
+     "pct": 58.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 34,
@@ -2171,7 +3101,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Parminder Singh Dhull",
-   "electors_12": 136988
+   "electors_12": 136988,
+   "shares": {
+    "49": {
+     "pct": 78.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 35,
@@ -2188,7 +3124,17 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Kali Ram Patwari",
-   "electors_12": 139236
+   "electors_12": 139236,
+   "shares": {
+    "47": {
+     "pct": 20.2,
+     "basis": "approx"
+    },
+    "50": {
+     "pct": 71.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 36,
@@ -2205,7 +3151,17 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Dr. Hari Chand Middha",
-   "electors_12": 125564
+   "electors_12": 125564,
+   "shares": {
+    "47": {
+     "pct": 2.9,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 95.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 37,
@@ -2221,7 +3177,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Om Parkash Chautala",
-   "electors_12": 161358
+   "electors_12": 161358,
+   "shares": {
+    "46": {
+     "pct": 58.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 38,
@@ -2237,7 +3199,13 @@
    "sc_note": "Newly SC-reserved.",
    "party12": "INLD",
    "winner_12": "Pirthi Singh",
-   "electors_12": 159904
+   "electors_12": 159904,
+   "shares": {
+    "45": {
+     "pct": 84.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 39,
@@ -2253,7 +3221,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Paramvir Singh",
-   "electors_12": 167845
+   "electors_12": 167845,
+   "shares": {
+    "76": {
+     "pct": 64.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 40,
@@ -2270,7 +3244,17 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Prahlad Singh Gillan Khera",
-   "electors_12": 182826
+   "electors_12": 182826,
+   "shares": {
+    "73": {
+     "pct": 59.5,
+     "basis": "approx"
+    },
+    "78": {
+     "pct": 27.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 41,
@@ -2286,7 +3270,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Gian Chand",
-   "electors_12": 161695
+   "electors_12": 161695,
+   "shares": {
+    "77": {
+     "pct": 60.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 42,
@@ -2303,7 +3293,17 @@
    "sc_note": "Newly created SC-reserved seat.",
    "party12": "SAD",
    "winner_12": "Charanjeet Singh",
-   "electors_12": 138779
+   "electors_12": 138779,
+   "shares": {
+    "80": {
+     "pct": 14.8,
+     "basis": "measured"
+    },
+    "83": {
+     "pct": 48.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 43,
@@ -2319,7 +3319,13 @@
    "sc_note": "Lost SC reservation.",
    "party12": "INLD",
    "winner_12": "Ajay Singh Chautala",
-   "electors_12": 156245
+   "electors_12": 156245,
+   "shares": {
+    "84": {
+     "pct": 57.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 44,
@@ -2336,7 +3342,17 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Krishan Lal S/O Ram Chand",
-   "electors_12": 139469
+   "electors_12": 139469,
+   "shares": {
+    "81": {
+     "pct": 81.7,
+     "basis": "measured"
+    },
+    "83": {
+     "pct": 9.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 45,
@@ -2353,7 +3369,17 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Gopal Kanda",
-   "electors_12": 150395
+   "electors_12": 150395,
+   "shares": {
+    "80": {
+     "pct": 72.3,
+     "basis": "approx"
+    },
+    "82": {
+     "pct": 26.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 46,
@@ -2369,7 +3395,13 @@
    "sc_note": "Lost SC reservation.",
    "party12": "INLD",
    "winner_12": "Om Parkash Chautala",
-   "electors_12": 144181
+   "electors_12": 144181,
+   "shares": {
+    "81": {
+     "pct": 38.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 47,
@@ -2386,7 +3418,17 @@
    "sc_note": "",
    "party12": "HJCBL",
    "winner_12": "Kuldeep Bishnoi",
-   "electors_12": 129790
+   "electors_12": 129790,
+   "shares": {
+    "73": {
+     "pct": 34.2,
+     "basis": "measured"
+    },
+    "79": {
+     "pct": 46.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 48,
@@ -2402,7 +3444,13 @@
    "sc_note": "Newly created SC-reserved seat.",
    "party12": "INC",
    "winner_12": "Naresh Selwal",
-   "electors_12": 152276
+   "electors_12": 152276,
+   "shares": {
+    "75": {
+     "pct": 14.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 49,
@@ -2418,7 +3466,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Saroj",
-   "electors_12": 160787
+   "electors_12": 160787,
+   "shares": {
+    "71": {
+     "pct": 60.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 50,
@@ -2436,7 +3490,21 @@
    "sc_note": "",
    "party12": "HJCBL",
    "winner_12": "Vinod Bhayana",
-   "electors_12": 143621
+   "electors_12": 143621,
+   "shares": {
+    "65": {
+     "pct": 0.8,
+     "basis": "approx"
+    },
+    "72": {
+     "pct": 43.7,
+     "basis": "approx"
+    },
+    "75": {
+     "pct": 37.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 51,
@@ -2453,7 +3521,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Ram Niwas Ghorela",
-   "electors_12": 126513
+   "electors_12": 126513,
+   "shares": {
+    "70": {
+     "pct": 12.8,
+     "basis": "approx"
+    },
+    "75": {
+     "pct": 59.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 52,
@@ -2469,7 +3547,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Savitri Jindal",
-   "electors_12": 118017
+   "electors_12": 118017,
+   "shares": {
+    "74": {
+     "pct": 100.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 53,
@@ -2486,7 +3570,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Sampat Singh",
-   "electors_12": 121852
+   "electors_12": 121852,
+   "shares": {
+    "74": {
+     "pct": 4.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 54,
@@ -2502,7 +3592,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Dharam Pal",
-   "electors_12": 143693
+   "electors_12": 143693,
+   "shares": {
+    "68": {
+     "pct": 73.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 55,
@@ -2518,7 +3614,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Raghbir Singh",
-   "electors_12": 147668
+   "electors_12": 147668,
+   "shares": {
+    "63": {
+     "pct": 92.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 56,
@@ -2534,7 +3636,13 @@
    "sc_note": "",
    "party12": "HJCBL",
    "winner_12": "Satpal",
-   "electors_12": 146447
+   "electors_12": 146447,
+   "shares": {
+    "64": {
+     "pct": 52.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 57,
@@ -2551,7 +3659,17 @@
    "sc_note": "",
    "party12": "BJP",
    "winner_12": "Ghansyam Saraf",
-   "electors_12": 145957
+   "electors_12": 145957,
+   "shares": {
+    "65": {
+     "pct": 4.7,
+     "basis": "measured"
+    },
+    "66": {
+     "pct": 56.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 58,
@@ -2567,7 +3685,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Kiran Choudhary",
-   "electors_12": 158501
+   "electors_12": 158501,
+   "shares": {
+    "67": {
+     "pct": 90.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 59,
@@ -2583,7 +3707,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Ram Kishan Fouji S/O Dharampal",
-   "electors_12": 152436
+   "electors_12": 152436,
+   "shares": {
+    "69": {
+     "pct": 43.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 60,
@@ -2599,7 +3729,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Anand Singh",
-   "electors_12": 150515
+   "electors_12": 150515,
+   "shares": {
+    "31": {
+     "pct": 65.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 61,
@@ -2616,7 +3752,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Bhupinder Singh",
-   "electors_12": 164050
+   "electors_12": 164050,
+   "shares": {
+    "28": {
+     "pct": 30.7,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 57.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 62,
@@ -2632,7 +3778,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Bharat Bhushan Batra",
-   "electors_12": 133671
+   "electors_12": 133671,
+   "shares": {
+    "30": {
+     "pct": 53.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 63,
@@ -2648,7 +3800,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Shakuntla",
-   "electors_12": 147923
+   "electors_12": 147923,
+   "shares": {
+    "32": {
+     "pct": 58.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 64,
@@ -2664,7 +3822,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Rajinder Singh Joon",
-   "electors_12": 134227
+   "electors_12": 134227,
+   "shares": {
+    "37": {
+     "pct": 92.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 65,
@@ -2680,7 +3844,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Naresh Kumar",
-   "electors_12": 137879
+   "electors_12": 137879,
+   "shares": {
+    "36": {
+     "pct": 25.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 66,
@@ -2697,7 +3867,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Geeta",
-   "electors_12": 136357
+   "electors_12": 136357,
+   "shares": {
+    "34": {
+     "pct": 66.1,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 15.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 67,
@@ -2714,7 +3894,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Dr. Raghubir Singh",
-   "electors_12": 138650
+   "electors_12": 138650,
+   "shares": {
+    "33": {
+     "pct": 56.6,
+     "basis": "approx"
+    },
+    "34": {
+     "pct": 0.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 68,
@@ -2730,7 +3920,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Anita Yadav",
-   "electors_12": 150113
+   "electors_12": 150113,
+   "shares": {
+    "89": {
+     "pct": 45.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 69,
@@ -2746,7 +3942,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Dan Singh",
-   "electors_12": 149580
+   "electors_12": 149580,
+   "shares": {
+    "88": {
+     "pct": 35.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 70,
@@ -2762,7 +3964,13 @@
    "sc_note": "",
    "party12": "HJCBL",
    "winner_12": "Narender Singh",
-   "electors_12": 110141
+   "electors_12": 110141,
+   "shares": {
+    "90": {
+     "pct": 46.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 71,
@@ -2779,7 +3987,17 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Bahadur Singh",
-   "electors_12": 119990
+   "electors_12": 119990,
+   "shares": {
+    "89": {
+     "pct": 8.2,
+     "basis": "measured"
+    },
+    "90": {
+     "pct": 67.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 72,
@@ -2795,7 +4013,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Rameshwar Dayal",
-   "electors_12": 165046
+   "electors_12": 165046,
+   "shares": {
+    "85": {
+     "pct": 64.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 73,
@@ -2812,7 +4036,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Yaduvender Singh",
-   "electors_12": 184860
+   "electors_12": 184860,
+   "shares": {
+    "86": {
+     "pct": 1.9,
+     "basis": "approx"
+    },
+    "87": {
+     "pct": 53.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 74,
@@ -2829,7 +4063,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Ajay Singh S/O Abhey Singh",
-   "electors_12": 165691
+   "electors_12": 165691,
+   "shares": {
+    "86": {
+     "pct": 87.6,
+     "basis": "approx"
+    },
+    "87": {
+     "pct": 0.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 75,
@@ -2845,7 +4089,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Ganga Ram",
-   "electors_12": 159063
+   "electors_12": 159063,
+   "shares": {
+    "62": {
+     "pct": 74.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 76,
@@ -2861,7 +4111,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Dharam Pal",
-   "electors_12": 226206
+   "electors_12": 226206,
+   "shares": {
+    "61": {
+     "pct": 47.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 77,
@@ -2877,7 +4133,13 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Sukhbeer",
-   "electors_12": 231340
+   "electors_12": 231340,
+   "shares": {
+    "61": {
+     "pct": 96.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 78,
@@ -2894,7 +4156,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Dharambir",
-   "electors_12": 153130
+   "electors_12": 153130,
+   "shares": {
+    "59": {
+     "pct": 35.5,
+     "basis": "approx"
+    },
+    "60": {
+     "pct": 54.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 79,
@@ -2911,7 +4183,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Aftab Ahmed",
-   "electors_12": 116128
+   "electors_12": 116128,
+   "shares": {
+    "58": {
+     "pct": 36.2,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 37.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 80,
@@ -2927,7 +4209,13 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Naseem Ahmed",
-   "electors_12": 130045
+   "electors_12": 130045,
+   "shares": {
+    "57": {
+     "pct": 55.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 81,
@@ -2944,7 +4232,17 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Mohammed Ilyas",
-   "electors_12": 111551
+   "electors_12": 111551,
+   "shares": {
+    "57": {
+     "pct": 90.6,
+     "basis": "measured"
+    },
+    "58": {
+     "pct": 6.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 82,
@@ -2960,7 +4258,13 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Jaleb Khan",
-   "electors_12": 148764
+   "electors_12": 148764,
+   "shares": {
+    "56": {
+     "pct": 15.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 83,
@@ -2976,7 +4280,13 @@
    "sc_note": "Newly created SC-reserved seat.",
    "party12": "INLD",
    "winner_12": "Jagdish Nayar",
-   "electors_12": 124181
+   "electors_12": 124181,
+   "shares": {
+    "55": {
+     "pct": 36.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 84,
@@ -2993,7 +4303,17 @@
    "sc_note": "",
    "party12": "INLD",
    "winner_12": "Subhash Choudhary",
-   "electors_12": 154279
+   "electors_12": 154279,
+   "shares": {
+    "54": {
+     "pct": 49.2,
+     "basis": "approx"
+    },
+    "55": {
+     "pct": 32.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 85,
@@ -3010,7 +4330,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Raghubir Singh",
-   "electors_12": 135348
+   "electors_12": 135348,
+   "shares": {
+    "53": {
+     "pct": 55.0,
+     "basis": "approx"
+    },
+    "54": {
+     "pct": 16.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 86,
@@ -3027,7 +4357,13 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Pt. Shiv Charan Lal Sharma",
-   "electors_12": 129293
+   "electors_12": 129293,
+   "shares": {
+    "52": {
+     "pct": 72.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 87,
@@ -3043,7 +4379,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Mahender Partap Singh",
-   "electors_12": 134480
+   "electors_12": 134480,
+   "shares": {
+    "52": {
+     "pct": 65.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 88,
@@ -3075,7 +4417,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Anand Kaushik",
-   "electors_12": 132953
+   "electors_12": 132953,
+   "shares": {
+    "51": {
+     "pct": 2.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 90,
@@ -3092,7 +4440,17 @@
    "sc_note": "",
    "party12": "BJP",
    "winner_12": "Krishan Pal",
-   "electors_12": 135437
+   "electors_12": 135437,
+   "shares": {
+    "52": {
+     "pct": 71.7,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 26.3,
+     "basis": "approx"
+    }
+   }
   }
  ],
  "sources": [
