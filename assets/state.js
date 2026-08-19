@@ -551,10 +551,14 @@
     };
     const col = STATUS_PILL[c.status] || STATUS_PILL.continuing;
     const statusLabel = STATUS_LABELS[c.status] || c.status || "";
+    const shareOf = n => (c.shares || {})[String(n)] || null;
     const links = isOld
-      ? (c.dest || []).map(n => { const s = newByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":s.type==="ST"?" (ST)":""), n, side:"new", pfx:prefix } : null; }).filter(Boolean)
-      : (c.src  || []).map(n => { const s = oldByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":s.type==="ST"?" (ST)":""), n, side:"old", pfx:prefix } : null; }).filter(Boolean);
-    const linksLabel = isOld ? "Territory went to (" + POST_YEAR + " seats)" : "Built from (pre-" + POST_YEAR + " seats)";
+      ? (c.dest || []).map(n => { const s = newByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":s.type==="ST"?" (ST)":""), n, side:"new", pfx:prefix, sh: shareOf(n) } : null; }).filter(Boolean)
+      : (c.src  || []).map(n => { const s = oldByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":s.type==="ST"?" (ST)":""), n, side:"old", pfx:prefix, sh: shareOf(n) } : null; }).filter(Boolean);
+    links.sort((a,b) => ((b.sh && b.sh.pct) || 0) - ((a.sh && a.sh.pct) || 0));
+    const linksLabel = isOld
+      ? "Territory went to (" + POST_YEAR + " seats) \u00b7 share of this seat"
+      : "Built from (pre-" + POST_YEAR + " seats) \u00b7 share of this seat";
     const partyCode  = isOld ? c.party07 : c.party12;
     const winnerName = isOld ? c.winner_07 : c.winner_12;
     const electors   = isOld ? c.electors_07 : c.electors_12;
@@ -614,7 +618,15 @@
         links.map(lk => {
           const attr = prefix === "p3" ? "data-p3-link-side=\"" + lk.side + "\" data-p3-link-n=\"" + lk.n + "\""
                                        : "data-t4-link-side=\"" + lk.side + "\" data-t4-link-n=\"" + lk.n + "\"";
-          return "<button " + attr + " style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid rgba(41,36,27,0.5);background:#fff;padding:3px 9px;border-radius:99px\">" + esc(lk.label) + " \u2192</button>";
+          var pctHTML = "";
+          if (lk.sh && typeof lk.sh.pct === "number") {
+            var soft = lk.sh.basis === "approx";
+            var txt  = (soft ? "~" : "") + (lk.sh.pct >= 10 ? Math.round(lk.sh.pct) : lk.sh.pct.toFixed(1)) + "%";
+            pctHTML = "<span style=\"margin-left:6px;font-family:var(--mono);font-size:11px;" +
+                      (soft ? "color:rgba(41,36,27,0.45);font-style:italic" : "color:rgba(41,36,27,0.7)") +
+                      "\" title=\"" + (soft ? "Approximate: one of these seats is defined by municipal wards, which the two orders number differently" : "Measured from the mapped boundaries of both orders") + "\">" + txt + "</span>";
+          }
+          return "<button " + attr + " style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid rgba(41,36,27,0.5);background:#fff;padding:3px 9px;border-radius:99px;display:inline-flex;align-items:baseline\">" + esc(lk.label) + pctHTML + " <span style=\"margin-left:5px\">\u2192</span></button>";
         }).join("") + "</div>";
     }
 
@@ -1165,8 +1177,30 @@
       listBlock("Map caveats", data.map_caveats) +
       listBlock("Data flags", data.data_flags) +
       listBlock("District framework", data.footnotes) +
+      sharesNoteHTML() +
       citeBlockHTML() +
       "</section>";
+  }
+
+  function sharesNoteHTML() {
+    var anySoft = false, anyShare = false;
+    (olds.concat(news)).forEach(function (c) {
+      var sh = c.shares || {};
+      Object.keys(sh).forEach(function (k) {
+        anyShare = true;
+        if (sh[k].basis === "approx") anySoft = true;
+      });
+    });
+    if (!anyShare) return "";
+    return "<h3 class=\"label\" style=\"margin:18px 0 8px\">How the shares are measured</h3>" +
+      "<ul class=\"ruled-list\">" +
+      "<li><span>Each seat record gives the percentage of territory a link accounts for. On a pre-" + POST_YEAR +
+      " seat the figure is the share of that seat which went to each successor. On a " + POST_YEAR +
+      " seat it is the share of that seat drawn from each predecessor. The two directions are not the same number.</span></li>" +
+      "<li><span>Shares are computed by intersecting the mapped boundaries of both orders, which are drawn on one projection. They are areal, not population-weighted: a successor taking 40 per cent of the area may take a very different proportion of the electors, because density varies sharply between urban and rural tracts.</span></li>" +
+      (anySoft ? "<li><span>A figure shown as ~40% is approximate. It involves at least one seat defined by municipal wards, and the two orders number wards differently, so the boundary cannot be matched mechanically. Treat these as indicative of scale rather than exact.</span></li>" : "") +
+      "<li><span>Percentages will not sum to 100. Slivers below one per cent are omitted, and links the curated record does not list are not shown here.</span></li>" +
+      "</ul>";
   }
 
   function citeBlockHTML() {
