@@ -719,7 +719,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    190
+    190,
+    192
    ],
    "note": "Retained but reorganised. Earlier covered Alibag Tahsil, Uran Municipality and Uran RIC. After 2008, Uran area was separated into an independent constituency, leaving Alibag centred mainly on Alibag Tahsil with revised administrative boundaries.",
    "extent": "Alibag tatuil; Uran municipality and Uran RIC in Uran tahsil.",
@@ -3134,8 +3135,9 @@
    "name": "Badnera",
    "district": "Amravati",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
+    37,
     39
    ],
    "note": "Expanded. The former Badnera Municipality was enlarged by adding Amravati, Badnera Revenue Circle, Bhatkuli, Nimbha and adjoining municipal wards of Amravati Municipal Corporation.",
@@ -3173,6 +3175,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
+    44,
     223
    ],
    "note": "Retained with revised boundaries. The former constituency comprising Arvi Municipal Council, Arvi and Ashti Revenue Circles, Karanja Revenue Circle, Kharangana Revenue Circle and specified villages of Rohana Revenue Circle was reorganised to include the entire Arvi, Ashti and Karanja Tehsils.",
@@ -3541,7 +3544,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    60
+    60,
+    61
    ],
    "note": "Retained with major reorganisation. Earlier covered Bhandara Municipality, Mohadi Revenue Circle and parts of Bhandara Revenue Circle. Expanded to include the entire Bhandara Tehsil and Pauni Tehsil, and became SC reserved.",
    "extent": "Mohadi RIC [excluding villages specified in item (ii) of the Appendix], Bhandara municipality and villages in Bhandara RIC specified in item (12) of the Appendix in Bhandra tahsil.",
@@ -3908,6 +3912,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
+    74,
     75
    ],
    "note": "Expanded. Earlier covered Sindewahi Revenue Circle, Shankarpur and Chimur Revenue Circles. Reorganised to include the entire Chimur and Nagbhir Tehsils, along with part of Brahmapuri Tehsil.",
@@ -4510,7 +4515,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    95
+    95,
+    98
    ],
    "note": "Abolished. Earlier comprised Sonpeth Municipality, Sonpeth Revenue Circle, Manwath Municipality, Manwath Revenue Circle, Singnapur Revenue Circle and Pingli Revenue Circle. Sonpeth and Manwath became part of Pathri, Singnapur, Pedgaon and Daithana areas were merged into Pathri, Pingli shifted to Parbhani, while parts around Palam–Sonpeth were included in Gangakhed.",
    "extent": "Pathri municipality, Pathri RIC, Sailu municipality, Sailu RIC and villages in Manwath RIC specified in item (22) of the Appendix, in Pathri tahsil.",
@@ -4618,6 +4624,7 @@
     99,
     100,
     101,
+    102,
     103,
     233
    ],
@@ -5378,8 +5385,9 @@
    "name": "Solapur City North",
    "district": "Solapur",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
+    248,
     249
    ],
    "note": "Abolished. Earlier covered the southern municipal wards of Solapur Municipal Corporation. These wards were redistributed among the newly created Solapur City Central, Solapur City North, and Solapur South, based on revised municipal ward boundaries.",
@@ -7959,9 +7967,10 @@
    "name": "Badnera",
    "district": "Amravati",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
-    124
+    124,
+    125
    ],
    "note": "",
    "extent": "1. Amravati Tehsil (Part), Revenue Circle – Amravati and Badnera, 2. Amravati (M.Corp.)–Ward No. 6 to 18, 32 to 40, 57 to 61, 72,73, 3. Bhatkuli Tehsil (Part), Revenue Circle – Bhatkuli and Nimbha.",
@@ -8125,6 +8134,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
+    127,
     128,
     199
    ],
@@ -8512,6 +8522,7 @@
    "status": "continuing",
    "src": [
     142,
+    143,
     144
    ],
    "note": "",
@@ -8838,7 +8849,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    157
+    157,
+    158
    ],
    "note": "",
    "extent": "1. Chimur Tehsil, 2. Nagbhir Tehsil and 3. Brahmapuri Tehsil (Part), Revenue Circle Arher Navargaon.",
@@ -9438,6 +9450,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
+    183,
     187,
     202
    ],
@@ -9545,6 +9558,7 @@
     112,
     185,
     186,
+    187,
     188
    ],
    "note": "",
@@ -11422,7 +11436,8 @@
    "src": [
     13,
     14,
-    15
+    15,
+    16
    ],
    "note": "",
    "extent": "Alibag Tehsil, 2. Murud Tehsil 3. Roha Tehsil (Part), Revenue Circle Chanere.",
@@ -12723,8 +12738,9 @@
    "name": "Solapur City North",
    "district": "Solapur",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
+    217,
     218,
     219
    ],
