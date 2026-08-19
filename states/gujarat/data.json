@@ -2312,12 +2312,13 @@
    "name": "Sabarmati",
    "district": "Ahmedabad",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    47,
-    56,
     35,
-    48
+    47,
+    48,
+    55,
+    56
    ],
    "note": "",
    "extent": "Census Ward No. 15—Sabarmati and northern areas of Census Ward No. 14 separated from the western end of Gandhi Bridge to Railway Crossing then to five road near Sardar Patel Stadium then to Lakhudi Talavadi then to St. Xavier's High School and then to the road leading to Memnagar village upto the Ahmedabad Municipal Corpora- tion limits in Memnagar village in Ahmedabad City and village 8—Kali in Daskori taluka.",
@@ -2340,13 +2341,14 @@
    "name": "Ellis Bridge",
    "district": "Ahmedabad",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    54,
+    44,
+    49,
+    51,
     52,
     53,
-    49,
-    51
+    54
    ],
    "note": "",
    "extent": "Census Ward No. 14 Ellis Bridge excluding its northern area separated from the western end of Gandhi Bridge to Railway crossing then to five roads near Sar~ dar Patel Stadium then to Lakhudi Talavadi then to St. Xavier's High School and then to the road leading to Memnagar village upto the Ahmedabad Municipal Corporation limits in Memnagar village in Ahmedabad City.",
@@ -2435,13 +2437,14 @@
    "name": "Asarwa",
    "district": "Ahmedabad",
    "type": "GEN",
-   "status": "abolished",
+   "status": "continuing",
    "dest": [
-    50,
-    46,
     43,
+    46,
     49,
-    53
+    50,
+    53,
+    56
    ],
    "note": "",
    "extent": "Census Ward No. 20-Asarwa and Asarwa Village in Ahmedabad City.",
@@ -7483,9 +7486,10 @@
    "name": "Ellisbridge",
    "district": "Ahmedabad",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
-    64
+    64,
+    68
    ],
    "note": "",
    "extent": "Ahmedabad City Taluka (Part) - Ahmedabad Municipal Corporation (Part) Ward No. - 7, 8, 9, 10.",
@@ -7765,9 +7769,10 @@
    "name": "Sabarmati",
    "district": "Ahmedabad",
    "type": "GEN",
-   "status": "new",
+   "status": "continuing",
    "src": [
-    64
+    64,
+    67
    ],
    "note": "",
    "extent": "1. Ahmedabad City Taluka (Part) Villages - Kali (M), Ranip (M), Chandlodiya (M). 2. Ahmedabad City Taluka (Part) - Ahmedabad Municipal Corporation (Part) Ward No. – 15.",
@@ -7786,11 +7791,12 @@
    "name": "Asarwa",
    "district": "Ahmedabad",
    "type": "SC",
-   "status": "new",
+   "status": "continuing",
    "src": [
-    67,
     64,
-    68
+    67,
+    68,
+    72
    ],
    "note": "",
    "extent": "Ahmedabad City Taluka (Part) - Ahmedabad Municipal Corporation (Part) Ward No. - 17, 18, 19, 20.",
