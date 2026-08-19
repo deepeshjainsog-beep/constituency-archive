@@ -1200,7 +1200,9 @@
       "<li><span>Shares are computed by intersecting the mapped boundaries of both orders, which are drawn on one projection. They are areal, not population-weighted: a successor taking 40 per cent of the area may take a very different proportion of the electors, because density varies sharply between urban and rural tracts.</span></li>" +
       (anySoft ? "<li><span>A figure shown as ~40% is approximate. It involves at least one seat defined by municipal wards, and the two orders number wards differently, so the boundary cannot be matched mechanically. Treat these as indicative of scale rather than exact.</span></li>" : "") +
       "<li><span>Percentages will not sum to 100. Slivers below one per cent are omitted, and links the curated record does not list are not shown here.</span></li>" +
-      "</ul>";
+      "</ul>" +
+      "<p style=\"margin:10px 0 0;font-size:13px;line-height:1.6;color:var(--ink-60)\">" +
+      "The <a href=\"limitations.html\">limitations page</a> sets out where this record is firm, where it is soft, and where it is silent.</p>";
   }
 
   function citeBlockHTML() {
@@ -1238,7 +1240,7 @@
       "<a href=\"index.html\" class=\"masthead__mark\"><span class=\"logo-b\" style=\"font-size:18px;font-family:Georgia,serif\">B</span><span style=\"letter-spacing:-0.01em\">Boundaries</span></a>" +
       searchBarHTML() +
       "<span class=\"masthead__links\">" +
-      "<a href=\"#p1\">Plate I</a><a href=\"#p2\">Plate II</a><a href=\"#p3\">Plate III</a><a href=\"#p4\">Plate IV</a><a href=\"#sources\">Sources</a>" +
+      "<a href=\"#p1\">Plate I</a><a href=\"#p2\">Plate II</a><a href=\"#p3\">Plate III</a><a href=\"#p4\">Plate IV</a><a href=\"#sources\">Sources</a><a href=\"limitations.html\">Limitations</a>" +
       "</span></div></nav>" + inner +
       "<footer class=\"colophon\"><div class=\"wrap\">" +
       "<span>Boundaries</span><span>" + esc((data && data.assembly) || "") + " \u00b7 A Cartographic Record</span>" +
