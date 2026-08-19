@@ -208,7 +208,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "C H Kunhambu",
-   "electors_07": 154227
+   "electors_07": 154227,
+   "shares": {
+    "1": {
+     "pct": 90.8,
+     "basis": "approx"
+    },
+    "2": {
+     "pct": 3.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 2,
@@ -224,7 +234,17 @@
    "extent": "",
    "party07": "MUL",
    "winner_07": "C T Ahamedali",
-   "electors_07": 154904
+   "electors_07": 154904,
+   "shares": {
+    "3": {
+     "pct": 29.0,
+     "basis": "approx"
+    },
+    "2": {
+     "pct": 67.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 3,
@@ -240,7 +260,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K V Kunhiraman",
-   "electors_07": 173879
+   "electors_07": 173879,
+   "shares": {
+    "3": {
+     "pct": 87.4,
+     "basis": "approx"
+    },
+    "4": {
+     "pct": 5.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 4,
@@ -256,7 +286,17 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Pallipram Balan",
-   "electors_07": 183771
+   "electors_07": 183771,
+   "shares": {
+    "4": {
+     "pct": 83.3,
+     "basis": "approx"
+    },
+    "5": {
+     "pct": 7.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 5,
@@ -274,7 +314,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Kunhiraman K",
-   "electors_07": 185121
+   "electors_07": 185121,
+   "shares": {
+    "6": {
+     "pct": 31.8,
+     "basis": "approx"
+    },
+    "5": {
+     "pct": 51.9,
+     "basis": "approx"
+    },
+    "9": {
+     "pct": 0.7,
+     "basis": "approx"
+    },
+    "4": {
+     "pct": 12.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 6,
@@ -292,7 +350,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Advocate K C Joseph",
-   "electors_07": 165884
+   "electors_07": 165884,
+   "shares": {
+    "9": {
+     "pct": 85.4,
+     "basis": "approx"
+    },
+    "15": {
+     "pct": 4.7,
+     "basis": "approx"
+    },
+    "8": {
+     "pct": 0.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 7,
@@ -310,7 +382,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "P K Sreemathi Teacher",
-   "electors_07": 162770
+   "electors_07": 162770,
+   "shares": {
+    "7": {
+     "pct": 27.4,
+     "basis": "approx"
+    },
+    "6": {
+     "pct": 64.9,
+     "basis": "approx"
+    },
+    "8": {
+     "pct": 1.3,
+     "basis": "approx"
+    },
+    "9": {
+     "pct": 2.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 8,
@@ -327,7 +417,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "C.K.P Padmanabhan",
-   "electors_07": 185539
+   "electors_07": 185539,
+   "shares": {
+    "8": {
+     "pct": 63.1,
+     "basis": "approx"
+    },
+    "9": {
+     "pct": 23.7,
+     "basis": "approx"
+    },
+    "7": {
+     "pct": 12.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 9,
@@ -344,7 +448,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "M Prakasan Master",
-   "electors_07": 133825
+   "electors_07": 133825,
+   "shares": {
+    "7": {
+     "pct": 73.4,
+     "basis": "approx"
+    },
+    "10": {
+     "pct": 8.6,
+     "basis": "approx"
+    },
+    "8": {
+     "pct": 18.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 10,
@@ -361,7 +479,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "K Sudhakaran S/O Ramunni",
-   "electors_07": 130348
+   "electors_07": 130348,
+   "shares": {
+    "11": {
+     "pct": 24.4,
+     "basis": "approx"
+    },
+    "10": {
+     "pct": 71.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 11,
@@ -378,7 +506,21 @@
    "extent": "",
    "party07": "C(S)",
    "winner_07": "Ramachandran Kadannapally",
-   "electors_07": 160984
+   "electors_07": 160984,
+   "shares": {
+    "12": {
+     "pct": 35.7,
+     "basis": "approx"
+    },
+    "11": {
+     "pct": 40.3,
+     "basis": "approx"
+    },
+    "8": {
+     "pct": 13.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 12,
@@ -394,7 +536,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Kodiyeri Balakrishnan",
-   "electors_07": 131410
+   "electors_07": 131410,
+   "shares": {
+    "13": {
+     "pct": 50.2,
+     "basis": "approx"
+    },
+    "12": {
+     "pct": 49.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 13,
@@ -411,7 +563,17 @@
    "extent": "",
    "party07": "JD(S)",
    "winner_07": "K P Mohanan S/O P R Kurup",
-   "electors_07": 148842
+   "electors_07": 148842,
+   "shares": {
+    "14": {
+     "pct": 68.4,
+     "basis": "approx"
+    },
+    "13": {
+     "pct": 23.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 14,
@@ -430,7 +592,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "P Jayarajan",
-   "electors_07": 157631
+   "electors_07": 157631,
+   "shares": {
+    "14": {
+     "pct": 15.5,
+     "basis": "approx"
+    },
+    "15": {
+     "pct": 40.3,
+     "basis": "approx"
+    },
+    "16": {
+     "pct": 28.5,
+     "basis": "approx"
+    },
+    "12": {
+     "pct": 15.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 15,
@@ -447,7 +627,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K K Shylaja Teacher",
-   "electors_07": 179145
+   "electors_07": 179145,
+   "shares": {
+    "16": {
+     "pct": 54.9,
+     "basis": "approx"
+    },
+    "15": {
+     "pct": 27.8,
+     "basis": "approx"
+    },
+    "11": {
+     "pct": 0.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 16,
@@ -465,7 +659,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K C Kunhiraman",
-   "electors_07": 179901
+   "electors_07": 179901,
+   "shares": {
+    "17": {
+     "pct": 75.3,
+     "basis": "approx"
+    },
+    "16": {
+     "pct": 16.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 17,
@@ -483,7 +687,21 @@
    "extent": "",
    "party07": "JD(S)",
    "winner_07": "Advocate M K Premnath",
-   "electors_07": 158018
+   "electors_07": 158018,
+   "shares": {
+    "20": {
+     "pct": 68.2,
+     "basis": "approx"
+    },
+    "21": {
+     "pct": 3.5,
+     "basis": "approx"
+    },
+    "14": {
+     "pct": 11.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 18,
@@ -501,7 +719,21 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Binoy Viswam",
-   "electors_07": 166365
+   "electors_07": 166365,
+   "shares": {
+    "22": {
+     "pct": 73.0,
+     "basis": "approx"
+    },
+    "21": {
+     "pct": 3.7,
+     "basis": "approx"
+    },
+    "20": {
+     "pct": 0.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 19,
@@ -519,7 +751,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K K Lathika",
-   "electors_07": 161852
+   "electors_07": 161852,
+   "shares": {
+    "21": {
+     "pct": 89.0,
+     "basis": "approx"
+    },
+    "23": {
+     "pct": 1.4,
+     "basis": "approx"
+    },
+    "20": {
+     "pct": 6.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 20,
@@ -534,7 +780,13 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "P Viswan",
-   "electors_07": 173818
+   "electors_07": 173818,
+   "shares": {
+    "23": {
+     "pct": 78.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 21,
@@ -552,7 +804,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K Kunhammed Master",
-   "electors_07": 168021
+   "electors_07": 168021,
+   "shares": {
+    "24": {
+     "pct": 51.6,
+     "basis": "approx"
+    },
+    "25": {
+     "pct": 32.0,
+     "basis": "approx"
+    },
+    "21": {
+     "pct": 6.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 22,
@@ -571,7 +837,29 @@
    "extent": "",
    "party07": "NCP",
    "winner_07": "A K Saseendran",
-   "electors_07": 154915
+   "electors_07": 154915,
+   "shares": {
+    "25": {
+     "pct": 58.0,
+     "basis": "approx"
+    },
+    "26": {
+     "pct": 9.9,
+     "basis": "approx"
+    },
+    "23": {
+     "pct": 17.4,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 0.6,
+     "basis": "approx"
+    },
+    "24": {
+     "pct": 9.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 23,
@@ -590,7 +878,29 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "Advocate P T A Rahim",
-   "electors_07": 172424
+   "electors_07": 172424,
+   "shares": {
+    "26": {
+     "pct": 47.9,
+     "basis": "approx"
+    },
+    "31": {
+     "pct": 12.8,
+     "basis": "approx"
+    },
+    "25": {
+     "pct": 30.4,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 8.3,
+     "basis": "approx"
+    },
+    "28": {
+     "pct": 0.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 24,
@@ -606,7 +916,13 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "A Pradeep Kumar",
-   "electors_07": 134380
+   "electors_07": 134380,
+   "shares": {
+    "27": {
+     "pct": 88.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 25,
@@ -621,7 +937,13 @@
    "extent": "",
    "party07": "INL",
    "winner_07": "Advocate P M A Salam",
-   "electors_07": 144934
+   "electors_07": 144934,
+   "shares": {
+    "28": {
+     "pct": 29.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 26,
@@ -638,7 +960,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Elamaram Kareem",
-   "electors_07": 188861
+   "electors_07": 188861,
+   "shares": {
+    "29": {
+     "pct": 26.5,
+     "basis": "approx"
+    },
+    "28": {
+     "pct": 50.3,
+     "basis": "approx"
+    },
+    "30": {
+     "pct": 8.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 27,
@@ -657,7 +993,29 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "U C Raman",
-   "electors_07": 165951
+   "electors_07": 165951,
+   "shares": {
+    "30": {
+     "pct": 49.3,
+     "basis": "approx"
+    },
+    "32": {
+     "pct": 10.5,
+     "basis": "approx"
+    },
+    "31": {
+     "pct": 26.6,
+     "basis": "approx"
+    },
+    "26": {
+     "pct": 6.6,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 3.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 28,
@@ -674,7 +1032,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Mathayi Chacko",
-   "electors_07": 161002
+   "electors_07": 161002,
+   "shares": {
+    "32": {
+     "pct": 66.8,
+     "basis": "approx"
+    },
+    "31": {
+     "pct": 19.6,
+     "basis": "approx"
+    },
+    "25": {
+     "pct": 7.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 29,
@@ -692,7 +1064,17 @@
    "extent": "",
    "party07": "JD(S)",
    "winner_07": "M V Sreyams Kumar",
-   "electors_07": 157684
+   "electors_07": 157684,
+   "shares": {
+    "19": {
+     "pct": 84.4,
+     "basis": "approx"
+    },
+    "18": {
+     "pct": 5.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 30,
@@ -707,7 +1089,13 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "P Krishna Prasad",
-   "electors_07": 182483
+   "electors_07": 182483,
+   "shares": {
+    "18": {
+     "pct": 89.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 31,
@@ -726,7 +1114,29 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "A.P. Anilkumar",
-   "electors_07": 201112
+   "electors_07": 201112,
+   "shares": {
+    "36": {
+     "pct": 39.0,
+     "basis": "approx"
+    },
+    "34": {
+     "pct": 25.9,
+     "basis": "approx"
+    },
+    "37": {
+     "pct": 12.6,
+     "basis": "approx"
+    },
+    "54": {
+     "pct": 9.8,
+     "basis": "approx"
+    },
+    "35": {
+     "pct": 12.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 32,
@@ -744,7 +1154,25 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Aryadan Muhammed",
-   "electors_07": 203352
+   "electors_07": 203352,
+   "shares": {
+    "35": {
+     "pct": 76.3,
+     "basis": "approx"
+    },
+    "36": {
+     "pct": 11.1,
+     "basis": "approx"
+    },
+    "34": {
+     "pct": 2.3,
+     "basis": "approx"
+    },
+    "32": {
+     "pct": 2.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 33,
@@ -763,7 +1191,29 @@
    "extent": "",
    "party07": "MUL",
    "winner_07": "P.K Abdu Rabb",
-   "electors_07": 191141
+   "electors_07": 191141,
+   "shares": {
+    "34": {
+     "pct": 40.0,
+     "basis": "approx"
+    },
+    "37": {
+     "pct": 21.6,
+     "basis": "approx"
+    },
+    "40": {
+     "pct": 9.5,
+     "basis": "approx"
+    },
+    "33": {
+     "pct": 14.9,
+     "basis": "approx"
+    },
+    "32": {
+     "pct": 13.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 34,
@@ -782,7 +1232,21 @@
    "extent": "",
    "party07": "MUL",
    "winner_07": "Advocate M. Ummer",
-   "electors_07": 186292
+   "electors_07": 186292,
+   "shares": {
+    "40": {
+     "pct": 33.9,
+     "basis": "approx"
+    },
+    "41": {
+     "pct": 40.7,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 13.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 35,
@@ -801,7 +1265,29 @@
    "extent": "",
    "party07": "MUL",
    "winner_07": "K. Muhammadunni Haji",
-   "electors_07": 189580
+   "electors_07": 189580,
+   "shares": {
+    "33": {
+     "pct": 45.5,
+     "basis": "approx"
+    },
+    "42": {
+     "pct": 11.8,
+     "basis": "approx"
+    },
+    "40": {
+     "pct": 14.0,
+     "basis": "approx"
+    },
+    "41": {
+     "pct": 3.1,
+     "basis": "approx"
+    },
+    "30": {
+     "pct": 17.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 36,
@@ -818,7 +1304,17 @@
    "extent": "",
    "party07": "MUL",
    "winner_07": "Kutty Ahammed Kutty",
-   "electors_07": 181774
+   "electors_07": 181774,
+   "shares": {
+    "42": {
+     "pct": 47.5,
+     "basis": "approx"
+    },
+    "29": {
+     "pct": 39.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 37,
@@ -836,7 +1332,25 @@
    "extent": "",
    "party07": "MUL",
    "winner_07": "Abdurahiman Randathani",
-   "electors_07": 185327
+   "electors_07": 185327,
+   "shares": {
+    "43": {
+     "pct": 32.3,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 12.7,
+     "basis": "approx"
+    },
+    "41": {
+     "pct": 16.3,
+     "basis": "approx"
+    },
+    "42": {
+     "pct": 29.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 38,
@@ -854,7 +1368,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "P.P Abdullakkutty",
-   "electors_07": 186852
+   "electors_07": 186852,
+   "shares": {
+    "47": {
+     "pct": 41.6,
+     "basis": "approx"
+    },
+    "45": {
+     "pct": 21.6,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 22.7,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 0.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 39,
@@ -870,7 +1402,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Paloli Mohamedkutty",
-   "electors_07": 157795
+   "electors_07": 157795,
+   "shares": {
+    "48": {
+     "pct": 62.1,
+     "basis": "approx"
+    },
+    "47": {
+     "pct": 27.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 40,
@@ -889,7 +1431,29 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "K.T Jaleel",
-   "electors_07": 158951
+   "electors_07": 158951,
+   "shares": {
+    "45": {
+     "pct": 35.8,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 34.7,
+     "basis": "approx"
+    },
+    "43": {
+     "pct": 14.9,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 5.9,
+     "basis": "approx"
+    },
+    "41": {
+     "pct": 7.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 41,
@@ -907,7 +1471,25 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "Manjalamkuzhi Ali",
-   "electors_07": 193087
+   "electors_07": 193087,
+   "shares": {
+    "39": {
+     "pct": 50.7,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 22.0,
+     "basis": "approx"
+    },
+    "40": {
+     "pct": 21.8,
+     "basis": "approx"
+    },
+    "38": {
+     "pct": 5.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 42,
@@ -925,7 +1507,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Sasi Kumar",
-   "electors_07": 187336
+   "electors_07": 187336,
+   "shares": {
+    "38": {
+     "pct": 43.9,
+     "basis": "approx"
+    },
+    "37": {
+     "pct": 25.3,
+     "basis": "approx"
+    },
+    "39": {
+     "pct": 20.2,
+     "basis": "approx"
+    },
+    "40": {
+     "pct": 3.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 43,
@@ -944,7 +1544,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "T.P. Kunjunni",
-   "electors_07": 160629
+   "electors_07": 160629,
+   "shares": {
+    "49": {
+     "pct": 68.8,
+     "basis": "approx"
+    },
+    "50": {
+     "pct": 9.7,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 15.4,
+     "basis": "approx"
+    },
+    "47": {
+     "pct": 5.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 44,
@@ -963,7 +1581,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "C.P. Mohammed",
-   "electors_07": 166031
+   "electors_07": 166031,
+   "shares": {
+    "50": {
+     "pct": 75.0,
+     "basis": "approx"
+    },
+    "51": {
+     "pct": 11.4,
+     "basis": "approx"
+    },
+    "38": {
+     "pct": 8.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 45,
@@ -980,7 +1612,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "M. Hamsa",
-   "electors_07": 159447
+   "electors_07": 159447,
+   "shares": {
+    "51": {
+     "pct": 60.6,
+     "basis": "approx"
+    },
+    "52": {
+     "pct": 36.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 46,
@@ -999,7 +1641,29 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K.S. Saleeka",
-   "electors_07": 184636
+   "electors_07": 184636,
+   "shares": {
+    "52": {
+     "pct": 43.6,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 20.0,
+     "basis": "approx"
+    },
+    "51": {
+     "pct": 12.3,
+     "basis": "approx"
+    },
+    "55": {
+     "pct": 12.6,
+     "basis": "approx"
+    },
+    "38": {
+     "pct": 7.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 47,
@@ -1017,7 +1681,25 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Jose Baby",
-   "electors_07": 189065
+   "electors_07": 189065,
+   "shares": {
+    "54": {
+     "pct": 81.0,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 6.6,
+     "basis": "approx"
+    },
+    "52": {
+     "pct": 1.6,
+     "basis": "approx"
+    },
+    "38": {
+     "pct": 1.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 48,
@@ -1035,7 +1717,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "V.S. Achuthanandan",
-   "electors_07": 152322
+   "electors_07": 152322,
+   "shares": {
+    "55": {
+     "pct": 81.7,
+     "basis": "approx"
+    },
+    "58": {
+     "pct": 3.6,
+     "basis": "approx"
+    },
+    "56": {
+     "pct": 2.5,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 1.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 49,
@@ -1054,7 +1754,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K.K Divakaran",
-   "electors_07": 155550
+   "electors_07": 155550,
+   "shares": {
+    "56": {
+     "pct": 28.1,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 30.3,
+     "basis": "approx"
+    },
+    "55": {
+     "pct": 38.3,
+     "basis": "approx"
+    },
+    "52": {
+     "pct": 3.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 50,
@@ -1071,7 +1789,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "K Achuthan",
-   "electors_07": 147882
+   "electors_07": 147882,
+   "shares": {
+    "58": {
+     "pct": 87.0,
+     "basis": "approx"
+    },
+    "59": {
+     "pct": 3.1,
+     "basis": "approx"
+    },
+    "55": {
+     "pct": 7.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 51,
@@ -1088,7 +1820,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "V. Chenthamarakshan",
-   "electors_07": 151147
+   "electors_07": 151147,
+   "shares": {
+    "59": {
+     "pct": 92.1,
+     "basis": "approx"
+    },
+    "60": {
+     "pct": 5.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 52,
@@ -1106,7 +1848,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "A.K. Balan",
-   "electors_07": 157508
+   "electors_07": 157508,
+   "shares": {
+    "57": {
+     "pct": 42.3,
+     "basis": "approx"
+    },
+    "60": {
+     "pct": 33.1,
+     "basis": "approx"
+    },
+    "56": {
+     "pct": 11.8,
+     "basis": "approx"
+    },
+    "61": {
+     "pct": 3.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 53,
@@ -1125,7 +1885,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "M. Chandhran",
-   "electors_07": 157465
+   "electors_07": 157465,
+   "shares": {
+    "60": {
+     "pct": 51.0,
+     "basis": "approx"
+    },
+    "57": {
+     "pct": 39.4,
+     "basis": "approx"
+    },
+    "66": {
+     "pct": 1.2,
+     "basis": "approx"
+    },
+    "61": {
+     "pct": 6.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 54,
@@ -1142,7 +1920,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K Radhakrishnan",
-   "electors_07": 157690
+   "electors_07": 157690,
+   "shares": {
+    "61": {
+     "pct": 77.2,
+     "basis": "approx"
+    },
+    "51": {
+     "pct": 10.6,
+     "basis": "approx"
+    },
+    "49": {
+     "pct": 4.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 55,
@@ -1161,7 +1953,29 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "A.C.Moideen",
-   "electors_07": 166588
+   "electors_07": 166588,
+   "shares": {
+    "62": {
+     "pct": 34.3,
+     "basis": "approx"
+    },
+    "65": {
+     "pct": 20.8,
+     "basis": "approx"
+    },
+    "61": {
+     "pct": 30.2,
+     "basis": "approx"
+    },
+    "49": {
+     "pct": 8.6,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 5.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 56,
@@ -1179,7 +1993,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Babu M Palissery",
-   "electors_07": 165142
+   "electors_07": 165142,
+   "shares": {
+    "65": {
+     "pct": 29.1,
+     "basis": "approx"
+    },
+    "62": {
+     "pct": 44.8,
+     "basis": "approx"
+    },
+    "64": {
+     "pct": 22.4,
+     "basis": "approx"
+    },
+    "63": {
+     "pct": 3.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 57,
@@ -1196,7 +2028,21 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Adv.V.S.Sunilkumar",
-   "electors_07": 145868
+   "electors_07": 145868,
+   "shares": {
+    "68": {
+     "pct": 80.2,
+     "basis": "approx"
+    },
+    "67": {
+     "pct": 17.5,
+     "basis": "approx"
+    },
+    "71": {
+     "pct": 1.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 58,
@@ -1215,7 +2061,25 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Adv.Therambil Ramakrishnan",
-   "electors_07": 141489
+   "electors_07": 141489,
+   "shares": {
+    "67": {
+     "pct": 43.8,
+     "basis": "approx"
+    },
+    "65": {
+     "pct": 47.3,
+     "basis": "approx"
+    },
+    "66": {
+     "pct": 5.5,
+     "basis": "approx"
+    },
+    "64": {
+     "pct": 3.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 59,
@@ -1233,7 +2097,25 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Rajaji Mathew Thomas",
-   "electors_07": 173657
+   "electors_07": 173657,
+   "shares": {
+    "66": {
+     "pct": 84.2,
+     "basis": "approx"
+    },
+    "65": {
+     "pct": 7.3,
+     "basis": "approx"
+    },
+    "67": {
+     "pct": 1.1,
+     "basis": "approx"
+    },
+    "61": {
+     "pct": 6.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 60,
@@ -1250,7 +2132,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Prof.C.Raveendranath",
-   "electors_07": 152159
+   "electors_07": 152159,
+   "shares": {
+    "71": {
+     "pct": 75.3,
+     "basis": "approx"
+    },
+    "72": {
+     "pct": 4.1,
+     "basis": "approx"
+    },
+    "66": {
+     "pct": 16.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 61,
@@ -1267,7 +2163,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "B D Devassy",
-   "electors_07": 136449
+   "electors_07": 136449,
+   "shares": {
+    "72": {
+     "pct": 85.2,
+     "basis": "approx"
+    },
+    "71": {
+     "pct": 8.1,
+     "basis": "approx"
+    },
+    "59": {
+     "pct": 5.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 62,
@@ -1284,7 +2194,21 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "A K Chandran",
-   "electors_07": 143976
+   "electors_07": 143976,
+   "shares": {
+    "73": {
+     "pct": 59.1,
+     "basis": "approx"
+    },
+    "72": {
+     "pct": 19.9,
+     "basis": "approx"
+    },
+    "70": {
+     "pct": 20.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 63,
@@ -1303,7 +2227,29 @@
    "extent": "",
    "party07": "KEC(M)",
    "winner_07": "Adv.Thomas Unniyadan",
-   "electors_07": 154002
+   "electors_07": 154002,
+   "shares": {
+    "70": {
+     "pct": 69.2,
+     "basis": "approx"
+    },
+    "71": {
+     "pct": 16.3,
+     "basis": "approx"
+    },
+    "73": {
+     "pct": 1.8,
+     "basis": "approx"
+    },
+    "69": {
+     "pct": 3.2,
+     "basis": "approx"
+    },
+    "68": {
+     "pct": 9.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 64,
@@ -1320,7 +2266,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Murali Perunelli",
-   "electors_07": 136457
+   "electors_07": 136457,
+   "shares": {
+    "64": {
+     "pct": 78.7,
+     "basis": "approx"
+    },
+    "68": {
+     "pct": 13.1,
+     "basis": "approx"
+    },
+    "63": {
+     "pct": 5.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 65,
@@ -1337,7 +2297,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K V Abdul Khader",
-   "electors_07": 147386
+   "electors_07": 147386,
+   "shares": {
+    "63": {
+     "pct": 65.2,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 9.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 66,
@@ -1355,7 +2325,25 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "T N Prathapan",
-   "electors_07": 135865
+   "electors_07": 135865,
+   "shares": {
+    "68": {
+     "pct": 35.2,
+     "basis": "approx"
+    },
+    "63": {
+     "pct": 16.9,
+     "basis": "approx"
+    },
+    "69": {
+     "pct": 7.7,
+     "basis": "approx"
+    },
+    "64": {
+     "pct": 13.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 67,
@@ -1374,7 +2362,29 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Adv.K.P.Rajendran",
-   "electors_07": 150578
+   "electors_07": 150578,
+   "shares": {
+    "69": {
+     "pct": 28.3,
+     "basis": "approx"
+    },
+    "73": {
+     "pct": 26.5,
+     "basis": "approx"
+    },
+    "78": {
+     "pct": 7.7,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 8.7,
+     "basis": "approx"
+    },
+    "75": {
+     "pct": 11.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 68,
@@ -1392,7 +2402,25 @@
    "extent": "",
    "party07": "JD(S)",
    "winner_07": "Jose Thettayil",
-   "electors_07": 159574
+   "electors_07": 159574,
+   "shares": {
+    "75": {
+     "pct": 78.8,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 6.3,
+     "basis": "approx"
+    },
+    "72": {
+     "pct": 13.2,
+     "basis": "approx"
+    },
+    "74": {
+     "pct": 1.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 69,
@@ -1408,7 +2436,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "S Sharma",
-   "electors_07": 141413
+   "electors_07": 141413,
+   "shares": {
+    "76": {
+     "pct": 85.9,
+     "basis": "approx"
+    },
+    "77": {
+     "pct": 14.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 70,
@@ -1425,7 +2463,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Adv. V D Satheesan",
-   "electors_07": 133426
+   "electors_07": 133426,
+   "shares": {
+    "77": {
+     "pct": 44.2,
+     "basis": "approx"
+    },
+    "78": {
+     "pct": 50.5,
+     "basis": "approx"
+    },
+    "79": {
+     "pct": 4.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 71,
@@ -1442,7 +2494,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "M K Purushothaman",
-   "electors_07": 135335
+   "electors_07": 135335,
+   "shares": {
+    "79": {
+     "pct": 38.6,
+     "basis": "approx"
+    },
+    "82": {
+     "pct": 2.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 72,
@@ -1461,7 +2523,29 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Prof. K V Thomas",
-   "electors_07": 141853
+   "electors_07": 141853,
+   "shares": {
+    "83": {
+     "pct": 28.9,
+     "basis": "approx"
+    },
+    "82": {
+     "pct": 33.7,
+     "basis": "approx"
+    },
+    "79": {
+     "pct": 20.8,
+     "basis": "approx"
+    },
+    "80": {
+     "pct": 8.8,
+     "basis": "approx"
+    },
+    "77": {
+     "pct": 7.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 73,
@@ -1476,7 +2560,13 @@
    "extent": "",
    "party07": "MUL",
    "winner_07": "V K Ibrahim Kunju",
-   "electors_07": 92926
+   "electors_07": 92926,
+   "shares": {
+    "80": {
+     "pct": 18.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 74,
@@ -1494,7 +2584,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "C M Dinesh Mani",
-   "electors_07": 172602
+   "electors_07": 172602,
+   "shares": {
+    "81": {
+     "pct": 28.7,
+     "basis": "approx"
+    },
+    "80": {
+     "pct": 25.0,
+     "basis": "approx"
+    },
+    "83": {
+     "pct": 9.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 75,
@@ -1513,7 +2617,25 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "K Babu",
-   "electors_07": 202066
+   "electors_07": 202066,
+   "shares": {
+    "81": {
+     "pct": 34.2,
+     "basis": "approx"
+    },
+    "77": {
+     "pct": 34.3,
+     "basis": "approx"
+    },
+    "83": {
+     "pct": 27.5,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 3.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 76,
@@ -1532,7 +2654,29 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "A M Yousuf",
-   "electors_07": 181995
+   "electors_07": 181995,
+   "shares": {
+    "78": {
+     "pct": 43.4,
+     "basis": "approx"
+    },
+    "77": {
+     "pct": 27.0,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 21.7,
+     "basis": "approx"
+    },
+    "79": {
+     "pct": 6.3,
+     "basis": "approx"
+    },
+    "82": {
+     "pct": 1.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 77,
@@ -1550,7 +2694,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Saju Paul",
-   "electors_07": 151391
+   "electors_07": 151391,
+   "shares": {
+    "74": {
+     "pct": 44.3,
+     "basis": "approx"
+    },
+    "75": {
+     "pct": 44.8,
+     "basis": "approx"
+    },
+    "72": {
+     "pct": 8.9,
+     "basis": "approx"
+    },
+    "84": {
+     "pct": 1.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 78,
@@ -1567,7 +2729,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Adv M M Monayi",
-   "electors_07": 150915
+   "electors_07": 150915,
+   "shares": {
+    "86": {
+     "pct": 85.8,
+     "basis": "approx"
+    },
+    "84": {
+     "pct": 8.2,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 2.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 79,
@@ -1586,7 +2762,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "M J Jacob",
-   "electors_07": 144261
+   "electors_07": 144261,
+   "shares": {
+    "85": {
+     "pct": 82.2,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 7.4,
+     "basis": "approx"
+    },
+    "84": {
+     "pct": 9.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 80,
@@ -1603,7 +2793,21 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Babu Paul",
-   "electors_07": 143555
+   "electors_07": 143555,
+   "shares": {
+    "85": {
+     "pct": 69.0,
+     "basis": "approx"
+    },
+    "86": {
+     "pct": 29.0,
+     "basis": "approx"
+    },
+    "94": {
+     "pct": 2.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 81,
@@ -1622,7 +2826,29 @@
    "extent": "",
    "party07": "KEC",
    "winner_07": "Chev. T. U Kuruvila",
-   "electors_07": 156066
+   "electors_07": 156066,
+   "shares": {
+    "87": {
+     "pct": 41.6,
+     "basis": "approx"
+    },
+    "84": {
+     "pct": 31.5,
+     "basis": "approx"
+    },
+    "86": {
+     "pct": 9.1,
+     "basis": "approx"
+    },
+    "74": {
+     "pct": 10.5,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 4.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 82,
@@ -1639,7 +2865,17 @@
    "extent": "",
    "party07": "KEC",
    "winner_07": "P J Joseph",
-   "electors_07": 164884
+   "electors_07": 164884,
+   "shares": {
+    "90": {
+     "pct": 88.1,
+     "basis": "approx"
+    },
+    "86": {
+     "pct": 8.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 83,
@@ -1655,7 +2891,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "S Rajendran",
-   "electors_07": 152351
+   "electors_07": 152351,
+   "shares": {
+    "88": {
+     "pct": 59.2,
+     "basis": "approx"
+    },
+    "87": {
+     "pct": 35.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 84,
@@ -1674,7 +2920,25 @@
    "extent": "",
    "party07": "KEC(M)",
    "winner_07": "Roshy Augustine",
-   "electors_07": 159615
+   "electors_07": 159615,
+   "shares": {
+    "91": {
+     "pct": 61.1,
+     "basis": "approx"
+    },
+    "90": {
+     "pct": 29.5,
+     "basis": "approx"
+    },
+    "88": {
+     "pct": 6.5,
+     "basis": "approx"
+    },
+    "89": {
+     "pct": 2.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 85,
@@ -1692,7 +2956,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K K Jayachandran",
-   "electors_07": 183919
+   "electors_07": 183919,
+   "shares": {
+    "89": {
+     "pct": 58.3,
+     "basis": "approx"
+    },
+    "91": {
+     "pct": 19.0,
+     "basis": "approx"
+    },
+    "88": {
+     "pct": 13.3,
+     "basis": "approx"
+    },
+    "92": {
+     "pct": 8.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 86,
@@ -1710,7 +2992,21 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "E S Bijimol",
-   "electors_07": 132794
+   "electors_07": 132794,
+   "shares": {
+    "92": {
+     "pct": 94.0,
+     "basis": "approx"
+    },
+    "101": {
+     "pct": 1.5,
+     "basis": "approx"
+    },
+    "112": {
+     "pct": 1.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 87,
@@ -1728,7 +3024,25 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "Alphons Kannanthanam",
-   "electors_07": 141268
+   "electors_07": 141268,
+   "shares": {
+    "101": {
+     "pct": 54.2,
+     "basis": "approx"
+    },
+    "100": {
+     "pct": 39.4,
+     "basis": "approx"
+    },
+    "93": {
+     "pct": 4.7,
+     "basis": "approx"
+    },
+    "112": {
+     "pct": 0.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 88,
@@ -1747,7 +3061,29 @@
    "extent": "",
    "party07": "KEC(M)",
    "winner_07": "Jayarajan",
-   "electors_07": 121233
+   "electors_07": 121233,
+   "shares": {
+    "100": {
+     "pct": 63.3,
+     "basis": "approx"
+    },
+    "98": {
+     "pct": 19.4,
+     "basis": "approx"
+    },
+    "99": {
+     "pct": 12.2,
+     "basis": "approx"
+    },
+    "97": {
+     "pct": 4.0,
+     "basis": "approx"
+    },
+    "111": {
+     "pct": 0.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 89,
@@ -1765,7 +3101,21 @@
    "extent": "",
    "party07": "KEC(M)",
    "winner_07": "C F Thomas",
-   "electors_07": 142800
+   "electors_07": 142800,
+   "shares": {
+    "99": {
+     "pct": 72.3,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 21.3,
+     "basis": "approx"
+    },
+    "98": {
+     "pct": 4.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 90,
@@ -1782,7 +3132,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "V N Vasavan",
-   "electors_07": 144841
+   "electors_07": 144841,
+   "shares": {
+    "96": {
+     "pct": 51.9,
+     "basis": "approx"
+    },
+    "97": {
+     "pct": 31.9,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 16.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 91,
@@ -1799,7 +3163,21 @@
    "extent": "",
    "party07": "KEC(M)",
    "winner_07": "Thomas Chazhikkadan",
-   "electors_07": 138564
+   "electors_07": 138564,
+   "shares": {
+    "96": {
+     "pct": 83.7,
+     "basis": "approx"
+    },
+    "95": {
+     "pct": 12.5,
+     "basis": "approx"
+    },
+    "97": {
+     "pct": 3.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 92,
@@ -1817,7 +3195,25 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Oommen Chandy",
-   "electors_07": 153117
+   "electors_07": 153117,
+   "shares": {
+    "98": {
+     "pct": 56.2,
+     "basis": "approx"
+    },
+    "97": {
+     "pct": 23.8,
+     "basis": "approx"
+    },
+    "100": {
+     "pct": 7.5,
+     "basis": "approx"
+    },
+    "93": {
+     "pct": 11.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 93,
@@ -1833,7 +3229,17 @@
    "extent": "",
    "party07": "KCS",
    "winner_07": "P C George (Plathottam)",
-   "electors_07": 124825
+   "electors_07": 124825,
+   "shares": {
+    "101": {
+     "pct": 55.1,
+     "basis": "approx"
+    },
+    "93": {
+     "pct": 42.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 94,
@@ -1852,7 +3258,25 @@
    "extent": "",
    "party07": "KEC(M)",
    "winner_07": "K M Mani",
-   "electors_07": 128184
+   "electors_07": 128184,
+   "shares": {
+    "93": {
+     "pct": 51.2,
+     "basis": "approx"
+    },
+    "94": {
+     "pct": 41.8,
+     "basis": "approx"
+    },
+    "96": {
+     "pct": 1.4,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 2.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 95,
@@ -1871,7 +3295,29 @@
    "extent": "",
    "party07": "KEC",
    "winner_07": "Adv. Mons Joseph",
-   "electors_07": 131824
+   "electors_07": 131824,
+   "shares": {
+    "94": {
+     "pct": 48.3,
+     "basis": "approx"
+    },
+    "95": {
+     "pct": 29.1,
+     "basis": "approx"
+    },
+    "96": {
+     "pct": 12.7,
+     "basis": "approx"
+    },
+    "98": {
+     "pct": 5.6,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 4.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 96,
@@ -1889,7 +3335,25 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "K Ajith",
-   "electors_07": 138949
+   "electors_07": 138949,
+   "shares": {
+    "95": {
+     "pct": 86.5,
+     "basis": "approx"
+    },
+    "102": {
+     "pct": 6.2,
+     "basis": "approx"
+    },
+    "103": {
+     "pct": 3.3,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 4.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 97,
@@ -1906,7 +3370,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Adv. A.M.Ariff",
-   "electors_07": 150164
+   "electors_07": 150164,
+   "shares": {
+    "102": {
+     "pct": 37.0,
+     "basis": "approx"
+    },
+    "80": {
+     "pct": 23.8,
+     "basis": "approx"
+    },
+    "103": {
+     "pct": 6.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 98,
@@ -1923,7 +3401,21 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "P.Thilothaman",
-   "electors_07": 135676
+   "electors_07": 135676,
+   "shares": {
+    "103": {
+     "pct": 41.3,
+     "basis": "approx"
+    },
+    "102": {
+     "pct": 38.4,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 2.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 99,
@@ -1939,7 +3431,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Dr.Thomas Issac",
-   "electors_07": 178438
+   "electors_07": 178438,
+   "shares": {
+    "104": {
+     "pct": 38.3,
+     "basis": "approx"
+    },
+    "103": {
+     "pct": 33.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 100,
@@ -1955,7 +3457,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "K.C.Venugopal",
-   "electors_07": 114192
+   "electors_07": 114192,
+   "shares": {
+    "104": {
+     "pct": 15.6,
+     "basis": "approx"
+    },
+    "105": {
+     "pct": 5.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 101,
@@ -1970,7 +3482,13 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "G.Sudhakaran",
-   "electors_07": 128577
+   "electors_07": 128577,
+   "shares": {
+    "105": {
+     "pct": 18.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 102,
@@ -1987,7 +3505,21 @@
    "extent": "",
    "party07": "DIC",
    "winner_07": "Thomas Chandy",
-   "electors_07": 111058
+   "electors_07": 111058,
+   "shares": {
+    "106": {
+     "pct": 73.8,
+     "basis": "approx"
+    },
+    "105": {
+     "pct": 24.6,
+     "basis": "approx"
+    },
+    "104": {
+     "pct": 1.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 103,
@@ -2004,7 +3536,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Adv.B.Babuprasad",
-   "electors_07": 144188
+   "electors_07": 144188,
+   "shares": {
+    "107": {
+     "pct": 43.8,
+     "basis": "approx"
+    },
+    "105": {
+     "pct": 6.4,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 6.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 104,
@@ -2020,7 +3566,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "C K Sadasivan",
-   "electors_07": 129524
+   "electors_07": 129524,
+   "shares": {
+    "108": {
+     "pct": 44.4,
+     "basis": "approx"
+    },
+    "107": {
+     "pct": 37.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 105,
@@ -2039,7 +3595,29 @@
    "extent": "",
    "party07": "JD(S)",
    "winner_07": "Mathew T Thomas",
-   "electors_07": 110867
+   "electors_07": 110867,
+   "shares": {
+    "111": {
+     "pct": 64.7,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 18.2,
+     "basis": "approx"
+    },
+    "113": {
+     "pct": 6.5,
+     "basis": "approx"
+    },
+    "99": {
+     "pct": 9.1,
+     "basis": "approx"
+    },
+    "107": {
+     "pct": 1.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 106,
@@ -2058,7 +3636,29 @@
    "extent": "",
    "party07": "KEC(M)",
    "winner_07": "Joseph M Puthusseri",
-   "electors_07": 112932
+   "electors_07": 112932,
+   "shares": {
+    "111": {
+     "pct": 49.0,
+     "basis": "approx"
+    },
+    "112": {
+     "pct": 29.6,
+     "basis": "approx"
+    },
+    "113": {
+     "pct": 9.9,
+     "basis": "approx"
+    },
+    "100": {
+     "pct": 7.6,
+     "basis": "approx"
+    },
+    "99": {
+     "pct": 3.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 107,
@@ -2076,7 +3676,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "K.C Rajagopalan",
-   "electors_07": 112086
+   "electors_07": 112086,
+   "shares": {
+    "113": {
+     "pct": 64.4,
+     "basis": "approx"
+    },
+    "112": {
+     "pct": 22.7,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 12.1,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 0.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 108,
@@ -2094,7 +3712,25 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "P.C.Vishnunath",
-   "electors_07": 121105
+   "electors_07": 121105,
+   "shares": {
+    "110": {
+     "pct": 82.4,
+     "basis": "approx"
+    },
+    "111": {
+     "pct": 11.2,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 3.1,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 1.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 109,
@@ -2113,7 +3749,29 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "M.Murali",
-   "electors_07": 131267
+   "electors_07": 131267,
+   "shares": {
+    "108": {
+     "pct": 50.1,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 17.9,
+     "basis": "approx"
+    },
+    "107": {
+     "pct": 16.6,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 10.7,
+     "basis": "approx"
+    },
+    "116": {
+     "pct": 2.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 110,
@@ -2131,7 +3789,25 @@
    "extent": "",
    "party07": "JPSS",
    "winner_07": "K.K.Shaju",
-   "electors_07": 144463
+   "electors_07": 144463,
+   "shares": {
+    "109": {
+     "pct": 61.8,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 29.9,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 4.7,
+     "basis": "approx"
+    },
+    "108": {
+     "pct": 2.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 111,
@@ -2148,7 +3824,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Raju Abraham",
-   "electors_07": 119189
+   "electors_07": 119189,
+   "shares": {
+    "112": {
+     "pct": 94.0,
+     "basis": "approx"
+    },
+    "114": {
+     "pct": 2.2,
+     "basis": "approx"
+    },
+    "101": {
+     "pct": 2.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 112,
@@ -2164,7 +3854,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Adv. K Sivadasan Nair",
-   "electors_07": 121979
+   "electors_07": 121979,
+   "shares": {
+    "113": {
+     "pct": 56.2,
+     "basis": "approx"
+    },
+    "114": {
+     "pct": 41.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 113,
@@ -2181,7 +3881,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Adoor Prakash",
-   "electors_07": 128760
+   "electors_07": 128760,
+   "shares": {
+    "114": {
+     "pct": 91.5,
+     "basis": "approx"
+    },
+    "112": {
+     "pct": 5.5,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 1.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 114,
@@ -2200,7 +3914,29 @@
    "extent": "",
    "party07": "KEC(B)",
    "winner_07": "K.B.Ganesh Kumar",
-   "electors_07": 144025
+   "electors_07": 144025,
+   "shares": {
+    "121": {
+     "pct": 53.0,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 42.2,
+     "basis": "approx"
+    },
+    "114": {
+     "pct": 2.9,
+     "basis": "approx"
+    },
+    "119": {
+     "pct": 0.9,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 1.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 115,
@@ -2219,7 +3955,29 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Adv.K.Raju",
-   "electors_07": 158123
+   "electors_07": 158123,
+   "shares": {
+    "121": {
+     "pct": 85.0,
+     "basis": "approx"
+    },
+    "122": {
+     "pct": 10.7,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 2.3,
+     "basis": "approx"
+    },
+    "119": {
+     "pct": 0.8,
+     "basis": "approx"
+    },
+    "131": {
+     "pct": 0.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 116,
@@ -2237,7 +3995,25 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Mullakkara Rathnakaran",
-   "electors_07": 134953
+   "electors_07": 134953,
+   "shares": {
+    "122": {
+     "pct": 93.3,
+     "basis": "approx"
+    },
+    "121": {
+     "pct": 2.7,
+     "basis": "approx"
+    },
+    "128": {
+     "pct": 1.3,
+     "basis": "approx"
+    },
+    "127": {
+     "pct": 1.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 117,
@@ -2256,7 +4032,29 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Adv. Aisha Potti",
-   "electors_07": 135841
+   "electors_07": 135841,
+   "shares": {
+    "119": {
+     "pct": 64.4,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 26.2,
+     "basis": "approx"
+    },
+    "118": {
+     "pct": 3.7,
+     "basis": "approx"
+    },
+    "122": {
+     "pct": 4.4,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 1.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 118,
@@ -2275,7 +4073,29 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "B. Raghavan",
-   "electors_07": 138696
+   "electors_07": 138696,
+   "shares": {
+    "119": {
+     "pct": 40.8,
+     "basis": "approx"
+    },
+    "118": {
+     "pct": 19.8,
+     "basis": "approx"
+    },
+    "123": {
+     "pct": 16.3,
+     "basis": "approx"
+    },
+    "126": {
+     "pct": 14.8,
+     "basis": "approx"
+    },
+    "122": {
+     "pct": 8.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 119,
@@ -2292,7 +4112,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Thiruvanchoor Radhakrishnan",
-   "electors_07": 128472
+   "electors_07": 128472,
+   "shares": {
+    "115": {
+     "pct": 94.0,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 3.1,
+     "basis": "approx"
+    },
+    "114": {
+     "pct": 2.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 120,
@@ -2310,7 +4144,25 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "Kovoor Kunjumon",
-   "electors_07": 162149
+   "electors_07": 162149,
+   "shares": {
+    "118": {
+     "pct": 50.3,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 23.3,
+     "basis": "approx"
+    },
+    "116": {
+     "pct": 16.5,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 9.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 121,
@@ -2327,7 +4179,21 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "C.Divakaran",
-   "electors_07": 139839
+   "electors_07": 139839,
+   "shares": {
+    "116": {
+     "pct": 53.8,
+     "basis": "approx"
+    },
+    "108": {
+     "pct": 10.9,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 4.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 122,
@@ -2344,7 +4210,21 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "N K Premachandran",
-   "electors_07": 142401
+   "electors_07": 142401,
+   "shares": {
+    "117": {
+     "pct": 29.5,
+     "basis": "approx"
+    },
+    "116": {
+     "pct": 21.4,
+     "basis": "approx"
+    },
+    "118": {
+     "pct": 6.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 123,
@@ -2362,7 +4242,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "M.A. Baby",
-   "electors_07": 129453
+   "electors_07": 129453,
+   "shares": {
+    "118": {
+     "pct": 46.7,
+     "basis": "approx"
+    },
+    "117": {
+     "pct": 26.0,
+     "basis": "approx"
+    },
+    "124": {
+     "pct": 13.8,
+     "basis": "approx"
+    },
+    "123": {
+     "pct": 6.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 124,
@@ -2378,7 +4276,17 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "P.K.Gurudasan",
-   "electors_07": 125888
+   "electors_07": 125888,
+   "shares": {
+    "124": {
+     "pct": 30.4,
+     "basis": "approx"
+    },
+    "117": {
+     "pct": 22.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 125,
@@ -2395,7 +4303,21 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "A.A. Azeez",
-   "electors_07": 177809
+   "electors_07": 177809,
+   "shares": {
+    "125": {
+     "pct": 29.4,
+     "basis": "approx"
+    },
+    "124": {
+     "pct": 26.5,
+     "basis": "approx"
+    },
+    "123": {
+     "pct": 27.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 126,
@@ -2412,7 +4334,21 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "N Anirudhan",
-   "electors_07": 160650
+   "electors_07": 160650,
+   "shares": {
+    "126": {
+     "pct": 54.6,
+     "basis": "approx"
+    },
+    "123": {
+     "pct": 33.2,
+     "basis": "approx"
+    },
+    "125": {
+     "pct": 7.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 127,
@@ -2429,7 +4365,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Varkala Kahar",
-   "electors_07": 127337
+   "electors_07": 127337,
+   "shares": {
+    "127": {
+     "pct": 61.5,
+     "basis": "approx"
+    },
+    "126": {
+     "pct": 13.9,
+     "basis": "approx"
+    },
+    "128": {
+     "pct": 4.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 128,
@@ -2446,7 +4396,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "Anathalavattom Anandan",
-   "electors_07": 118939
+   "electors_07": 118939,
+   "shares": {
+    "128": {
+     "pct": 48.1,
+     "basis": "approx"
+    },
+    "129": {
+     "pct": 23.7,
+     "basis": "approx"
+    },
+    "127": {
+     "pct": 6.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 129,
@@ -2465,7 +4429,29 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "N Rajan",
-   "electors_07": 156986
+   "electors_07": 156986,
+   "shares": {
+    "128": {
+     "pct": 55.7,
+     "basis": "approx"
+    },
+    "127": {
+     "pct": 27.5,
+     "basis": "approx"
+    },
+    "126": {
+     "pct": 6.6,
+     "basis": "approx"
+    },
+    "129": {
+     "pct": 8.4,
+     "basis": "approx"
+    },
+    "122": {
+     "pct": 1.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 130,
@@ -2484,7 +4470,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "J Arundhathi",
-   "electors_07": 145921
+   "electors_07": 145921,
+   "shares": {
+    "131": {
+     "pct": 88.2,
+     "basis": "approx"
+    },
+    "130": {
+     "pct": 6.6,
+     "basis": "approx"
+    },
+    "129": {
+     "pct": 2.7,
+     "basis": "approx"
+    },
+    "128": {
+     "pct": 2.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 131,
@@ -2500,7 +4504,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "G Karthikeyan Aryanad",
-   "electors_07": 132567
+   "electors_07": 132567,
+   "shares": {
+    "136": {
+     "pct": 79.9,
+     "basis": "approx"
+    },
+    "131": {
+     "pct": 18.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 132,
@@ -2519,7 +4533,29 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "Mankode Radhakrishnan",
-   "electors_07": 171173
+   "electors_07": 171173,
+   "shares": {
+    "130": {
+     "pct": 56.4,
+     "basis": "approx"
+    },
+    "131": {
+     "pct": 24.1,
+     "basis": "approx"
+    },
+    "136": {
+     "pct": 14.6,
+     "basis": "approx"
+    },
+    "132": {
+     "pct": 3.6,
+     "basis": "approx"
+    },
+    "133": {
+     "pct": 1.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 133,
@@ -2536,7 +4572,21 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "M A Vahid",
-   "electors_07": 163999
+   "electors_07": 163999,
+   "shares": {
+    "129": {
+     "pct": 47.8,
+     "basis": "approx"
+    },
+    "130": {
+     "pct": 23.8,
+     "basis": "approx"
+    },
+    "132": {
+     "pct": 8.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 134,
@@ -2554,7 +4604,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "M Vijayakumar",
-   "electors_07": 194130
+   "electors_07": 194130,
+   "shares": {
+    "132": {
+     "pct": 67.9,
+     "basis": "approx"
+    },
+    "133": {
+     "pct": 21.4,
+     "basis": "approx"
+    },
+    "129": {
+     "pct": 8.5,
+     "basis": "approx"
+    },
+    "130": {
+     "pct": 1.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 135,
@@ -2570,7 +4638,17 @@
    "extent": "",
    "party07": "KEC",
    "winner_07": "V Surendran Pillai",
-   "electors_07": 139835
+   "electors_07": 139835,
+   "shares": {
+    "132": {
+     "pct": 48.9,
+     "basis": "approx"
+    },
+    "134": {
+     "pct": 13.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 136,
@@ -2588,7 +4666,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "V Sivankutty",
-   "electors_07": 135171
+   "electors_07": 135171,
+   "shares": {
+    "134": {
+     "pct": 44.8,
+     "basis": "approx"
+    },
+    "133": {
+     "pct": 26.9,
+     "basis": "approx"
+    },
+    "132": {
+     "pct": 14.4,
+     "basis": "approx"
+    },
+    "135": {
+     "pct": 13.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 137,
@@ -2607,7 +4703,29 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "N Sakthan",
-   "electors_07": 180034
+   "electors_07": 180034,
+   "shares": {
+    "138": {
+     "pct": 84.2,
+     "basis": "approx"
+    },
+    "133": {
+     "pct": 3.6,
+     "basis": "approx"
+    },
+    "134": {
+     "pct": 3.2,
+     "basis": "approx"
+    },
+    "135": {
+     "pct": 2.6,
+     "basis": "approx"
+    },
+    "139": {
+     "pct": 4.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 138,
@@ -2624,7 +4742,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "Adv George Mercier",
-   "electors_07": 168386
+   "electors_07": 168386,
+   "shares": {
+    "139": {
+     "pct": 55.8,
+     "basis": "approx"
+    },
+    "135": {
+     "pct": 22.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 139,
@@ -2643,7 +4771,25 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "V J Thankappan",
-   "electors_07": 161090
+   "electors_07": 161090,
+   "shares": {
+    "137": {
+     "pct": 81.2,
+     "basis": "approx"
+    },
+    "140": {
+     "pct": 11.4,
+     "basis": "approx"
+    },
+    "138": {
+     "pct": 2.7,
+     "basis": "approx"
+    },
+    "139": {
+     "pct": 1.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 140,
@@ -2660,7 +4806,21 @@
    "extent": "",
    "party07": "CPM",
    "winner_07": "R Selvaraj",
-   "electors_07": 158092
+   "electors_07": 158092,
+   "shares": {
+    "140": {
+     "pct": 46.9,
+     "basis": "approx"
+    },
+    "137": {
+     "pct": 34.6,
+     "basis": "approx"
+    },
+    "139": {
+     "pct": 12.7,
+     "basis": "approx"
+    }
+   }
   }
  ],
  "post2008_constituencies": [
@@ -2677,7 +4837,13 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "P B Abdul Razak",
-   "electors_12": 176817
+   "electors_12": 176817,
+   "shares": {
+    "1": {
+     "pct": 96.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 2,
@@ -2693,7 +4859,17 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "N.A.Nellikkunnu",
-   "electors_12": 159289
+   "electors_12": 159289,
+   "shares": {
+    "2": {
+     "pct": 92.0,
+     "basis": "approx"
+    },
+    "1": {
+     "pct": 4.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 3,
@@ -2709,7 +4885,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.Kunhiraman",
-   "electors_12": 173459
+   "electors_12": 173459,
+   "shares": {
+    "3": {
+     "pct": 67.5,
+     "basis": "approx"
+    },
+    "2": {
+     "pct": 23.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 4,
@@ -2726,7 +4912,21 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "E.Chandrashekharan",
-   "electors_12": 178139
+   "electors_12": 178139,
+   "shares": {
+    "4": {
+     "pct": 78.5,
+     "basis": "approx"
+    },
+    "3": {
+     "pct": 3.6,
+     "basis": "approx"
+    },
+    "5": {
+     "pct": 13.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 5,
@@ -2742,7 +4942,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K Kunhiraman",
-   "electors_12": 169395
+   "electors_12": 169395,
+   "shares": {
+    "5": {
+     "pct": 84.8,
+     "basis": "approx"
+    },
+    "4": {
+     "pct": 10.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 6,
@@ -2758,7 +4968,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "C.Krishnan",
-   "electors_12": 158613
+   "electors_12": 158613,
+   "shares": {
+    "5": {
+     "pct": 46.0,
+     "basis": "approx"
+    },
+    "7": {
+     "pct": 46.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 7,
@@ -2775,7 +4995,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "T.V. Rajesh",
-   "electors_12": 157384
+   "electors_12": 157384,
+   "shares": {
+    "7": {
+     "pct": 35.3,
+     "basis": "approx"
+    },
+    "9": {
+     "pct": 34.4,
+     "basis": "approx"
+    },
+    "8": {
+     "pct": 21.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 8,
@@ -2793,7 +5027,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "James Mathew",
-   "electors_12": 174788
+   "electors_12": 174788,
+   "shares": {
+    "8": {
+     "pct": 76.5,
+     "basis": "approx"
+    },
+    "6": {
+     "pct": 1.7,
+     "basis": "approx"
+    },
+    "7": {
+     "pct": 1.2,
+     "basis": "approx"
+    },
+    "9": {
+     "pct": 6.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 9,
@@ -2810,7 +5062,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "K. C. Joseph",
-   "electors_12": 169262
+   "electors_12": 169262,
+   "shares": {
+    "6": {
+     "pct": 79.3,
+     "basis": "approx"
+    },
+    "8": {
+     "pct": 14.3,
+     "basis": "approx"
+    },
+    "5": {
+     "pct": 0.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 10,
@@ -2827,7 +5093,21 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "K.M.Shaji",
-   "electors_12": 147782
+   "electors_12": 147782,
+   "shares": {
+    "10": {
+     "pct": 80.6,
+     "basis": "approx"
+    },
+    "9": {
+     "pct": 10.6,
+     "basis": "approx"
+    },
+    "8": {
+     "pct": 0.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 11,
@@ -2844,7 +5124,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "A.P Abdullakutty",
-   "electors_12": 143828
+   "electors_12": 143828,
+   "shares": {
+    "10": {
+     "pct": 25.8,
+     "basis": "approx"
+    },
+    "11": {
+     "pct": 49.1,
+     "basis": "approx"
+    },
+    "15": {
+     "pct": 3.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 12,
@@ -2862,7 +5156,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.K. Narayanan",
-   "electors_12": 163674
+   "electors_12": 163674,
+   "shares": {
+    "11": {
+     "pct": 28.2,
+     "basis": "approx"
+    },
+    "14": {
+     "pct": 48.7,
+     "basis": "approx"
+    },
+    "12": {
+     "pct": 15.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 13,
@@ -2879,7 +5187,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Kodiyeri Balakrishnan",
-   "electors_12": 149689
+   "electors_12": 149689,
+   "shares": {
+    "12": {
+     "pct": 25.1,
+     "basis": "approx"
+    },
+    "13": {
+     "pct": 40.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 14,
@@ -2896,7 +5214,21 @@
    "extent": "",
    "party12": "SJD",
    "winner_12": "K.P.Mohanan S/O P R Kurup",
-   "electors_12": 160335
+   "electors_12": 160335,
+   "shares": {
+    "14": {
+     "pct": 26.1,
+     "basis": "approx"
+    },
+    "13": {
+     "pct": 39.8,
+     "basis": "approx"
+    },
+    "18": {
+     "pct": 27.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 15,
@@ -2913,7 +5245,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "E.P.Jayarajan",
-   "electors_12": 160711
+   "electors_12": 160711,
+   "shares": {
+    "15": {
+     "pct": 40.3,
+     "basis": "approx"
+    },
+    "14": {
+     "pct": 47.2,
+     "basis": "approx"
+    },
+    "6": {
+     "pct": 7.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 16,
@@ -2931,7 +5277,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Adv.Sunny Joseph",
-   "electors_12": 145983
+   "electors_12": 145983,
+   "shares": {
+    "15": {
+     "pct": 51.4,
+     "basis": "approx"
+    },
+    "16": {
+     "pct": 26.7,
+     "basis": "approx"
+    },
+    "14": {
+     "pct": 21.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 17,
@@ -2946,7 +5306,13 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "P.K.Jayalakshmi",
-   "electors_12": 167097
+   "electors_12": 167097,
+   "shares": {
+    "16": {
+     "pct": 87.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 18,
@@ -2962,7 +5328,17 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "I.C Balakrishnan",
-   "electors_12": 198645
+   "electors_12": 198645,
+   "shares": {
+    "30": {
+     "pct": 87.2,
+     "basis": "approx"
+    },
+    "29": {
+     "pct": 4.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 19,
@@ -2979,7 +5355,17 @@
    "extent": "",
    "party12": "SJD",
    "winner_12": "M.V Sreyamskumar",
-   "electors_12": 170245
+   "electors_12": 170245,
+   "shares": {
+    "29": {
+     "pct": 87.1,
+     "basis": "approx"
+    },
+    "30": {
+     "pct": 0.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 20,
@@ -2997,7 +5383,21 @@
    "extent": "",
    "party12": "JD(S)",
    "winner_12": "C.K.Nanu",
-   "electors_12": 141564
+   "electors_12": 141564,
+   "shares": {
+    "17": {
+     "pct": 78.7,
+     "basis": "approx"
+    },
+    "18": {
+     "pct": 4.2,
+     "basis": "approx"
+    },
+    "19": {
+     "pct": 11.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 21,
@@ -3015,7 +5415,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.K.Lathika",
-   "electors_12": 162389
+   "electors_12": 162389,
+   "shares": {
+    "19": {
+     "pct": 67.7,
+     "basis": "approx"
+    },
+    "18": {
+     "pct": 8.5,
+     "basis": "approx"
+    },
+    "17": {
+     "pct": 1.8,
+     "basis": "approx"
+    },
+    "21": {
+     "pct": 20.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 22,
@@ -3032,7 +5450,17 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "E.K.Vijayan",
-   "electors_12": 177993
+   "electors_12": 177993,
+   "shares": {
+    "18": {
+     "pct": 84.9,
+     "basis": "approx"
+    },
+    "16": {
+     "pct": 0.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 23,
@@ -3051,7 +5479,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.Dasan",
-   "electors_12": 166632
+   "electors_12": 166632,
+   "shares": {
+    "20": {
+     "pct": 66.0,
+     "basis": "approx"
+    },
+    "22": {
+     "pct": 18.7,
+     "basis": "approx"
+    },
+    "19": {
+     "pct": 1.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 24,
@@ -3069,7 +5511,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K. Kunhammad Master",
-   "electors_12": 159699
+   "electors_12": 159699,
+   "shares": {
+    "21": {
+     "pct": 92.9,
+     "basis": "approx"
+    },
+    "22": {
+     "pct": 3.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 25,
@@ -3088,7 +5540,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Purushan Kadalundi",
-   "electors_12": 185109
+   "electors_12": 185109,
+   "shares": {
+    "21": {
+     "pct": 49.7,
+     "basis": "approx"
+    },
+    "22": {
+     "pct": 19.2,
+     "basis": "approx"
+    },
+    "23": {
+     "pct": 20.8,
+     "basis": "approx"
+    },
+    "28": {
+     "pct": 10.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 26,
@@ -3105,7 +5575,21 @@
    "extent": "",
    "party12": "NCP",
    "winner_12": "A.K. Saseendran",
-   "electors_12": 162830
+   "electors_12": 162830,
+   "shares": {
+    "23": {
+     "pct": 82.3,
+     "basis": "approx"
+    },
+    "22": {
+     "pct": 8.2,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 9.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 27,
@@ -3123,7 +5607,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "A. Pradeep Kumar",
-   "electors_12": 150425
+   "electors_12": 150425,
+   "shares": {
+    "23": {
+     "pct": 33.3,
+     "basis": "approx"
+    },
+    "24": {
+     "pct": 43.8,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 9.9,
+     "basis": "approx"
+    },
+    "22": {
+     "pct": 1.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 28,
@@ -3142,7 +5644,25 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "Dr. M.K. Muneer",
-   "electors_12": 132780
+   "electors_12": 132780,
+   "shares": {
+    "23": {
+     "pct": 5.6,
+     "basis": "approx"
+    },
+    "25": {
+     "pct": 11.5,
+     "basis": "approx"
+    },
+    "26": {
+     "pct": 55.7,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 27.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 29,
@@ -3159,7 +5679,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Elamaram Kareem",
-   "electors_12": 164045
+   "electors_12": 164045,
+   "shares": {
+    "36": {
+     "pct": 64.1,
+     "basis": "approx"
+    },
+    "26": {
+     "pct": 14.2,
+     "basis": "approx"
+    },
+    "35": {
+     "pct": 21.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 30,
@@ -3176,7 +5710,21 @@
    "extent": "",
    "party12": "IND",
    "winner_12": "Adv.P.T.A.Rahim",
-   "electors_12": 178089
+   "electors_12": 178089,
+   "shares": {
+    "27": {
+     "pct": 63.3,
+     "basis": "approx"
+    },
+    "35": {
+     "pct": 30.0,
+     "basis": "approx"
+    },
+    "26": {
+     "pct": 1.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 31,
@@ -3193,7 +5741,21 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "V.M.Ummer Master",
-   "electors_12": 142384
+   "electors_12": 142384,
+   "shares": {
+    "28": {
+     "pct": 55.2,
+     "basis": "approx"
+    },
+    "23": {
+     "pct": 16.6,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 28.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 32,
@@ -3212,7 +5774,25 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "C Moyinkutty",
-   "electors_12": 145763
+   "electors_12": 145763,
+   "shares": {
+    "28": {
+     "pct": 79.5,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 4.7,
+     "basis": "approx"
+    },
+    "32": {
+     "pct": 5.3,
+     "basis": "approx"
+    },
+    "33": {
+     "pct": 9.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 33,
@@ -3228,7 +5808,17 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "K Muhammedunni Haji",
-   "electors_12": 158057
+   "electors_12": 158057,
+   "shares": {
+    "35": {
+     "pct": 70.6,
+     "basis": "approx"
+    },
+    "33": {
+     "pct": 27.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 34,
@@ -3245,7 +5835,21 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "P.K.Basheer",
-   "electors_12": 141833
+   "electors_12": 141833,
+   "shares": {
+    "33": {
+     "pct": 39.3,
+     "basis": "approx"
+    },
+    "31": {
+     "pct": 50.3,
+     "basis": "approx"
+    },
+    "32": {
+     "pct": 8.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 35,
@@ -3261,7 +5865,17 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Aryadan Mohammed",
-   "electors_12": 174945
+   "electors_12": 174945,
+   "shares": {
+    "32": {
+     "pct": 88.4,
+     "basis": "approx"
+    },
+    "31": {
+     "pct": 7.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 36,
@@ -3277,7 +5891,17 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "A.P.Anilkumar",
-   "electors_12": 180715
+   "electors_12": 180715,
+   "shares": {
+    "31": {
+     "pct": 61.5,
+     "basis": "approx"
+    },
+    "32": {
+     "pct": 31.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 37,
@@ -3295,7 +5919,25 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "Adv.M.Ummer",
-   "electors_12": 164144
+   "electors_12": 164144,
+   "shares": {
+    "31": {
+     "pct": 29.0,
+     "basis": "approx"
+    },
+    "42": {
+     "pct": 33.0,
+     "basis": "approx"
+    },
+    "33": {
+     "pct": 25.1,
+     "basis": "approx"
+    },
+    "47": {
+     "pct": 6.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 38,
@@ -3314,7 +5956,29 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "Manjalamkuzhi Ali",
-   "electors_12": 165042
+   "electors_12": 165042,
+   "shares": {
+    "42": {
+     "pct": 66.3,
+     "basis": "approx"
+    },
+    "41": {
+     "pct": 5.2,
+     "basis": "approx"
+    },
+    "47": {
+     "pct": 9.3,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 10.3,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 8.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 39,
@@ -3332,7 +5996,21 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "T.A.Ahmed Kabeer",
-   "electors_12": 164067
+   "electors_12": 164067,
+   "shares": {
+    "41": {
+     "pct": 59.0,
+     "basis": "approx"
+    },
+    "42": {
+     "pct": 35.3,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 4.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 40,
@@ -3351,7 +6029,29 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "P. Ubaidulla",
-   "electors_12": 167739
+   "electors_12": 167739,
+   "shares": {
+    "34": {
+     "pct": 30.0,
+     "basis": "approx"
+    },
+    "33": {
+     "pct": 16.1,
+     "basis": "approx"
+    },
+    "35": {
+     "pct": 20.2,
+     "basis": "approx"
+    },
+    "41": {
+     "pct": 27.5,
+     "basis": "approx"
+    },
+    "42": {
+     "pct": 6.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 41,
@@ -3369,7 +6069,25 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "P.K.Kunhalikutty",
-   "electors_12": 144317
+   "electors_12": 144317,
+   "shares": {
+    "34": {
+     "pct": 54.4,
+     "basis": "approx"
+    },
+    "37": {
+     "pct": 24.0,
+     "basis": "approx"
+    },
+    "35": {
+     "pct": 6.8,
+     "basis": "approx"
+    },
+    "40": {
+     "pct": 14.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 42,
@@ -3386,7 +6104,21 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "Adv.K.N.A.Khader",
-   "electors_12": 156307
+   "electors_12": 156307,
+   "shares": {
+    "36": {
+     "pct": 36.5,
+     "basis": "approx"
+    },
+    "35": {
+     "pct": 23.9,
+     "basis": "approx"
+    },
+    "37": {
+     "pct": 39.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 43,
@@ -3404,7 +6136,17 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "P.K.Abdu Rabb",
-   "electors_12": 152896
+   "electors_12": 152896,
+   "shares": {
+    "37": {
+     "pct": 59.2,
+     "basis": "approx"
+    },
+    "40": {
+     "pct": 35.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 44,
@@ -3421,7 +6163,21 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "Abdurahiman Randathani",
-   "electors_12": 133276
+   "electors_12": 133276,
+   "shares": {
+    "38": {
+     "pct": 58.3,
+     "basis": "approx"
+    },
+    "37": {
+     "pct": 26.2,
+     "basis": "approx"
+    },
+    "40": {
+     "pct": 15.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 45,
@@ -3437,7 +6193,17 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "C Mammootty",
-   "electors_12": 166314
+   "electors_12": 166314,
+   "shares": {
+    "40": {
+     "pct": 63.0,
+     "basis": "approx"
+    },
+    "38": {
+     "pct": 37.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 46,
@@ -3455,7 +6221,25 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "Abdussamad Samadani",
-   "electors_12": 167498
+   "electors_12": 167498,
+   "shares": {
+    "40": {
+     "pct": 41.7,
+     "basis": "approx"
+    },
+    "41": {
+     "pct": 26.7,
+     "basis": "approx"
+    },
+    "34": {
+     "pct": 11.6,
+     "basis": "approx"
+    },
+    "43": {
+     "pct": 18.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 47,
@@ -3473,7 +6257,25 @@
    "extent": "",
    "party12": "IND",
    "winner_12": "Dr.K.T. Jaleel",
-   "electors_12": 156486
+   "electors_12": 156486,
+   "shares": {
+    "38": {
+     "pct": 64.5,
+     "basis": "approx"
+    },
+    "39": {
+     "pct": 26.0,
+     "basis": "approx"
+    },
+    "43": {
+     "pct": 8.0,
+     "basis": "approx"
+    },
+    "40": {
+     "pct": 1.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 48,
@@ -3492,7 +6294,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "P.Sreeramakrishnan",
-   "electors_12": 158680
+   "electors_12": 158680,
+   "shares": {
+    "39": {
+     "pct": 71.0,
+     "basis": "approx"
+    },
+    "55": {
+     "pct": 17.1,
+     "basis": "approx"
+    },
+    "38": {
+     "pct": 0.9,
+     "basis": "approx"
+    },
+    "65": {
+     "pct": 10.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 49,
@@ -3510,7 +6330,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Adv.V.T. Balram",
-   "electors_12": 155638
+   "electors_12": 155638,
+   "shares": {
+    "43": {
+     "pct": 77.0,
+     "basis": "approx"
+    },
+    "55": {
+     "pct": 14.9,
+     "basis": "approx"
+    },
+    "54": {
+     "pct": 6.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 50,
@@ -3528,7 +6362,17 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "C.P.Mohammed",
-   "electors_12": 153713
+   "electors_12": 153713,
+   "shares": {
+    "44": {
+     "pct": 86.8,
+     "basis": "approx"
+    },
+    "43": {
+     "pct": 11.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 51,
@@ -3546,7 +6390,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.S.Saleekha",
-   "electors_12": 163885
+   "electors_12": 163885,
+   "shares": {
+    "45": {
+     "pct": 60.7,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 16.8,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 10.1,
+     "basis": "approx"
+    },
+    "54": {
+     "pct": 12.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 52,
@@ -3564,7 +6426,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "M. Hamza",
-   "electors_12": 175066
+   "electors_12": 175066,
+   "shares": {
+    "46": {
+     "pct": 51.0,
+     "basis": "approx"
+    },
+    "45": {
+     "pct": 31.7,
+     "basis": "approx"
+    },
+    "47": {
+     "pct": 6.7,
+     "basis": "approx"
+    },
+    "49": {
+     "pct": 2.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 53,
@@ -3582,7 +6462,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.V.Vijayadas",
-   "electors_12": 155799
+   "electors_12": 155799,
+   "shares": {
+    "47": {
+     "pct": 34.0,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 28.8,
+     "basis": "approx"
+    },
+    "49": {
+     "pct": 24.4,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 2.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 54,
@@ -3598,7 +6496,17 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "Advocate N. Samsudheen",
-   "electors_12": 166275
+   "electors_12": 166275,
+   "shares": {
+    "47": {
+     "pct": 86.3,
+     "basis": "approx"
+    },
+    "31": {
+     "pct": 5.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 55,
@@ -3616,7 +6524,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "V.S.Achuthanandan.",
-   "electors_12": 180648
+   "electors_12": 180648,
+   "shares": {
+    "48": {
+     "pct": 72.7,
+     "basis": "approx"
+    },
+    "49": {
+     "pct": 14.3,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 8.4,
+     "basis": "approx"
+    },
+    "50": {
+     "pct": 4.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 56,
@@ -3633,7 +6559,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Shafi Parambil",
-   "electors_12": 154374
+   "electors_12": 154374,
+   "shares": {
+    "49": {
+     "pct": 54.5,
+     "basis": "approx"
+    },
+    "52": {
+     "pct": 34.2,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 11.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 57,
@@ -3649,7 +6589,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "A. K. Balan",
-   "electors_12": 149387
+   "electors_12": 149387,
+   "shares": {
+    "52": {
+     "pct": 47.1,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 52.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 58,
@@ -3665,7 +6615,17 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "K.Achuthan",
-   "electors_12": 167800
+   "electors_12": 167800,
+   "shares": {
+    "50": {
+     "pct": 82.4,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 4.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 59,
@@ -3681,7 +6641,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "V. Chenthamarakshan",
-   "electors_12": 172069
+   "electors_12": 172069,
+   "shares": {
+    "51": {
+     "pct": 91.7,
+     "basis": "approx"
+    },
+    "50": {
+     "pct": 1.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 60,
@@ -3699,7 +6669,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "M.Chandran",
-   "electors_12": 152827
+   "electors_12": 152827,
+   "shares": {
+    "53": {
+     "pct": 52.4,
+     "basis": "approx"
+    },
+    "52": {
+     "pct": 28.5,
+     "basis": "approx"
+    },
+    "51": {
+     "pct": 14.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 61,
@@ -3718,7 +6702,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.Radhakrishnan",
-   "electors_12": 173746
+   "electors_12": 173746,
+   "shares": {
+    "54": {
+     "pct": 58.6,
+     "basis": "approx"
+    },
+    "55": {
+     "pct": 27.8,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 5.6,
+     "basis": "approx"
+    },
+    "52": {
+     "pct": 2.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 62,
@@ -3734,7 +6736,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Babu.M.Palissery",
-   "electors_12": 174161
+   "electors_12": 174161,
+   "shares": {
+    "55": {
+     "pct": 61.0,
+     "basis": "approx"
+    },
+    "56": {
+     "pct": 38.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 63,
@@ -3753,7 +6765,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.V.Abdul Khader",
-   "electors_12": 178144
+   "electors_12": 178144,
+   "shares": {
+    "65": {
+     "pct": 71.3,
+     "basis": "approx"
+    },
+    "66": {
+     "pct": 16.1,
+     "basis": "approx"
+    },
+    "56": {
+     "pct": 5.3,
+     "basis": "approx"
+    },
+    "64": {
+     "pct": 7.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 64,
@@ -3772,7 +6802,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "P.A. Madhavan",
-   "electors_12": 189976
+   "electors_12": 189976,
+   "shares": {
+    "64": {
+     "pct": 66.6,
+     "basis": "approx"
+    },
+    "56": {
+     "pct": 21.7,
+     "basis": "approx"
+    },
+    "66": {
+     "pct": 8.5,
+     "basis": "approx"
+    },
+    "58": {
+     "pct": 2.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 65,
@@ -3790,7 +6838,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "C.N.Balakrishnan",
-   "electors_12": 176069
+   "electors_12": 176069,
+   "shares": {
+    "55": {
+     "pct": 33.8,
+     "basis": "approx"
+    },
+    "56": {
+     "pct": 23.0,
+     "basis": "approx"
+    },
+    "58": {
+     "pct": 31.3,
+     "basis": "approx"
+    },
+    "59": {
+     "pct": 10.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 66,
@@ -3808,7 +6874,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "M.P. Vincent",
-   "electors_12": 176875
+   "electors_12": 176875,
+   "shares": {
+    "59": {
+     "pct": 76.9,
+     "basis": "approx"
+    },
+    "60": {
+     "pct": 19.4,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 1.2,
+     "basis": "approx"
+    },
+    "58": {
+     "pct": 2.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 67,
@@ -3825,7 +6909,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Adv.Therambil Ramakrishnan",
-   "electors_12": 161886
+   "electors_12": 161886,
+   "shares": {
+    "58": {
+     "pct": 78.8,
+     "basis": "approx"
+    },
+    "57": {
+     "pct": 16.7,
+     "basis": "approx"
+    },
+    "59": {
+     "pct": 4.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 68,
@@ -3844,7 +6942,25 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "Geetha Gopi",
-   "electors_12": 179535
+   "electors_12": 179535,
+   "shares": {
+    "57": {
+     "pct": 42.6,
+     "basis": "approx"
+    },
+    "66": {
+     "pct": 28.2,
+     "basis": "approx"
+    },
+    "64": {
+     "pct": 13.6,
+     "basis": "approx"
+    },
+    "63": {
+     "pct": 13.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 69,
@@ -3861,7 +6977,21 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "Adv.V S Sunilkumar",
-   "electors_12": 151356
+   "electors_12": 151356,
+   "shares": {
+    "67": {
+     "pct": 83.8,
+     "basis": "approx"
+    },
+    "66": {
+     "pct": 9.0,
+     "basis": "approx"
+    },
+    "63": {
+     "pct": 7.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 70,
@@ -3877,7 +7007,17 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "Adv.Thomas Unniyadan",
-   "electors_12": 174214
+   "electors_12": 174214,
+   "shares": {
+    "63": {
+     "pct": 82.0,
+     "basis": "approx"
+    },
+    "62": {
+     "pct": 17.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 71,
@@ -3895,7 +7035,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Prof: C. Raveendranath",
-   "electors_12": 176055
+   "electors_12": 176055,
+   "shares": {
+    "60": {
+     "pct": 76.9,
+     "basis": "approx"
+    },
+    "63": {
+     "pct": 9.5,
+     "basis": "approx"
+    },
+    "61": {
+     "pct": 13.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 72,
@@ -3914,7 +7068,29 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Devassy.B.D.",
-   "electors_12": 172679
+   "electors_12": 172679,
+   "shares": {
+    "61": {
+     "pct": 76.0,
+     "basis": "approx"
+    },
+    "60": {
+     "pct": 2.3,
+     "basis": "approx"
+    },
+    "62": {
+     "pct": 4.7,
+     "basis": "approx"
+    },
+    "51": {
+     "pct": 0.6,
+     "basis": "approx"
+    },
+    "68": {
+     "pct": 5.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 73,
@@ -3931,7 +7107,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "T.N.Prathapan",
-   "electors_12": 169056
+   "electors_12": 169056,
+   "shares": {
+    "62": {
+     "pct": 53.8,
+     "basis": "approx"
+    },
+    "67": {
+     "pct": 44.0,
+     "basis": "approx"
+    },
+    "63": {
+     "pct": 2.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 74,
@@ -3948,7 +7138,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Saju Paul",
-   "electors_12": 154432
+   "electors_12": 154432,
+   "shares": {
+    "77": {
+     "pct": 67.6,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 28.8,
+     "basis": "approx"
+    },
+    "68": {
+     "pct": 2.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 75,
@@ -3966,7 +7170,25 @@
    "extent": "",
    "party12": "JD(S)",
    "winner_12": "Advocate Jose Thettayil",
-   "electors_12": 152370
+   "electors_12": 152370,
+   "shares": {
+    "68": {
+     "pct": 50.7,
+     "basis": "approx"
+    },
+    "77": {
+     "pct": 37.3,
+     "basis": "approx"
+    },
+    "67": {
+     "pct": 7.7,
+     "basis": "approx"
+    },
+    "83": {
+     "pct": 4.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 76,
@@ -3985,7 +7207,29 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Anwar Sadath",
-   "electors_12": 158819
+   "electors_12": 158819,
+   "shares": {
+    "67": {
+     "pct": 19.5,
+     "basis": "approx"
+    },
+    "69": {
+     "pct": 23.6,
+     "basis": "approx"
+    },
+    "68": {
+     "pct": 13.5,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 19.4,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 20.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 77,
@@ -4004,7 +7248,29 @@
    "extent": "",
    "party12": "MUL",
    "winner_12": "V. K. Ebrahim Kunju",
-   "electors_12": 165107
+   "electors_12": 165107,
+   "shares": {
+    "70": {
+     "pct": 26.1,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 25.6,
+     "basis": "approx"
+    },
+    "75": {
+     "pct": 23.7,
+     "basis": "approx"
+    },
+    "67": {
+     "pct": 6.6,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 9.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 78,
@@ -4021,7 +7287,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Adv.V.D.Satheesan",
-   "electors_12": 171172
+   "electors_12": 171172,
+   "shares": {
+    "76": {
+     "pct": 43.9,
+     "basis": "approx"
+    },
+    "67": {
+     "pct": 19.6,
+     "basis": "approx"
+    },
+    "70": {
+     "pct": 31.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 79,
@@ -4040,7 +7320,29 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "S.Sarma",
-   "electors_12": 152040
+   "electors_12": 152040,
+   "shares": {
+    "71": {
+     "pct": 22.4,
+     "basis": "approx"
+    },
+    "72": {
+     "pct": 14.9,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 7.2,
+     "basis": "approx"
+    },
+    "67": {
+     "pct": 2.7,
+     "basis": "approx"
+    },
+    "70": {
+     "pct": 3.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 80,
@@ -4058,7 +7360,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Dominic Presentation",
-   "electors_12": 158548
+   "electors_12": 158548,
+   "shares": {
+    "74": {
+     "pct": 25.8,
+     "basis": "approx"
+    },
+    "97": {
+     "pct": 24.3,
+     "basis": "approx"
+    },
+    "72": {
+     "pct": 8.1,
+     "basis": "approx"
+    },
+    "73": {
+     "pct": 1.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 81,
@@ -4076,7 +7396,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "K.Babu",
-   "electors_12": 171652
+   "electors_12": 171652,
+   "shares": {
+    "75": {
+     "pct": 35.8,
+     "basis": "approx"
+    },
+    "74": {
+     "pct": 28.7,
+     "basis": "approx"
+    },
+    "79": {
+     "pct": 19.2,
+     "basis": "approx"
+    },
+    "98": {
+     "pct": 4.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 82,
@@ -4094,7 +7432,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Hibi Eden",
-   "electors_12": 136722
+   "electors_12": 136722,
+   "shares": {
+    "72": {
+     "pct": 83.8,
+     "basis": "approx"
+    },
+    "71": {
+     "pct": 4.2,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 6.5,
+     "basis": "approx"
+    },
+    "74": {
+     "pct": 3.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 83,
@@ -4111,7 +7467,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Benny Behanan",
-   "electors_12": 159877
+   "electors_12": 159877,
+   "shares": {
+    "72": {
+     "pct": 39.2,
+     "basis": "approx"
+    },
+    "75": {
+     "pct": 43.5,
+     "basis": "approx"
+    },
+    "74": {
+     "pct": 14.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 84,
@@ -4129,7 +7499,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "V.P. Sajeendran",
-   "electors_12": 153102
+   "electors_12": 153102,
+   "shares": {
+    "81": {
+     "pct": 83.1,
+     "basis": "approx"
+    },
+    "78": {
+     "pct": 6.3,
+     "basis": "approx"
+    },
+    "79": {
+     "pct": 8.4,
+     "basis": "approx"
+    },
+    "77": {
+     "pct": 2.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 85,
@@ -4148,7 +7536,29 @@
    "extent": "",
    "party12": "KEC(J)",
    "winner_12": "T. M. Jacob",
-   "electors_12": 176302
+   "electors_12": 176302,
+   "shares": {
+    "79": {
+     "pct": 58.4,
+     "basis": "approx"
+    },
+    "80": {
+     "pct": 28.8,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 1.8,
+     "basis": "approx"
+    },
+    "78": {
+     "pct": 1.7,
+     "basis": "approx"
+    },
+    "94": {
+     "pct": 4.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 86,
@@ -4166,7 +7576,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Joseph Vazhackkan",
-   "electors_12": 154440
+   "electors_12": 154440,
+   "shares": {
+    "78": {
+     "pct": 54.9,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 20.1,
+     "basis": "approx"
+    },
+    "80": {
+     "pct": 12.1,
+     "basis": "approx"
+    },
+    "82": {
+     "pct": 12.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 87,
@@ -4182,7 +7610,17 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "Shev.T.U.Kuruvilla",
-   "electors_12": 144256
+   "electors_12": 144256,
+   "shares": {
+    "83": {
+     "pct": 69.9,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 28.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 88,
@@ -4199,7 +7637,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "S. Rajendran",
-   "electors_12": 147855
+   "electors_12": 147855,
+   "shares": {
+    "83": {
+     "pct": 85.4,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 8.4,
+     "basis": "approx"
+    },
+    "84": {
+     "pct": 4.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 89,
@@ -4215,7 +7667,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "K.K.Jayachandran",
-   "electors_12": 153563
+   "electors_12": 153563,
+   "shares": {
+    "85": {
+     "pct": 90.3,
+     "basis": "approx"
+    },
+    "84": {
+     "pct": 4.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 90,
@@ -4232,7 +7694,17 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "P.J.Joseph",
-   "electors_12": 177529
+   "electors_12": 177529,
+   "shares": {
+    "82": {
+     "pct": 58.5,
+     "basis": "approx"
+    },
+    "84": {
+     "pct": 39.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 91,
@@ -4248,7 +7720,17 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "Roshy Augustine,",
-   "electors_12": 169984
+   "electors_12": 169984,
+   "shares": {
+    "84": {
+     "pct": 74.8,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 23.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 92,
@@ -4265,7 +7747,21 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "E. S. Bijimol",
-   "electors_12": 165380
+   "electors_12": 165380,
+   "shares": {
+    "86": {
+     "pct": 91.9,
+     "basis": "approx"
+    },
+    "85": {
+     "pct": 5.0,
+     "basis": "approx"
+    },
+    "113": {
+     "pct": 1.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 93,
@@ -4284,7 +7780,25 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "K.M.Mani",
-   "electors_12": 169192
+   "electors_12": 169192,
+   "shares": {
+    "94": {
+     "pct": 55.0,
+     "basis": "approx"
+    },
+    "93": {
+     "pct": 32.9,
+     "basis": "approx"
+    },
+    "92": {
+     "pct": 7.2,
+     "basis": "approx"
+    },
+    "87": {
+     "pct": 4.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 94,
@@ -4301,7 +7815,21 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "Adv.Mons Joseph",
-   "electors_12": 171486
+   "electors_12": 171486,
+   "shares": {
+    "94": {
+     "pct": 62.2,
+     "basis": "approx"
+    },
+    "95": {
+     "pct": 36.9,
+     "basis": "approx"
+    },
+    "80": {
+     "pct": 0.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 95,
@@ -4319,7 +7847,21 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "K. Ajith",
-   "electors_12": 153205
+   "electors_12": 153205,
+   "shares": {
+    "96": {
+     "pct": 48.5,
+     "basis": "approx"
+    },
+    "95": {
+     "pct": 32.7,
+     "basis": "approx"
+    },
+    "91": {
+     "pct": 6.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 96,
@@ -4337,7 +7879,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Adv. K. Suresh Kurup",
-   "electors_12": 150807
+   "electors_12": 150807,
+   "shares": {
+    "91": {
+     "pct": 42.1,
+     "basis": "approx"
+    },
+    "90": {
+     "pct": 26.0,
+     "basis": "approx"
+    },
+    "95": {
+     "pct": 14.0,
+     "basis": "approx"
+    },
+    "94": {
+     "pct": 2.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 97,
@@ -4355,7 +7915,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Thiruvanchoor Radhakrishnan",
-   "electors_12": 148225
+   "electors_12": 148225,
+   "shares": {
+    "92": {
+     "pct": 57.2,
+     "basis": "approx"
+    },
+    "90": {
+     "pct": 29.5,
+     "basis": "approx"
+    },
+    "88": {
+     "pct": 6.2,
+     "basis": "approx"
+    },
+    "91": {
+     "pct": 3.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 98,
@@ -4374,7 +7952,29 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Oommen Chandy",
-   "electors_12": 157222
+   "electors_12": 157222,
+   "shares": {
+    "92": {
+     "pct": 74.2,
+     "basis": "approx"
+    },
+    "88": {
+     "pct": 16.7,
+     "basis": "approx"
+    },
+    "95": {
+     "pct": 6.3,
+     "basis": "approx"
+    },
+    "94": {
+     "pct": 0.9,
+     "basis": "approx"
+    },
+    "89": {
+     "pct": 1.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 99,
@@ -4393,7 +7993,29 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "C.F Thomas",
-   "electors_12": 149193
+   "electors_12": 149193,
+   "shares": {
+    "89": {
+     "pct": 61.9,
+     "basis": "approx"
+    },
+    "88": {
+     "pct": 19.4,
+     "basis": "approx"
+    },
+    "105": {
+     "pct": 11.2,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 6.4,
+     "basis": "approx"
+    },
+    "92": {
+     "pct": 0.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 100,
@@ -4411,7 +8033,25 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "Dr. N.Jayaraj",
-   "electors_12": 161648
+   "electors_12": 161648,
+   "shares": {
+    "87": {
+     "pct": 50.6,
+     "basis": "approx"
+    },
+    "88": {
+     "pct": 37.0,
+     "basis": "approx"
+    },
+    "92": {
+     "pct": 6.7,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 4.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 101,
@@ -4428,7 +8068,21 @@
    "extent": "",
    "party12": "KEC(M)",
    "winner_12": "P C George, Plathottam",
-   "electors_12": 167928
+   "electors_12": 167928,
+   "shares": {
+    "87": {
+     "pct": 50.7,
+     "basis": "approx"
+    },
+    "93": {
+     "pct": 42.6,
+     "basis": "approx"
+    },
+    "86": {
+     "pct": 4.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 102,
@@ -4447,7 +8101,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Adv.Am.Ariff",
-   "electors_12": 174130
+   "electors_12": 174130,
+   "shares": {
+    "98": {
+     "pct": 35.4,
+     "basis": "approx"
+    },
+    "97": {
+     "pct": 18.3,
+     "basis": "approx"
+    },
+    "96": {
+     "pct": 4.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 103,
@@ -4465,7 +8133,25 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "P.Thilothaman",
-   "electors_12": 190806
+   "electors_12": 190806,
+   "shares": {
+    "98": {
+     "pct": 38.7,
+     "basis": "approx"
+    },
+    "99": {
+     "pct": 33.2,
+     "basis": "approx"
+    },
+    "97": {
+     "pct": 3.3,
+     "basis": "approx"
+    },
+    "96": {
+     "pct": 2.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 104,
@@ -4482,7 +8168,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Dr.T.M.Thomas Isaac",
-   "electors_12": 173942
+   "electors_12": 173942,
+   "shares": {
+    "99": {
+     "pct": 51.1,
+     "basis": "approx"
+    },
+    "100": {
+     "pct": 5.9,
+     "basis": "approx"
+    },
+    "102": {
+     "pct": 2.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 105,
@@ -4500,7 +8200,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "G.Sudhakaran",
-   "electors_12": 146890
+   "electors_12": 146890,
+   "shares": {
+    "102": {
+     "pct": 64.7,
+     "basis": "approx"
+    },
+    "101": {
+     "pct": 17.2,
+     "basis": "approx"
+    },
+    "103": {
+     "pct": 15.4,
+     "basis": "approx"
+    },
+    "100": {
+     "pct": 2.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 106,
@@ -4519,7 +8237,29 @@
    "extent": "",
    "party12": "NCP",
    "winner_12": "Thomas Chandy",
-   "electors_12": 150213
+   "electors_12": 150213,
+   "shares": {
+    "102": {
+     "pct": 50.9,
+     "basis": "approx"
+    },
+    "105": {
+     "pct": 7.7,
+     "basis": "approx"
+    },
+    "89": {
+     "pct": 6.2,
+     "basis": "approx"
+    },
+    "90": {
+     "pct": 5.2,
+     "basis": "approx"
+    },
+    "103": {
+     "pct": 3.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 107,
@@ -4537,7 +8277,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Ramesh Chennithala",
-   "electors_12": 171834
+   "electors_12": 171834,
+   "shares": {
+    "103": {
+     "pct": 61.1,
+     "basis": "approx"
+    },
+    "104": {
+     "pct": 21.7,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 15.7,
+     "basis": "approx"
+    },
+    "105": {
+     "pct": 1.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 108,
@@ -4555,7 +8313,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "C.K.Sadasivan",
-   "electors_12": 182036
+   "electors_12": 182036,
+   "shares": {
+    "109": {
+     "pct": 55.6,
+     "basis": "approx"
+    },
+    "104": {
+     "pct": 30.0,
+     "basis": "approx"
+    },
+    "121": {
+     "pct": 10.4,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 4.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 109,
@@ -4574,7 +8350,29 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "R. Rajesh",
-   "electors_12": 177789
+   "electors_12": 177789,
+   "shares": {
+    "110": {
+     "pct": 68.3,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 15.3,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 7.9,
+     "basis": "approx"
+    },
+    "108": {
+     "pct": 3.0,
+     "basis": "approx"
+    },
+    "121": {
+     "pct": 3.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 110,
@@ -4592,7 +8390,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "P.C.Vishnunath",
-   "electors_12": 176875
+   "electors_12": 176875,
+   "shares": {
+    "108": {
+     "pct": 76.6,
+     "basis": "approx"
+    },
+    "107": {
+     "pct": 9.6,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 8.8,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 5.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 111,
@@ -4610,7 +8426,25 @@
    "extent": "",
    "party12": "JD(S)",
    "winner_12": "Adv Mathew T Thomas",
-   "electors_12": 193874
+   "electors_12": 193874,
+   "shares": {
+    "106": {
+     "pct": 45.5,
+     "basis": "approx"
+    },
+    "105": {
+     "pct": 44.6,
+     "basis": "approx"
+    },
+    "108": {
+     "pct": 9.0,
+     "basis": "approx"
+    },
+    "88": {
+     "pct": 0.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 112,
@@ -4629,7 +8463,29 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Raju Abrham",
-   "electors_12": 175669
+   "electors_12": 175669,
+   "shares": {
+    "111": {
+     "pct": 55.6,
+     "basis": "approx"
+    },
+    "113": {
+     "pct": 19.6,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 12.0,
+     "basis": "approx"
+    },
+    "86": {
+     "pct": 4.8,
+     "basis": "approx"
+    },
+    "107": {
+     "pct": 6.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 113,
@@ -4648,7 +8504,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Adv.K.Sivadasan Nair",
-   "electors_12": 207229
+   "electors_12": 207229,
+   "shares": {
+    "112": {
+     "pct": 51.6,
+     "basis": "approx"
+    },
+    "107": {
+     "pct": 35.8,
+     "basis": "approx"
+    },
+    "106": {
+     "pct": 7.5,
+     "basis": "approx"
+    },
+    "105": {
+     "pct": 3.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 114,
@@ -4665,7 +8539,17 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Adv. Adoor Prakash",
-   "electors_12": 182384
+   "electors_12": 182384,
+   "shares": {
+    "113": {
+     "pct": 91.9,
+     "basis": "approx"
+    },
+    "112": {
+     "pct": 5.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 115,
@@ -4684,7 +8568,29 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "Chittayam Gopakumar",
-   "electors_12": 194014
+   "electors_12": 194014,
+   "shares": {
+    "119": {
+     "pct": 44.7,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 25.0,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 14.1,
+     "basis": "approx"
+    },
+    "113": {
+     "pct": 11.4,
+     "basis": "approx"
+    },
+    "114": {
+     "pct": 2.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 116,
@@ -4702,7 +8608,25 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "C. Divakaran",
-   "electors_12": 182508
+   "electors_12": 182508,
+   "shares": {
+    "121": {
+     "pct": 58.1,
+     "basis": "approx"
+    },
+    "122": {
+     "pct": 19.7,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 19.3,
+     "basis": "approx"
+    },
+    "109": {
+     "pct": 2.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 117,
@@ -4719,7 +8643,21 @@
    "extent": "",
    "party12": "KRSP",
    "winner_12": "Shibu Baby John",
-   "electors_12": 159655
+   "electors_12": 159655,
+   "shares": {
+    "123": {
+     "pct": 50.4,
+     "basis": "approx"
+    },
+    "122": {
+     "pct": 37.6,
+     "basis": "approx"
+    },
+    "124": {
+     "pct": 12.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 118,
@@ -4738,7 +8676,29 @@
    "extent": "",
    "party12": "RSP",
    "winner_12": "Kovoor Kunjumon",
-   "electors_12": 194463
+   "electors_12": 194463,
+   "shares": {
+    "123": {
+     "pct": 38.8,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 34.9,
+     "basis": "approx"
+    },
+    "118": {
+     "pct": 18.5,
+     "basis": "approx"
+    },
+    "117": {
+     "pct": 4.0,
+     "basis": "approx"
+    },
+    "122": {
+     "pct": 3.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 119,
@@ -4756,7 +8716,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Adv:p.Aisha Potty",
-   "electors_12": 184917
+   "electors_12": 184917,
+   "shares": {
+    "117": {
+     "pct": 61.0,
+     "basis": "approx"
+    },
+    "118": {
+     "pct": 33.3,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 2.6,
+     "basis": "approx"
+    },
+    "114": {
+     "pct": 2.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 120,
@@ -4774,7 +8752,25 @@
    "extent": "",
    "party12": "KEC(B)",
    "winner_12": "K.B Ganesh Kumar",
-   "electors_12": 172946
+   "electors_12": 172946,
+   "shares": {
+    "114": {
+     "pct": 77.2,
+     "basis": "approx"
+    },
+    "117": {
+     "pct": 16.7,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 5.1,
+     "basis": "approx"
+    },
+    "113": {
+     "pct": 1.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 121,
@@ -4790,7 +8786,17 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "Adv.K.Raju",
-   "electors_12": 189994
+   "electors_12": 189994,
+   "shares": {
+    "115": {
+     "pct": 65.1,
+     "basis": "approx"
+    },
+    "114": {
+     "pct": 33.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 122,
@@ -4809,7 +8815,25 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "Mullakkara Ratnakaran",
-   "electors_12": 177610
+   "electors_12": 177610,
+   "shares": {
+    "116": {
+     "pct": 67.9,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 23.4,
+     "basis": "approx"
+    },
+    "118": {
+     "pct": 4.4,
+     "basis": "approx"
+    },
+    "117": {
+     "pct": 2.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 123,
@@ -4827,7 +8851,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "M.A. Baby",
-   "electors_12": 178990
+   "electors_12": 178990,
+   "shares": {
+    "126": {
+     "pct": 44.9,
+     "basis": "approx"
+    },
+    "118": {
+     "pct": 23.3,
+     "basis": "approx"
+    },
+    "125": {
+     "pct": 23.9,
+     "basis": "approx"
+    },
+    "123": {
+     "pct": 7.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 124,
@@ -4844,7 +8886,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "P.K.Gurudasan",
-   "electors_12": 160475
+   "electors_12": 160475,
+   "shares": {
+    "125": {
+     "pct": 44.4,
+     "basis": "approx"
+    },
+    "123": {
+     "pct": 34.4,
+     "basis": "approx"
+    },
+    "124": {
+     "pct": 21.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 125,
@@ -4860,7 +8916,17 @@
    "extent": "",
    "party12": "RSP",
    "winner_12": "A.A. Azeez",
-   "electors_12": 153575
+   "electors_12": 153575,
+   "shares": {
+    "125": {
+     "pct": 67.3,
+     "basis": "approx"
+    },
+    "126": {
+     "pct": 28.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 126,
@@ -4878,7 +8944,25 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "G.S.Jayalal",
-   "electors_12": 160688
+   "electors_12": 160688,
+   "shares": {
+    "126": {
+     "pct": 62.1,
+     "basis": "approx"
+    },
+    "118": {
+     "pct": 17.8,
+     "basis": "approx"
+    },
+    "129": {
+     "pct": 10.3,
+     "basis": "approx"
+    },
+    "127": {
+     "pct": 9.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 127,
@@ -4896,7 +8980,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Varkala Kahar",
-   "electors_12": 151930
+   "electors_12": 151930,
+   "shares": {
+    "129": {
+     "pct": 47.3,
+     "basis": "approx"
+    },
+    "127": {
+     "pct": 45.5,
+     "basis": "approx"
+    },
+    "128": {
+     "pct": 4.3,
+     "basis": "approx"
+    },
+    "116": {
+     "pct": 2.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 128,
@@ -4915,7 +9017,29 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Advocate. B. Satyan",
-   "electors_12": 171684
+   "electors_12": 171684,
+   "shares": {
+    "129": {
+     "pct": 69.1,
+     "basis": "approx"
+    },
+    "128": {
+     "pct": 22.7,
+     "basis": "approx"
+    },
+    "130": {
+     "pct": 4.1,
+     "basis": "approx"
+    },
+    "116": {
+     "pct": 1.7,
+     "basis": "approx"
+    },
+    "127": {
+     "pct": 2.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 129,
@@ -4934,7 +9058,29 @@
    "extent": "",
    "party12": "CPI",
    "winner_12": "V.Sasi",
-   "electors_12": 169988
+   "electors_12": 169988,
+   "shares": {
+    "133": {
+     "pct": 53.8,
+     "basis": "approx"
+    },
+    "128": {
+     "pct": 17.6,
+     "basis": "approx"
+    },
+    "129": {
+     "pct": 16.4,
+     "basis": "approx"
+    },
+    "130": {
+     "pct": 8.6,
+     "basis": "approx"
+    },
+    "134": {
+     "pct": 3.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 130,
@@ -4952,7 +9098,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Palode Ravi",
-   "electors_12": 175795
+   "electors_12": 175795,
+   "shares": {
+    "132": {
+     "pct": 61.6,
+     "basis": "approx"
+    },
+    "133": {
+     "pct": 21.2,
+     "basis": "approx"
+    },
+    "130": {
+     "pct": 16.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 131,
@@ -4970,7 +9130,25 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "Koliakode.N. Krishnan Nair",
-   "electors_12": 174408
+   "electors_12": 174408,
+   "shares": {
+    "130": {
+     "pct": 72.1,
+     "basis": "approx"
+    },
+    "131": {
+     "pct": 17.8,
+     "basis": "approx"
+    },
+    "132": {
+     "pct": 8.5,
+     "basis": "approx"
+    },
+    "115": {
+     "pct": 0.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 132,
@@ -4989,7 +9167,29 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Adv. M. A. Vaheed",
-   "electors_12": 163199
+   "electors_12": 163199,
+   "shares": {
+    "134": {
+     "pct": 37.3,
+     "basis": "approx"
+    },
+    "135": {
+     "pct": 32.6,
+     "basis": "approx"
+    },
+    "136": {
+     "pct": 10.7,
+     "basis": "approx"
+    },
+    "133": {
+     "pct": 12.8,
+     "basis": "approx"
+    },
+    "132": {
+     "pct": 6.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 133,
@@ -5007,7 +9207,25 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "K.Muralidharan",
-   "electors_12": 175398
+   "electors_12": 175398,
+   "shares": {
+    "136": {
+     "pct": 51.3,
+     "basis": "approx"
+    },
+    "134": {
+     "pct": 30.1,
+     "basis": "approx"
+    },
+    "137": {
+     "pct": 12.8,
+     "basis": "approx"
+    },
+    "132": {
+     "pct": 5.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 134,
@@ -5025,7 +9243,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "Adv.V.S.Sivakumar",
-   "electors_12": 177442
+   "electors_12": 177442,
+   "shares": {
+    "136": {
+     "pct": 71.3,
+     "basis": "approx"
+    },
+    "135": {
+     "pct": 19.2,
+     "basis": "approx"
+    },
+    "137": {
+     "pct": 9.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 135,
@@ -5042,7 +9274,21 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "V.Sivankutty",
-   "electors_12": 172493
+   "electors_12": 172493,
+   "shares": {
+    "138": {
+     "pct": 66.5,
+     "basis": "approx"
+    },
+    "137": {
+     "pct": 8.5,
+     "basis": "approx"
+    },
+    "136": {
+     "pct": 24.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 136,
@@ -5059,7 +9305,17 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "G. Karthikeyen",
-   "electors_12": 165638
+   "electors_12": 165638,
+   "shares": {
+    "131": {
+     "pct": 93.4,
+     "basis": "approx"
+    },
+    "132": {
+     "pct": 6.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 137,
@@ -5075,7 +9331,17 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "A.T. George",
-   "electors_12": 188442
+   "electors_12": 188442,
+   "shares": {
+    "139": {
+     "pct": 84.9,
+     "basis": "approx"
+    },
+    "140": {
+     "pct": 12.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 138,
@@ -5092,7 +9358,21 @@
    "extent": "",
    "party12": "INC",
    "winner_12": "N Sakthan",
-   "electors_12": 166306
+   "electors_12": 166306,
+   "shares": {
+    "137": {
+     "pct": 89.2,
+     "basis": "approx"
+    },
+    "139": {
+     "pct": 7.5,
+     "basis": "approx"
+    },
+    "131": {
+     "pct": 3.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 139,
@@ -5110,7 +9390,25 @@
    "extent": "",
    "party12": "JD(S)",
    "winner_12": "Jameela Prakasam",
-   "electors_12": 183616
+   "electors_12": 183616,
+   "shares": {
+    "138": {
+     "pct": 71.6,
+     "basis": "approx"
+    },
+    "140": {
+     "pct": 16.1,
+     "basis": "approx"
+    },
+    "139": {
+     "pct": 5.5,
+     "basis": "approx"
+    },
+    "137": {
+     "pct": 6.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 140,
@@ -5126,7 +9424,17 @@
    "extent": "",
    "party12": "CPM",
    "winner_12": "R Selvaraj",
-   "electors_12": 157851
+   "electors_12": 157851,
+   "shares": {
+    "140": {
+     "pct": 55.1,
+     "basis": "approx"
+    },
+    "139": {
+     "pct": 39.0,
+     "basis": "approx"
+    }
+   }
   }
  ],
  "sources": [
