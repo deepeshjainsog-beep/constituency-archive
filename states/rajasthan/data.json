@@ -71,7 +71,13 @@
    "winner_07": "Dr. Suresh Chaudhary",
    "electors_07": 171604,
    "note": "Retained intact (Bhadra tahsil) and shifted to the Hanumangarh district grouping with only minor boundary changes.",
-   "extent": "Bhadra tahsil."
+   "extent": "Bhadra tahsil.",
+   "shares": {
+    "11": {
+     "pct": 85.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 2,
@@ -86,7 +92,13 @@
    "winner_07": "Bahadur Singh",
    "electors_07": 193220,
    "note": "Retained largely intact and shifted to the Hanumangarh district grouping.",
-   "extent": "Nohar tahsil (excluding Rawatsar RIC)."
+   "extent": "Nohar tahsil (excluding Rawatsar RIC).",
+   "shares": {
+    "10": {
+     "pct": 75.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 3,
@@ -103,7 +115,21 @@
    "winner_07": "Dharmendra Kumar",
    "electors_07": 189906,
    "note": "Name vanished. Tibi tahsil went to the new Sangaria; the Rawatsar belt to Pilibanga (SC); the Naurangdeshar PCs in Hanumangarh tahsil to the new Hanumangarh.",
-   "extent": "Tibi tahsil; Rawatsar RIC in Nohar tahsil; and P.Cs. 29 -Araiyawali,3i—Munda CA', 32—Munda 'B' 33—Naurangdeshar, 34 —Ranjeetpura \"A\", 35—Ranjeetpura \"B\", 36— Chohlawali, 37—Lakhuwali, \"A\" and 38 -Lakhuwali, \"B\" in Naurangdeshar RIC in Hanumangarh tahsil."
+   "extent": "Tibi tahsil; Rawatsar RIC in Nohar tahsil; and P.Cs. 29 -Araiyawali,3i—Munda CA', 32—Munda 'B' 33—Naurangdeshar, 34 —Ranjeetpura \"A\", 35—Ranjeetpura \"B\", 36— Chohlawali, 37—Lakhuwali, \"A\" and 38 -Lakhuwali, \"B\" in Naurangdeshar RIC in Hanumangarh tahsil.",
+   "shares": {
+    "7": {
+     "pct": 19.9,
+     "basis": "measured"
+    },
+    "9": {
+     "pct": 36.5,
+     "basis": "approx"
+    },
+    "8": {
+     "pct": 25.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 4,
@@ -118,7 +144,13 @@
    "winner_07": "Vinod Kumar S/O Atma Ram",
    "electors_07": 187509,
    "note": "Retained with slightly revised boundaries; now grouped under Hanumangarh district.",
-   "extent": "Hanumangarh tahsil (excluding P.Cs. 29— Araiyawali, 31—Munda 'A', 32—Munda 'B', 33—Naurangdeshar, 34—Ranjeetpura 'A', 35—Ranjeetpura 'B' 36—Chohlawali, 37 -Lakhuwali 'A' and 38—Lakhuwali 'B' m Naurangdeshar RIC)."
+   "extent": "Hanumangarh tahsil (excluding P.Cs. 29— Araiyawali, 31—Munda 'A', 32—Munda 'B', 33—Naurangdeshar, 34—Ranjeetpura 'A', 35—Ranjeetpura 'B' 36—Chohlawali, 37 -Lakhuwali 'A' and 38—Lakhuwali 'B' m Naurangdeshar RIC).",
+   "shares": {
+    "8": {
+     "pct": 55.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 5,
@@ -134,7 +166,17 @@
    "winner_07": "Gurjant Singh",
    "electors_07": 175061,
    "note": "Sangaria tahsil stayed as the core of the new Sangaria; Sadulshahar tahsil was taken out to form the new Sadulshahar seat.",
-   "extent": "Sangaria and Sadulshahar tahsils."
+   "extent": "Sangaria and Sadulshahar tahsils.",
+   "shares": {
+    "7": {
+     "pct": 37.3,
+     "basis": "measured"
+    },
+    "1": {
+     "pct": 33.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 6,
@@ -149,7 +191,13 @@
    "winner_07": "Surendra Singh Rathore",
    "electors_07": 145110,
    "note": "Retained its urban identity around Ganganagar Municipal Council and expanded by absorbing rural ILRCs from the dissolved Kesrisinghpur.",
-   "extent": "Ganganagar Municipal Council and Ganganagar (A) RIC in Ganganagar tahsil."
+   "extent": "Ganganagar Municipal Council and Ganganagar (A) RIC in Ganganagar tahsil.",
+   "shares": {
+    "2": {
+     "pct": 32.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 7,
@@ -166,7 +214,21 @@
    "winner_07": "O P Mahendra",
    "electors_07": 116959,
    "note": "Completely abolished; split between Sadulshahar (rural Ganganagar tahsil), Ganganagar (Burjwali & Netewala ILRCs) and Karanpur (Kesrisinghpur MB & RIC).",
-   "extent": "Ganganagar tahsil [excluding Ganganagar Municipal Council and Ganganagar (A) RIC]; Kesrisinghpur Municipal Board and Kesrisinghpur RIC in Karanpur tahsil"
+   "extent": "Ganganagar tahsil [excluding Ganganagar Municipal Council and Ganganagar (A) RIC]; Kesrisinghpur Municipal Board and Kesrisinghpur RIC in Karanpur tahsil",
+   "shares": {
+    "1": {
+     "pct": 45.3,
+     "basis": "approx"
+    },
+    "2": {
+     "pct": 3.4,
+     "basis": "approx"
+    },
+    "3": {
+     "pct": 40.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 8,
@@ -181,7 +243,13 @@
    "winner_07": "Surendra Pal Singh",
    "electors_07": 112550,
    "note": "Reorganised to cover the whole of Karanpur and Padampur tehsils, consolidating areas earlier split across Karanpur, Kesrisinghpur and Raisinghnagar.",
-   "extent": "Karanpur tahsil (excluding Kesrisinghpur Municipal Board and Kesrisinghpur RIC) and Padampur Municipal Board, Gajsinghpur Municipal Board, Padampur and Rattewala RICs in Padampur tahsil."
+   "extent": "Karanpur tahsil (excluding Kesrisinghpur Municipal Board and Kesrisinghpur RIC) and Padampur Municipal Board, Gajsinghpur Municipal Board, Padampur and Rattewala RICs in Padampur tahsil.",
+   "shares": {
+    "3": {
+     "pct": 92.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 9,
@@ -197,7 +265,17 @@
    "winner_07": "Lalchand",
    "electors_07": 151770,
    "note": "Kept its SC reservation and Raisinghnagar core but shed the Padampur-tahsil territory to Karanpur while gaining Vijaynagar/Anupgarh portions from old Suratgarh.",
-   "extent": "Ridmaisar and Binjhbaila RICs in Padam\" pur tahsil; and Raisinghnagar tahsil."
+   "extent": "Ridmaisar and Binjhbaila RICs in Padam\" pur tahsil; and Raisinghnagar tahsil.",
+   "shares": {
+    "5": {
+     "pct": 75.4,
+     "basis": "approx"
+    },
+    "3": {
+     "pct": 20.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 10,
@@ -212,7 +290,13 @@
    "winner_07": "Ram Pratap Kasaniya",
    "electors_07": 185257,
    "note": "Territorially merged into the new Suratgarh (its area was rural Suratgarh tahsil). The Pilibanga name migrated to a different SC seat (new 9) in Hanumangarh district.",
-   "extent": "Suratgarh tahsil [excluding Suratgarh Municipal:Board, Suratgarh NMA (OG) and Suratgarh RIC]."
+   "extent": "Suratgarh tahsil [excluding Suratgarh Municipal:Board, Suratgarh NMA (OG) and Suratgarh RIC].",
+   "shares": {
+    "4": {
+     "pct": 49.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 11,
@@ -229,7 +313,21 @@
    "winner_07": "Ashok Nagpal",
    "electors_07": 336248,
    "note": "Split three ways: the urban core stayed in the new Suratgarh; the vast southern Anupgarh/Gharsana territory became the new Anupgarh (SC); Vijaynagar portions went to Raisinghnagar (SC).",
-   "extent": "Suratgarh Municipal Board, Suratgarh NMA (OG), and Suratgarh RIC in Suratgarh tahsil; and Anoopgarh tahsil."
+   "extent": "Suratgarh Municipal Board, Suratgarh NMA (OG), and Suratgarh RIC in Suratgarh tahsil; and Anoopgarh tahsil.",
+   "shares": {
+    "4": {
+     "pct": 9.3,
+     "basis": "approx"
+    },
+    "6": {
+     "pct": 66.4,
+     "basis": "approx"
+    },
+    "5": {
+     "pct": 21.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 12,
@@ -245,7 +343,17 @@
    "winner_07": "Virendra",
    "electors_07": 334235,
    "note": "Split: the core stayed as Lunkaransar while the western rural areas (Pugal, Sattasar, Jamsar belt) were transferred to the new Khajuwala (SC).",
-   "extent": "Lunkaransar tahsil; and Pugal, Sattasar and Jamsar RICs and P. Cs. 19-Napasar (including Napasar Town), 21-Tejrasar and 27-Mundsar in Bikaner RIC in Bikaner tahsil."
+   "extent": "Lunkaransar tahsil; and Pugal, Sattasar and Jamsar RICs and P. Cs. 19-Napasar (including Napasar Town), 21-Tejrasar and 27-Mundsar in Bikaner RIC in Bikaner tahsil.",
+   "shares": {
+    "16": {
+     "pct": 41.3,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 52.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 13,
@@ -261,7 +369,17 @@
    "winner_07": "Dr. Bulaki Das Kalla",
    "electors_07": 155151,
    "note": "The single urban Bikaner seat was split into two constituencies — Bikaner West and Bikaner East.",
-   "extent": "Bikaner Municipal Council (excluding Wards 22 to 24 and 28 to 32)."
+   "extent": "Bikaner Municipal Council (excluding Wards 22 to 24 and 28 to 32).",
+   "shares": {
+    "13": {
+     "pct": 42.5,
+     "basis": "approx"
+    },
+    "14": {
+     "pct": 20.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 14,
@@ -277,7 +395,13 @@
    "winner_07": "Devi Singh Bhati",
    "electors_07": 307188,
    "note": "Direct continuity as Kolayat (tehsil core + Deshnoke); its Bikaner Municipal Council wards returned to the urban Bikaner East/West seats.",
-   "extent": "Wards 22 to 24 and 28 to 32 in Bikaner Municipal Council. Deshnoke Municipal Board, Gangashahar Municipal Board, Bhinasar Municipal Board and Bikarer RIC [excluding P.Cs.19-Napasar (including Napasar Town), 21-Tejrasar and 27- Mundsar] in Bikaner tahsil; and Kolayat tahsil (excluding Diyatra RIC)."
+   "extent": "Wards 22 to 24 and 28 to 32 in Bikaner Municipal Council. Deshnoke Municipal Board, Gangashahar Municipal Board, Bhinasar Municipal Board and Bikarer RIC [excluding P.Cs.19-Napasar (including Napasar Town), 21-Tejrasar and 27- Mundsar] in Bikaner tahsil; and Kolayat tahsil (excluding Diyatra RIC).",
+   "shares": {
+    "15": {
+     "pct": 98.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 15,
@@ -293,7 +417,17 @@
    "winner_07": "Govind Ram",
    "electors_07": 234720,
    "note": "Continued as Nokha but the SC reservation was withdrawn; the Kuchor Aathooni ILRC went to the newly created Dungargarh seat.",
-   "extent": "Diyatra RIC in Kolayat tahsil; and Nokha tahsil."
+   "extent": "Diyatra RIC in Kolayat tahsil; and Nokha tahsil.",
+   "shares": {
+    "18": {
+     "pct": 46.9,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 10.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 16,
@@ -308,7 +442,13 @@
    "winner_07": "Mangla Ram",
    "electors_07": 186024,
    "note": "Retained but transferred from Churu district to Bikaner district after administrative reorganisation.",
-   "extent": "Dungargarh tahsil; and Tendesar RIC, P.Cs. 16- Bidasar (including Bidasar Town) and 22-Dariba in Chhapar RIC in Sujangarh tahsil."
+   "extent": "Dungargarh tahsil; and Tendesar RIC, P.Cs. 16- Bidasar (including Bidasar Town) and 22-Dariba in Chhapar RIC in Sujangarh tahsil.",
+   "shares": {
+    "17": {
+     "pct": 69.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 17,
@@ -324,7 +464,17 @@
    "winner_07": "Khema Ram Meghwal",
    "electors_07": 181121,
    "note": "Retained as an SC seat with revised boundaries; the Chhapar area (incl. Chhapar MB) moved to Ratangarh while Bidasar MB was brought in.",
-   "extent": "Jeeli RIC. Chhapar Municipal Board, Chhapar RIC [excluding P.Cs., 16-Bidasar (including Bidasar Town) and 22-Dariba], Sujangarh Municipal Board, Sujangarh and Salasar RICs in Sujangarh tahsil."
+   "extent": "Jeeli RIC. Chhapar Municipal Board, Chhapar RIC [excluding P.Cs., 16-Bidasar (including Bidasar Town) and 22-Dariba], Sujangarh Municipal Board, Sujangarh and Salasar RICs in Sujangarh tahsil.",
+   "shares": {
+    "24": {
+     "pct": 51.9,
+     "basis": "approx"
+    },
+    "23": {
+     "pct": 40.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 18,
@@ -340,7 +490,17 @@
    "winner_07": "Raj Kumar Rinwa",
    "electors_07": 148523,
    "note": "Retained; lost ILRC Golsar to Sardarshahar and gained the Chhapar area from Sujangarh for population balance.",
-   "extent": "Ratangarh tahsil."
+   "extent": "Ratangarh tahsil.",
+   "shares": {
+    "23": {
+     "pct": 96.3,
+     "basis": "approx"
+    },
+    "21": {
+     "pct": 1.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 19,
@@ -356,7 +516,17 @@
    "winner_07": "Bhanwar Lal Sharma",
    "electors_07": 187708,
    "note": "Retained; boundaries modified by transferring ILRC Ratoosar to Taranagar.",
-   "extent": "Sardarshahar tahsil."
+   "extent": "Sardarshahar tahsil.",
+   "shares": {
+    "21": {
+     "pct": 86.2,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 4.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 20,
@@ -371,7 +541,13 @@
    "winner_07": "Rajendra Rathore",
    "electors_07": 162171,
    "note": "The most stable seat of the district — continued to comprise Churu tehsil with only minor adjustments.",
-   "extent": "Churu tahsil."
+   "extent": "Churu tahsil.",
+   "shares": {
+    "22": {
+     "pct": 69.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 21,
@@ -386,7 +562,13 @@
    "winner_07": "Dr. Chandra Shekhar Baid",
    "electors_07": 164968,
    "note": "Retained; expanded by incorporating the Dadrewa and Dokwa ILRCs from Rajgarh tehsil.",
-   "extent": "Taranagar tahsil; and Dadrewa and Dhigarla RIC in Rajgarh tahsil."
+   "extent": "Taranagar tahsil; and Dadrewa and Dhigarla RIC in Rajgarh tahsil.",
+   "shares": {
+    "20": {
+     "pct": 93.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 22,
@@ -402,7 +584,17 @@
    "winner_07": "Nand Lal Poonia",
    "electors_07": 150537,
    "note": "Continued around Rajgarh tehsil; the Dadrewa and Dhigarla ILRCs were transferred to Taranagar.",
-   "extent": "Rajgarh tahsil (excluding Dadrewa and Dhigarla RICs)"
+   "extent": "Rajgarh tahsil (excluding Dadrewa and Dhigarla RICs)",
+   "shares": {
+    "19": {
+     "pct": 75.0,
+     "basis": "approx"
+    },
+    "20": {
+     "pct": 16.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 23,
@@ -418,7 +610,13 @@
    "winner_07": "Shrawan Kumar",
    "electors_07": 177103,
    "note": "Core (Pilani/Chirawa MBs) continued as Pilani, now SC-reserved; southern Sultana-RIC villages were moved into Jhunjhunu.",
-   "extent": "Chirawa RIC (excluding P.Cs. 1—Mandrela, 2—Lamba and 3—Budania), Sultana RIC (excluding P.Cs. 18—Kishorepura 19—Solana and 20—Chandana) and PCs. 9—Bangothri Kalan, 10—Likhwa, 11—Dulania and 13—Aruka in Sura; garh RIC in Chirawa tahsil."
+   "extent": "Chirawa RIC (excluding P.Cs. 1—Mandrela, 2—Lamba and 3—Budania), Sultana RIC (excluding P.Cs. 18—Kishorepura 19—Solana and 20—Chandana) and PCs. 9—Bangothri Kalan, 10—Likhwa, 11—Dulania and 13—Aruka in Sura; garh RIC in Chirawa tahsil.",
+   "shares": {
+    "25": {
+     "pct": 97.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 24,
@@ -434,7 +632,17 @@
    "winner_07": "Sundar Lal",
    "electors_07": 173156,
    "note": "Core (Buhana + Surajgarh) continued as a General seat after the SC reservation was removed; Singhana fringes adjusted into Khetri.",
-   "extent": "Surajgarh RIC (excluding PCs. 9—Bangothri Kalan, 10—Likhwa, 11—Dulania and 13—Aruka) in Chirawa tahsil; Buhana and Singhana RICs in Khetri tahsil."
+   "extent": "Surajgarh RIC (excluding PCs. 9—Bangothri Kalan, 10—Likhwa, 11—Dulania and 13—Aruka) in Chirawa tahsil; Buhana and Singhana RICs in Khetri tahsil.",
+   "shares": {
+    "26": {
+     "pct": 62.7,
+     "basis": "approx"
+    },
+    "31": {
+     "pct": 8.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 25,
@@ -449,7 +657,13 @@
    "winner_07": "Data Ram",
    "electors_07": 152222,
    "note": "Deep continuity around the Khetri/Babai core, absorbing minor fringes from old Surajgarh's Singhana block.",
-   "extent": "Khetri and Babai RICs in Khetri tahsil."
+   "extent": "Khetri and Babai RICs in Khetri tahsil.",
+   "shares": {
+    "31": {
+     "pct": 82.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 26,
@@ -464,7 +678,13 @@
    "winner_07": "Ranveer Singh",
    "electors_07": 163846,
    "note": "The Gudha name disappeared; its Udaipurwati-tahsil territory continues as the new Udaipurwati seat.",
-   "extent": "Gudha Gorji RIC and Udaipur RIC (excluding P.Cs. 31-Basawa, 32-Khirod, 33-Chirana and 34-Todpura) in Udaipurwati tahsil."
+   "extent": "Gudha Gorji RIC and Udaipur RIC (excluding P.Cs. 31-Basawa, 32-Khirod, 33-Chirana and 34-Todpura) in Udaipurwati tahsil.",
+   "shares": {
+    "30": {
+     "pct": 86.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 27,
@@ -479,7 +699,13 @@
    "winner_07": "Pratibha Singh",
    "electors_07": 178238,
    "note": "Near-total continuity — the whole Nawalgarh tehsil preserved cleanly.",
-   "extent": "P.Cs. 31—Basawa, 32—Khirod, 33—Chirana and 34—Todpura in Udaipur RIC, Mukandgarh Municipal Board, Nawalgarh Municipal Boaid and Nawalgarh RIC in Udaipurwati tahsil."
+   "extent": "P.Cs. 31—Basawa, 32—Khirod, 33—Chirana and 34—Todpura in Udaipur RIC, Mukandgarh Municipal Board, Nawalgarh Municipal Boaid and Nawalgarh RIC in Udaipurwati tahsil.",
+   "shares": {
+    "29": {
+     "pct": 70.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 28,
@@ -494,7 +720,13 @@
    "winner_07": "Sumitra Singh",
    "electors_07": 179060,
    "note": "Urban core (Jhunjhunu MC + Bagar MB) retained, expanded with fringes broken off old Pilani and old Mandawa.",
-   "extent": "Jhunjhunu RIC in Jhunjhunu tahsil; and P.Cs. 1—Mandrela"
+   "extent": "Jhunjhunu RIC in Jhunjhunu tahsil; and P.Cs. 1—Mandrela",
+   "shares": {
+    "27": {
+     "pct": 69.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 29,
@@ -510,7 +742,17 @@
    "winner_07": "Ram Narain Chaudhary",
    "electors_07": 164774,
    "note": "Core retained as Mandawa; several eastern village circles absorbed into the expanding Jhunjhunu seat.",
-   "extent": "Mandawa and Alsisar RICs in Jhunjhunu tahsil."
+   "extent": "Mandawa and Alsisar RICs in Jhunjhunu tahsil.",
+   "shares": {
+    "28": {
+     "pct": 69.3,
+     "basis": "approx"
+    },
+    "27": {
+     "pct": 8.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 30,
@@ -525,7 +767,13 @@
    "winner_07": "Bhanwaru Khan",
    "electors_07": 165490,
    "note": "Absolute direct continuity — the entire Fatehpur tahsil boundary maintained without modification.",
-   "extent": "Fatehpur tahsil"
+   "extent": "Fatehpur tahsil",
+   "shares": {
+    "32": {
+     "pct": 90.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 31,
@@ -540,7 +788,13 @@
    "winner_07": "Kesar Dev",
    "electors_07": 180056,
    "note": "Boundary fully intact, but the SC reservation was removed, converting it into a General seat.",
-   "extent": "Lachhmangarh tahsil."
+   "extent": "Lachhmangarh tahsil.",
+   "shares": {
+    "33": {
+     "pct": 86.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 32,
@@ -555,7 +809,13 @@
    "winner_07": "Raj Kumari Sharma",
    "electors_07": 198406,
    "note": "Urban core (Sikar MC + Piprali) retained; absorbed a few peripheral village circles from old Dhod.",
-   "extent": "Sikar Municipal Council, PCs. 15—Sikar Town (A ) and i6~Sikar Town (B) in Sikar RIC and Piprali RIC in Sikar tahsil."
+   "extent": "Sikar Municipal Council, PCs. 15—Sikar Town (A ) and i6~Sikar Town (B) in Sikar RIC and Piprali RIC in Sikar tahsil.",
+   "shares": {
+    "35": {
+     "pct": 50.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 33,
@@ -571,7 +831,17 @@
    "winner_07": "Amra Ram",
    "electors_07": 174611,
    "note": "Split: the rural bulk (Dhod RIC + Losal belt) formed the new Dhod, now SC-reserved; a north-eastern fringe of PCs went to Sikar.",
-   "extent": "Sikar RICfexcluding Sikar Town Municipal Council, P.Cs. 15-Sikar Town (A) and 16—Sikar Town (B)] and Dhod RIC in Sikar tahsil; and P.Cs. n—Losal, 12—Bhima, 13—Sangliya and 14—Khood in Ramgarh RIC in Danta-Ramgarh tahsil."
+   "extent": "Sikar RICfexcluding Sikar Town Municipal Council, P.Cs. 15-Sikar Town (A) and 16—Sikar Town (B)] and Dhod RIC in Sikar tahsil; and P.Cs. n—Losal, 12—Bhima, 13—Sangliya and 14—Khood in Ramgarh RIC in Danta-Ramgarh tahsil.",
+   "shares": {
+    "34": {
+     "pct": 83.6,
+     "basis": "approx"
+    },
+    "35": {
+     "pct": 10.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 34,
@@ -587,7 +857,17 @@
    "winner_07": "Narain Singh",
    "electors_07": 185223,
    "note": "High continuity over Danta-Ramgarh tahsil; a few rural pockets (Bhagatpura, Jana) transferred to the new Dhod (SC).",
-   "extent": "Danta-Ramgarh tahsil (excluding P.Cs. 11—Losal, 12—Bhima, 13—Sangliya and. I4<—Khoodin Ramgarh RIC)."
+   "extent": "Danta-Ramgarh tahsil (excluding P.Cs. 11—Losal, 12—Bhima, 13—Sangliya and. I4<—Khoodin Ramgarh RIC).",
+   "shares": {
+    "36": {
+     "pct": 78.6,
+     "basis": "approx"
+    },
+    "34": {
+     "pct": 9.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 35,
@@ -603,7 +883,17 @@
    "winner_07": "Harlal Singh Kharra",
    "electors_07": 177763,
    "note": "Split: town core and Ajitgarh/Mau stayed in Srimadhopur; the Reengus cluster and southern PCs were consolidated into Khandela.",
-   "extent": "Srimadhopur Municipal Board, Srimadhopur RIC (excluding P.Cs. 13-Malikpur, 14-Baori, 15-Chomu, 16-DadiyaRampura, 17-Lapwaand 24-Bassi) and Ajeetgarh RIC in Srimadhopur tahsil."
+   "extent": "Srimadhopur Municipal Board, Srimadhopur RIC (excluding P.Cs. 13-Malikpur, 14-Baori, 15-Chomu, 16-DadiyaRampura, 17-Lapwaand 24-Bassi) and Ajeetgarh RIC in Srimadhopur tahsil.",
+   "shares": {
+    "39": {
+     "pct": 52.8,
+     "basis": "approx"
+    },
+    "37": {
+     "pct": 38.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 36,
@@ -619,7 +909,17 @@
    "winner_07": "Mahadev Singh",
    "electors_07": 172298,
    "note": "Khandela core re-blocked into the new Khandela; its Neem-ka-Thana PCs (Guhala, Chala belt) returned to Neem Ka Thana.",
-   "extent": "Khandela RIC and P.Cs. 13—Malikpur, 14- Baori, 15-Chomu, 16-Dadiya Rampura, 17-Lapwa and 24-Bassi in Srimadhopur RIC in Srimadhopur tahsil ; and"
+   "extent": "Khandela RIC and P.Cs. 13—Malikpur, 14- Baori, 15-Chomu, 16-Dadiya Rampura, 17-Lapwa and 24-Bassi in Srimadhopur RIC in Srimadhopur tahsil ; and",
+   "shares": {
+    "37": {
+     "pct": 77.9,
+     "basis": "approx"
+    },
+    "38": {
+     "pct": 9.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 37,
@@ -635,7 +935,17 @@
    "winner_07": "Prem Singh Bajor",
    "electors_07": 176488,
    "note": "Consolidated its core tahsil blocks (re-absorbing the Chala belt); the southern ILRC Sanwalpura Tanwaran was transferred to Srimadhopur.",
-   "extent": "Neem-ka-Thana tahsil (excluding P.Cs. i-Guhala, 2-Chala, 3-Govindpura, 12-Basdi Khurd and 13-Pithampuri in Neem-ka-Thana RIC)."
+   "extent": "Neem-ka-Thana tahsil (excluding P.Cs. i-Guhala, 2-Chala, 3-Govindpura, 12-Basdi Khurd and 13-Pithampuri in Neem-ka-Thana RIC).",
+   "shares": {
+    "38": {
+     "pct": 65.5,
+     "basis": "approx"
+    },
+    "39": {
+     "pct": 26.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 38,
@@ -651,7 +961,17 @@
    "winner_07": "Ram Lal Sharma",
    "electors_07": 189596,
    "note": "Core (Chomu MB, Chomu & Govindgarh RICs) retained; eastern Khejroli PCs split off to the new Shahpura seat.",
-   "extent": "Chornu Municipal Board, Chomu and Govindgarh RICs in Amber tahsil."
+   "extent": "Chornu Municipal Board, Chomu and Govindgarh RICs in Amber tahsil.",
+   "shares": {
+    "43": {
+     "pct": 59.2,
+     "basis": "approx"
+    },
+    "42": {
+     "pct": 23.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 39,
@@ -667,7 +987,17 @@
    "winner_07": "Lal Chand Kataria",
    "electors_07": 225046,
    "note": "Broken up: the urban fringe became the reorganised Amber seat, while the Amber/Jairampura/Kalwad rural circles were redistributed into Jhotwara and neighbouring seats.",
-   "extent": "Amber and Jairampura RICs in Amber tahsil ; Achrol RIC in Jamwaramgarh tahsil ; and Kalwad RIC in Jaipur tahsil."
+   "extent": "Amber and Jairampura RICs in Amber tahsil ; Achrol RIC in Jamwaramgarh tahsil ; and Kalwad RIC in Jaipur tahsil.",
+   "shares": {
+    "47": {
+     "pct": 61.9,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 25.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 40,
@@ -684,7 +1014,21 @@
    "winner_07": "Brij Kishore Sharma",
    "electors_07": 186581,
    "note": "Name disappeared entirely. Jamdoli and Sumel went to Adarsh Nagar, the remaining rural fringe to Jhotwara, and the Jamwaramgarh RIC to Jamwa Ramgarh (ST).",
-   "extent": "Wards 7 to 11 in Jaipur Municipal Council and P.Cs. 18-Jaisinghpura Khor and 19-Jamdoli in Jaipur (Rural) RIC in Jaipur tahsil and Jamwaramgarh RIC in Jamwaramgarh tahsil."
+   "extent": "Wards 7 to 11 in Jaipur Municipal Council and P.Cs. 18-Jaisinghpura Khor and 19-Jamdoli in Jaipur (Rural) RIC in Jaipur tahsil and Jamwaramgarh RIC in Jamwaramgarh tahsil.",
+   "shares": {
+    "46": {
+     "pct": 26.0,
+     "basis": "approx"
+    },
+    "53": {
+     "pct": 4.6,
+     "basis": "approx"
+    },
+    "48": {
+     "pct": 1.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 41,
@@ -765,7 +1109,17 @@
    "winner_07": "Navratan Rajoria",
    "electors_07": 185785,
    "note": "Core identity around Sambhar–Phulera–Renwal kept; the Jobner belt went to Jhotwara and peripheral villages to Bagru (SC).",
-   "extent": "Renwal RIC, Jobner Municipal Board, Jobner RIC (excluding P.Cs. 20-Rojari, 21-Hirnoda, 22-Asalpur and 23 Bobas) Phulera Municipal Board, Phulera Railway Colony (OG) Sambhar Municipal Board and P.Cs. 7-Phulera,. 8-Sambhar and 10-Teonda in Sambhar RIC in Phuleratahsil."
+   "extent": "Renwal RIC, Jobner Municipal Board, Jobner RIC (excluding P.Cs. 20-Rojari, 21-Hirnoda, 22-Asalpur and 23 Bobas) Phulera Municipal Board, Phulera Railway Colony (OG) Sambhar Municipal Board and P.Cs. 7-Phulera,. 8-Sambhar and 10-Teonda in Sambhar RIC in Phuleratahsil.",
+   "shares": {
+    "44": {
+     "pct": 62.9,
+     "basis": "approx"
+    },
+    "46": {
+     "pct": 26.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 46,
@@ -782,7 +1136,17 @@
    "winner_07": "Babu Lal Nagar",
    "electors_07": 166768,
    "note": "Name and SC status retained but heavily reorganised — refocused on Mauzmabad/Phagi ILRCs while its Sambhar and Jobner pieces went to Phulera and Bagru.",
-   "extent": "Sambhar RIC (excluding Sambhar Municipal Board*. PCs. 7—Phulera, 8—Sambhar and 10—Teonda) and P.Cs. 20— Rojari, 21—Hirnoda; 22—Asalpur and 23—Bobas in Jobner RIC in Phulera tahsil ; and Dudu tahsil."
+   "extent": "Sambhar RIC (excluding Sambhar Municipal Board*. PCs. 7—Phulera, 8—Sambhar and 10—Teonda) and P.Cs. 20— Rojari, 21—Hirnoda; 22—Asalpur and 23—Bobas in Jobner RIC in Phulera tahsil ; and Dudu tahsil.",
+   "shares": {
+    "45": {
+     "pct": 78.5,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 16.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 47,
@@ -799,7 +1163,13 @@
    "winner_07": "Ghanshyam Tiwari",
    "electors_07": 242460,
    "note": "Radically divided: core wards stayed in Sanganer or formed Malviya Nagar, while the vast rural layout was split off to create Bagru (SC).",
-   "extent": "Sanganer tahsil ; and Shivdaspura RIC in Chaksu tahsil."
+   "extent": "Sanganer tahsil ; and Shivdaspura RIC in Chaksu tahsil.",
+   "shares": {
+    "56": {
+     "pct": 18.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 48,
@@ -815,7 +1185,13 @@
    "winner_07": "Laxmi Narain Bairwa",
    "electors_07": 157716,
    "note": "Completely dissolved. Phagi tehsil and the Chaksu core moved into the new Chaksu (SC); the Kotkhawada RIC was transferred to Bassi (ST).",
-   "extent": "Phagi tahsil; and Chaksu Municipal Board and Chaksu and Kothun RICs in Chaksu Tahsil."
+   "extent": "Phagi tahsil; and Chaksu Municipal Board and Chaksu and Kothun RICs in Chaksu Tahsil.",
+   "shares": {
+    "58": {
+     "pct": 57.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 49,
@@ -830,7 +1206,13 @@
    "winner_07": "Virendra",
    "electors_07": 167776,
    "note": "Absolute continuity — the entire Lalsot tahsil with ST status intact; now grouped under Dausa district.",
-   "extent": "Lalsot Tahsil"
+   "extent": "Lalsot Tahsil",
+   "shares": {
+    "89": {
+     "pct": 84.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 50,
@@ -845,7 +1227,13 @@
    "winner_07": "Ram Kishore Meena",
    "electors_07": 162139,
    "note": "High territorial continuity (Sikrai tahsil + Bhandarez RIC) under Dausa district, but the reservation changed from ST to SC.",
-   "extent": "Sikrai Tahsil; and Bhandarez RIC in Dausa tahsil."
+   "extent": "Sikrai Tahsil; and Bhandarez RIC in Dausa tahsil.",
+   "shares": {
+    "87": {
+     "pct": 72.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 51,
@@ -860,7 +1248,13 @@
    "winner_07": "Murari Lal",
    "electors_07": 170699,
    "note": "Direct continuity — the Baswa tahsil footprint kept intact; now under Dausa district.",
-   "extent": "Baswa tahsil"
+   "extent": "Baswa tahsil",
+   "shares": {
+    "85": {
+     "pct": 64.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 52,
@@ -875,7 +1269,13 @@
    "winner_07": "Nand Lal Banshiwal",
    "electors_07": 168470,
    "note": "Geographically stable around Dausa town, but the SC reservation was removed.",
-   "extent": "Dausa Municipal Board and Dausa, Sainthal Alooda and Baniyana RICs in Dausa Tahsil."
+   "extent": "Dausa Municipal Board and Dausa, Sainthal Alooda and Baniyana RICs in Dausa Tahsil.",
+   "shares": {
+    "88": {
+     "pct": 57.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 53,
@@ -890,7 +1290,13 @@
    "winner_07": "Kanhaiya Lal Meena",
    "electors_07": 169028,
    "note": "Core Bassi tahsil kept; became ST-reserved and absorbed Kotkhawada PCs from the dissolved Phagi.",
-   "extent": "Bassi tahsil; and Kotkhawada RIC in Chaksu tahsil."
+   "extent": "Bassi tahsil; and Kotkhawada RIC in Chaksu tahsil.",
+   "shares": {
+    "57": {
+     "pct": 47.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 54,
@@ -905,7 +1311,13 @@
    "winner_07": "Ram Chandra",
    "electors_07": 159105,
    "note": "Core footprint kept; became ST-reserved.",
-   "extent": "Booj, Tala, Dhola and Thali RIC Jamwa Ramarh Tahsil; and Maid RIC in Bairath tahsil."
+   "extent": "Booj, Tala, Dhola and Thali RIC Jamwa Ramarh Tahsil; and Maid RIC in Bairath tahsil.",
+   "shares": {
+    "48": {
+     "pct": 60.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 55,
@@ -920,7 +1332,13 @@
    "winner_07": "Rao Rajendra Singh",
    "electors_07": 182655,
    "note": "The Bairath name was retired; the entire tahsil was absorbed into the new Viratnagar seat (the standardized name of the same town).",
-   "extent": "Bairath tahsil (excluding Maid RIC)."
+   "extent": "Bairath tahsil (excluding Maid RIC).",
+   "shares": {
+    "41": {
+     "pct": 55.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 56,
@@ -935,7 +1353,13 @@
    "winner_07": "Subhash Chandra",
    "electors_07": 202506,
    "note": "High direct continuity over the Kotputli tahsil core.",
-   "extent": "Kotputli tahsil."
+   "extent": "Kotputli tahsil.",
+   "shares": {
+    "40": {
+     "pct": 79.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 57,
@@ -951,7 +1375,17 @@
    "winner_07": "Mahipal Singh Yadav",
    "electors_07": 165982,
    "note": "Core Bansur tahsil kept; the Barod RIC returned to Behror while ILRC Narainpur was gained from Thanagazi.",
-   "extent": "Bansur tahsil; and Barod RIC in Behror tahsil"
+   "extent": "Bansur tahsil; and Barod RIC in Behror tahsil",
+   "shares": {
+    "63": {
+     "pct": 61.1,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 24.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 58,
@@ -967,7 +1401,17 @@
    "winner_07": "Dr. Karan Singh Yadav",
    "electors_07": 148593,
    "note": "Core Behror area retained; the western ILRC Neemrana was split off to the new Mundawar.",
-   "extent": "Behror tahsil (excluding Barod RIC)."
+   "extent": "Behror tahsil (excluding Barod RIC).",
+   "shares": {
+    "62": {
+     "pct": 51.3,
+     "basis": "approx"
+    },
+    "61": {
+     "pct": 35.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 59,
@@ -982,7 +1426,13 @@
    "winner_07": "Dharampal Chaudhary",
    "electors_07": 131568,
    "note": "Continued as Mundawar (standardized spelling), expanded with ILRC Neemrana from old Behror.",
-   "extent": "Mandawar tahsil; and PCs. 29—Jonal and 31—Khanpur Ahir in Pur RIC in Kishangarh Bas tahsil"
+   "extent": "Mandawar tahsil; and PCs. 29—Jonal and 31—Khanpur Ahir in Pur RIC in Kishangarh Bas tahsil",
+   "shares": {
+    "61": {
+     "pct": 92.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 60,
@@ -998,7 +1448,17 @@
    "winner_07": "Amamuddin Ahamad Khan urf Durru Miyan",
    "electors_07": 172914,
    "note": "Continued as Tijara (spelling standardized) on its tahsil core; the Kotkasim RIC was assigned to Kishangarh Bas.",
-   "extent": "Tizara tahsil; and Kotkasim RIC in Kishangarh Bas tahsil."
+   "extent": "Tizara tahsil; and Kotkasim RIC in Kishangarh Bas tahsil.",
+   "shares": {
+    "59": {
+     "pct": 69.5,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 28.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 61,
@@ -1014,7 +1474,17 @@
    "winner_07": "Jay Ram",
    "electors_07": 147508,
    "note": "Name disappeared entirely. The Kishangarh Bas core became the new General seat of that name; the Chikani RIC joined the new Alwar Rural (SC).",
-   "extent": "al(SC) —Kishangarh Bas tahsil (excluding Kot Kasim RIC and PCs. 29—Jonal and 31-Khanpur Ahir in Pur RIC; and Chikani RIC in Alwar tahsil."
+   "extent": "al(SC) —Kishangarh Bas tahsil (excluding Kot Kasim RIC and PCs. 29—Jonal and 31-Khanpur Ahir in Pur RIC; and Chikani RIC in Alwar tahsil.",
+   "shares": {
+    "60": {
+     "pct": 55.6,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 15.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 62,
@@ -1029,7 +1499,13 @@
    "winner_07": "Juber Khan",
    "electors_07": 142028,
    "note": "Core Ramgarh tahsil preserved, with Laxmangarh-tahsil ILRCs (Govindgarh, Baroda Meo, Moliya parts) attached.",
-   "extent": "Ramgarh tahsil ; and Govindgarh RIC in Lachhmangarh tahsil."
+   "extent": "Ramgarh tahsil ; and Govindgarh RIC in Lachhmangarh tahsil.",
+   "shares": {
+    "67": {
+     "pct": 75.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 63,
@@ -1045,7 +1521,17 @@
    "winner_07": "Jitendra Singh",
    "electors_07": 190755,
    "note": "Bifurcated cleanly: the Municipal Council core became Alwar Urban; the rural remainder was designated Alwar Rural (SC).",
-   "extent": "Alwar Municipal Council and Alwar RIC in Alwar tahsil"
+   "extent": "Alwar Municipal Council and Alwar RIC in Alwar tahsil",
+   "shares": {
+    "66": {
+     "pct": 4.3,
+     "basis": "approx"
+    },
+    "65": {
+     "pct": 42.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 64,
@@ -1061,7 +1547,17 @@
    "winner_07": "Kanti",
    "electors_07": 135839,
    "note": "Core Thanagazi/Tehla framework kept; ILRC Narainpur was transferred to Bansur.",
-   "extent": "Thanagazi tahsil; and Tehla RIC in Rajgarh tahsil"
+   "extent": "Thanagazi tahsil; and Tehla RIC in Rajgarh tahsil",
+   "shares": {
+    "64": {
+     "pct": 70.7,
+     "basis": "measured"
+    },
+    "63": {
+     "pct": 14.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 65,
@@ -1077,7 +1573,17 @@
    "winner_07": "Samarth Lal",
    "electors_07": 150596,
    "note": "Reconfigured into the combined Rajgarh-Laxmangarh (ST); its Tahla/Khoh/Rajpur Bara circles went to Thanagazi.",
-   "extent": "Rajgarh tahsil (excluding Tehla RIC)"
+   "extent": "Rajgarh tahsil (excluding Tehla RIC)",
+   "shares": {
+    "68": {
+     "pct": 62.7,
+     "basis": "approx"
+    },
+    "64": {
+     "pct": 19.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 66,
@@ -1094,7 +1600,21 @@
    "winner_07": "Jagat Singh",
    "electors_07": 176144,
    "note": "Completely abolished and fragmented: western parts to Rajgarh-Laxmangarh (ST), northern circles to Ramgarh, eastern stretches to Kathumar (SC).",
-   "extent": "Umeren and Malakhera RICs in Alwar tahsil; and Ghat RIC and Lachhmangarh RIC (excluding P.Cs 25—Harsana 27—Jhalatola, 28—Khera Mangal Singh and 29—Gothra) in Lachhmangarh tahsil."
+   "extent": "Umeren and Malakhera RICs in Alwar tahsil; and Ghat RIC and Lachhmangarh RIC (excluding P.Cs 25—Harsana 27—Jhalatola, 28—Khera Mangal Singh and 29—Gothra) in Lachhmangarh tahsil.",
+   "shares": {
+    "68": {
+     "pct": 21.6,
+     "basis": "approx"
+    },
+    "67": {
+     "pct": 22.8,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 10.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 67,
@@ -1109,7 +1629,13 @@
    "winner_07": "Ramesh Chand Khinchi",
    "electors_07": 151448,
    "note": "Core identity around Kathumar kept, expanded westward with Patwar circles from the dissolved Lachhmangarh.",
-   "extent": "P.Cs. 25—Harsana, 27—Jhalatola, 28—Khera Mangal Singh and 29—Gothra in Lachhmangarh RIC, Kathumar and Sahari RICs. Kherlinganj Municipal Board and Kherlinganj RIC in Lachhmangarh tahsil."
+   "extent": "P.Cs. 25—Harsana, 27—Jhalatola, 28—Khera Mangal Singh and 29—Gothra in Lachhmangarh RIC, Kathumar and Sahari RICs. Kherlinganj Municipal Board and Kherlinganj RIC in Lachhmangarh tahsil.",
+   "shares": {
+    "69": {
+     "pct": 81.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 68,
@@ -1124,7 +1650,13 @@
    "winner_07": "Madan Mohan Singhal",
    "electors_07": 133058,
    "note": "Core Kaman tahsil retained, realigned to integrate the newly formed Pahari tahsil area.",
-   "extent": "Kaman tahsil (excluding Gopalgarh RIC and P.Cs. 36—Sablana, 27—Birar, 28—Baroli Dhan and 29—Olanda in Sablana RIC)."
+   "extent": "Kaman tahsil (excluding Gopalgarh RIC and P.Cs. 36—Sablana, 27—Birar, 28—Baroli Dhan and 29—Olanda in Sablana RIC).",
+   "shares": {
+    "70": {
+     "pct": 90.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 69,
@@ -1139,7 +1671,13 @@
    "winner_07": "Mohamad Mahir Azad",
    "electors_07": 124665,
    "note": "Core (Nagar tahsil + Gopalgarh) retained; expanded with a northern chunk of old Deeg (ILRCs Khoh, Pasta, Bedham, Januthar).",
-   "extent": "Gopalgarh RIC in Kaman tahsil ; and Nagar tahsil"
+   "extent": "Gopalgarh RIC in Kaman tahsil ; and Nagar tahsil",
+   "shares": {
+    "71": {
+     "pct": 60.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 70,
@@ -1155,7 +1693,17 @@
    "winner_07": "Arun Singh",
    "electors_07": 122629,
    "note": "The standalone Deeg seat disappeared: its urban core merged with Kumher to form Deeg-Kumher, while its northern ILRCs moved into Nagar.",
-   "extent": "Deeg tahsil ; and P.Cs. 26—Sablana, 27—Birar, 28—Baroli Dhan and 29—Olanda in Sablana RIC in Kaman tahsil."
+   "extent": "Deeg tahsil ; and P.Cs. 26—Sablana, 27—Birar, 28—Baroli Dhan and 29—Olanda in Sablana RIC in Kaman tahsil.",
+   "shares": {
+    "72": {
+     "pct": 66.5,
+     "basis": "approx"
+    },
+    "71": {
+     "pct": 31.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 71,
@@ -1171,7 +1719,17 @@
    "winner_07": "Digamber Singh",
    "electors_07": 136142,
    "note": "Dissolved as an independent seat — the Kumher core merged with Deeg into the unified Deeg-Kumher (the name survives in the hyphen); its Bharatpur-tahsil RICs (Sewar, Dehra) went to Nadbai.",
-   "extent": "Kumher, Astawan, Sewer, Dehra and Ajan RICs and P.Cs. 1—Maghenwa, 2—Moroli Kalan, 3—Dhormui and 5—Bilothi in Jaghena RIC in Bharatpur tahsil."
+   "extent": "Kumher, Astawan, Sewer, Dehra and Ajan RICs and P.Cs. 1—Maghenwa, 2—Moroli Kalan, 3—Dhormui and 5—Bilothi in Jaghena RIC in Bharatpur tahsil.",
+   "shares": {
+    "72": {
+     "pct": 35.8,
+     "basis": "approx"
+    },
+    "74": {
+     "pct": 42.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 72,
@@ -1187,7 +1745,17 @@
    "winner_07": "Vijay Bansal (PAPPU)",
    "electors_07": 181142,
    "note": "Trimmed to the urban core (Bharatpur MC + Peepla/Chiksana/Jaghina); the outer rural circles (Aghapur, rural Sewar) shifted to Nadbai.",
-   "extent": "Bharatpur Municipal Board, Cimmco Factory (OG), Industrial (OG) Area, Bharatpur, Aghapur and Chiksana RICs and Jaghena RIC (excluding P.Cs. 1—Maghenwa3 2—Moroli Kalan, 3—Dhormuri and 5—Bilothi) in BharatpurB tahsil."
+   "extent": "Bharatpur Municipal Board, Cimmco Factory (OG), Industrial (OG) Area, Bharatpur, Aghapur and Chiksana RICs and Jaghena RIC (excluding P.Cs. 1—Maghenwa3 2—Moroli Kalan, 3—Dhormuri and 5—Bilothi) in BharatpurB tahsil.",
+   "shares": {
+    "73": {
+     "pct": 33.5,
+     "basis": "approx"
+    },
+    "74": {
+     "pct": 46.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 73,
@@ -1203,7 +1771,17 @@
    "winner_07": "Nirbhay Lal",
    "electors_07": 129969,
    "note": "Name disappeared entirely. Khanuwa and Uchchain went to Nadbai; the core Rupbas/Khansurjapur/Rudawal belt merged into the new Bayana (SC).",
-   "extent": "Rupbas tahsil ; and P.Cs. 37—Mehmadpurn, 38—Palidang and 39—-Singhania in Mehmadpura RIC in Bayana tahsil"
+   "extent": "Rupbas tahsil ; and P.Cs. 37—Mehmadpurn, 38—Palidang and 39—-Singhania in Mehmadpura RIC in Bayana tahsil",
+   "shares": {
+    "74": {
+     "pct": 14.6,
+     "basis": "approx"
+    },
+    "76": {
+     "pct": 71.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 74,
@@ -1219,7 +1797,17 @@
    "winner_07": "Krishnendra Kaur (DEEPA)",
    "electors_07": 136255,
    "note": "Core Nadbai tahsil kept and greatly expanded; the old Farso RIC dependency was shed to Weir (SC).",
-   "extent": "Nadbai tahsil; and Farso RIC in Bayana tahsil."
+   "extent": "Nadbai tahsil; and Farso RIC in Bayana tahsil.",
+   "shares": {
+    "74": {
+     "pct": 48.8,
+     "basis": "approx"
+    },
+    "75": {
+     "pct": 41.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 75,
@@ -1234,7 +1822,13 @@
    "winner_07": "Jagannath Pahadia",
    "electors_07": 137739,
    "note": "SC reservation and the whole Weir tahsil maintained; gained ILRCs Farso and Khareri.",
-   "extent": "Weir tahsil."
+   "extent": "Weir tahsil.",
+   "shares": {
+    "75": {
+     "pct": 93.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 76,
@@ -1250,7 +1844,17 @@
    "winner_07": "Atar Singh Badana",
    "electors_07": 154619,
    "note": "Radical overhaul: became SC-reserved, absorbed the dissolved Rupbas core, and its Baseri-tahsil RICs (Ratanpur, Baseri) went to the new Baseri (SC).",
-   "extent": "Bayana tahsil (excluding Farso RIC and P.Cs. 37— Mehmadpura, 38—Palidang and 39—Singhania in Mehmadpura RIC) and Ratanpur and Baseri RICs. in Baseri tahsil."
+   "extent": "Bayana tahsil (excluding Farso RIC and P.Cs. 37— Mehmadpura, 38—Palidang and 39—Singhania in Mehmadpura RIC) and Ratanpur and Baseri RICs. in Baseri tahsil.",
+   "shares": {
+    "76": {
+     "pct": 36.2,
+     "basis": "approx"
+    },
+    "77": {
+     "pct": 30.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 77,
@@ -1265,7 +1869,13 @@
    "winner_07": "Pradhuman Singh",
    "electors_07": 150236,
    "note": "High continuity around Rajakhera tahsil; now under Dholpur district.",
-   "extent": "Rajakhera tahsil ;} and Mania, and Basai Nawab RICs and P.Cs. 25—Dulhara and 27—Madha Bhau in Dholpur RIC in Dholpur tahsil."
+   "extent": "Rajakhera tahsil ;} and Mania, and Basai Nawab RICs and P.Cs. 25—Dulhara and 27—Madha Bhau in Dholpur RIC in Dholpur tahsil.",
+   "shares": {
+    "80": {
+     "pct": 70.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 78,
@@ -1282,7 +1892,21 @@
    "winner_07": "Banwari Lal",
    "electors_07": 159813,
    "note": "Urban core kept; ILRC Basai Nawab shifted to Bari and ILRCs Marhabhau/Maniyan to Rajakhera.",
-   "extent": "Dholpur tahsil (excluding Mania and Basai Nawab RICs. and P.Cs. 25—Dulhara and 27—Madha Bhau in Dholpur RIC)."
+   "extent": "Dholpur tahsil (excluding Mania and Basai Nawab RICs. and P.Cs. 25—Dulhara and 27—Madha Bhau in Dholpur RIC).",
+   "shares": {
+    "79": {
+     "pct": 51.6,
+     "basis": "approx"
+    },
+    "78": {
+     "pct": 18.9,
+     "basis": "approx"
+    },
+    "80": {
+     "pct": 13.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 79,
@@ -1298,7 +1922,17 @@
    "winner_07": "Daljeet Singh",
    "electors_07": 160997,
    "note": "Core Bari (incl. MB) kept, expanding into Saipau tehsil; its western Baseri-tehsil wing was partitioned off to form the new Baseri (SC).",
-   "extent": "Bari tahsil and Angai and Sarmathura RICs in Baser i tahsil."
+   "extent": "Bari tahsil and Angai and Sarmathura RICs in Baser i tahsil.",
+   "shares": {
+    "78": {
+     "pct": 29.5,
+     "basis": "approx"
+    },
+    "77": {
+     "pct": 52.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 80,
@@ -1314,7 +1948,13 @@
    "winner_07": "Suresh Meena",
    "electors_07": 146931,
    "note": "Substantially reorganised: Karauli town and most of the tahsil stayed in Karauli, while its Hindaun-side circles were exchanged with Hindaun (SC).",
-   "extent": "Karauli tahsil (excluding Mandrail RIC and P.Cs. 16—Gayrai 17—Lohara and 18—Atewa in Maholi RIC"
+   "extent": "Karauli tahsil (excluding Mandrail RIC and P.Cs. 16—Gayrai 17—Lohara and 18—Atewa in Maholi RIC",
+   "shares": {
+    "83": {
+     "pct": 80.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 81,
@@ -1329,7 +1969,13 @@
    "winner_07": "Sukh Lal",
    "electors_07": 149756,
    "note": "Direct continuity with ST reservation; Mandrail and the Maholi circles carried into the new Sapotra.",
-   "extent": "Mandrail RIC and P.Cs. 16—Gayrai, 17— Lohara and 18—Atewa in Maholi RIC in Karauli tahsil ; and Sapotra tahsil."
+   "extent": "Mandrail RIC and P.Cs. 16—Gayrai, 17— Lohara and 18—Atewa in Maholi RIC in Karauli tahsil ; and Sapotra tahsil.",
+   "shares": {
+    "84": {
+     "pct": 74.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 82,
@@ -1344,7 +1990,13 @@
    "winner_07": "Ashok",
    "electors_07": 164622,
    "note": "Direct continuity; absorbed the Chauth Ka Barwara and Phalaudi areas of old Sawai Madhopur to become more compact.",
-   "extent": "Khandar tahsil; and Phalodi RIC, P.Cs. 11— Bhagwat Garh, 15—Sunari and 17—Jonla in Surwal RIC, P.Cs. 32—Banjari 33—Adalwara Kalan, 34—Ramdi, 39— Ghamira and 41—Dhekwa in Jatwara Khurd RIC and Chothka-Barwara RIC in Sawai Madhopur tahsil."
+   "extent": "Khandar tahsil; and Phalodi RIC, P.Cs. 11— Bhagwat Garh, 15—Sunari and 17—Jonla in Surwal RIC, P.Cs. 32—Banjari 33—Adalwara Kalan, 34—Ramdi, 39— Ghamira and 41—Dhekwa in Jatwara Khurd RIC and Chothka-Barwara RIC in Sawai Madhopur tahsil.",
+   "shares": {
+    "93": {
+     "pct": 70.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 83,
@@ -1361,7 +2013,21 @@
    "winner_07": "Kirodi Lal",
    "electors_07": 174378,
    "note": "Significantly reduced: the municipal core, Surwal and Malarna Dungar stayed; western areas shifted to Khandar (SC) and the Bonli-side pockets to Bamanwas (ST).",
-   "extent": "Chakeri RIC, Surwal RIC (excluding P.Cs. 11—Bhagwat-Garh, 15—Sunari and 17—Jonla), Sawai Madhopur Municipal Board, Sawai Madhopur Spl. Charge Cement Factory (NMA), Man Town (N.A.), Jatwara Khurd RIC (excluding P.Cs. 32—Banjari, 33—Adalwara Kalan 34— Ramdi, 39—Ghamira and 41—Dhekwa) in Sawai Madhopur tahsil; and Malarna Dungar RIC, P.Cs. 17—Hathdoli, 19—Hindupura and 20—Badagaon in Peepalwara RIC and P.Cs. 23—Khirni, 24—Jolanda and 25—Bharoti in Malarna Chour KIC in Bonli tahsil."
+   "extent": "Chakeri RIC, Surwal RIC (excluding P.Cs. 11—Bhagwat-Garh, 15—Sunari and 17—Jonla), Sawai Madhopur Municipal Board, Sawai Madhopur Spl. Charge Cement Factory (NMA), Man Town (N.A.), Jatwara Khurd RIC (excluding P.Cs. 32—Banjari, 33—Adalwara Kalan 34— Ramdi, 39—Ghamira and 41—Dhekwa) in Sawai Madhopur tahsil; and Malarna Dungar RIC, P.Cs. 17—Hathdoli, 19—Hindupura and 20—Badagaon in Peepalwara RIC and P.Cs. 23—Khirni, 24—Jolanda and 25—Bharoti in Malarna Chour KIC in Bonli tahsil.",
+   "shares": {
+    "92": {
+     "pct": 54.3,
+     "basis": "approx"
+    },
+    "93": {
+     "pct": 6.9,
+     "basis": "approx"
+    },
+    "91": {
+     "pct": 22.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 84,
@@ -1376,7 +2042,13 @@
    "winner_07": "Heera Lal",
    "electors_07": 163552,
    "note": "High continuity — the Bamanwas and Bonli belt continued as the new Bamanwas (ST) constituency.",
-   "extent": "Bonli RIC, Peepalwara RIC (excluding P.Cs. 17—Hathdoli, 19—Hindupura and 20—Badagaon) and Malarna Chour RIC (excluding P.Cs. 23—Khirni, 24— Jolanda and 25—Bharoti) in Bonli tahsil ; and Bamanwas tahsil"
+   "extent": "Bonli RIC, Peepalwara RIC (excluding P.Cs. 17—Hathdoli, 19—Hindupura and 20—Badagaon) and Malarna Chour RIC (excluding P.Cs. 23—Khirni, 24— Jolanda and 25—Bharoti) in Bonli tahsil ; and Bamanwas tahsil",
+   "shares": {
+    "91": {
+     "pct": 75.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 85,
@@ -1391,7 +2063,13 @@
    "winner_07": "Durga Prasad",
    "electors_07": 165180,
    "note": "Almost entirely unchanged — Gangapur tahsil throughout.",
-   "extent": "Gangapur tahsil."
+   "extent": "Gangapur tahsil.",
+   "shares": {
+    "90": {
+     "pct": 59.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 86,
@@ -1407,7 +2085,17 @@
    "winner_07": "Kalu Ram",
    "electors_07": 185677,
    "note": "Name continued; parts of Hindaun tehsil were ceded to the reconstituted Karauli.",
-   "extent": "Hindaun Tahsil"
+   "extent": "Hindaun Tahsil",
+   "shares": {
+    "82": {
+     "pct": 27.5,
+     "basis": "approx"
+    },
+    "83": {
+     "pct": 71.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 87,
@@ -1423,7 +2111,17 @@
    "winner_07": "Harigyan Singh",
    "electors_07": 158705,
    "note": "Continued but shifted to the Dausa district grouping; expanded into Baswa tehsil while its Mundia RIC went to Todabhim.",
-   "extent": "Mahuwa tahsil; and Mundia RIC in Toda Bhim tahsil."
+   "extent": "Mahuwa tahsil; and Mundia RIC in Toda Bhim tahsil.",
+   "shares": {
+    "86": {
+     "pct": 78.7,
+     "basis": "measured"
+    },
+    "81": {
+     "pct": 14.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 88,
@@ -1438,7 +2136,13 @@
    "winner_07": "Batti Lal",
    "electors_07": 171998,
    "note": "Direct continuity with standardised spelling — 'Toda Bhim' became 'Todabhim' — with ILRC-level boundary revisions.",
-   "extent": "Nadoti tahsil; and Toda Bhim tahsil (excluding Mundia RIC)."
+   "extent": "Nadoti tahsil; and Toda Bhim tahsil (excluding Mundia RIC).",
+   "shares": {
+    "81": {
+     "pct": 75.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 89,
@@ -1454,7 +2158,17 @@
    "winner_07": "Heera Lal",
    "electors_07": 146433,
    "note": "Reserved status kept; now covers the whole Niwai plus Peeplu tehsils, returning the Sohela circle to Tonk.",
-   "extent": "Niwai tahsil ; and Sohela RIC in Tonk tahsil."
+   "extent": "Niwai tahsil ; and Sohela RIC in Tonk tahsil.",
+   "shares": {
+    "95": {
+     "pct": 76.2,
+     "basis": "measured"
+    },
+    "96": {
+     "pct": 16.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 90,
@@ -1469,7 +2183,13 @@
    "winner_07": "Mahaveer",
    "electors_07": 157614,
    "note": "Tonk town core retained; Sohela and Jhirana removed earlier, and parts of Todaraisingh tehsil added.",
-   "extent": "Tonk tahsil (excluding Sohela and Jhirana RICs)."
+   "extent": "Tonk tahsil (excluding Sohela and Jhirana RICs).",
+   "shares": {
+    "96": {
+     "pct": 51.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 91,
@@ -1484,7 +2204,13 @@
    "winner_07": "Prabhu Lal",
    "electors_07": 161163,
    "note": "Merged with Deoli tehsil to create the new Deoli-Uniara; the standalone 'Uniara' name disappeared.",
-   "extent": "Uniara tahsil; and Dooni and Ghad RICs in Deoli tahsil."
+   "extent": "Uniara tahsil; and Dooni and Ghad RICs in Deoli tahsil.",
+   "shares": {
+    "97": {
+     "pct": 77.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 92,
@@ -1500,7 +2226,17 @@
    "winner_07": "Nathu Singh Gurjar",
    "electors_07": 137675,
    "note": "Ceased to exist: the Todaraisingh municipal core shifted to Malpura, while the Khareda and Lamba Kalan areas became part of Tonk.",
-   "extent": "Todaraisingh tahsil."
+   "extent": "Todaraisingh tahsil.",
+   "shares": {
+    "94": {
+     "pct": 29.8,
+     "basis": "approx"
+    },
+    "96": {
+     "pct": 28.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 93,
@@ -1515,7 +2251,13 @@
    "winner_07": "Jeetram",
    "electors_07": 157130,
    "note": "Direct continuity with expansion — absorbed most of Todaraisingh tehsil.",
-   "extent": "Malpura tahsil; and Jhirana RIC in Tonk tahsil. Key Chances"
+   "extent": "Malpura tahsil; and Jhirana RIC in Tonk tahsil. Key Chances",
+   "shares": {
+    "94": {
+     "pct": 94.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 94,
@@ -1530,7 +2272,13 @@
    "winner_07": "Bhagirath Chaudhary",
    "electors_07": 184049,
    "note": "Direct continuity; expanded with the Akodia area and parts of Sarwar tehsil.",
-   "extent": "Kishangarh tahsil (excluding Akodia RIC)."
+   "extent": "Kishangarh tahsil (excluding Akodia RIC).",
+   "shares": {
+    "98": {
+     "pct": 71.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 95,
@@ -1547,7 +2295,21 @@
    "winner_07": "Anita Bhadel",
    "electors_07": 152928,
    "note": "Abolished: the reserved urban wards became Ajmer South (SC), northern wards went to Ajmer North, and the rural west joined the new Pushkar.",
-   "extent": "Wards 1, 8 to 13, 16 and 27 to 36 in Ajmer Municipal Council and Ajmer Cantonment"
+   "extent": "Wards 1, 8 to 13, 16 and 27 to 36 in Ajmer Municipal Council and Ajmer Cantonment",
+   "shares": {
+    "101": {
+     "pct": 17.8,
+     "basis": "approx"
+    },
+    "100": {
+     "pct": 6.0,
+     "basis": "approx"
+    },
+    "99": {
+     "pct": 80.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 96,
@@ -1578,7 +2340,13 @@
    "winner_07": "Dr. Shri Gopal Baheti",
    "electors_07": 172112,
    "note": "Direct continuity with major expansion — now takes in rural Ajmer tehsil and parts of Kishangarh tehsil.",
-   "extent": "Gagwana RIC, Subhashnagar (OG), Regional College (OG), Ajmer-I RIC (excluding Ajmer Municipal Council) Pushkar Municipal Board, Pushkar RIC, Saradhana RIC, and Pisangan RIC in Ajmer tahsil."
+   "extent": "Gagwana RIC, Subhashnagar (OG), Regional College (OG), Ajmer-I RIC (excluding Ajmer Municipal Council) Pushkar Municipal Board, Pushkar RIC, Saradhana RIC, and Pisangan RIC in Ajmer tahsil.",
+   "shares": {
+    "99": {
+     "pct": 47.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 98,
@@ -1593,7 +2361,13 @@
    "winner_07": "Govind Singh",
    "electors_07": 129525,
    "note": "Direct continuity; now consists mainly of the Nasirabad and Pisangan tehsils instead of scattered RICs.",
-   "extent": "Ajmer-II, Shrinagar and Ramsar RICs, Nasirabad Town (CA), Derathu and Mangaliyawas RICs in Ajmer tahsil."
+   "extent": "Ajmer-II, Shrinagar and Ramsar RICs, Nasirabad Town (CA), Derathu and Mangaliyawas RICs in Ajmer tahsil.",
+   "shares": {
+    "102": {
+     "pct": 56.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 99,
@@ -1608,7 +2382,13 @@
    "winner_07": "Devi Shankar",
    "electors_07": 138653,
    "note": "Direct continuity with boundary rationalisation — centred almost entirely on Beawar tehsil.",
-   "extent": "Beawar Municipal Council, P.C. 63—Naya Nagar in Naya Nagar RIC, Khera Kalan and Jawaja RICs and Rajiawas RIC (excluding P.Cs. 75—Atitmand, 76—Gohana, 81—Narbad Kheda, 82—Malpura and 86—Shahpura Kalinjar) in Beawar tahsil."
+   "extent": "Beawar Municipal Council, P.C. 63—Naya Nagar in Naya Nagar RIC, Khera Kalan and Jawaja RICs and Rajiawas RIC (excluding P.Cs. 75—Atitmand, 76—Gohana, 81—Narbad Kheda, 82—Malpura and 86—Shahpura Kalinjar) in Beawar tahsil.",
+   "shares": {
+    "103": {
+     "pct": 50.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 100,
@@ -1623,7 +2403,13 @@
    "winner_07": "Vishnu Modi",
    "electors_07": 147848,
    "note": "Direct continuity; expanded to the whole Masuda tehsil plus Bhinay tehsil.",
-   "extent": "P.Cs. 75—Atitmand,"
+   "extent": "P.Cs. 75—Atitmand,",
+   "shares": {
+    "104": {
+     "pct": 81.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 101,
@@ -1639,7 +2425,17 @@
    "winner_07": "Sanwar Lal",
    "electors_07": 134212,
    "note": "Disappeared completely: most of its territory (Bhinay, Sarwar) became part of the new Kekri, while Akodia shifted to Kishangarh.",
-   "extent": "Deolia Kalan, Bhinai and Bandanwara RICs in Kekri tahsil; Sarwar tahsil (excluding Sarwar Municipal Board and Sarwar RIC); and Akodia RIC in Kishangarh tahsil"
+   "extent": "Deolia Kalan, Bhinai and Bandanwara RICs in Kekri tahsil; Sarwar tahsil (excluding Sarwar Municipal Board and Sarwar RIC); and Akodia RIC in Kishangarh tahsil",
+   "shares": {
+    "105": {
+     "pct": 41.4,
+     "basis": "approx"
+    },
+    "98": {
+     "pct": 24.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 102,
@@ -1654,7 +2450,13 @@
    "winner_07": "Gopal Lal Dhobi",
    "electors_07": 147243,
    "note": "Name retained but completely reorganised — the SC reservation was dropped and it absorbed most of the former Bhinai plus Sarwar tehsil.",
-   "extent": "Sarwar Municipal Board and Sarwar RIC in Sarwar tahsil; and Kekri tahsil (excluding Deolia Kalan RIC, Bhinai RIC and Bandanwara RIC)."
+   "extent": "Sarwar Municipal Board and Sarwar RIC in Sarwar tahsil; and Kekri tahsil (excluding Deolia Kalan RIC, Bhinai RIC and Bandanwara RIC).",
+   "shares": {
+    "105": {
+     "pct": 78.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 103,
@@ -1669,7 +2471,13 @@
    "winner_07": "Hari Mohan",
    "electors_07": 139960,
    "note": "Hindoli tahsil retained as the core; the new seat also gained the Nainwa town side (Nainwa MB, Jajawar, Bansi, Dei) of old Nainwa.",
-   "extent": "Hindoli tahsil; and P.Cs. 5—Silore, 6—Ramnagar 7—Gudha, 8—Mangal and 9—Neem-Ka-Khera in Bundf RIC in Bundi tahsil."
+   "extent": "Hindoli tahsil; and P.Cs. 5—Silore, 6—Ramnagar 7—Gudha, 8—Mangal and 9—Neem-Ka-Khera in Bundf RIC in Bundi tahsil.",
+   "shares": {
+    "184": {
+     "pct": 83.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 104,
@@ -1685,7 +2493,17 @@
    "winner_07": "Ram Narayan",
    "electors_07": 130735,
    "note": "Name discontinued and genuinely split in two: Jetpur/Karwar/Bamangaon went to Keshoraipatan (SC); the Nainwa town belt to Hindoli.",
-   "extent": "Nainwa tahsil; and Khatkar RIC in Bundi tahsil."
+   "extent": "Nainwa tahsil; and Khatkar RIC in Bundi tahsil.",
+   "shares": {
+    "185": {
+     "pct": 53.1,
+     "basis": "measured"
+    },
+    "184": {
+     "pct": 32.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 105,
@@ -1700,7 +2518,13 @@
    "winner_07": "Babu Lal",
    "electors_07": 127698,
    "note": "Name partially continues — Patan became Keshoraipatan (SC), with the old Keshorai Patan tahsil as its core and the SC reservation retained.",
-   "extent": "Keshorai Patan tahsil."
+   "extent": "Keshorai Patan tahsil.",
+   "shares": {
+    "185": {
+     "pct": 62.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 106,
@@ -1715,7 +2539,13 @@
    "winner_07": "Mamta Sharma",
    "electors_07": 156564,
    "note": "Direct continuity by spelling variant — 'Bandi' became the cleanly tahsil-shaped Bundi seat.",
-   "extent": "Bundi tahsil (excluding Khatkar RIC and P.Cs. 5—Silore, 6—Ramnagar, 7—Gudha, 8—Mangal and 9—NeemKa-Khera i n Bundi RIC)."
+   "extent": "Bundi tahsil (excluding Khatkar RIC and P.Cs. 5—Silore, 6—Ramnagar, 7—Gudha, 8—Mangal and 9—NeemKa-Khera i n Bundi RIC).",
+   "shares": {
+    "186": {
+     "pct": 92.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 107,
@@ -1748,7 +2578,21 @@
    "winner_07": "Bhawani Singh Rajawat",
    "electors_07": 226888,
    "note": "Name retained but the Kota city core was lost to the new urban seats; now mainly rural Ladpura and Kaithoon.",
-   "extent": "Wards 1 to 3 and 30 to 33 in Kota Municipal Council, Ladpura and Kaithoon RICs in Ladpura tahsil."
+   "extent": "Wards 1 to 3 and 30 to 33 in Kota Municipal Council, Ladpura and Kaithoon RICs in Ladpura tahsil.",
+   "shares": {
+    "191": {
+     "pct": 61.0,
+     "basis": "approx"
+    },
+    "189": {
+     "pct": 5.6,
+     "basis": "approx"
+    },
+    "190": {
+     "pct": 1.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 109,
@@ -1764,7 +2608,17 @@
    "winner_07": "Bharat Singh",
    "electors_07": 172904,
    "note": "Abolished — Digod tehsil was divided between the newly created Pipalda and Sangod constituencies.",
-   "extent": "Digod tahsil and Sangod tahsil (excluding Bapawar RIC) of Kotah district; and PC Gagron in Jhalawar RIC in Jhalrapatan tahsil of Jhalawar district."
+   "extent": "Digod tahsil and Sangod tahsil (excluding Bapawar RIC) of Kotah district; and PC Gagron in Jhalawar RIC in Jhalrapatan tahsil of Jhalawar district.",
+   "shares": {
+    "187": {
+     "pct": 18.2,
+     "basis": "measured"
+    },
+    "188": {
+     "pct": 51.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 110,
@@ -1779,7 +2633,13 @@
    "winner_07": "Prabhu Lal",
    "electors_07": 151835,
    "note": "Continues under the same name with a much larger area after absorbing most of old Digod; the SC reservation was removed.",
-   "extent": "Pipalda tahsil ; and Mangrol RIC (excluding P.Cs. 5—Jarela, 6—Bohat and io—Isharpura) in Mangrol tahsil."
+   "extent": "Pipalda tahsil ; and Mangrol RIC (excluding P.Cs. 5—Jarela, 6—Bohat and io—Isharpura) in Mangrol tahsil.",
+   "shares": {
+    "187": {
+     "pct": 60.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 111,
@@ -1794,7 +2654,13 @@
    "winner_07": "Parmod Kumar",
    "electors_07": 153766,
    "note": "Moved out of Kota district: continued as the renamed Anta seat in the new Baran district, absorbing all of Mangrol tehsil.",
-   "extent": "Mangrol tahsil (excluding Mangrol RIC) and Baran RIC in Baran tahsil."
+   "extent": "Mangrol tahsil (excluding Mangrol RIC) and Baran RIC in Baran tahsil.",
+   "shares": {
+    "193": {
+     "pct": 49.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 112,
@@ -1810,7 +2676,17 @@
    "winner_07": "Hemraj",
    "electors_07": 155953,
    "note": "The core Kishanganj–Shahbad territory continued as Kishanganj (ST) in Baran district; its Mangrol-RIC PCs merged into the new Anta.",
-   "extent": "P.Cs. 5—Jarela, 6—Bohat and 10—Isharura in Mangrol RIC in Mangrol tahsil; Kishanganj and Shahbad tahsils"
+   "extent": "P.Cs. 5—Jarela, 6—Bohat and 10—Isharura in Mangrol RIC in Mangrol tahsil; Kishanganj and Shahbad tahsils",
+   "shares": {
+    "194": {
+     "pct": 83.3,
+     "basis": "measured"
+    },
+    "193": {
+     "pct": 2.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 113,
@@ -1825,7 +2701,13 @@
    "winner_07": "Madan Dilawar",
    "electors_07": 146072,
    "note": "Merged with the Baran town area to form the new Baran-Atru (SC) seat in Baran district, keeping its SC reservation.",
-   "extent": "Kalmanda RIC in Baran tahsil; Bapawar RIC in Sangod tahsil; and Atru tahsil"
+   "extent": "Kalmanda RIC in Baran tahsil; Bapawar RIC in Sangod tahsil; and Atru tahsil",
+   "shares": {
+    "195": {
+     "pct": 59.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 114,
@@ -1840,7 +2722,13 @@
    "winner_07": "Pratap Singh",
    "electors_07": 155070,
    "note": "The only completely unchanged seat — same Chhabra and Chhipabarod tehsils, now under Baran district.",
-   "extent": "Chhabra and Chipabarod tahsils."
+   "extent": "Chhabra and Chipabarod tahsils.",
+   "shares": {
+    "196": {
+     "pct": 85.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 115,
@@ -1855,7 +2743,13 @@
    "winner_07": "Prahalad Gunjal",
    "electors_07": 157374,
    "note": "Retained but became SC-reserved, expanding with rural Ladpura's Mandana circles.",
-   "extent": "Ramganjmandi tahsil ; and Mandana RIC in Ladpura Tahsil."
+   "extent": "Ramganjmandi tahsil ; and Mandana RIC in Ladpura Tahsil.",
+   "shares": {
+    "192": {
+     "pct": 80.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 116,
@@ -1871,7 +2765,17 @@
    "winner_07": "Narendra Kumar Nagar",
    "electors_07": 128034,
    "note": "Name kept; expanded into Jhalrapatan tehsil while its Aklera portion shifted to Manohar Thana.",
-   "extent": "Khanpur tahsil; and Aklera RIC (excluding P.Cs7—Lahas and 8—Dewari Kalan) in Aklera tahsil."
+   "extent": "Khanpur tahsil; and Aklera RIC (excluding P.Cs7—Lahas and 8—Dewari Kalan) in Aklera tahsil.",
+   "shares": {
+    "199": {
+     "pct": 77.0,
+     "basis": "measured"
+    },
+    "200": {
+     "pct": 14.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 117,
@@ -1886,7 +2790,13 @@
    "winner_07": "Jagannath",
    "electors_07": 119202,
    "note": "Direct continuity with significant expansion — absorbed the entire Aklera tehsil and parts of Jhalrapatan.",
-   "extent": "P.Cs. 7—Lahas and 8—Dewari Kalan in Aklera RIC, Ghatoli Bhalta, Manohar Thana, Jawar and Banskheri RICs in Aklera tahsil."
+   "extent": "P.Cs. 7—Lahas and 8—Dewari Kalan in Aklera RIC, Ghatoli Bhalta, Manohar Thana, Jawar and Banskheri RICs in Aklera tahsil.",
+   "shares": {
+    "200": {
+     "pct": 82.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 118,
@@ -1903,7 +2813,21 @@
    "winner_07": "Vasundhara Raje",
    "electors_07": 172165,
    "note": "Urban core around Jhalrapatan town retained; several rural ILRCs moved to the reorganised Khanpur and Manohar Thana.",
-   "extent": "Jhalrapatan tahsil (excluding PC. Gagron in Jhalawar RIC)."
+   "extent": "Jhalrapatan tahsil (excluding PC. Gagron in Jhalawar RIC).",
+   "shares": {
+    "198": {
+     "pct": 57.9,
+     "basis": "approx"
+    },
+    "199": {
+     "pct": 23.5,
+     "basis": "measured"
+    },
+    "200": {
+     "pct": 7.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 119,
@@ -1919,7 +2843,13 @@
    "winner_07": "Kanhaiya Lal Patidar",
    "electors_07": 134432,
    "note": "Abolished — Pirawa tehsil became the core of the expanded Jhalrapatan, while the Ganeshpura area shifted to Dag (SC).",
-   "extent": "Pirawa tahsil; and Ganeshpura RIC in Pachpahar tahsil"
+   "extent": "Pirawa tahsil; and Ganeshpura RIC in Pachpahar tahsil",
+   "shares": {
+    "198": {
+     "pct": 58.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 120,
@@ -1934,7 +2864,13 @@
    "winner_07": "Sanehlata",
    "electors_07": 161570,
    "note": "Direct continuity with SC reservation retained; gained the Ganeshpura area from the former Pirawa.",
-   "extent": "Gangdhar tahsil; and Pachpahar tahsil (excluding Ganeshpura RIC)."
+   "extent": "Gangdhar tahsil; and Pachpahar tahsil (excluding Ganeshpura RIC).",
+   "shares": {
+    "197": {
+     "pct": 75.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 121,
@@ -1949,7 +2885,13 @@
    "winner_07": "Chunni Lal Dhakad",
    "electors_07": 139784,
    "note": "Direct continuity; expanded considerably by incorporating Rawatbhata tehsil and most of Gangrar.",
-   "extent": "Begun tahsil."
+   "extent": "Begun tahsil.",
+   "shares": {
+    "168": {
+     "pct": 82.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 122,
@@ -1965,7 +2907,17 @@
    "winner_07": "Arjun Lal Jingar",
    "electors_07": 136776,
    "note": "Abolished: most of Gangrar tehsil merged with Begun, while the Chittorgarh MB area joined the new Chittorgarh seat.",
-   "extent": "Gangrar and Rashmi tahsils."
+   "extent": "Gangrar and Rashmi tahsils.",
+   "shares": {
+    "168": {
+     "pct": 46.3,
+     "basis": "approx"
+    },
+    "169": {
+     "pct": 16.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 123,
@@ -1980,7 +2932,13 @@
    "winner_07": "Badri Lal Jat",
    "electors_07": 149770,
    "note": "Continued but became SC-reserved; expanded with Rashmi tehsil and parts of Bhadesar.",
-   "extent": "Kapasin tahsil; and Bhadsora RIC in Bhadesar tahsil."
+   "extent": "Kapasin tahsil; and Bhadsora RIC in Bhadesar tahsil.",
+   "shares": {
+    "167": {
+     "pct": 79.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 124,
@@ -1995,7 +2953,13 @@
    "winner_07": "Narpat Singh Rajvi",
    "electors_07": 170303,
    "note": "Direct continuity; retained the town and expanded into parts of Gangrar and Bhadesar tehsils.",
-   "extent": "Chittorgarh tahsil; and Bhadesar RIC in Bhadesar tahsil"
+   "extent": "Chittorgarh tahsil; and Bhadesar RIC in Bhadesar tahsil",
+   "shares": {
+    "169": {
+     "pct": 56.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 125,
@@ -2010,7 +2974,13 @@
    "winner_07": "Ashok Kumar Navlakha",
    "electors_07": 186563,
    "note": "Continued centred on Nimbahera and Chhoti Sadri tehsils.",
-   "extent": "Nimbahera and Chhoti Sadri tahsils"
+   "extent": "Nimbahera and Chhoti Sadri tahsils",
+   "shares": {
+    "170": {
+     "pct": 78.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 126,
@@ -2025,7 +2995,13 @@
    "winner_07": "Prakash Chaudhary",
    "electors_07": 171630,
    "note": "Continued after a name change (Badi Sadri → Bari Sadri), expanded with Dungla tehsil and parts of Bhadesar and Pratapgarh.",
-   "extent": "Dungla and Badi Sadri tahsils; and Dhamotar RIC in Partabgarh tahsil."
+   "extent": "Dungla and Badi Sadri tahsils; and Dhamotar RIC in Partabgarh tahsil.",
+   "shares": {
+    "171": {
+     "pct": 79.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 127,
@@ -2040,7 +3016,13 @@
    "winner_07": "Nand Lal Meena",
    "electors_07": 159376,
    "note": "Continued with standardized spelling (Partapgarh → Pratapgarh); centred on the newly formed Pratapgarh district with ST reservation retained.",
-   "extent": "Partapgarh (ST) —Partabgarh tahsil (excluding Dhamotar RIC)."
+   "extent": "Partapgarh (ST) —Partabgarh tahsil (excluding Dhamotar RIC).",
+   "shares": {
+    "172": {
+     "pct": 75.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 128,
@@ -2055,7 +3037,13 @@
    "winner_07": "Fateysingh",
    "electors_07": 156834,
    "note": "Direct continuity — Kushalgarh tehsil with ST reservation unchanged.",
-   "extent": "Kushalgarh tahsil."
+   "extent": "Kushalgarh tahsil.",
+   "shares": {
+    "166": {
+     "pct": 88.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 129,
@@ -2072,7 +3060,21 @@
    "winner_07": "Arjunsingh",
    "electors_07": 186946,
    "note": "Abolished; its territory was divided mainly between the newly created Garhi (ST), the reorganised Banswara (ST) and Bagidora (ST).",
-   "extent": "Danpur RIC and Banswara RIC (excluding P.Cs. 4—Kuwala, 5—Kupda, 6—Galkia and 8 —Banswara and Banswara Municipal Board) in Banswara tahsil; and PCs. 1—Bodigama, 3—Chhinch, 4—Chokhala, 5—Badodiya, 6—Kalinjara and 7—Karaji in Bagidora RIC in Bagidora tahsil."
+   "extent": "Danpur RIC and Banswara RIC (excluding P.Cs. 4—Kuwala, 5—Kupda, 6—Galkia and 8 —Banswara and Banswara Municipal Board) in Banswara tahsil; and PCs. 1—Bodigama, 3—Chhinch, 4—Chokhala, 5—Badodiya, 6—Kalinjara and 7—Karaji in Bagidora RIC in Bagidora tahsil.",
+   "shares": {
+    "163": {
+     "pct": 1.7,
+     "basis": "approx"
+    },
+    "164": {
+     "pct": 82.2,
+     "basis": "approx"
+    },
+    "165": {
+     "pct": 2.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 130,
@@ -2087,7 +3089,13 @@
    "winner_07": "Navneetlal Ninama",
    "electors_07": 177567,
    "note": "Direct continuity — centred on Ghatol tehsil with only minor adjustments.",
-   "extent": "Ghatol tahsil."
+   "extent": "Ghatol tahsil.",
+   "shares": {
+    "162": {
+     "pct": 80.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 131,
@@ -2103,7 +3111,17 @@
    "winner_07": "Bhawani Joshi",
    "electors_07": 158984,
    "note": "Continued but became ST-reserved; the Talwara area was transferred to the new Garhi (ST).",
-   "extent": "Banswara Municipal Board, P.Cs. 4—Kuwala, 5—Kupda, 6—Galkia and 8—Banswara in Banswara RIC in Banswara tahsil; Metwala RIC and P.Cs. 19—Daduka, 20— Partapur, 21—Garhi, 22—Bori and 24—Ajna in Garhi RIC in Garhi tahsil."
+   "extent": "Banswara Municipal Board, P.Cs. 4—Kuwala, 5—Kupda, 6—Galkia and 8—Banswara in Banswara RIC in Banswara tahsil; Metwala RIC and P.Cs. 19—Daduka, 20— Partapur, 21—Garhi, 22—Bori and 24—Ajna in Garhi RIC in Garhi tahsil.",
+   "shares": {
+    "164": {
+     "pct": 20.0,
+     "basis": "approx"
+    },
+    "163": {
+     "pct": 65.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 132,
@@ -2119,7 +3137,17 @@
    "winner_07": "Jeetmal Khant",
    "electors_07": 182119,
    "note": "Name retained but more compact after transferring the Garhi-tahsil area to the newly created Garhi (ST).",
-   "extent": "Garhi tahsil (excluding Metwala RIC and P.Cs. 19—Daduka, 20—Partapur, 21—Garhi, 22—Bori and 24—Ajna in Garhi RIC); and Bagidora tahsil (excluding P.Cs 1—Bodigama 3—Chhinch, 4—Chokhala, 5—Badodiya\" 6—Kalinjara and 7—Karaji in Bagidora RIC)."
+   "extent": "Garhi tahsil (excluding Metwala RIC and P.Cs. 19—Daduka, 20—Partapur, 21—Garhi, 22—Bori and 24—Ajna in Garhi RIC); and Bagidora tahsil (excluding P.Cs 1—Bodigama 3—Chhinch, 4—Chokhala, 5—Badodiya\" 6—Kalinjara and 7—Karaji in Bagidora RIC).",
+   "shares": {
+    "165": {
+     "pct": 65.3,
+     "basis": "measured"
+    },
+    "163": {
+     "pct": 19.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 133,
@@ -2134,7 +3162,13 @@
    "winner_07": "Kanak Mal Katara",
    "electors_07": 160666,
    "note": "Direct continuity — Sagwara tehsil remains almost entirely intact.",
-   "extent": "Sagwara tahsil (excluding Padwa RIC)."
+   "extent": "Sagwara tahsil (excluding Padwa RIC).",
+   "shares": {
+    "160": {
+     "pct": 62.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 134,
@@ -2150,7 +3184,17 @@
    "winner_07": "Sushil",
    "electors_07": 173474,
    "note": "Partially reorganised: Bichhiwara and Genji areas shifted into Dungarpur (ST); the Simalwara region forms the new Chorasi (ST).",
-   "extent": "Chorasi and Genji RICs and P.Cs. 24—Amjhara 25—Kanba 26—Bichhiwara 27—Modar and 28—Chundawara in Bichhiwara RIC in Dungarpur tahsil."
+   "extent": "Chorasi and Genji RICs and P.Cs. 24—Amjhara 25—Kanba 26—Bichhiwara 27—Modar and 28—Chundawara in Bichhiwara RIC in Dungarpur tahsil.",
+   "shares": {
+    "161": {
+     "pct": 83.1,
+     "basis": "measured"
+    },
+    "158": {
+     "pct": 13.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 135,
@@ -2165,7 +3209,13 @@
    "winner_07": "Nathu Ram Ahari",
    "electors_07": 158628,
    "note": "Direct continuity — Dungarpur town remains the core with village-level adjustments.",
-   "extent": "Dungarpur tahsil (excluding Chorasi RIC, Genji RIC and P. Cs. 24—Amjhara 25—Kanba 26—Bichhiwara, 27—Modar, and 28—Chundawara in Bichhiwara RIC)."
+   "extent": "Dungarpur tahsil (excluding Chorasi RIC, Genji RIC and P. Cs. 24—Amjhara 25—Kanba 26—Bichhiwara, 27—Modar, and 28—Chundawara in Bichhiwara RIC).",
+   "shares": {
+    "158": {
+     "pct": 42.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 136,
@@ -2181,7 +3231,17 @@
    "winner_07": "Raiyaji Meena",
    "electors_07": 171109,
    "note": "Direct continuity; only the Padwa RIC was transferred to Sagwara (ST).",
-   "extent": "Aspur tahsil ; and Padwa RIC in Sagwara tahsil."
+   "extent": "Aspur tahsil ; and Padwa RIC in Sagwara tahsil.",
+   "shares": {
+    "159": {
+     "pct": 74.0,
+     "basis": "measured"
+    },
+    "160": {
+     "pct": 16.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 137,
@@ -2197,7 +3257,13 @@
    "winner_07": "Gautam Lal",
    "electors_07": 164613,
    "note": "Name disappeared. The Lasadia–Bhabrana tribal belt was absorbed into the newly created Dhariawad (ST) with adjustments alongside Salumber (ST).",
-   "extent": "Lasadia tahsil; and Bhabrana RIC in Salumber tahsil."
+   "extent": "Lasadia tahsil; and Bhabrana RIC in Salumber tahsil.",
+   "shares": {
+    "157": {
+     "pct": 88.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 138,
@@ -2212,7 +3278,13 @@
    "winner_07": "Randhir Singh Bhinder",
    "electors_07": 155122,
    "note": "Direct continuity; a few Girwa-tehsil villages added for population balance.",
-   "extent": "Vallabhnagar tahsil."
+   "extent": "Vallabhnagar tahsil.",
+   "shares": {
+    "155": {
+     "pct": 72.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 139,
@@ -2228,7 +3300,13 @@
    "winner_07": "Shanti Lal Chaplot",
    "electors_07": 170244,
    "note": "Mavli core retained, expanded into parts of Girwa; its Relmagra-side circles fell to the new Rajsamand district.",
-   "extent": "Mavli tahsil; and RIC No. 2 (excluding P. Cs. 11—Khandel 12—Junda and 13—Bamniya Kalan) in Relmagra tahsil."
+   "extent": "Mavli tahsil; and RIC No. 2 (excluding P. Cs. 11—Khandel 12—Junda and 13—Bamniya Kalan) in Relmagra tahsil.",
+   "shares": {
+    "154": {
+     "pct": 75.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 140,
@@ -2243,7 +3321,13 @@
    "winner_07": "Banshi Lal Khatik",
    "electors_07": 168412,
    "note": "Moved out of Udaipur district entirely — the core became the new Rajsamand seat in the newly created Rajsamand district, as a General seat.",
-   "extent": "Rajsamand tahsil; and RIC No. 1 and P.Cs. 11—Khandel, 12—Junda and 13—Bamniya Kalan in RIC No. 2 in Relmagra tahsil."
+   "extent": "Rajsamand tahsil; and RIC No. 1 and P.Cs. 11—Khandel, 12—Junda and 13—Bamniya Kalan in RIC No. 2 in Relmagra tahsil.",
+   "shares": {
+    "175": {
+     "pct": 64.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 141,
@@ -2258,7 +3342,13 @@
    "winner_07": "C P Joshi",
    "electors_07": 156328,
    "note": "Continued as Nathdwara under the new Rajsamand district.",
-   "extent": "Nathdwara tahsil."
+   "extent": "Nathdwara tahsil.",
+   "shares": {
+    "176": {
+     "pct": 43.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 142,
@@ -2273,7 +3363,13 @@
    "winner_07": "Gulab Chand Kataria",
    "electors_07": 138331,
    "note": "Direct continuity with urban reorganisation — redrawn to selected municipal wards after Udaipur Rural (ST) was formed.",
-   "extent": "Wards 1 to 20, 22 to 27 and 32 to 34 in Udaipur Municipal Council."
+   "extent": "Wards 1 to 20, 22 to 27 and 32 to 34 in Udaipur Municipal Council.",
+   "shares": {
+    "153": {
+     "pct": 11.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 143,
@@ -2289,7 +3385,13 @@
    "winner_07": "Vandna Meena",
    "electors_07": 232746,
    "note": "Continued as an ST seat with major revision — gained extensive rural Girwa/Debari areas while inner wards shifted to Udaipur city.",
-   "extent": "Udaipur Municipal Council (excluding Wards 1 to 20, 22 to 27 and 32 to 34), Udaipur City RIC, Debari RIC and Barapal RIC (excluding P. Cs. 25—Tidi, 26—Paduna and 27—Chanawada) in Girwa tahsil."
+   "extent": "Udaipur Municipal Council (excluding Wards 1 to 20, 22 to 27 and 32 to 34), Udaipur City RIC, Debari RIC and Barapal RIC (excluding P. Cs. 25—Tidi, 26—Paduna and 27—Chanawada) in Girwa tahsil.",
+   "shares": {
+    "152": {
+     "pct": 42.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 144,
@@ -2304,7 +3406,13 @@
    "winner_07": "Arjun Lal",
    "electors_07": 139943,
    "note": "Direct continuity with additions from Sarada tehsil and minor Girwa-boundary adjustments.",
-   "extent": "Salumber tahsil (excluding Bhabrana RIC); and Kurawad RIC in Girwa tahsil."
+   "extent": "Salumber tahsil (excluding Bhabrana RIC); and Kurawad RIC in Girwa tahsil.",
+   "shares": {
+    "156": {
+     "pct": 57.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 145,
@@ -2320,7 +3428,13 @@
    "winner_07": "Raghuveer Singh Meena",
    "electors_07": 155989,
    "note": "Abolished — the Sarada name disappeared as its territory was divided between Salumber (ST) and the newly created Dhariawad (ST).",
-   "extent": "Sarada tahsil; and P.Cs. 25—Tidi 26—Paduna and 27—Chanawada in Barapal RIC in Girwa tahsil."
+   "extent": "Sarada tahsil; and P.Cs. 25—Tidi 26—Paduna and 27—Chanawada in Barapal RIC in Girwa tahsil.",
+   "shares": {
+    "156": {
+     "pct": 70.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 146,
@@ -2335,7 +3449,13 @@
    "winner_07": "Nana Lal Ahari",
    "electors_07": 159386,
    "note": "Direct continuity — largely unchanged with minor boundary adjustments.",
-   "extent": "Kherwara tahsil."
+   "extent": "Kherwara tahsil.",
+   "shares": {
+    "151": {
+     "pct": 96.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 147,
@@ -2350,7 +3470,13 @@
    "winner_07": "Babu Lal Kharadi",
    "electors_07": 154677,
    "note": "Renamed and reorganised as Jhadol (ST), incorporating the Kotra tribal areas while keeping much of the original core.",
-   "extent": "Phalasia tahsil; and Kotra tahsil (excluding Mairpur RIC and P.Cs. 3—Mandwa, 8—Beekarni, 13—Samoli and 14—Jhaid in Kotra RIC)."
+   "extent": "Phalasia tahsil; and Kotra tahsil (excluding Mairpur RIC and P.Cs. 3—Mandwa, 8—Beekarni, 13—Samoli and 14—Jhaid in Kotra RIC).",
+   "shares": {
+    "150": {
+     "pct": 89.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 148,
@@ -2365,7 +3491,13 @@
    "winner_07": "Mangi Lal Garasiya",
    "electors_07": 146139,
    "note": "Retained its name and expanded — absorbed the Kotra fringe and Girwa-tehsil circles.",
-   "extent": "Gogunda (ST) —Gogunda tahsil; and Mairpur RIC, and P.Cs. 3—Mandwa, 8—Beekarni, 13—Samoli and 14—Jhaid in Kotra RIC in Kotra tahsil."
+   "extent": "Gogunda (ST) —Gogunda tahsil; and Mairpur RIC, and P.Cs. 3—Mandwa, 8—Beekarni, 13—Samoli and 14—Jhaid in Kotra RIC in Kotra tahsil.",
+   "shares": {
+    "149": {
+     "pct": 75.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 149,
@@ -2380,7 +3512,13 @@
    "winner_07": "Surendra Singh Rathore",
    "electors_07": 156651,
    "note": "Removed from Udaipur district — became part of the new Rajsamand district configuration.",
-   "extent": "Kumbhalgarh and Amet tahsils."
+   "extent": "Kumbhalgarh and Amet tahsils.",
+   "shares": {
+    "174": {
+     "pct": 65.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 150,
@@ -2395,7 +3533,13 @@
    "winner_07": "Hari Singh (PANNA Singh)",
    "electors_07": 150188,
    "note": "Removed from Udaipur district — continued as Bhim under Rajsamand district.",
-   "extent": "Bhim and Deogarh tahsils."
+   "extent": "Bhim and Deogarh tahsils.",
+   "shares": {
+    "173": {
+     "pct": 69.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 151,
@@ -2410,7 +3554,13 @@
    "winner_07": "Kalulal Gurjar",
    "electors_07": 149003,
    "note": "Retained; expanded into rural Bhilwara-tahsil ILRCs while the Pur belt was redistributed.",
-   "extent": "Mandal tahsil ; and Pur RIC in Bhilwara tahsil"
+   "extent": "Mandal tahsil ; and Pur RIC in Bhilwara tahsil",
+   "shares": {
+    "178": {
+     "pct": 67.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 152,
@@ -2425,7 +3575,13 @@
    "winner_07": "Kailash Trivedi",
    "electors_07": 134771,
    "note": "Continued with almost the same territorial base but officially renamed from Sahada to Sahara.",
-   "extent": "Sahada and Raipur tahsils."
+   "extent": "Sahada and Raipur tahsils.",
+   "shares": {
+    "179": {
+     "pct": 91.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 153,
@@ -2442,7 +3598,21 @@
    "winner_07": "Subash Bahediya",
    "electors_07": 218501,
    "note": "Reduced to the Bhilwara Municipal Council area; the surrounding rural areas were transferred to Mandal and Sahara.",
-   "extent": "Bhilwara tahsil (excluding Pur RIC)."
+   "extent": "Bhilwara tahsil (excluding Pur RIC).",
+   "shares": {
+    "180": {
+     "pct": 10.4,
+     "basis": "approx"
+    },
+    "178": {
+     "pct": 58.8,
+     "basis": "approx"
+    },
+    "179": {
+     "pct": 14.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 154,
@@ -2457,7 +3627,13 @@
    "winner_07": "Shivcharan Mathur",
    "electors_07": 156728,
    "note": "Direct continuity, with Bijoliya and parts of Kotri tehsil added.",
-   "extent": "Mandalgarh tahsil; and Badlias RIC in Kotri tahsil."
+   "extent": "Mandalgarh tahsil; and Badlias RIC in Kotri tahsil.",
+   "shares": {
+    "183": {
+     "pct": 83.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 155,
@@ -2472,7 +3648,13 @@
    "winner_07": "Shivji Ram Meena",
    "electors_07": 144572,
    "note": "Direct continuity with minor additions from Kotri tehsil.",
-   "extent": "Jahazpur tahsil; and Paroli RIC in Kotri tahsil."
+   "extent": "Jahazpur tahsil; and Paroli RIC in Kotri tahsil.",
+   "shares": {
+    "182": {
+     "pct": 77.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 156,
@@ -2487,7 +3669,13 @@
    "winner_07": "Ramratan Bairwa",
    "electors_07": 134995,
    "note": "Continued as the district's SC seat, with Banera tehsil added and Kotri areas removed.",
-   "extent": "Shahpura tahsil; and Kotri RIC in Kotri tahsil."
+   "extent": "Shahpura tahsil; and Kotri RIC in Kotri tahsil.",
+   "shares": {
+    "181": {
+     "pct": 69.8,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 157,
@@ -2503,7 +3691,17 @@
    "winner_07": "Ramlal",
    "electors_07": 132345,
    "note": "Abolished — the Banera name disappeared; the tehsil was divided mainly between the enlarged Asind and Shahpura (SC).",
-   "extent": "Banera and Hurda tahsils."
+   "extent": "Banera and Hurda tahsils.",
+   "shares": {
+    "177": {
+     "pct": 53.3,
+     "basis": "measured"
+    },
+    "181": {
+     "pct": 41.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 158,
@@ -2518,7 +3716,13 @@
    "winner_07": "Hagami Lal",
    "electors_07": 133647,
    "note": "Expanded substantially — retained its name and absorbed the former Hurda and Banera areas.",
-   "extent": "Asind tahsil."
+   "extent": "Asind tahsil.",
+   "shares": {
+    "177": {
+     "pct": 82.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 159,
@@ -2533,7 +3737,13 @@
    "winner_07": "Surendra Goyal",
    "electors_07": 144660,
    "note": "Retained with modified boundaries — expanded into Raipur tehsil (Kot Kirana, Babra, Sendra).",
-   "extent": "Jaitaran tahsil ; and P. Cs. 18—Babra and 19—Surnei in Sendra RIC in Raipur tahsil."
+   "extent": "Jaitaran tahsil ; and P. Cs. 18—Babra and 19—Surnei in Sendra RIC in Raipur tahsil.",
+   "shares": {
+    "116": {
+     "pct": 88.4,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 160,
@@ -2549,7 +3759,17 @@
    "winner_07": "C.d. Dewal",
    "electors_07": 130608,
    "note": "Abolished — its Raipur-tehsil territory was merged into Jaitaran and Sojat (SC).",
-   "extent": "Raipur tahsil (excluding PCs. 18—Babra and 19—Sumel in Sendra RIC) and Bagri RIC (excluding PCs. 21—Khokra, 22—Bagri 23—Hariyamali 28—Gura—Kalan and 32—Siyat) in Sojat tahsil."
+   "extent": "Raipur tahsil (excluding PCs. 18—Babra and 19—Sumel in Sendra RIC) and Bagri RIC (excluding PCs. 21—Khokra, 22—Bagri 23—Hariyamali 28—Gura—Kalan and 32—Siyat) in Sojat tahsil.",
+   "shares": {
+    "116": {
+     "pct": 39.0,
+     "basis": "measured"
+    },
+    "117": {
+     "pct": 35.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 161,
@@ -2564,7 +3784,13 @@
    "winner_07": "Laxmi Narayan Dave",
    "electors_07": 130078,
    "note": "Retained but converted from General to SC-reserved, consolidated on Sojat tehsil.",
-   "extent": "Sojat Municipal Board, Sojat and Sheopura RICs and P. Cs- 21—Khokra 22—Bagri 23—Hariyamali 28—Gurakalan and 32—Siyat in Bagri RIC in Sojat tahsil; and Manda RIC (excluding P. Cs. 17—Saran and 20—Siriyari) in Kharchi tahsil"
+   "extent": "Sojat Municipal Board, Sojat and Sheopura RICs and P. Cs- 21—Khokra 22—Bagri 23—Hariyamali 28—Gurakalan and 32—Siyat in Bagri RIC in Sojat tahsil; and Manda RIC (excluding P. Cs. 17—Saran and 20—Siriyari) in Kharchi tahsil",
+   "shares": {
+    "117": {
+     "pct": 68.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 162,
@@ -2580,7 +3806,17 @@
    "winner_07": "Khushveer Singh",
    "electors_07": 134914,
    "note": "Abolished — the Kharchi name disappeared; its territory was merged into the new Marwar Junction and Bali.",
-   "extent": "Kharchi and Ranawas RICs. and PCs. 17—Saran and 20—Siriyari in Manda RIC in Kharchi tahsil; and Magartalao RIC in Desuri tahsil."
+   "extent": "Kharchi and Ranawas RICs. and PCs. 17—Saran and 20—Siriyari in Manda RIC in Kharchi tahsil; and Magartalao RIC in Desuri tahsil.",
+   "shares": {
+    "119": {
+     "pct": 78.1,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 2.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 163,
@@ -2596,7 +3832,17 @@
    "winner_07": "Laxmi Barupal",
    "electors_07": 146985,
    "note": "Abolished — Desuri was merged into Bali (Sadri/Nadol side) with the Magartalao circle going to Marwar Junction.",
-   "extent": "Desuri tahsil (excluding Magartalao RIC) and Khod"
+   "extent": "Desuri tahsil (excluding Magartalao RIC) and Khod",
+   "shares": {
+    "120": {
+     "pct": 30.2,
+     "basis": "approx"
+    },
+    "119": {
+     "pct": 18.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 164,
@@ -2612,7 +3858,17 @@
    "winner_07": "Gyan Chand Parakh",
    "electors_07": 181908,
    "note": "Retained as a compact seat (Pali Municipal Council + Rohat); its rural tahsil areas passed to Sumerpur.",
-   "extent": "Pali tahsil (excluding Gundoj and Khod RICs.)"
+   "extent": "Pali tahsil (excluding Gundoj and Khod RICs.)",
+   "shares": {
+    "118": {
+     "pct": 81.1,
+     "basis": "approx"
+    },
+    "121": {
+     "pct": 17.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 165,
@@ -2628,7 +3884,17 @@
    "winner_07": "Madan Rathor",
    "electors_07": 157602,
    "note": "Retained around Sumerpur; its Bali-tahsil RICs (Sanderao, Takhatgarh) returned to Bali.",
-   "extent": "Gundoj RIC in Pali tahsil; and Sanderao and Takhatgarh RICs. and Sumerpur RIC (excluding P. Cs 22—Bisalpur and 23—Perivakalan) in Bali tahsil."
+   "extent": "Gundoj RIC in Pali tahsil; and Sanderao and Takhatgarh RICs. and Sumerpur RIC (excluding P. Cs 22—Bisalpur and 23—Perivakalan) in Bali tahsil.",
+   "shares": {
+    "121": {
+     "pct": 71.5,
+     "basis": "approx"
+    },
+    "120": {
+     "pct": 20.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 166,
@@ -2643,7 +3909,13 @@
    "winner_07": "Puspendra Singh",
    "electors_07": 146822,
    "note": "Retained with modified boundaries — the whole Bali tahsil plus Desuri-side additions.",
-   "extent": "P. Cs. 22—Bisalpur and 23—Perivakalan in Sumerpur RIC Bali Municipal Board, Bali and Bera RICs. in Bali tahsil."
+   "extent": "P. Cs. 22—Bisalpur and 23—Perivakalan in Sumerpur RIC Bali Municipal Board, Bali and Bera RICs. in Bali tahsil.",
+   "shares": {
+    "120": {
+     "pct": 93.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 167,
@@ -2658,7 +3930,13 @@
    "winner_07": "Sanyam Lodha",
    "electors_07": 157590,
    "note": "Retained with modified boundaries — now cleanly Sirohi plus Sheoganj tehsils.",
-   "extent": "Sheoganj tahsil; Sirohi RIC and P. Cs. 10—Kalandari 12—Bhootgam 13—Mandvariya 14—Navara 15—Mohabbat Nagar and 16—Fungani in Kalandari RIC in Sirohi tahsil."
+   "extent": "Sheoganj tahsil; Sirohi RIC and P. Cs. 10—Kalandari 12—Bhootgam 13—Mandvariya 14—Navara 15—Mohabbat Nagar and 16—Fungani in Kalandari RIC in Sirohi tahsil.",
+   "shares": {
+    "146": {
+     "pct": 93.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 168,
@@ -2673,7 +3951,13 @@
    "winner_07": "Samaram",
    "electors_07": 177361,
    "note": "Retained with ST reservation unchanged — Pindwara plus the Abu Road/Mount Abu belt.",
-   "extent": "Pindwara tahsil; and Abu Road tahsil (excluding P. Cs. 7—Chanar 8—Girwar 9—Chandela 11—Moongthala in Kiwarli RIC and P. Cs. z—Santpur 4—Manpur and 6—Mawal in Abu Road RIC)."
+   "extent": "Pindwara tahsil; and Abu Road tahsil (excluding P. Cs. 7—Chanar 8—Girwar 9—Chandela 11—Moongthala in Kiwarli RIC and P. Cs. z—Santpur 4—Manpur and 6—Mawal in Abu Road RIC).",
+   "shares": {
+    "147": {
+     "pct": 86.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 169,
@@ -2688,7 +3972,13 @@
    "winner_07": "Jagasiram Koli",
    "electors_07": 158591,
    "note": "Retained but converted from General to SC-reserved, gaining the Abu Road MB area.",
-   "extent": "Reodar tahsil; Kalandari RIC (excluding P.C 10—Kalandari 12—Bhootgam 13—Mandvariya 14—Navara 15—Mohabbat Nagar and i6r—Fungani) in Sirohi tahsil; and P.Cs. 7—Chanar 8—Girwar9—Chandela and 11—Moongthala in Kiwarli RIC, and P.Cs. 2—Santpur, 4—Manpur and 6—Mawal in Abu Road RIC in Abu Road tahsil."
+   "extent": "Reodar tahsil; Kalandari RIC (excluding P.C 10—Kalandari 12—Bhootgam 13—Mandvariya 14—Navara 15—Mohabbat Nagar and i6r—Fungani) in Sirohi tahsil; and P.Cs. 7—Chanar 8—Girwar9—Chandela and 11—Moongthala in Kiwarli RIC, and P.Cs. 2—Santpur, 4—Manpur and 6—Mawal in Abu Road RIC in Abu Road tahsil.",
+   "shares": {
+    "148": {
+     "pct": 63.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 170,
@@ -2704,7 +3994,17 @@
    "winner_07": "Jeewaram Choudhary",
    "electors_07": 220922,
    "note": "Retained on a redefined part of Sanchore tehsil; the Sarnau circle went to Raniwara.",
-   "extent": "Sanchore tahsil."
+   "extent": "Sanchore tahsil.",
+   "shares": {
+    "144": {
+     "pct": 78.1,
+     "basis": "approx"
+    },
+    "145": {
+     "pct": 11.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 171,
@@ -2720,7 +4020,17 @@
    "winner_07": "Arjun Singh Deora",
    "electors_07": 165655,
    "note": "Continued but relocated — from mainly rural Bhinmal tahsil to a seat centred on Raniwara tehsil; its old Bhinmal-tahsil territory largely joined Bhinmal.",
-   "extent": "Bhinmal tahsil (excluding Bhinmal Municipal Board, Bhinmal, Narsana and Modran RICs.)"
+   "extent": "Bhinmal tahsil (excluding Bhinmal Municipal Board, Bhinmal, Narsana and Modran RICs.)",
+   "shares": {
+    "145": {
+     "pct": 61.2,
+     "basis": "approx"
+    },
+    "143": {
+     "pct": 35.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 172,
@@ -2736,7 +4046,17 @@
    "winner_07": "Samarjit Singh",
    "electors_07": 195461,
    "note": "Retained; gained the whole Bagora tehsil while losing the Surana RIC belt to the Jalore side.",
-   "extent": "Bhinmal Municipal Board, Bhinmal, Narsana and Modran RICs in Bhinmal tahsil, and Surana RIC in Jalore tahsil"
+   "extent": "Bhinmal Municipal Board, Bhinmal, Narsana and Modran RICs in Bhinmal tahsil, and Surana RIC in Jalore tahsil",
+   "shares": {
+    "143": {
+     "pct": 53.1,
+     "basis": "approx"
+    },
+    "142": {
+     "pct": 40.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 173,
@@ -2752,7 +4072,17 @@
    "winner_07": "Jogeshwar Garg",
    "electors_07": 170888,
    "note": "Substantially reorganised — kept the Jalore MB core and SC status, took in Sayla tehsil, and ceded ILRC Bagra to Ahore.",
-   "extent": "Jalore tahsil (excluding Surana RIC)."
+   "extent": "Jalore tahsil (excluding Surana RIC).",
+   "shares": {
+    "142": {
+     "pct": 68.4,
+     "basis": "approx"
+    },
+    "141": {
+     "pct": 28.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 174,
@@ -2767,7 +4097,13 @@
    "winner_07": "Shankar Singh Rajpurohit",
    "electors_07": 150257,
    "note": "Retained — Ahore tehsil plus ILRC Bagra of Jalore tehsil.",
-   "extent": "Ahore tahsil."
+   "extent": "Ahore tahsil.",
+   "shares": {
+    "141": {
+     "pct": 88.9,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 175,
@@ -2782,7 +4118,13 @@
    "winner_07": "Teekam Chand Kant",
    "electors_07": 172803,
    "note": "Retained with the SC reservation removed; keeps Siwana tehsil plus the Sindhari circle.",
-   "extent": "Siwana tahsil; and Sindhari RIC in Barmer tahsil"
+   "extent": "Siwana tahsil; and Sindhari RIC in Barmer tahsil",
+   "shares": {
+    "138": {
+     "pct": 88.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 176,
@@ -2798,7 +4140,17 @@
    "winner_07": "Amara Ram",
    "electors_07": 224702,
    "note": "Reorganised around the Balotra Municipal Board and surrounding ILRCs; the Patodi circle went to the new Baytoo.",
-   "extent": "Pachpadra tahsil; and Gidan RIC (excluding P.Cs. 55—Rateu 56—Kasumbla and 57—Sawau Padam Singh) in Barmer tahsil."
+   "extent": "Pachpadra tahsil; and Gidan RIC (excluding P.Cs. 55—Rateu 56—Kasumbla and 57—Sawau Padam Singh) in Barmer tahsil.",
+   "shares": {
+    "137": {
+     "pct": 52.0,
+     "basis": "approx"
+    },
+    "136": {
+     "pct": 40.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 177,
@@ -2814,7 +4166,17 @@
    "winner_07": "Taga Ram",
    "electors_07": 193735,
    "note": "Simplified to cover only Barmer tehsil; its Baitu belt became the core of the new Baytoo seat.",
-   "extent": "Barmer Municipal Board and Barmer, Bisala and Baitu RICs in Barmer tahsil."
+   "extent": "Barmer Municipal Board and Barmer, Bisala and Baitu RICs in Barmer tahsil.",
+   "shares": {
+    "135": {
+     "pct": 42.8,
+     "basis": "approx"
+    },
+    "136": {
+     "pct": 33.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 178,
@@ -2829,7 +4191,13 @@
    "winner_07": "Hemaram Choudhary",
    "electors_07": 195191,
    "note": "Continued as Gudha Malani on its tehsil, excluding the Sindhari circle.",
-   "extent": "Guda, Nokhara, Dhorimana and Sarnu RICsin Barmer tahsil."
+   "extent": "Guda, Nokhara, Dhorimana and Sarnu RICsin Barmer tahsil.",
+   "shares": {
+    "139": {
+     "pct": 63.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 179,
@@ -2845,7 +4213,17 @@
    "winner_07": "Gangaram Choudhary",
    "electors_07": 205361,
    "note": "Became SC-reserved; ILRC Bijrar was transferred to Sheo.",
-   "extent": "Chohtan tahsil."
+   "extent": "Chohtan tahsil.",
+   "shares": {
+    "140": {
+     "pct": 76.2,
+     "basis": "measured"
+    },
+    "134": {
+     "pct": 21.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 180,
@@ -2860,7 +4238,13 @@
    "winner_07": "Jalam Singh",
    "electors_07": 192409,
    "note": "Expanded — Sheo plus Ramsar tehsil and Bijrar; its Fatehgarh RIC pocket returned to Jaisalmer.",
-   "extent": "Sheo tahsil; P. Cs. 55—Rateu, 56—Kasumbla and 57—Sawau Padam Singh in Gidan RIC and Ramsar RIG in Barmer"
+   "extent": "Sheo tahsil; P. Cs. 55—Rateu, 56—Kasumbla and 57—Sawau Padam Singh in Gidan RIC and Ramsar RIG in Barmer",
+   "shares": {
+    "134": {
+     "pct": 59.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 181,
@@ -2876,7 +4260,17 @@
    "winner_07": "Sang Singh",
    "electors_07": 218965,
    "note": "The single district-wide seat was split in two: Jaisalmer (with full Fatehgarh tehsil) and the newly carved Pokaran.",
-   "extent": "Jaisalmer district (excluding Fatehgarh RIC in Jaisalmer tahsil)."
+   "extent": "Jaisalmer district (excluding Fatehgarh RIC in Jaisalmer tahsil).",
+   "shares": {
+    "132": {
+     "pct": 72.3,
+     "basis": "measured"
+    },
+    "133": {
+     "pct": 26.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 182,
@@ -2892,7 +4286,17 @@
    "winner_07": "Babu Singh Rathore",
    "electors_07": 197230,
    "note": "Core Shergarh ILRCs retained; the Setrawa circle went to the newly created Lohawat.",
-   "extent": "Shergarh tahsil."
+   "extent": "Shergarh tahsil.",
+   "shares": {
+    "124": {
+     "pct": 61.3,
+     "basis": "measured"
+    },
+    "123": {
+     "pct": 21.1,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 183,
@@ -2937,7 +4341,13 @@
    "winner_07": "Mohan Meghawal",
    "electors_07": 301232,
    "note": "Continued as Soorsagar (standardized spelling) but the SC reservation was dropped — the district's reservations moved to Bhopalgarh and Bilara.",
-   "extent": "Wards 1, 2, 37 and 39 in Jodhpur Municipal Council, Jodhpur (Rural) Keru and Jajiwal RICs. in Jodhpur tahsil"
+   "extent": "Wards 1, 2, 37 and 39 in Jodhpur Municipal Council, Jodhpur (Rural) Keru and Jajiwal RICs. in Jodhpur tahsil",
+   "shares": {
+    "129": {
+     "pct": 6.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 186,
@@ -2952,7 +4362,13 @@
    "winner_07": "Ram Singh Vishnoi",
    "electors_07": 161435,
    "note": "Retained and expanded — absorbed rural fringes of Jodhpur tehsil (Keroo, Mandor, Pal belt).",
-   "extent": "Dhawa, Luni (Chawan) and Bisalpur RICs. in Jodhpur tahsil; and Kaparda RIC in"
+   "extent": "Dhawa, Luni (Chawan) and Bisalpur RICs. in Jodhpur tahsil; and Kaparda RIC in",
+   "shares": {
+    "130": {
+     "pct": 58.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 187,
@@ -2967,7 +4383,13 @@
    "winner_07": "Ram Narain Dudi",
    "electors_07": 190122,
    "note": "Continued as a whole-tehsil seat and became SC-reserved, with Bisalpur and Dangiyawas added.",
-   "extent": "Bilara Bilara tahsil (excluding Kaparda, Bhopalgarh and Asop RICs)."
+   "extent": "Bilara Bilara tahsil (excluding Kaparda, Bhopalgarh and Asop RICs).",
+   "shares": {
+    "131": {
+     "pct": 68.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 188,
@@ -2982,7 +4404,13 @@
    "winner_07": "Mahipal Maderna",
    "electors_07": 185547,
    "note": "Transformed from a scattered RIC-based seat into a whole-tehsil constituency and picked up the SC reservation.",
-   "extent": "Bhopalgarh and Asop RICs in Bilara tahsil; and Baori RIC (excluding P. C 24—Umaid Nagar) and Osian RIC (excluding P. C. 1—Osian) in Osian tahsil."
+   "extent": "Bhopalgarh and Asop RICs in Bilara tahsil; and Baori RIC (excluding P. C 24—Umaid Nagar) and Osian RIC (excluding P. C. 1—Osian) in Osian tahsil.",
+   "shares": {
+    "126": {
+     "pct": 96.7,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 189,
@@ -2999,7 +4427,17 @@
    "winner_07": "Banne Singh",
    "electors_07": 173901,
    "note": "Redefined compactly around its own tehsil ILRCs; Bapini went to the new Lohawat and the Baori belt toward Bhopalgarh.",
-   "extent": "P. C. 1—Osian in Osian RIC, P.C. 24^—Umaid Nagar in Baori RIC, Mathania RIC and Bhikamkore RIC in Osian tahsil; and P.Cs. 13—Ahu, 14—Esru and 22—Chadi in Ahu RIC in Phalodi tahsil."
+   "extent": "P. C. 1—Osian in Osian RIC, P.C. 24^—Umaid Nagar in Baori RIC, Mathania RIC and Bhikamkore RIC in Osian tahsil; and P.Cs. 13—Ahu, 14—Esru and 22—Chadi in Ahu RIC in Phalodi tahsil.",
+   "shares": {
+    "125": {
+     "pct": 23.3,
+     "basis": "measured"
+    },
+    "126": {
+     "pct": 76.6,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 190,
@@ -3015,7 +4453,17 @@
    "winner_07": "Ram Narayan Vishnoi",
    "electors_07": 224675,
    "note": "Shrank significantly — retained the core ILRCs (Phalodi, Bap, part of Aau) while the Lohawat/Aau belt went to the new Lohawat seat.",
-   "extent": "Phalodi tahsil (excluding P.Cs. 13—Ahu, 14—Esru and 22—Chadi in Ahu RIC)."
+   "extent": "Phalodi tahsil (excluding P.Cs. 13—Ahu, 14—Esru and 22—Chadi in Ahu RIC).",
+   "shares": {
+    "122": {
+     "pct": 77.7,
+     "basis": "approx"
+    },
+    "123": {
+     "pct": 19.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 191,
@@ -3031,7 +4479,17 @@
    "winner_07": "Gajendra Singh",
    "electors_07": 193372,
    "note": "Shrank to a partial-tehsil seat around Nagaur town (picking up Mundwa town); its Khinwasar/Kharnal belt went to the new Khinwsar.",
-   "extent": "Nagaur Municipal Board and P. Cs. 2—Balwa and 9—Nagaur in Nagaur RIC, Guda Bhagwandas and Khinwasar RICs and Alai RIC (excluding P. Cs. 54—Rohini, 55—Shyamsar, 56—Chau and 61—Chilo) in Nagaur tahsil."
+   "extent": "Nagaur Municipal Board and P. Cs. 2—Balwa and 9—Nagaur in Nagaur RIC, Guda Bhagwandas and Khinwasar RICs and Alai RIC (excluding P. Cs. 54—Rohini, 55—Shyamsar, 56—Chau and 61—Chilo) in Nagaur tahsil.",
+   "shares": {
+    "109": {
+     "pct": 31.9,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 67.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 192,
@@ -3046,7 +4504,13 @@
    "winner_07": "Madan Lal Meghwal",
    "electors_07": 157400,
    "note": "Direct continuity with SC reservation retained; gained ILRC Jodhiyasi.",
-   "extent": "Jayal tahsil; and P. Cs. 54—Rohini 55—Shyamsar"
+   "extent": "Jayal tahsil; and P. Cs. 54—Rohini 55—Shyamsar",
+   "shares": {
+    "108": {
+     "pct": 72.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 193,
@@ -3061,7 +4525,13 @@
    "winner_07": "Manohar Singh",
    "electors_07": 165673,
    "note": "Continued as the renamed/expanded Ladnun, gaining ILRC Noowa of Deedwana tehsil.",
-   "extent": "Ladnu tahsil; and P. Cs., 2—Kaprod 3—Palot, 4—Kalwani, 7—Cholukhan, 8—Lalasari, 9—Mawa, 10—Supka and 11—Singhana in Deedwana RIC in Deedwana tahsil."
+   "extent": "Ladnu tahsil; and P. Cs., 2—Kaprod 3—Palot, 4—Kalwani, 7—Cholukhan, 8—Lalasari, 9—Mawa, 10—Supka and 11—Singhana in Deedwana RIC in Deedwana tahsil.",
+   "shares": {
+    "106": {
+     "pct": 83.3,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 194,
@@ -3076,7 +4546,13 @@
    "winner_07": "Yunus Khan",
    "electors_07": 166083,
    "note": "Redefined more compactly around its own tehsil, shedding the old Ladnu-tahsil PCs.",
-   "extent": "Ladnu tahsil; and P. Cs., 2—Kaprod 3—Palot, 4—Kalwani, 7—Cholukhan, 8—Lalasari, 9—Mawa, 10—Supka and 11—Singhana in Deedwana RIC in Deedwana tahsil."
+   "extent": "Ladnu tahsil; and P. Cs., 2—Kaprod 3—Palot, 4—Kalwani, 7—Cholukhan, 8—Lalasari, 9—Mawa, 10—Supka and 11—Singhana in Deedwana RIC in Deedwana tahsil.",
+   "shares": {
+    "107": {
+     "pct": 75.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 195,
@@ -3092,7 +4568,13 @@
    "winner_07": "Harish Chand",
    "electors_07": 170414,
    "note": "Core continued as Nawan; outer areas contributed to the newly stitched Khinwsar.",
-   "extent": "Nawan tahsil (excluding P. Cs. 3—Rooppura Torda, 4—Rasal, 5—Anandpura, 6—Jilia and 7—Sabalpura in Kuchaman RIC and P.Cs. 14—Mithari, 16—Palada 17^—Mandawara and 18—S argot in Nawan RIC)."
+   "extent": "Nawan tahsil (excluding P. Cs. 3—Rooppura Torda, 4—Rasal, 5—Anandpura, 6—Jilia and 7—Sabalpura in Kuchaman RIC and P.Cs. 14—Mithari, 16—Palada 17^—Mandawara and 18—S argot in Nawan RIC).",
+   "shares": {
+    "115": {
+     "pct": 82.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 196,
@@ -3108,7 +4590,17 @@
    "winner_07": "Bhanwar Lal Rajpurohit",
    "electors_07": 179790,
    "note": "Continued as a clean single-tehsil Makrana; its Kuchaman-area PCs returned to Nawan.",
-   "extent": "Makrana RIC and P.Cs. 29—Ranigaon, 30—Khardiya, 31,—Ramsiya, 32—Indokaand 33—Sarnawara in Gachipura RIC in Parbatsar tahsil; and P. Cs. 3—Rooppura Torda, 4—Rasal, 5—Anandpura, 6—Jilia and 7—Sabalpura in Kuchaman RIC and P. Cs. 14—Mithari, 16—Palada. 17—Mandawara and 18—Sargot in Nawan RIC in Nawan tahsil."
+   "extent": "Makrana RIC and P.Cs. 29—Ranigaon, 30—Khardiya, 31,—Ramsiya, 32—Indokaand 33—Sarnawara in Gachipura RIC in Parbatsar tahsil; and P. Cs. 3—Rooppura Torda, 4—Rasal, 5—Anandpura, 6—Jilia and 7—Sabalpura in Kuchaman RIC and P. Cs. 14—Mithari, 16—Palada. 17—Mandawara and 18—Sargot in Nawan RIC in Nawan tahsil.",
+   "shares": {
+    "113": {
+     "pct": 65.3,
+     "basis": "measured"
+    },
+    "115": {
+     "pct": 4.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 197,
@@ -3123,7 +4615,13 @@
    "winner_07": "Rakesh Meghwal",
    "electors_07": 163467,
    "note": "Retained but flipped from SC-reserved to General, gaining the Kuchaman City belt of Nawan tehsil.",
-   "extent": "Parbatsar tahsil (excluding Makrana RIC and P. Cs. 29—Ranigaon, 30—Khardiya, 31—Ramsiya, 32— Indoka and 33—Sarnawara in Gachipura RIC)"
+   "extent": "Parbatsar tahsil (excluding Makrana RIC and P. Cs. 29—Ranigaon, 30—Khardiya, 31—Ramsiya, 32— Indoka and 33—Sarnawara in Gachipura RIC)",
+   "shares": {
+    "114": {
+     "pct": 65.5,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 198,
@@ -3138,7 +4636,13 @@
    "winner_07": "Richpal Singh Mirdha",
    "electors_07": 178706,
    "note": "One of the least-changed seats — essentially the single Degana tehsil.",
-   "extent": "Degana tahsil."
+   "extent": "Degana tahsil.",
+   "shares": {
+    "112": {
+     "pct": 88.0,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 199,
@@ -3154,7 +4658,17 @@
    "winner_07": "Bhanwar Singh",
    "electors_07": 167748,
    "note": "Became compact around its own ILRCs and newly SC-reserved; the Nokha Chandawatan circle went to Khinwsar.",
-   "extent": "Merta tahsil (excluding P. Cs. 14—Nokha, 15—Oladan, 16—Chapri Khurd, 17—Gotan, 18—Riyan Shyamdas 19—Phalodi, 24—Dhawaand 25—Harsolaoin Gotan RIC.)"
+   "extent": "Merta tahsil (excluding P. Cs. 14—Nokha, 15—Oladan, 16—Chapri Khurd, 17—Gotan, 18—Riyan Shyamdas 19—Phalodi, 24—Dhawaand 25—Harsolaoin Gotan RIC.)",
+   "shares": {
+    "111": {
+     "pct": 85.8,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 11.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 200,
@@ -3171,7 +4685,17 @@
    "winner_07": "Usha Punia",
    "electors_07": 188574,
    "note": "The Mundwa name disappeared — Mundwa town joined the reconstituted Nagaur, while the rural remainder was absorbed by Nawan and Khinwsar.",
-   "extent": "Mundwa and Sankhwas RICs and Nagaur RIC (excluding Nagaur Municipal Board and P.Cs. 2—Balwa and 9—Nagaur) in Nagaur tahsil; and PCs. 14—Nokha, 15—Oladan, 16—Chapri Khurd, 17—Gotan, 18—Riyan Shyamdas, 19—Phalodi, 24—Dhawa and 25*—Harsolao in Gotan RIC"
+   "extent": "Mundwa and Sankhwas RICs and Nagaur RIC (excluding Nagaur Municipal Board and P.Cs. 2—Balwa and 9—Nagaur) in Nagaur tahsil; and PCs. 14—Nokha, 15—Oladan, 16—Chapri Khurd, 17—Gotan, 18—Riyan Shyamdas, 19—Phalodi, 24—Dhawa and 25*—Harsolao in Gotan RIC",
+   "shares": {
+    "109": {
+     "pct": 28.3,
+     "basis": "approx"
+    },
+    "110": {
+     "pct": 68.4,
+     "basis": "approx"
+    }
+   }
   }
  ],
  "post2008_constituencies": [
