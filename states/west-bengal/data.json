@@ -227,7 +227,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "PARESH CHANDRA ADHIKARY",
-   "electors_07": 164977
+   "electors_07": 164977,
+   "shares": {
+    "1": {
+     "pct": 74.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 2,
@@ -242,7 +248,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "HARISH CHANDRA BARMAN",
-   "electors_07": 160616
+   "electors_07": 160616,
+   "shares": {
+    "5": {
+     "pct": 87.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 3,
@@ -257,7 +269,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ANANTA ROY",
-   "electors_07": 164647
+   "electors_07": 164647,
+   "shares": {
+    "2": {
+     "pct": 78.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 4,
@@ -272,7 +290,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "DIPAK CHANDRA SARKAR",
-   "electors_07": 164993
+   "electors_07": 164993,
+   "shares": {
+    "3": {
+     "pct": 91.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 5,
@@ -287,7 +311,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "AKSHAY THAKUR",
-   "electors_07": 182783
+   "electors_07": 182783,
+   "shares": {
+    "4": {
+     "pct": 58.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 6,
@@ -302,7 +332,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "DR. MD. FAZLE HAQUE",
-   "electors_07": 183112
+   "electors_07": 183112,
+   "shares": {
+    "6": {
+     "pct": 83.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 7,
@@ -317,7 +353,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "ASHOK MANDAL",
-   "electors_07": 177455
+   "electors_07": 177455,
+   "shares": {
+    "7": {
+     "pct": 70.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 8,
@@ -332,7 +374,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "TAMSER ALI",
-   "electors_07": 153893
+   "electors_07": 153893,
+   "shares": {
+    "8": {
+     "pct": 71.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 9,
@@ -347,7 +395,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ALAKA BARMAN",
-   "electors_07": 152144
+   "electors_07": 152144,
+   "shares": {
+    "9": {
+     "pct": 82.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 10,
@@ -362,7 +416,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "DASRATH TIRKEY",
-   "electors_07": 151171
+   "electors_07": 151171,
+   "shares": {
+    "10": {
+     "pct": 88.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 11,
@@ -377,7 +437,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "MANOHAR TIRKEY",
-   "electors_07": 138261
+   "electors_07": 138261,
+   "shares": {
+    "11": {
+     "pct": 83.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 12,
@@ -392,7 +458,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "NIRMAL DAS",
-   "electors_07": 171457
+   "electors_07": 171457,
+   "shares": {
+    "12": {
+     "pct": 76.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 13,
@@ -407,7 +479,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "JOGESH CH. BARMAN",
-   "electors_07": 158912
+   "electors_07": 158912,
+   "shares": {
+    "13": {
+     "pct": 62.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 14,
@@ -422,7 +500,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "KUMARI KUJUR",
-   "electors_07": 141033
+   "electors_07": 141033,
+   "shares": {
+    "14": {
+     "pct": 67.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 15,
@@ -437,7 +521,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "LAKSHMI KANTA ROY",
-   "electors_07": 150181
+   "electors_07": 150181,
+   "shares": {
+    "15": {
+     "pct": 75.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 16,
@@ -452,7 +542,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SUKHMOITH (PITING) ORAON",
-   "electors_07": 160050
+   "electors_07": 160050,
+   "shares": {
+    "21": {
+     "pct": 66.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 17,
@@ -467,7 +563,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "BACHCHAMOHAN ROY",
-   "electors_07": 159717
+   "electors_07": 159717,
+   "shares": {
+    "16": {
+     "pct": 39.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 18,
@@ -482,7 +584,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SOMRA LAKRA",
-   "electors_07": 140163
+   "electors_07": 140163,
+   "shares": {
+    "20": {
+     "pct": 57.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 19,
@@ -512,7 +620,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "DEBA PRASAD ROY",
-   "electors_07": 145244
+   "electors_07": 145244,
+   "shares": {
+    "17": {
+     "pct": 82.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 21,
@@ -527,7 +641,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MAHENDRA KUMAR ROY",
-   "electors_07": 255133
+   "electors_07": 255133,
+   "shares": {
+    "18": {
+     "pct": 58.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 22,
@@ -542,7 +662,13 @@
    "extent": "",
    "party07": "GNLF",
    "winner_07": "GAULAN LEPCHA",
-   "electors_07": 150858
+   "electors_07": 150858,
+   "shares": {
+    "22": {
+     "pct": 96.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 23,
@@ -557,7 +683,13 @@
    "extent": "",
    "party07": "GNLF",
    "winner_07": "PRANAY RAI",
-   "electors_07": 176498
+   "electors_07": 176498,
+   "shares": {
+    "23": {
+     "pct": 95.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 24,
@@ -572,7 +704,13 @@
    "extent": "",
    "party07": "GNLF",
    "winner_07": "SHANTA CHHETRI",
-   "electors_07": 166846
+   "electors_07": 166846,
+   "shares": {
+    "24": {
+     "pct": 88.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 25,
@@ -587,7 +725,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ASOK BHATTACHARYA",
-   "electors_07": 270969
+   "electors_07": 270969,
+   "shares": {
+    "26": {
+     "pct": 2.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 26,
@@ -602,7 +746,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KISKU CHHOTAN",
-   "electors_07": 220948
+   "electors_07": 220948,
+   "shares": {
+    "27": {
+     "pct": 62.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 27,
@@ -617,7 +767,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ANWARUL HAQUE",
-   "electors_07": 155187
+   "electors_07": 155187,
+   "shares": {
+    "28": {
+     "pct": 62.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 28,
@@ -632,7 +788,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MD. FARUQUE",
-   "electors_07": 162136
+   "electors_07": 162136,
+   "shares": {
+    "29": {
+     "pct": 44.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 29,
@@ -647,7 +809,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "DEEPA DASMUNSI",
-   "electors_07": 169347
+   "electors_07": 169347,
+   "shares": {
+    "30": {
+     "pct": 33.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 30,
@@ -662,7 +830,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "GOKUL ROY",
-   "electors_07": 197549
+   "electors_07": 197549,
+   "shares": {
+    "32": {
+     "pct": 61.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 31,
@@ -677,7 +851,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "CHITTA RANJAN RAY",
-   "electors_07": 204055
+   "electors_07": 204055,
+   "shares": {
+    "35": {
+     "pct": 25.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 32,
@@ -692,7 +872,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "NANI GOPAL ROY",
-   "electors_07": 175282
+   "electors_07": 175282,
+   "shares": {
+    "34": {
+     "pct": 21.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 33,
@@ -707,7 +893,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "NARMADA CHANDRA ROY",
-   "electors_07": 159657
+   "electors_07": 159657,
+   "shares": {
+    "37": {
+     "pct": 38.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 34,
@@ -722,7 +914,13 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "SRIKUMAR MUKHERJEE",
-   "electors_07": 166720
+   "electors_07": 166720,
+   "shares": {
+    "36": {
+     "pct": 63.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 35,
@@ -737,7 +935,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "NARAYAN BISWAS",
-   "electors_07": 192795
+   "electors_07": 192795,
+   "shares": {
+    "41": {
+     "pct": 11.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 36,
@@ -752,7 +956,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "KHARA SOREN",
-   "electors_07": 148472
+   "electors_07": 148472,
+   "shares": {
+    "40": {
+     "pct": 32.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 37,
@@ -767,7 +977,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MAFUJA KHATUN",
-   "electors_07": 175400
+   "electors_07": 175400,
+   "shares": {
+    "38": {
+     "pct": 55.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 38,
@@ -782,7 +998,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "BISWANATH CHOUDHURY",
-   "electors_07": 140400
+   "electors_07": 140400,
+   "shares": {
+    "39": {
+     "pct": 52.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 39,
@@ -797,7 +1019,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KHAGEN MURMU",
-   "electors_07": 148136
+   "electors_07": 148136,
+   "shares": {
+    "43": {
+     "pct": 69.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 40,
@@ -812,7 +1040,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SADHU TUDU",
-   "electors_07": 159544
+   "electors_07": 159544,
+   "shares": {
+    "44": {
+     "pct": 79.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 41,
@@ -828,7 +1062,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "MAHABUBUL HAQUE(BADAL)",
-   "electors_07": 154599
+   "electors_07": 154599,
+   "shares": {
+    "45": {
+     "pct": 49.0,
+     "basis": "approx"
+    },
+    "47": {
+     "pct": 41.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 42,
@@ -843,7 +1087,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "TAJMUL HOSSAIN",
-   "electors_07": 159187
+   "electors_07": 159187,
+   "shares": {
+    "46": {
+     "pct": 53.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 43,
@@ -858,7 +1108,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SAILEN SARKAR",
-   "electors_07": 142689
+   "electors_07": 142689,
+   "shares": {
+    "48": {
+     "pct": 40.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 44,
@@ -873,7 +1129,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "SABITRI MITRA",
-   "electors_07": 140205
+   "electors_07": 140205,
+   "shares": {
+    "48": {
+     "pct": 57.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 45,
@@ -888,7 +1150,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SUBHENDU CHOWDHURY",
-   "electors_07": 184002
+   "electors_07": 184002,
+   "shares": {
+    "50": {
+     "pct": 69.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 46,
@@ -903,7 +1171,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "KRISHNENDU NARAYAN CHOUDHURY",
-   "electors_07": 178125
+   "electors_07": 178125,
+   "shares": {
+    "51": {
+     "pct": 62.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 47,
@@ -918,7 +1192,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ASIMA CHAUDHURI",
-   "electors_07": 135573
+   "electors_07": 135573,
+   "shares": {
+    "49": {
+     "pct": 36.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 48,
@@ -933,7 +1213,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "RUBI NOOR",
-   "electors_07": 146781
+   "electors_07": 146781,
+   "shares": {
+    "53": {
+     "pct": 42.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 49,
@@ -950,7 +1236,17 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BISWANATH GHOSH",
-   "electors_07": 180320
+   "electors_07": 180320,
+   "shares": {
+    "53": {
+     "pct": 9.3,
+     "basis": "approx"
+    },
+    "54": {
+     "pct": 64.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 50,
@@ -965,7 +1261,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "MAINUL HAQUE",
-   "electors_07": 144516
+   "electors_07": 144516,
+   "shares": {
+    "55": {
+     "pct": 57.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 51,
@@ -980,7 +1282,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "TOUAB ALI",
-   "electors_07": 163541
+   "electors_07": 163541,
+   "shares": {
+    "56": {
+     "pct": 35.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 52,
@@ -995,7 +1303,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "JANE ALAM MIAN",
-   "electors_07": 157818
+   "electors_07": 157818,
+   "shares": {
+    "57": {
+     "pct": 35.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 53,
@@ -1010,7 +1324,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PARIKSHIT LET",
-   "electors_07": 153953
+   "electors_07": 153953,
+   "shares": {
+    "60": {
+     "pct": 78.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 54,
@@ -1025,7 +1345,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "ABUL HASNAT",
-   "electors_07": 155798
+   "electors_07": 155798,
+   "shares": {
+    "58": {
+     "pct": 47.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 55,
@@ -1040,7 +1366,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "ABU HENA",
-   "electors_07": 162192
+   "electors_07": 162192,
+   "shares": {
+    "61": {
+     "pct": 74.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 56,
@@ -1055,7 +1387,13 @@
    "extent": "",
    "party07": "WBSP",
    "winner_07": "CHAND MOHAMMAD",
-   "electors_07": 146971
+   "electors_07": 146971,
+   "shares": {
+    "62": {
+     "pct": 68.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 57,
@@ -1070,7 +1408,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MUKUL MONDAL",
-   "electors_07": 163913
+   "electors_07": 163913,
+   "shares": {
+    "65": {
+     "pct": 80.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 58,
@@ -1085,7 +1429,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "BIVAS CHAKRABORTY",
-   "electors_07": 194023
+   "electors_07": 194023,
+   "shares": {
+    "64": {
+     "pct": 44.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 59,
@@ -1100,7 +1450,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "UNUS SARKAR",
-   "electors_07": 181704
+   "electors_07": 181704,
+   "shares": {
+    "76": {
+     "pct": 44.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 60,
@@ -1115,7 +1471,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ANISUR RAHAMAN",
-   "electors_07": 181628
+   "electors_07": 181628,
+   "shares": {
+    "75": {
+     "pct": 63.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 61,
@@ -1130,7 +1492,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "ABU TAHER KHAN",
-   "electors_07": 178741
+   "electors_07": 178741,
+   "shares": {
+    "74": {
+     "pct": 57.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 62,
@@ -1145,7 +1513,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "INSAR ALI BISWAS",
-   "electors_07": 174861
+   "electors_07": 174861,
+   "shares": {
+    "73": {
+     "pct": 68.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 63,
@@ -1160,7 +1534,13 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "MANOJ CHAKRABORTY",
-   "electors_07": 230899
+   "electors_07": 230899,
+   "shares": {
+    "72": {
+     "pct": 31.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 64,
@@ -1175,7 +1555,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "REFATULLAH MD.",
-   "electors_07": 181277
+   "electors_07": 181277,
+   "shares": {
+    "71": {
+     "pct": 27.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 65,
@@ -1190,7 +1576,13 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "APURBA SARKAR (DAVID)",
-   "electors_07": 176098
+   "electors_07": 176098,
+   "shares": {
+    "68": {
+     "pct": 75.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 66,
@@ -1205,7 +1597,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MANABENDRANATH SAHA",
-   "electors_07": 160610
+   "electors_07": 160610,
+   "shares": {
+    "66": {
+     "pct": 75.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 67,
@@ -1220,7 +1618,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "BISWA NATH BANERJEE",
-   "electors_07": 158304
+   "electors_07": 158304,
+   "shares": {
+    "67": {
+     "pct": 58.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 68,
@@ -1235,7 +1639,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "ID MOHAMMAD",
-   "electors_07": 158192
+   "electors_07": 158192,
+   "shares": {
+    "69": {
+     "pct": 71.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 69,
@@ -1250,7 +1660,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PRAFULLA KUMAR BHOWMICK",
-   "electors_07": 174708
+   "electors_07": 174708,
+   "shares": {
+    "77": {
+     "pct": 56.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 70,
@@ -1265,7 +1681,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BISWANATH GHOSH",
-   "electors_07": 171148
+   "electors_07": 171148,
+   "shares": {
+    "79": {
+     "pct": 60.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 71,
@@ -1280,7 +1702,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "KALLOL KHAN",
-   "electors_07": 161809
+   "electors_07": 161809,
+   "shares": {
+    "81": {
+     "pct": 68.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 72,
@@ -1295,7 +1723,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "DHANANJOY MODAK",
-   "electors_07": 161261
+   "electors_07": 161261,
+   "shares": {
+    "80": {
+     "pct": 66.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 73,
@@ -1310,7 +1744,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SHAMSUL ISLAM MOLLAH",
-   "electors_07": 174724
+   "electors_07": 174724,
+   "shares": {
+    "82": {
+     "pct": 33.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 74,
@@ -1325,7 +1765,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BINAY KRISHNA BISWAS",
-   "electors_07": 154039
+   "electors_07": 154039,
+   "shares": {
+    "88": {
+     "pct": 41.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 75,
@@ -1340,7 +1786,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "GHOSH SUBINAY (BHAJAN)",
-   "electors_07": 179330
+   "electors_07": 179330,
+   "shares": {
+    "83": {
+     "pct": 31.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 76,
@@ -1355,7 +1807,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ASOKE BANERJEE",
-   "electors_07": 147325
+   "electors_07": 147325,
+   "shares": {
+    "85": {
+     "pct": 55.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 77,
@@ -1370,7 +1828,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "PUNDARIKAKSHYA SAHA",
-   "electors_07": 148929
+   "electors_07": 148929,
+   "shares": {
+    "84": {
+     "pct": 63.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 78,
@@ -1385,7 +1849,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "AJOY DEY",
-   "electors_07": 203233
+   "electors_07": 203233,
+   "shares": {
+    "86": {
+     "pct": 52.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 79,
@@ -1401,7 +1871,17 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "NAYAN SARKAR",
-   "electors_07": 198270
+   "electors_07": 198270,
+   "shares": {
+    "87": {
+     "pct": 24.6,
+     "basis": "approx"
+    },
+    "88": {
+     "pct": 36.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 80,
@@ -1417,7 +1897,17 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DEBENDRA NATH BISWAS",
-   "electors_07": 220475
+   "electors_07": 220475,
+   "shares": {
+    "89": {
+     "pct": 37.4,
+     "basis": "approx"
+    },
+    "90": {
+     "pct": 26.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 81,
@@ -1432,7 +1922,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ALOKE KUMAR DAS",
-   "electors_07": 200343
+   "electors_07": 200343,
+   "shares": {
+    "87": {
+     "pct": 13.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 82,
@@ -1447,7 +1943,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MALAY KUMAR SAMANTA",
-   "electors_07": 224471
+   "electors_07": 224471,
+   "shares": {
+    "91": {
+     "pct": 3.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 83,
@@ -1462,7 +1964,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BANKIM CHANDRA GHOSH",
-   "electors_07": 205435
+   "electors_07": 205435,
+   "shares": {
+    "93": {
+     "pct": 51.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 84,
@@ -1477,7 +1985,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "DULAL BAR",
-   "electors_07": 182295
+   "electors_07": 182295,
+   "shares": {
+    "94": {
+     "pct": 59.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 85,
@@ -1493,7 +2007,17 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "BHUPENDRA NATH SETH",
-   "electors_07": 199903
+   "electors_07": 199903,
+   "shares": {
+    "95": {
+     "pct": 17.2,
+     "basis": "approx"
+    },
+    "96": {
+     "pct": 59.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 86,
@@ -1508,7 +2032,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "JYOTI PRIYA MALLICK",
-   "electors_07": 218465
+   "electors_07": 218465,
+   "shares": {
+    "97": {
+     "pct": 51.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 87,
@@ -1523,7 +2053,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PRANAB KUMAR BHATTACHARYYA",
-   "electors_07": 197467
+   "electors_07": 197467,
+   "shares": {
+    "100": {
+     "pct": 32.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 88,
@@ -1538,7 +2074,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SATYASEBI KAR",
-   "electors_07": 183719
+   "electors_07": 183719,
+   "shares": {
+    "101": {
+     "pct": 57.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 89,
@@ -1553,7 +2095,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ABDUS SATTAR",
-   "electors_07": 179593
+   "electors_07": 179593,
+   "shares": {
+    "102": {
+     "pct": 60.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 90,
@@ -1568,7 +2116,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "DR. BITHIKA MONDAL",
-   "electors_07": 320342
+   "electors_07": 320342,
+   "shares": {
+    "119": {
+     "pct": 12.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 91,
@@ -1585,7 +2139,21 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RABINDRANATH MANDAL",
-   "electors_07": 287126
+   "electors_07": 287126,
+   "shares": {
+    "115": {
+     "pct": 48.8,
+     "basis": "approx"
+    },
+    "117": {
+     "pct": 17.8,
+     "basis": "approx"
+    },
+    "116": {
+     "pct": 13.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 92,
@@ -1600,7 +2168,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "DR. MORTOZA HOSSAIN",
-   "electors_07": 151028
+   "electors_07": 151028,
+   "shares": {
+    "120": {
+     "pct": 15.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 93,
@@ -1615,7 +2189,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MOSTAFA BIN QUASEM",
-   "electors_07": 165926
+   "electors_07": 165926,
+   "shares": {
+    "98": {
+     "pct": 54.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 94,
@@ -1630,7 +2210,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MD. SHELIM GAIN",
-   "electors_07": 157697
+   "electors_07": 157697,
+   "shares": {
+    "99": {
+     "pct": 46.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 95,
@@ -1646,7 +2232,17 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "NARAYAN MUKHERJEE",
-   "electors_07": 187109
+   "electors_07": 187109,
+   "shares": {
+    "124": {
+     "pct": 26.8,
+     "basis": "approx"
+    },
+    "125": {
+     "pct": 39.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 96,
@@ -1662,7 +2258,17 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "GOUTAM DEB",
-   "electors_07": 143830
+   "electors_07": 143830,
+   "shares": {
+    "125": {
+     "pct": 39.3,
+     "basis": "approx"
+    },
+    "122": {
+     "pct": 35.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 97,
@@ -1677,7 +2283,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ASIM KUMAR DAS",
-   "electors_07": 166060
+   "electors_07": 166060,
+   "shares": {
+    "121": {
+     "pct": 10.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 98,
@@ -1692,7 +2304,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ABANI ROY",
-   "electors_07": 151568
+   "electors_07": 151568,
+   "shares": {
+    "123": {
+     "pct": 55.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 99,
@@ -1707,7 +2325,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "GOPAL GAYEN",
-   "electors_07": 146996
+   "electors_07": 146996,
+   "shares": {
+    "126": {
+     "pct": 33.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 100,
@@ -1722,7 +2346,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "CHITTA RANJAN MANDAL",
-   "electors_07": 140277
+   "electors_07": 140277,
+   "shares": {
+    "127": {
+     "pct": 81.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 101,
@@ -1737,7 +2367,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "SUBHAS NASKAR",
-   "electors_07": 180404
+   "electors_07": 180404,
+   "shares": {
+    "128": {
+     "pct": 73.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 102,
@@ -1752,7 +2388,13 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "JOYKRISHNA HALDER",
-   "electors_07": 163704
+   "electors_07": 163704,
+   "shares": {
+    "129": {
+     "pct": 78.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 103,
@@ -1767,7 +2409,13 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "DEBAPRASAD SARKAR",
-   "electors_07": 164010
+   "electors_07": 164010,
+   "shares": {
+    "136": {
+     "pct": 46.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 104,
@@ -1782,7 +2430,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RAHUL GHOSH",
-   "electors_07": 208274
+   "electors_07": 208274,
+   "shares": {
+    "137": {
+     "pct": 13.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 105,
@@ -1797,7 +2451,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DWIJAPADA MONDOL",
-   "electors_07": 192586
+   "electors_07": 192586,
+   "shares": {
+    "138": {
+     "pct": 29.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 106,
@@ -1812,7 +2472,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ABDUR RAZZAK MOLLA",
-   "electors_07": 145676
+   "electors_07": 145676,
+   "shares": {
+    "139": {
+     "pct": 56.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 107,
@@ -1827,7 +2493,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "ARABUL ISLAM",
-   "electors_07": 167975
+   "electors_07": 167975,
+   "shares": {
+    "148": {
+     "pct": 44.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 108,
@@ -1842,7 +2514,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BUDDHADEB BHATTACHARJEE",
-   "electors_07": 274932
+   "electors_07": 274932,
+   "shares": {
+    "150": {
+     "pct": 2.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 109,
@@ -1858,7 +2536,17 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SHYAMAL NASKAR",
-   "electors_07": 291364
+   "electors_07": 291364,
+   "shares": {
+    "151": {
+     "pct": 47.1,
+     "basis": "approx"
+    },
+    "147": {
+     "pct": 20.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 110,
@@ -1873,7 +2561,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ANANDA KUMAR BISWAS",
-   "electors_07": 141606
+   "electors_07": 141606,
+   "shares": {
+    "146": {
+     "pct": 46.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 111,
@@ -1903,7 +2597,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KUMKUM CHAKRABORTI",
-   "electors_07": 257824
+   "electors_07": 257824,
+   "shares": {
+    "153": {
+     "pct": 9.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 113,
@@ -1918,7 +2618,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "PARTHA CHATTERJEE",
-   "electors_07": 225473
+   "electors_07": 225473,
+   "shares": {
+    "154": {
+     "pct": 30.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 114,
@@ -1933,7 +2639,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "ABDUL KHALEQUE MOLLA",
-   "electors_07": 155014
+   "electors_07": 155014,
+   "shares": {
+    "157": {
+     "pct": 40.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 115,
@@ -1948,7 +2660,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MURSALIN MOLLA",
-   "electors_07": 173390
+   "electors_07": 173390,
+   "shares": {
+    "155": {
+     "pct": 55.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 116,
@@ -1963,7 +2681,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "ASHOK KUMAR DEB",
-   "electors_07": 160237
+   "electors_07": 160237,
+   "shares": {
+    "156": {
+     "pct": 55.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 117,
@@ -1978,7 +2702,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "SONALI GUHA (BOSE)",
-   "electors_07": 161532
+   "electors_07": 161532,
+   "shares": {
+    "145": {
+     "pct": 24.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 118,
@@ -1993,7 +2723,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "CHANDANA GHOSHDOSTIDAR",
-   "electors_07": 139052
+   "electors_07": 139052,
+   "shares": {
+    "144": {
+     "pct": 57.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 119,
@@ -2008,7 +2744,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RISHI HALDER",
-   "electors_07": 170498
+   "electors_07": 170498,
+   "shares": {
+    "143": {
+     "pct": 67.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 120,
@@ -2023,7 +2765,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DR.ABUL HASNAT",
-   "electors_07": 153682
+   "electors_07": 153682,
+   "shares": {
+    "142": {
+     "pct": 58.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 121,
@@ -2038,7 +2786,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BANSARI MOHAN KANJI",
-   "electors_07": 168877
+   "electors_07": 168877,
+   "shares": {
+    "141": {
+     "pct": 65.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 122,
@@ -2053,7 +2807,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DR. TAPATI SAHA",
-   "electors_07": 165139
+   "electors_07": 165139,
+   "shares": {
+    "135": {
+     "pct": 61.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 123,
@@ -2068,7 +2828,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KANTI GANGULY",
-   "electors_07": 171639
+   "electors_07": 171639,
+   "shares": {
+    "134": {
+     "pct": 56.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 124,
@@ -2083,7 +2849,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SAKUNTALA PAIK",
-   "electors_07": 137534
+   "electors_07": 137534,
+   "shares": {
+    "133": {
+     "pct": 73.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 125,
@@ -2098,7 +2870,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "JAJNESWAR DAS",
-   "electors_07": 147860
+   "electors_07": 147860,
+   "shares": {
+    "130": {
+     "pct": 83.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 126,
@@ -2113,7 +2891,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ASHOK GIRI",
-   "electors_07": 150902
+   "electors_07": 150902,
+   "shares": {
+    "131": {
+     "pct": 73.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 127,
@@ -2128,7 +2912,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MILAN PARUA",
-   "electors_07": 175796
+   "electors_07": 175796,
+   "shares": {
+    "132": {
+     "pct": 96.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 128,
@@ -2143,7 +2933,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DR. NIRJHARINI CHAKRABARTY",
-   "electors_07": 147644
+   "electors_07": 147644,
+   "shares": {
+    "103": {
+     "pct": 10.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 129,
@@ -2158,7 +2954,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RANJIT KUNDU",
-   "electors_07": 155068
+   "electors_07": 155068,
+   "shares": {
+    "104": {
+     "pct": 28.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 130,
@@ -2173,7 +2975,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "ARJUN SING",
-   "electors_07": 118694
+   "electors_07": 118694,
+   "shares": {
+    "105": {
+     "pct": 28.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 131,
@@ -2188,7 +2996,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "HARIPADA BISWAS",
-   "electors_07": 166234
+   "electors_07": 166234,
+   "shares": {
+    "106": {
+     "pct": 36.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 132,
@@ -2203,7 +3017,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KUSADHWAJ GHOSH",
-   "electors_07": 118576
+   "electors_07": 118576,
+   "shares": {
+    "107": {
+     "pct": 36.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 133,
@@ -2218,7 +3038,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DR. PRAVIN KUMAR",
-   "electors_07": 107102
+   "electors_07": 107102,
+   "shares": {
+    "108": {
+     "pct": 27.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 134,
@@ -2233,7 +3059,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ASIM KUMAR DASGUPTA",
-   "electors_07": 212592
+   "electors_07": 212592,
+   "shares": {
+    "109": {
+     "pct": 40.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 135,
@@ -2248,7 +3080,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "GOPAL KRISHNA BHATTACHARYYA",
-   "electors_07": 195471
+   "electors_07": 195471,
+   "shares": {
+    "111": {
+     "pct": 36.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 136,
@@ -2263,7 +3101,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MANASH MUKHERJEE",
-   "electors_07": 163775
+   "electors_07": 163775,
+   "shares": {
+    "112": {
+     "pct": 18.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 137,
@@ -2278,7 +3122,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "AMAR CHOWDHURY",
-   "electors_07": 212397
+   "electors_07": 212397,
+   "shares": {
+    "113": {
+     "pct": 16.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 138,
@@ -2293,7 +3143,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "REKHA GOSWAMI",
-   "electors_07": 225808
+   "electors_07": 225808,
+   "shares": {
+    "114": {
+     "pct": 39.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 139,
@@ -2308,7 +3164,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SUBHAS CHAKRABORTI",
-   "electors_07": 274829
+   "electors_07": 274829,
+   "shares": {
+    "168": {
+     "pct": 21.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 140,
@@ -2429,7 +3291,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "RAM PYARE RAM",
-   "electors_07": 149733
+   "electors_07": 149733,
+   "shares": {
+    "157": {
+     "pct": 19.4,
+     "basis": "approx"
+    },
+    "158": {
+     "pct": 10.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 148,
@@ -2505,7 +3377,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "AHMED JAVED KHAN",
-   "electors_07": 189478
+   "electors_07": 189478,
+   "shares": {
+    "161": {
+     "pct": 6.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 153,
@@ -2536,7 +3414,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DEBESH DAS",
-   "electors_07": 121431
+   "electors_07": 121431,
+   "shares": {
+    "159": {
+     "pct": 7.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 155,
@@ -2643,7 +3527,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KANIKA GANGULY",
-   "electors_07": 128404
+   "electors_07": 128404,
+   "shares": {
+    "169": {
+     "pct": 2.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 162,
@@ -2718,7 +3608,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MOHANTA CHATTERJEE",
-   "electors_07": 234899
+   "electors_07": 234899,
+   "shares": {
+    "184": {
+     "pct": 27.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 167,
@@ -2733,7 +3629,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BIPLAB MAJUMDAR",
-   "electors_07": 184922
+   "electors_07": 184922,
+   "shares": {
+    "183": {
+     "pct": 52.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 168,
@@ -2748,7 +3650,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "DOLI ROY",
-   "electors_07": 178745
+   "electors_07": 178745,
+   "shares": {
+    "175": {
+     "pct": 52.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 169,
@@ -2763,7 +3671,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "SITAL KUMAR SARDAR",
-   "electors_07": 193563
+   "electors_07": 193563,
+   "shares": {
+    "174": {
+     "pct": 43.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 170,
@@ -2778,7 +3692,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MOHAN MONDAL",
-   "electors_07": 171049
+   "electors_07": 171049,
+   "shares": {
+    "177": {
+     "pct": 31.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 171,
@@ -2793,7 +3713,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "RABINDRA GHOSH",
-   "electors_07": 171138
+   "electors_07": 171138,
+   "shares": {
+    "178": {
+     "pct": 63.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 172,
@@ -2808,7 +3734,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "KALI PADA MANDAL",
-   "electors_07": 170128
+   "electors_07": 170128,
+   "shares": {
+    "179": {
+     "pct": 73.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 173,
@@ -2823,7 +3755,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "AKKEL ALI KHAN",
-   "electors_07": 175970
+   "electors_07": 175970,
+   "shares": {
+    "180": {
+     "pct": 60.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 174,
@@ -2838,7 +3776,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RABINDRA NATH MITRA",
-   "electors_07": 150446
+   "electors_07": 150446,
+   "shares": {
+    "181": {
+     "pct": 58.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 175,
@@ -2853,7 +3797,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PRATYUSH MUKHERJEE",
-   "electors_07": 148753
+   "electors_07": 148753,
+   "shares": {
+    "181": {
+     "pct": 9.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 176,
@@ -2868,7 +3818,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "CHANDRA LEKHA BAG",
-   "electors_07": 149983
+   "electors_07": 149983,
+   "shares": {
+    "182": {
+     "pct": 45.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 177,
@@ -2883,7 +3839,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SUDARSAN RAYCHAUDHURI",
-   "electors_07": 167525
+   "electors_07": 167525,
+   "shares": {
+    "195": {
+     "pct": 72.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 178,
@@ -2898,7 +3860,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BHAKTARAM PAN",
-   "electors_07": 202639
+   "electors_07": 202639,
+   "shares": {
+    "194": {
+     "pct": 38.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 179,
@@ -2913,7 +3881,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PROF. DR. SRUTINATH PRAHARAJ",
-   "electors_07": 201508
+   "electors_07": 201508,
+   "shares": {
+    "185": {
+     "pct": 10.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 180,
@@ -2928,7 +3902,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "DR. RATNA DE (NAG)",
-   "electors_07": 151132
+   "electors_07": 151132,
+   "shares": {
+    "186": {
+     "pct": 72.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 181,
@@ -2943,7 +3923,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "JIBESH CHAKRABORTY",
-   "electors_07": 212855
+   "electors_07": 212855,
+   "shares": {
+    "187": {
+     "pct": 16.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 182,
@@ -2958,7 +3944,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SIBAPROSAD (RATAN) BANDYOPADHYAY",
-   "electors_07": 188068
+   "electors_07": 188068,
+   "shares": {
+    "189": {
+     "pct": 15.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 183,
@@ -2973,7 +3965,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "RABINDRANATH BHATTACHARJEE",
-   "electors_07": 172983
+   "electors_07": 172983,
+   "shares": {
+    "188": {
+     "pct": 59.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 184,
@@ -2988,7 +3986,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BHARATI MUKHERJEE",
-   "electors_07": 158916
+   "electors_07": 158916,
+   "shares": {
+    "196": {
+     "pct": 79.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 185,
@@ -3003,7 +4007,13 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "PRATIM CHATTERJEE",
-   "electors_07": 147193
+   "electors_07": 147193,
+   "shares": {
+    "198": {
+     "pct": 57.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 186,
@@ -3018,7 +4028,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "NAREN DEY",
-   "electors_07": 193045
+   "electors_07": 193045,
+   "shares": {
+    "190": {
+     "pct": 58.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 187,
@@ -3033,7 +4049,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ASHUTOSH MUKHOPADHYAY",
-   "electors_07": 161533
+   "electors_07": 161533,
+   "shares": {
+    "193": {
+     "pct": 37.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 188,
@@ -3048,7 +4070,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DIBAKANTA ROUTH",
-   "electors_07": 155428
+   "electors_07": 155428,
+   "shares": {
+    "191": {
+     "pct": 76.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 189,
@@ -3063,7 +4091,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SEKH MAJED ALI",
-   "electors_07": 174305
+   "electors_07": 174305,
+   "shares": {
+    "192": {
+     "pct": 75.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 190,
@@ -3078,7 +4112,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SHAKTIPADA KHANRA",
-   "electors_07": 156422
+   "electors_07": 156422,
+   "shares": {
+    "197": {
+     "pct": 43.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 191,
@@ -3093,7 +4133,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "AJIT PATRA",
-   "electors_07": 157639
+   "electors_07": 157639,
+   "shares": {
+    "197": {
+     "pct": 59.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 192,
@@ -3108,7 +4154,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SAUMENDRANATH BERA",
-   "electors_07": 158381
+   "electors_07": 158381,
+   "shares": {
+    "199": {
+     "pct": 58.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 193,
@@ -3123,7 +4175,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BANSHI BADAN MAITRA",
-   "electors_07": 173431
+   "electors_07": 173431,
+   "shares": {
+    "202": {
+     "pct": 52.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 194,
@@ -3138,7 +4196,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BINOY DATTA",
-   "electors_07": 195887
+   "electors_07": 195887,
+   "shares": {
+    "200": {
+     "pct": 45.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 195,
@@ -3153,7 +4217,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "NIRANJAN PANDIT",
-   "electors_07": 175393
+   "electors_07": 175393,
+   "shares": {
+    "201": {
+     "pct": 82.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 196,
@@ -3168,7 +4238,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "GURUPADA DUTTA",
-   "electors_07": 170605
+   "electors_07": 170605,
+   "shares": {
+    "232": {
+     "pct": 88.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 197,
@@ -3183,7 +4259,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RATAN PAKHIRA",
-   "electors_07": 163951
+   "electors_07": 163951,
+   "shares": {
+    "231": {
+     "pct": 80.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 198,
@@ -3198,7 +4280,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SUNIL ADHIKARI",
-   "electors_07": 151669
+   "electors_07": 151669,
+   "shares": {
+    "230": {
+     "pct": 70.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 199,
@@ -3228,7 +4316,13 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "CHITTARANJAN DASTHAKUR",
-   "electors_07": 157706
+   "electors_07": 157706,
+   "shares": {
+    "205": {
+     "pct": 63.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 201,
@@ -3243,7 +4337,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "AMIYA KUMAR SAHOO",
-   "electors_07": 166630
+   "electors_07": 166630,
+   "shares": {
+    "204": {
+     "pct": 55.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 202,
@@ -3258,7 +4358,13 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "MITRA JAGANNATH",
-   "electors_07": 169832
+   "electors_07": 169832,
+   "shares": {
+    "203": {
+     "pct": 54.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 203,
@@ -3273,7 +4379,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SK. MUJIBUR RAHMAN",
-   "electors_07": 160110
+   "electors_07": 160110,
+   "shares": {
+    "206": {
+     "pct": 78.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 204,
@@ -3288,7 +4400,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "TAMALIKA PANDA SETH",
-   "electors_07": 147358
+   "electors_07": 147358,
+   "shares": {
+    "208": {
+     "pct": 64.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 205,
@@ -3303,7 +4421,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "NITYANANDA BERA",
-   "electors_07": 209335
+   "electors_07": 209335,
+   "shares": {
+    "209": {
+     "pct": 31.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 206,
@@ -3318,7 +4442,13 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "ILLIAS MAHAMMAD SK.",
-   "electors_07": 161744
+   "electors_07": 161744,
+   "shares": {
+    "210": {
+     "pct": 80.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 207,
@@ -3333,7 +4463,13 @@
    "extent": "",
    "party07": "WBSP",
    "winner_07": "NANDA BRAHMAMAY",
-   "electors_07": 163291
+   "electors_07": 163291,
+   "shares": {
+    "211": {
+     "pct": 60.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 208,
@@ -3348,7 +4484,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "ARDHENDU MAITY",
-   "electors_07": 136865
+   "electors_07": 136865,
+   "shares": {
+    "214": {
+     "pct": 48.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 209,
@@ -3363,7 +4505,13 @@
    "extent": "",
    "party07": "WBSP",
    "winner_07": "SWADESH PATRA",
-   "electors_07": 137511
+   "electors_07": 137511,
+   "shares": {
+    "215": {
+     "pct": 81.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 210,
@@ -3378,7 +4526,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "CHAKRADHAR MAIKAP",
-   "electors_07": 154687
+   "electors_07": 154687,
+   "shares": {
+    "213": {
+     "pct": 65.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 211,
@@ -3393,7 +4547,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "SUVENDU ADHIKARI",
-   "electors_07": 153760
+   "electors_07": 153760,
+   "shares": {
+    "216": {
+     "pct": 45.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 212,
@@ -3408,7 +4568,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SWADESH RANJAN NAYAK",
-   "electors_07": 178547
+   "electors_07": 178547,
+   "shares": {
+    "217": {
+     "pct": 58.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 213,
@@ -3423,7 +4589,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "ADHIKARI SISIR KUMAR",
-   "electors_07": 157317
+   "electors_07": 157317,
+   "shares": {
+    "218": {
+     "pct": 98.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 214,
@@ -3438,7 +4610,13 @@
    "extent": "",
    "party07": "WBSP",
    "winner_07": "KIRANMAY NANDA",
-   "electors_07": 148290
+   "electors_07": 148290,
+   "shares": {
+    "214": {
+     "pct": 59.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 215,
@@ -3453,7 +4631,13 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "KAMAKHYANANDAN DASMAHAPATRA",
-   "electors_07": 155778
+   "electors_07": 155778,
+   "shares": {
+    "212": {
+     "pct": 74.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 216,
@@ -3468,7 +4652,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "MANAS RANJAN BHUNIA",
-   "electors_07": 146560
+   "electors_07": 146560,
+   "shares": {
+    "226": {
+     "pct": 85.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 217,
@@ -3483,7 +4673,13 @@
    "extent": "",
    "party07": "DSP(P)",
    "winner_07": "RAMPADA SAMANTA",
-   "electors_07": 145191
+   "electors_07": 145191,
+   "shares": {
+    "227": {
+     "pct": 37.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 218,
@@ -3498,7 +4694,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SK. JAHANGIR KARIM",
-   "electors_07": 155765
+   "electors_07": 155765,
+   "shares": {
+    "229": {
+     "pct": 86.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 219,
@@ -3513,7 +4715,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RAMESWAR DOLOI",
-   "electors_07": 159256
+   "electors_07": 159256,
+   "shares": {
+    "235": {
+     "pct": 89.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 220,
@@ -3528,7 +4736,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "GHOSH SUSANTA",
-   "electors_07": 144356
+   "electors_07": 144356,
+   "shares": {
+    "233": {
+     "pct": 29.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 221,
@@ -3544,7 +4758,17 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KRISHNA PRASAD DULEY",
-   "electors_07": 150871
+   "electors_07": 150871,
+   "shares": {
+    "233": {
+     "pct": 37.0,
+     "basis": "approx"
+    },
+    "234": {
+     "pct": 57.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 222,
@@ -3559,7 +4783,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KHAGENDRA NATH MAHATA",
-   "electors_07": 137661
+   "electors_07": 137661,
+   "shares": {
+    "234": {
+     "pct": 23.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 223,
@@ -3574,7 +4804,13 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "SANTOSH RANA",
-   "electors_07": 183122
+   "electors_07": 183122,
+   "shares": {
+    "236": {
+     "pct": 34.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 224,
@@ -3589,7 +4825,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "GYAN SINGH SOHANPAL",
-   "electors_07": 133216
+   "electors_07": 133216,
+   "shares": {
+    "224": {
+     "pct": 21.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 225,
@@ -3604,7 +4846,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "HAQUE NAZMUL",
-   "electors_07": 179166
+   "electors_07": 179166,
+   "shares": {
+    "228": {
+     "pct": 34.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 226,
@@ -3619,7 +4867,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MAHESWAR MURMU",
-   "electors_07": 158015
+   "electors_07": 158015,
+   "shares": {
+    "223": {
+     "pct": 49.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 227,
@@ -3634,7 +4888,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SURJYA KANTA MISHRA",
-   "electors_07": 169649
+   "electors_07": 169649,
+   "shares": {
+    "225": {
+     "pct": 47.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 228,
@@ -3649,7 +4909,13 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "NANDA GOPAL BATTACHARJEE",
-   "electors_07": 161315
+   "electors_07": 161315,
+   "shares": {
+    "219": {
+     "pct": 41.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 229,
@@ -3664,7 +4930,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BHUTNATH SAREN",
-   "electors_07": 132803
+   "electors_07": 132803,
+   "shares": {
+    "220": {
+     "pct": 81.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 230,
@@ -3679,7 +4951,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RABI LAL MAITRA",
-   "electors_07": 146449
+   "electors_07": 146449,
+   "shares": {
+    "221": {
+     "pct": 78.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 231,
@@ -3694,7 +4972,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "AMAR BASU",
-   "electors_07": 172190
+   "electors_07": 172190,
+   "shares": {
+    "222": {
+     "pct": 25.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 232,
@@ -3709,7 +4993,13 @@
    "extent": "",
    "party07": "JKP(N)",
    "winner_07": "CHUNIBALA HANSDA",
-   "electors_07": 141332
+   "electors_07": 141332,
+   "shares": {
+    "237": {
+     "pct": 70.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 233,
@@ -3724,7 +5014,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "UPENDRA NATH HANSDA",
-   "electors_07": 126046
+   "electors_07": 126046,
+   "shares": {
+    "238": {
+     "pct": 82.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 234,
@@ -3739,7 +5035,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SAMYA PYARI MAHATO",
-   "electors_07": 140213
+   "electors_07": 140213,
+   "shares": {
+    "243": {
+     "pct": 82.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 235,
@@ -3754,7 +5056,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BHANDU MAJHI",
-   "electors_07": 128804
+   "electors_07": 128804,
+   "shares": {
+    "239": {
+     "pct": 38.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 236,
@@ -3769,7 +5077,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "PRABHAT MAHATO",
-   "electors_07": 144077
+   "electors_07": 144077,
+   "shares": {
+    "240": {
+     "pct": 58.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 237,
@@ -3785,7 +5099,17 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "NEPAL MAHATA",
-   "electors_07": 144974
+   "electors_07": 144974,
+   "shares": {
+    "240": {
+     "pct": 67.3,
+     "basis": "approx"
+    },
+    "241": {
+     "pct": 21.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 238,
@@ -3800,7 +5124,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "BINDESWAR MAHATO",
-   "electors_07": 151036
+   "electors_07": 151036,
+   "shares": {
+    "241": {
+     "pct": 69.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 239,
@@ -3815,7 +5145,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "NIKHIL MUKHERJEE",
-   "electors_07": 166802
+   "electors_07": 166802,
+   "shares": {
+    "242": {
+     "pct": 43.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 240,
@@ -3830,7 +5166,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BILASIBALA SAHIS .",
-   "electors_07": 152901
+   "electors_07": 152901,
+   "shares": {
+    "245": {
+     "pct": 83.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 241,
@@ -3845,7 +5187,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "UMA RANI BOURI",
-   "electors_07": 133881
+   "electors_07": 133881,
+   "shares": {
+    "246": {
+     "pct": 81.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 242,
@@ -3860,7 +5208,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "RABINDRA NATH HEMBRAM",
-   "electors_07": 130399
+   "electors_07": 130399,
+   "shares": {
+    "244": {
+     "pct": 77.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 243,
@@ -3875,7 +5229,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SUBHAS CHANDRA MAHATA",
-   "electors_07": 140094
+   "electors_07": 140094,
+   "shares": {
+    "244": {
+     "pct": 39.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 244,
@@ -3890,7 +5250,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MANORANJAN PATRA",
-   "electors_07": 159601
+   "electors_07": 159601,
+   "shares": {
+    "251": {
+     "pct": 75.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 245,
@@ -3905,7 +5271,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "UPEN KISKU",
-   "electors_07": 159891
+   "electors_07": 159891,
+   "shares": {
+    "250": {
+     "pct": 87.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 246,
@@ -3920,7 +5292,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DEBLINA HEMBRAM",
-   "electors_07": 145390
+   "electors_07": 145390,
+   "shares": {
+    "249": {
+     "pct": 84.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 247,
@@ -3935,7 +5313,13 @@
    "extent": "",
    "party07": "CPI",
    "winner_07": "INDRAJIT TANGI",
-   "electors_07": 140393
+   "electors_07": 140393,
+   "shares": {
+    "248": {
+     "pct": 53.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 248,
@@ -3950,7 +5334,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "ANATH BANDHU MONDAL",
-   "electors_07": 137637
+   "electors_07": 137637,
+   "shares": {
+    "248": {
+     "pct": 69.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 249,
@@ -3965,7 +5355,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ANGAD BAURI",
-   "electors_07": 146949
+   "electors_07": 146949,
+   "shares": {
+    "247": {
+     "pct": 87.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 250,
@@ -3980,7 +5376,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SUSMITA BISWAS",
-   "electors_07": 169945
+   "electors_07": 169945,
+   "shares": {
+    "253": {
+     "pct": 89.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 251,
@@ -3995,7 +5397,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PARTHA DE",
-   "electors_07": 173190
+   "electors_07": 173190,
+   "shares": {
+    "252": {
+     "pct": 66.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 252,
@@ -4010,7 +5418,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "TARAPADA CHAKRABARTI",
-   "electors_07": 164012
+   "electors_07": 164012,
+   "shares": {
+    "254": {
+     "pct": 93.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 253,
@@ -4025,7 +5439,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SWAPAN GHOSH",
-   "electors_07": 151068
+   "electors_07": 151068,
+   "shares": {
+    "255": {
+     "pct": 73.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 254,
@@ -4040,7 +5460,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KALPANA KOLEY",
-   "electors_07": 161099
+   "electors_07": 161099,
+   "shares": {
+    "256": {
+     "pct": 78.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 255,
@@ -4055,7 +5481,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MAHADEB PATRA",
-   "electors_07": 153655
+   "electors_07": 153655,
+   "shares": {
+    "257": {
+     "pct": 76.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 256,
@@ -4070,7 +5502,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "NIRESH BAGDI",
-   "electors_07": 144901
+   "electors_07": 144901,
+   "shares": {
+    "258": {
+     "pct": 87.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 257,
@@ -4085,7 +5523,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "UJJAL CHATTERJEE",
-   "electors_07": 158642
+   "electors_07": 158642,
+   "shares": {
+    "282": {
+     "pct": 57.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 258,
@@ -4100,7 +5544,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DILIP SARKAR",
-   "electors_07": 159608
+   "electors_07": 159608,
+   "shares": {
+    "283": {
+     "pct": 69.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 259,
@@ -4115,7 +5565,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "AMITAVA MUKHOPADHYAY",
-   "electors_07": 136100
+   "electors_07": 136100,
+   "shares": {
+    "280": {
+     "pct": 49.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 260,
@@ -4131,7 +5587,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PRATIVARANJAN MUKHERJEE",
-   "electors_07": 169224
+   "electors_07": 169224,
+   "shares": {
+    "280": {
+     "pct": 100.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 261,
@@ -4146,7 +5608,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "HARADHAN JHA",
-   "electors_07": 140081
+   "electors_07": 140081,
+   "shares": {
+    "278": {
+     "pct": 4.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 262,
@@ -4161,7 +5629,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DHIRAJLAL HAZRA",
-   "electors_07": 146088
+   "electors_07": 146088,
+   "shares": {
+    "279": {
+     "pct": 85.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 263,
@@ -4176,7 +5650,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MADAN BAURI",
-   "electors_07": 207150
+   "electors_07": 207150,
+   "shares": {
+    "275": {
+     "pct": 38.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 264,
@@ -4191,7 +5671,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "MRINAL BANERJEE",
-   "electors_07": 136955
+   "electors_07": 136955,
+   "shares": {
+    "276": {
+     "pct": 18.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 265,
@@ -4206,7 +5692,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BIPRENDU KUMAR CHAKRABORTY",
-   "electors_07": 261664
+   "electors_07": 261664,
+   "shares": {
+    "277": {
+     "pct": 58.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 266,
@@ -4221,7 +5713,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ANKURE SARESH",
-   "electors_07": 162492
+   "electors_07": 162492,
+   "shares": {
+    "274": {
+     "pct": 36.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 267,
@@ -4236,7 +5734,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "KARTICK CHANDRA BAG",
-   "electors_07": 157266
+   "electors_07": 157266,
+   "shares": {
+    "273": {
+     "pct": 77.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 268,
@@ -4251,7 +5755,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SAYED MD. MASIH",
-   "electors_07": 156982
+   "electors_07": 156982,
+   "shares": {
+    "267": {
+     "pct": 79.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 269,
@@ -4266,7 +5776,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "MEHBUB MONDAL",
-   "electors_07": 151334
+   "electors_07": 151334,
+   "shares": {
+    "274": {
+     "pct": 36.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 270,
@@ -4281,7 +5797,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PRADIP TAH",
-   "electors_07": 194037
+   "electors_07": 194037,
+   "shares": {
+    "266": {
+     "pct": 74.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 271,
@@ -4311,7 +5833,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "PRASANTA MAJHI",
-   "electors_07": 147174
+   "electors_07": 147174,
+   "shares": {
+    "259": {
+     "pct": 53.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 273,
@@ -4326,7 +5854,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SWAPAN SAMANTA",
-   "electors_07": 156554
+   "electors_07": 156554,
+   "shares": {
+    "261": {
+     "pct": 82.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 274,
@@ -4341,7 +5875,13 @@
    "extent": "",
    "party07": "IND",
    "winner_07": "SAMAR HAZRA",
-   "electors_07": 168582
+   "electors_07": 168582,
+   "shares": {
+    "262": {
+     "pct": 79.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 275,
@@ -4356,7 +5896,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SANDHYA BHATTACHARYA",
-   "electors_07": 192792
+   "electors_07": 192792,
+   "shares": {
+    "265": {
+     "pct": 60.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 276,
@@ -4371,7 +5917,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ANJALI MONDAL",
-   "electors_07": 168704
+   "electors_07": 168704,
+   "shares": {
+    "264": {
+     "pct": 75.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 277,
@@ -4386,7 +5938,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "SWAPAN DEBNATH",
-   "electors_07": 187842
+   "electors_07": 187842,
+   "shares": {
+    "268": {
+     "pct": 65.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 278,
@@ -4401,7 +5959,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "CHAUDHURI MD. HEDAYATULLAH",
-   "electors_07": 148913
+   "electors_07": 148913,
+   "shares": {
+    "263": {
+     "pct": 86.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 279,
@@ -4417,7 +5981,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SUBRATA BHOWAL",
-   "electors_07": 162774
+   "electors_07": 162774,
+   "shares": {
+    "269": {
+     "pct": 58.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 280,
@@ -4432,7 +6002,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "CHATTERJEE RABINDRANATH",
-   "electors_07": 184595
+   "electors_07": 184595,
+   "shares": {
+    "270": {
+     "pct": 18.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 281,
@@ -4447,7 +6023,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "SADHANA MALLIK",
-   "electors_07": 153082
+   "electors_07": 153082,
+   "shares": {
+    "272": {
+     "pct": 78.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 282,
@@ -4462,7 +6044,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "TAMAL CHANDRA MAJHI",
-   "electors_07": 155805
+   "electors_07": 155805,
+   "shares": {
+    "271": {
+     "pct": 75.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 283,
@@ -4477,7 +6065,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "JOYDEB HAZRA",
-   "electors_07": 151500
+   "electors_07": 151500,
+   "shares": {
+    "287": {
+     "pct": 86.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 284,
@@ -4492,7 +6086,13 @@
    "extent": "",
    "party07": "RSP",
    "winner_07": "TAPAN HORE",
-   "electors_07": 152161
+   "electors_07": 152161,
+   "shares": {
+    "286": {
+     "pct": 49.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 285,
@@ -4507,7 +6107,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "NABANITA MUKHERJEE",
-   "electors_07": 136675
+   "electors_07": 136675,
+   "shares": {
+    "288": {
+     "pct": 67.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 286,
@@ -4522,7 +6128,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "GHOSH BHAKTI PADA",
-   "electors_07": 151252
+   "electors_07": 151252,
+   "shares": {
+    "284": {
+     "pct": 31.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 287,
@@ -4537,7 +6149,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "BIJOY BAGDI",
-   "electors_07": 140542
+   "electors_07": 140542,
+   "shares": {
+    "285": {
+     "pct": 31.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 288,
@@ -4552,7 +6170,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "TAPAN ROY",
-   "electors_07": 168153
+   "electors_07": 168153,
+   "shares": {
+    "285": {
+     "pct": 54.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 289,
@@ -4567,7 +6191,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "DHIREN BAGDI",
-   "electors_07": 158522
+   "electors_07": 158522,
+   "shares": {
+    "289": {
+     "pct": 57.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 290,
@@ -4582,7 +6212,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "BAGDI SADHUCHARAN",
-   "electors_07": 138575
+   "electors_07": 138575,
+   "shares": {
+    "290": {
+     "pct": 78.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 291,
@@ -4597,7 +6233,13 @@
    "extent": "",
    "party07": "AITC",
    "winner_07": "ASISH BANERJEE",
-   "electors_07": 158856
+   "electors_07": 158856,
+   "shares": {
+    "291": {
+     "pct": 54.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 292,
@@ -4612,7 +6254,13 @@
    "extent": "",
    "party07": "INC",
    "winner_07": "ASIT KUMAR MAL",
-   "electors_07": 138623
+   "electors_07": 138623,
+   "shares": {
+    "292": {
+     "pct": 60.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 293,
@@ -4627,7 +6275,13 @@
    "extent": "",
    "party07": "AIFB",
    "winner_07": "DIPAK CHATTERJEE",
-   "electors_07": 139422
+   "electors_07": 139422,
+   "shares": {
+    "293": {
+     "pct": 77.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 294,
@@ -4642,7 +6296,13 @@
    "extent": "",
    "party07": "CPI(M)",
    "winner_07": "ELAHI MD. QAMRE",
-   "electors_07": 148450
+   "electors_07": 148450,
+   "shares": {
+    "294": {
+     "pct": 74.9,
+     "basis": "approx"
+    }
+   }
   }
  ],
  "post2008_constituencies": [
@@ -4660,7 +6320,13 @@
    "sc_note": "",
    "party12": "AIFB",
    "winner_12": "Adhikary Paresh Chandra",
-   "electors_12": 170181
+   "electors_12": 170181,
+   "shares": {
+    "1": {
+     "pct": 82.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 2,
@@ -4676,7 +6342,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Binay Krishna Barman",
-   "electors_12": 194088
+   "electors_12": 194088,
+   "shares": {
+    "3": {
+     "pct": 95.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 3,
@@ -4692,7 +6364,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AIFB",
    "winner_12": "Nagendra Nath Roy",
-   "electors_12": 218743
+   "electors_12": 218743,
+   "shares": {
+    "4": {
+     "pct": 55.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 4,
@@ -4708,7 +6386,13 @@
    "sc_note": "",
    "party12": "AIFB",
    "winner_12": "Akshay Thakur",
-   "electors_12": 182901
+   "electors_12": 182901,
+   "shares": {
+    "5": {
+     "pct": 79.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 5,
@@ -4724,7 +6408,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Hiten Barman",
-   "electors_12": 216535
+   "electors_12": 216535,
+   "shares": {
+    "2": {
+     "pct": 70.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 6,
@@ -4740,7 +6430,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "INC",
    "winner_12": "Keshab Ch. Ray",
-   "electors_12": 209580
+   "electors_12": 209580,
+   "shares": {
+    "6": {
+     "pct": 80.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 7,
@@ -4756,7 +6452,13 @@
    "sc_note": "",
    "party12": "AIFB",
    "winner_12": "Udayan Guha",
-   "electors_12": 222013
+   "electors_12": 222013,
+   "shares": {
+    "7": {
+     "pct": 77.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 8,
@@ -4772,7 +6474,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Rabindra Nath Ghosh",
-   "electors_12": 193375
+   "electors_12": 193375,
+   "shares": {
+    "8": {
+     "pct": 91.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 9,
@@ -4788,7 +6496,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "AITC",
    "winner_12": "Arghya Roy Pradhan",
-   "electors_12": 183248
+   "electors_12": 183248,
+   "shares": {
+    "9": {
+     "pct": 81.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 10,
@@ -4804,7 +6518,13 @@
    "sc_note": "",
    "party12": "RSP",
    "winner_12": "Dasrath Tirkey",
-   "electors_12": 205554
+   "electors_12": 205554,
+   "shares": {
+    "10": {
+     "pct": 89.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 11,
@@ -4820,7 +6540,13 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Wilson Champramary",
-   "electors_12": 182539
+   "electors_12": 182539,
+   "shares": {
+    "11": {
+     "pct": 95.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 12,
@@ -4836,7 +6562,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Debaprasad Roy (Mithu)",
-   "electors_12": 201029
+   "electors_12": 201029,
+   "shares": {
+    "12": {
+     "pct": 42.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 13,
@@ -4852,7 +6584,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Anil Adhikari",
-   "electors_12": 189459
+   "electors_12": 189459,
+   "shares": {
+    "13": {
+     "pct": 63.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 14,
@@ -4868,7 +6606,13 @@
    "sc_note": "",
    "party12": "RSP",
    "winner_12": "Kumari Kujur",
-   "electors_12": 161332
+   "electors_12": 161332,
+   "shares": {
+    "14": {
+     "pct": 74.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 15,
@@ -4884,7 +6628,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Mamata Roy",
-   "electors_12": 200408
+   "electors_12": 200408,
+   "shares": {
+    "15": {
+     "pct": 58.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 16,
@@ -4900,7 +6650,13 @@
    "sc_note": "",
    "party12": "RSP",
    "winner_12": "Ananta Deb Adhikari",
-   "electors_12": 198615
+   "electors_12": 198615,
+   "shares": {
+    "17": {
+     "pct": 37.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 17,
@@ -4916,7 +6672,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "INC",
    "winner_12": "Sukhbilas Barma",
-   "electors_12": 208102
+   "electors_12": 208102,
+   "shares": {
+    "20": {
+     "pct": 46.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 18,
@@ -4932,7 +6694,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Khageswar Roy",
-   "electors_12": 178412
+   "electors_12": 178412,
+   "shares": {
+    "21": {
+     "pct": 62.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 19,
@@ -4964,7 +6732,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Bulu Chik Baraik",
-   "electors_12": 182501
+   "electors_12": 182501,
+   "shares": {
+    "18": {
+     "pct": 57.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 21,
@@ -4980,7 +6754,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Joseph Munda",
-   "electors_12": 183655
+   "electors_12": 183655,
+   "shares": {
+    "16": {
+     "pct": 67.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 22,
@@ -4996,7 +6776,13 @@
    "sc_note": "",
    "party12": "GOJAM",
    "winner_12": "Dr. Harka Bahadur Chettri",
-   "electors_12": 166388
+   "electors_12": 166388,
+   "shares": {
+    "22": {
+     "pct": 98.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 23,
@@ -5012,7 +6798,13 @@
    "sc_note": "",
    "party12": "GOJAM",
    "winner_12": "Trilok Kumar Dewan",
-   "electors_12": 217964
+   "electors_12": 217964,
+   "shares": {
+    "23": {
+     "pct": 86.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 24,
@@ -5028,7 +6820,13 @@
    "sc_note": "",
    "party12": "GOJAM",
    "winner_12": "Rohit Sharma",
-   "electors_12": 197531
+   "electors_12": 197531,
+   "shares": {
+    "24": {
+     "pct": 73.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 25,
@@ -5058,7 +6856,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Rudra Nath Bhattacharya",
-   "electors_12": 184303
+   "electors_12": 184303,
+   "shares": {
+    "25": {
+     "pct": 52.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 27,
@@ -5074,7 +6878,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Sunil Chandra Tirkey",
-   "electors_12": 164907
+   "electors_12": 164907,
+   "shares": {
+    "26": {
+     "pct": 89.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 28,
@@ -5090,7 +6900,13 @@
    "sc_note": "",
    "party12": "IND",
    "winner_12": "Hamidul Rahaman",
-   "electors_12": 167193
+   "electors_12": 167193,
+   "shares": {
+    "27": {
+     "pct": 82.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 29,
@@ -5106,7 +6922,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Abdul Karim Chowdhary",
-   "electors_12": 150195
+   "electors_12": 150195,
+   "shares": {
+    "28": {
+     "pct": 46.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 30,
@@ -5122,7 +6944,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Md. Ghulam Rabbani",
-   "electors_12": 170180
+   "electors_12": 170180,
+   "shares": {
+    "29": {
+     "pct": 47.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 31,
@@ -5152,7 +6980,13 @@
    "sc_note": "",
    "party12": "AIFB",
    "winner_12": "Gokul Roy",
-   "electors_12": 182522
+   "electors_12": 182522,
+   "shares": {
+    "30": {
+     "pct": 75.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 33,
@@ -5182,7 +7016,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Pramatha Nath Ray",
-   "electors_12": 202847
+   "electors_12": 202847,
+   "shares": {
+    "32": {
+     "pct": 21.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 35,
@@ -5198,7 +7038,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "INC",
    "winner_12": "Mohit Sengupta",
-   "electors_12": 149614
+   "electors_12": 149614,
+   "shares": {
+    "31": {
+     "pct": 62.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 36,
@@ -5214,7 +7060,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Amal Acharjee",
-   "electors_12": 164111
+   "electors_12": 164111,
+   "shares": {
+    "34": {
+     "pct": 73.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 37,
@@ -5230,7 +7082,13 @@
    "sc_note": "",
    "party12": "RSP",
    "winner_12": "Narmada Chandra Roy",
-   "electors_12": 155978
+   "electors_12": 155978,
+   "shares": {
+    "33": {
+     "pct": 62.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 38,
@@ -5246,7 +7104,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Begam Mahamuda",
-   "electors_12": 148934
+   "electors_12": 148934,
+   "shares": {
+    "37": {
+     "pct": 75.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 39,
@@ -5262,7 +7126,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Chakraborty Shankar",
-   "electors_12": 139816
+   "electors_12": 139816,
+   "shares": {
+    "38": {
+     "pct": 67.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 40,
@@ -5278,7 +7148,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Bachchu Hansda",
-   "electors_12": 156952
+   "electors_12": 156952,
+   "shares": {
+    "36": {
+     "pct": 41.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 41,
@@ -5294,7 +7170,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AITC",
    "winner_12": "Satyendra Nath Roy",
-   "electors_12": 159575
+   "electors_12": 159575,
+   "shares": {
+    "35": {
+     "pct": 13.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 42,
@@ -5324,7 +7206,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Khagen Murmu",
-   "electors_12": 187000
+   "electors_12": 187000,
+   "shares": {
+    "39": {
+     "pct": 67.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 44,
@@ -5340,7 +7228,13 @@
    "sc_note": "Reservation changed from ST to SC in 2008.",
    "party12": "INC",
    "winner_12": "Sushil Chandra Ray",
-   "electors_12": 186960
+   "electors_12": 186960,
+   "shares": {
+    "40": {
+     "pct": 66.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 45,
@@ -5356,7 +7250,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Asif Mehbub",
-   "electors_12": 171300
+   "electors_12": 171300,
+   "shares": {
+    "41": {
+     "pct": 54.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 46,
@@ -5372,7 +7272,13 @@
    "sc_note": "",
    "party12": "AIFB",
    "winner_12": "Tajmul Hossain",
-   "electors_12": 160562
+   "electors_12": 160562,
+   "shares": {
+    "42": {
+     "pct": 71.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 47,
@@ -5388,7 +7294,13 @@
    "sc_note": "",
    "party12": "RSP",
    "winner_12": "Abdur Rahim Boxi",
-   "electors_12": 151848
+   "electors_12": 151848,
+   "shares": {
+    "41": {
+     "pct": 41.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 48,
@@ -5405,7 +7317,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Samar Mukherjee",
-   "electors_12": 192832
+   "electors_12": 192832,
+   "shares": {
+    "43": {
+     "pct": 41.5,
+     "basis": "approx"
+    },
+    "44": {
+     "pct": 52.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 49,
@@ -5421,7 +7343,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sabitri Mitra",
-   "electors_12": 174680
+   "electors_12": 174680,
+   "shares": {
+    "47": {
+     "pct": 42.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 50,
@@ -5437,7 +7365,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Bhupendra Nath Halder (Arjun)",
-   "electors_12": 169551
+   "electors_12": 169551,
+   "shares": {
+    "45": {
+     "pct": 93.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 51,
@@ -5453,7 +7387,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Krishnendu Narayan Choudhury",
-   "electors_12": 208529
+   "electors_12": 208529,
+   "shares": {
+    "46": {
+     "pct": 54.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 52,
@@ -5486,7 +7426,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Abu Nasar Khan Choudhury",
-   "electors_12": 171380
+   "electors_12": 171380,
+   "shares": {
+    "48": {
+     "pct": 71.9,
+     "basis": "approx"
+    },
+    "49": {
+     "pct": 27.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 54,
@@ -5502,7 +7452,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Isha Khan Choudhury",
-   "electors_12": 172528
+   "electors_12": 172528,
+   "shares": {
+    "49": {
+     "pct": 71.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 55,
@@ -5518,7 +7474,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Mainul Haque",
-   "electors_12": 153081
+   "electors_12": 153081,
+   "shares": {
+    "50": {
+     "pct": 53.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 56,
@@ -5534,7 +7496,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Touab Ali",
-   "electors_12": 152508
+   "electors_12": 152508,
+   "shares": {
+    "51": {
+     "pct": 77.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 57,
@@ -5550,7 +7518,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Emani Biswas",
-   "electors_12": 174931
+   "electors_12": 174931,
+   "shares": {
+    "52": {
+     "pct": 56.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 58,
@@ -5566,7 +7540,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Md. Sohrab",
-   "electors_12": 171691
+   "electors_12": 171691,
+   "shares": {
+    "54": {
+     "pct": 36.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 59,
@@ -5596,7 +7576,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "AITC",
    "winner_12": "Subrata Saha",
-   "electors_12": 168136
+   "electors_12": 168136,
+   "shares": {
+    "53": {
+     "pct": 84.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 61,
@@ -5612,7 +7598,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Abu Hena",
-   "electors_12": 161259
+   "electors_12": 161259,
+   "shares": {
+    "55": {
+     "pct": 68.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 62,
@@ -5628,7 +7620,13 @@
    "sc_note": "",
    "party12": "SP",
    "winner_12": "Chand Mohammad",
-   "electors_12": 179224
+   "electors_12": 179224,
+   "shares": {
+    "56": {
+     "pct": 81.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 63,
@@ -5658,7 +7656,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Shaoni Singha Roy",
-   "electors_12": 188558
+   "electors_12": 188558,
+   "shares": {
+    "58": {
+     "pct": 47.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 65,
@@ -5674,7 +7678,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "CPI(M)",
    "winner_12": "Kanai Chandra Mandal",
-   "electors_12": 183391
+   "electors_12": 183391,
+   "shares": {
+    "57": {
+     "pct": 75.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 66,
@@ -5690,7 +7700,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Ashis Marjit",
-   "electors_12": 172961
+   "electors_12": 172961,
+   "shares": {
+    "66": {
+     "pct": 92.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 67,
@@ -5706,7 +7722,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "INC",
    "winner_12": "Protima Rajak",
-   "electors_12": 169158
+   "electors_12": 169158,
+   "shares": {
+    "67": {
+     "pct": 71.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 68,
@@ -5722,7 +7744,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Apurba Sarkar(David)",
-   "electors_12": 178692
+   "electors_12": 178692,
+   "shares": {
+    "65": {
+     "pct": 90.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 69,
@@ -5738,7 +7766,13 @@
    "sc_note": "",
    "party12": "RSP",
    "winner_12": "Id Mohammad",
-   "electors_12": 181614
+   "electors_12": 181614,
+   "shares": {
+    "68": {
+     "pct": 76.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 70,
@@ -5768,7 +7802,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Safiujjaman Seikh",
-   "electors_12": 182630
+   "electors_12": 182630,
+   "shares": {
+    "64": {
+     "pct": 39.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 72,
@@ -5784,7 +7824,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Manoj Chakraborty",
-   "electors_12": 206158
+   "electors_12": 206158,
+   "shares": {
+    "63": {
+     "pct": 68.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 73,
@@ -5800,7 +7846,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Insar Ali Biswas",
-   "electors_12": 181557
+   "electors_12": 181557,
+   "shares": {
+    "62": {
+     "pct": 67.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 74,
@@ -5816,7 +7868,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Abu Taher Khan",
-   "electors_12": 183948
+   "electors_12": 183948,
+   "shares": {
+    "61": {
+     "pct": 58.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 75,
@@ -5832,7 +7890,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Anisur Rahaman",
-   "electors_12": 193539
+   "electors_12": 193539,
+   "shares": {
+    "60": {
+     "pct": 62.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 76,
@@ -5848,7 +7912,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Abdur Razzak",
-   "electors_12": 192844
+   "electors_12": 192844,
+   "shares": {
+    "59": {
+     "pct": 78.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 77,
@@ -5864,7 +7934,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Samarendranath Ghosh",
-   "electors_12": 196546
+   "electors_12": 196546,
+   "shares": {
+    "69": {
+     "pct": 70.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 78,
@@ -5894,7 +7970,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "S.M. Sadi",
-   "electors_12": 185525
+   "electors_12": 185525,
+   "shares": {
+    "70": {
+     "pct": 59.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 80,
@@ -5910,7 +7992,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Nasiruddin Ahamed(Lal)",
-   "electors_12": 186279
+   "electors_12": 186279,
+   "shares": {
+    "72": {
+     "pct": 87.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 81,
@@ -5926,7 +8014,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Kollol Khan",
-   "electors_12": 187228
+   "electors_12": 187228,
+   "shares": {
+    "71": {
+     "pct": 68.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 82,
@@ -5942,7 +8036,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Rukbanur Rahman",
-   "electors_12": 186756
+   "electors_12": 186756,
+   "shares": {
+    "73": {
+     "pct": 37.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 83,
@@ -5958,7 +8058,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Abani Mohan Joardar",
-   "electors_12": 200975
+   "electors_12": 200975,
+   "shares": {
+    "75": {
+     "pct": 37.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 84,
@@ -5974,7 +8080,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Pundarikakshya Saha",
-   "electors_12": 200147
+   "electors_12": 200147,
+   "shares": {
+    "77": {
+     "pct": 49.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 85,
@@ -5990,7 +8102,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ujjal Biswas",
-   "electors_12": 174161
+   "electors_12": 174161,
+   "shares": {
+    "76": {
+     "pct": 47.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 86,
@@ -6006,7 +8124,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Ajoy Dey",
-   "electors_12": 190634
+   "electors_12": 190634,
+   "shares": {
+    "78": {
+     "pct": 84.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 87,
@@ -6023,7 +8147,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Partha Sarathi Chatterjee (Babu)",
-   "electors_12": 211540
+   "electors_12": 211540,
+   "shares": {
+    "79": {
+     "pct": 49.3,
+     "basis": "approx"
+    },
+    "81": {
+     "pct": 13.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 88,
@@ -6040,7 +8174,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sushil Biswas",
-   "electors_12": 210505
+   "electors_12": 210505,
+   "shares": {
+    "74": {
+     "pct": 43.5,
+     "basis": "approx"
+    },
+    "79": {
+     "pct": 34.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 89,
@@ -6056,7 +8200,13 @@
    "sc_note": "Reserved for Scheduled Castes under the 2008 order.",
    "party12": "AITC",
    "winner_12": "Samir Kumar Poddar",
-   "electors_12": 201195
+   "electors_12": 201195,
+   "shares": {
+    "80": {
+     "pct": 40.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 90,
@@ -6072,7 +8222,13 @@
    "sc_note": "Reserved for Scheduled Castes under the 2008 order.",
    "party12": "AITC",
    "winner_12": "Abir Ranjan Biswas",
-   "electors_12": 222418
+   "electors_12": 222418,
+   "shares": {
+    "80": {
+     "pct": 41.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 91,
@@ -6088,7 +8244,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Naresh Chandra Chaki",
-   "electors_12": 192318
+   "electors_12": 192318,
+   "shares": {
+    "82": {
+     "pct": 2.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 92,
@@ -6118,7 +8280,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AITC",
    "winner_12": "Nilima Nag (Mallick)",
-   "electors_12": 187807
+   "electors_12": 187807,
+   "shares": {
+    "83": {
+     "pct": 68.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 94,
@@ -6134,7 +8302,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Upendra Nath Biswas",
-   "electors_12": 203625
+   "electors_12": 203625,
+   "shares": {
+    "84": {
+     "pct": 73.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 95,
@@ -6150,7 +8324,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AITC",
    "winner_12": "Biswajit Das",
-   "electors_12": 189468
+   "electors_12": 189468,
+   "shares": {
+    "85": {
+     "pct": 22.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 96,
@@ -6166,7 +8346,13 @@
    "sc_note": "Reserved for Scheduled Castes under the 2008 order.",
    "party12": "AITC",
    "winner_12": "Surajit Kumar Biswas",
-   "electors_12": 189044
+   "electors_12": 189044,
+   "shares": {
+    "85": {
+     "pct": 48.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 97,
@@ -6182,7 +8368,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AITC",
    "winner_12": "Manjul Krishna Thakur",
-   "electors_12": 186186
+   "electors_12": 186186,
+   "shares": {
+    "86": {
+     "pct": 77.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 98,
@@ -6198,7 +8390,13 @@
    "sc_note": "Reserved for Scheduled Castes under the 2008 order.",
    "party12": "AITC",
    "winner_12": "Bina Mondal",
-   "electors_12": 196006
+   "electors_12": 196006,
+   "shares": {
+    "93": {
+     "pct": 53.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 99,
@@ -6214,7 +8412,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Abdul Gaffar Quazi",
-   "electors_12": 188461
+   "electors_12": 188461,
+   "shares": {
+    "94": {
+     "pct": 49.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 100,
@@ -6230,7 +8434,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Jyoti Priya Mallick",
-   "electors_12": 180458
+   "electors_12": 180458,
+   "shares": {
+    "87": {
+     "pct": 63.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 101,
@@ -6246,7 +8456,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dhiman Roy",
-   "electors_12": 193115
+   "electors_12": 193115,
+   "shares": {
+    "88": {
+     "pct": 61.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 102,
@@ -6262,7 +8478,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Rafiqur Rahaman",
-   "electors_12": 177905
+   "electors_12": 177905,
+   "shares": {
+    "89": {
+     "pct": 76.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 103,
@@ -6278,7 +8500,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Subhranshu Roy",
-   "electors_12": 158823
+   "electors_12": 158823,
+   "shares": {
+    "128": {
+     "pct": 16.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 104,
@@ -6294,7 +8522,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Partha Bhowmick",
-   "electors_12": 153264
+   "electors_12": 153264,
+   "shares": {
+    "129": {
+     "pct": 35.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 105,
@@ -6310,7 +8544,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Arjun Singh",
-   "electors_12": 123505
+   "electors_12": 123505,
+   "shares": {
+    "130": {
+     "pct": 27.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 106,
@@ -6326,7 +8566,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Parash Dutta",
-   "electors_12": 172874
+   "electors_12": 172874,
+   "shares": {
+    "131": {
+     "pct": 27.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 107,
@@ -6342,7 +8588,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Manju Basu",
-   "electors_12": 205070
+   "electors_12": 205070,
+   "shares": {
+    "132": {
+     "pct": 19.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 108,
@@ -6358,7 +8610,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Silbhadra Datta",
-   "electors_12": 170241
+   "electors_12": 170241,
+   "shares": {
+    "133": {
+     "pct": 27.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 109,
@@ -6374,7 +8632,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Amit Mitra",
-   "electors_12": 169661
+   "electors_12": 169661,
+   "shares": {
+    "134": {
+     "pct": 40.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 110,
@@ -6404,7 +8668,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Nirmal Ghosh",
-   "electors_12": 186741
+   "electors_12": 186741,
+   "shares": {
+    "135": {
+     "pct": 34.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 112,
@@ -6420,7 +8690,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Madan Mitra",
-   "electors_12": 161809
+   "electors_12": 161809,
+   "shares": {
+    "136": {
+     "pct": 16.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 113,
@@ -6436,7 +8712,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Tapas Roy",
-   "electors_12": 186723
+   "electors_12": 186723,
+   "shares": {
+    "137": {
+     "pct": 34.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 114,
@@ -6452,7 +8734,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Bratya Basu",
-   "electors_12": 199321
+   "electors_12": 199321,
+   "shares": {
+    "138": {
+     "pct": 43.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 115,
@@ -6468,7 +8756,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sabyasachi Dutta",
-   "electors_12": 184101
+   "electors_12": 184101,
+   "shares": {
+    "91": {
+     "pct": 66.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 116,
@@ -6484,7 +8778,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sujit Bose",
-   "electors_12": 200265
+   "electors_12": 200265,
+   "shares": {
+    "91": {
+     "pct": 48.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 117,
@@ -6500,7 +8800,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Purnendu Basu",
-   "electors_12": 192748
+   "electors_12": 192748,
+   "shares": {
+    "91": {
+     "pct": 89.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 118,
@@ -6530,7 +8836,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Chiranjeet Chakrabarti",
-   "electors_12": 211207
+   "electors_12": 211207,
+   "shares": {
+    "90": {
+     "pct": 45.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 120,
@@ -6546,7 +8858,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dr. M. Nuruzzaman",
-   "electors_12": 175793
+   "electors_12": 175793,
+   "shares": {
+    "92": {
+     "pct": 16.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 121,
@@ -6562,7 +8880,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "AITC",
    "winner_12": "Julfikar Molla",
-   "electors_12": 186630
+   "electors_12": 186630,
+   "shares": {
+    "97": {
+     "pct": 14.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 122,
@@ -6578,7 +8902,13 @@
    "sc_note": "Reserved for Scheduled Castes under the 2008 order.",
    "party12": "AITC",
    "winner_12": "Usha Rani Mondal",
-   "electors_12": 164562
+   "electors_12": 164562,
+   "shares": {
+    "96": {
+     "pct": 30.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 123,
@@ -6594,7 +8924,13 @@
    "sc_note": "Reservation changed from SC to ST in 2008.",
    "party12": "CPI(M)",
    "winner_12": "Nirapada Sardar",
-   "electors_12": 172416
+   "electors_12": 172416,
+   "shares": {
+    "98": {
+     "pct": 53.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 124,
@@ -6610,7 +8946,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Narayan Mukherjee",
-   "electors_12": 213441
+   "electors_12": 213441,
+   "shares": {
+    "95": {
+     "pct": 32.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 125,
@@ -6627,7 +8969,17 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Mostafa Bin Quasem",
-   "electors_12": 193135
+   "electors_12": 193135,
+   "shares": {
+    "95": {
+     "pct": 32.6,
+     "basis": "approx"
+    },
+    "96": {
+     "pct": 35.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 126,
@@ -6643,7 +8995,13 @@
    "sc_note": "",
    "party12": "CPI",
    "winner_12": "Anandamay Mandal",
-   "electors_12": 185015
+   "electors_12": 185015,
+   "shares": {
+    "99": {
+     "pct": 36.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 127,
@@ -6659,7 +9017,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Jayanta Naskar",
-   "electors_12": 180768
+   "electors_12": 180768,
+   "shares": {
+    "100": {
+     "pct": 81.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 128,
@@ -6675,7 +9039,13 @@
    "sc_note": "",
    "party12": "RSP",
    "winner_12": "Subhas Naskar",
-   "electors_12": 182806
+   "electors_12": 182806,
+   "shares": {
+    "101": {
+     "pct": 66.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 129,
@@ -6691,7 +9061,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Ramsankar Halder",
-   "electors_12": 187950
+   "electors_12": 187950,
+   "shares": {
+    "102": {
+     "pct": 77.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 130,
@@ -6707,7 +9083,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Samir Kumar Jana",
-   "electors_12": 199486
+   "electors_12": 199486,
+   "shares": {
+    "125": {
+     "pct": 77.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 131,
@@ -6723,7 +9105,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Manturam Pakhira",
-   "electors_12": 180377
+   "electors_12": 180377,
+   "shares": {
+    "126": {
+     "pct": 67.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 132,
@@ -6739,7 +9127,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Bankim Chandra Hazra",
-   "electors_12": 203625
+   "electors_12": 203625,
+   "shares": {
+    "127": {
+     "pct": 66.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 133,
@@ -6755,7 +9149,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "AITC",
    "winner_12": "Jogoranjan Halder",
-   "electors_12": 164733
+   "electors_12": 164733,
+   "shares": {
+    "124": {
+     "pct": 75.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 134,
@@ -6771,7 +9171,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Debasree Roy",
-   "electors_12": 207140
+   "electors_12": 207140,
+   "shares": {
+    "123": {
+     "pct": 55.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 135,
@@ -6787,7 +9193,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Joydeb Halder",
-   "electors_12": 181170
+   "electors_12": 181170,
+   "shares": {
+    "122": {
+     "pct": 66.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 136,
@@ -6803,7 +9215,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "SUCI",
    "winner_12": "Tarun Kanti Naskar",
-   "electors_12": 174871
+   "electors_12": 174871,
+   "shares": {
+    "103": {
+     "pct": 40.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 137,
@@ -6819,7 +9237,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AITC",
    "winner_12": "Nirmal Chandra Mandal",
-   "electors_12": 189023
+   "electors_12": 189023,
+   "shares": {
+    "104": {
+     "pct": 10.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 138,
@@ -6835,7 +9259,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Shyamal Mondal",
-   "electors_12": 177849
+   "electors_12": 177849,
+   "shares": {
+    "105": {
+     "pct": 42.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 139,
@@ -6851,7 +9281,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Abdur Razzak Molla",
-   "electors_12": 173009
+   "electors_12": 173009,
+   "shares": {
+    "106": {
+     "pct": 42.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 140,
@@ -6881,7 +9317,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Namita Saha",
-   "electors_12": 177554
+   "electors_12": 177554,
+   "shares": {
+    "121": {
+     "pct": 57.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 142,
@@ -6897,7 +9339,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Giasuddin Molla",
-   "electors_12": 169168
+   "electors_12": 169168,
+   "shares": {
+    "120": {
+     "pct": 60.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 143,
@@ -6913,7 +9361,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dipak Kumar Halder",
-   "electors_12": 192505
+   "electors_12": 192505,
+   "shares": {
+    "119": {
+     "pct": 57.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 144,
@@ -6929,7 +9383,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Tamonash Ghosh",
-   "electors_12": 182605
+   "electors_12": 182605,
+   "shares": {
+    "118": {
+     "pct": 57.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 145,
@@ -6945,7 +9405,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sonali Guha (Bose)",
-   "electors_12": 214998
+   "electors_12": 214998,
+   "shares": {
+    "117": {
+     "pct": 16.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 146,
@@ -6962,7 +9428,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dilip Mondal",
-   "electors_12": 210599
+   "electors_12": 210599,
+   "shares": {
+    "110": {
+     "pct": 29.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 147,
@@ -6978,7 +9450,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Jiban Mukhopadhyay",
-   "electors_12": 202701
+   "electors_12": 202701,
+   "shares": {
+    "109": {
+     "pct": 37.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 148,
@@ -6994,7 +9472,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Badal Jamadar",
-   "electors_12": 187372
+   "electors_12": 187372,
+   "shares": {
+    "107": {
+     "pct": 57.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 149,
@@ -7026,7 +9510,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Manish Gupta",
-   "electors_12": 253932
+   "electors_12": 253932,
+   "shares": {
+    "108": {
+     "pct": 2.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 151,
@@ -7042,7 +9532,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Firdousi Begum",
-   "electors_12": 197582
+   "electors_12": 197582,
+   "shares": {
+    "109": {
+     "pct": 85.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 152,
@@ -7074,7 +9570,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sovan Chatterjee",
-   "electors_12": 243394
+   "electors_12": 243394,
+   "shares": {
+    "112": {
+     "pct": 37.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 154,
@@ -7090,7 +9592,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Partha Chatterjee",
-   "electors_12": 260955
+   "electors_12": 260955,
+   "shares": {
+    "113": {
+     "pct": 38.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 155,
@@ -7106,7 +9614,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Kasturi Das",
-   "electors_12": 214985
+   "electors_12": 214985,
+   "shares": {
+    "115": {
+     "pct": 35.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 156,
@@ -7122,7 +9636,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ashok Kumar Deb",
-   "electors_12": 199778
+   "electors_12": 199778,
+   "shares": {
+    "116": {
+     "pct": 37.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 157,
@@ -7139,7 +9659,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Mamtaj Begam",
-   "electors_12": 182250
+   "electors_12": 182250,
+   "shares": {
+    "114": {
+     "pct": 24.9,
+     "basis": "approx"
+    },
+    "147": {
+     "pct": 14.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 158,
@@ -7156,7 +9686,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Firhad Hakim",
-   "electors_12": 199234
+   "electors_12": 199234,
+   "shares": {
+    "147": {
+     "pct": 11.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 159,
@@ -7173,7 +9709,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Subrata Bakshi",
-   "electors_12": 212821
+   "electors_12": 212821,
+   "shares": {
+    "154": {
+     "pct": 0.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 160,
@@ -7206,7 +9748,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Subrata Mukherjee",
-   "electors_12": 219835
+   "electors_12": 219835,
+   "shares": {
+    "152": {
+     "pct": 9.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 162,
@@ -7328,7 +9876,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Mala Saha",
-   "electors_12": 210566
+   "electors_12": 210566,
+   "shares": {
+    "139": {
+     "pct": 35.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 169,
@@ -7344,7 +9898,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sultan Singh",
-   "electors_12": 142634
+   "electors_12": 142634,
+   "shares": {
+    "161": {
+     "pct": 7.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 170,
@@ -7424,7 +9984,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sital Kumar Sardar",
-   "electors_12": 211354
+   "electors_12": 211354,
+   "shares": {
+    "169": {
+     "pct": 40.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 175,
@@ -7440,7 +10006,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Gulsan Mullick",
-   "electors_12": 206662
+   "electors_12": 206662,
+   "shares": {
+    "168": {
+     "pct": 40.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 176,
@@ -7470,7 +10042,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dr. Nirmal Maji",
-   "electors_12": 170752
+   "electors_12": 170752,
+   "shares": {
+    "170": {
+     "pct": 21.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 178,
@@ -7486,7 +10064,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Pulak Roy",
-   "electors_12": 174596
+   "electors_12": 174596,
+   "shares": {
+    "171": {
+     "pct": 64.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 179,
@@ -7502,7 +10086,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Kalipada Mandal",
-   "electors_12": 208848
+   "electors_12": 208848,
+   "shares": {
+    "172": {
+     "pct": 61.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 180,
@@ -7518,7 +10108,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Arunava Sen (Raja)",
-   "electors_12": 180651
+   "electors_12": 180651,
+   "shares": {
+    "173": {
+     "pct": 70.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 181,
@@ -7535,7 +10131,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Asit Mitra",
-   "electors_12": 206749
+   "electors_12": 206749,
+   "shares": {
+    "174": {
+     "pct": 48.7,
+     "basis": "approx"
+    },
+    "175": {
+     "pct": 7.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 182,
@@ -7551,7 +10157,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Samir Kumar Panja",
-   "electors_12": 190753
+   "electors_12": 190753,
+   "shares": {
+    "176": {
+     "pct": 44.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 183,
@@ -7567,7 +10179,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Abul Kasem Molla",
-   "electors_12": 225661
+   "electors_12": 225661,
+   "shares": {
+    "167": {
+     "pct": 55.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 184,
@@ -7583,7 +10201,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Rajib Banerjee",
-   "electors_12": 216676
+   "electors_12": 216676,
+   "shares": {
+    "166": {
+     "pct": 34.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 185,
@@ -7599,7 +10223,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Anup Ghosal",
-   "electors_12": 217099
+   "electors_12": 217099,
+   "shares": {
+    "179": {
+     "pct": 26.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 186,
@@ -7615,7 +10245,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dr. Sudipto Roy",
-   "electors_12": 207798
+   "electors_12": 207798,
+   "shares": {
+    "180": {
+     "pct": 62.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 187,
@@ -7631,7 +10267,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Muzaffar Khan",
-   "electors_12": 209316
+   "electors_12": 209316,
+   "shares": {
+    "181": {
+     "pct": 23.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 188,
@@ -7647,7 +10289,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Rabindranath Bhattacharya",
-   "electors_12": 205596
+   "electors_12": 205596,
+   "shares": {
+    "183": {
+     "pct": 50.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 189,
@@ -7663,7 +10311,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ashok Kumar Shaw",
-   "electors_12": 200388
+   "electors_12": 200388,
+   "shares": {
+    "182": {
+     "pct": 28.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 190,
@@ -7679,7 +10333,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Asit Mazumder (Tapan)",
-   "electors_12": 263852
+   "electors_12": 263852,
+   "shares": {
+    "186": {
+     "pct": 24.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 191,
@@ -7695,7 +10355,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Asim Kumar Majhi",
-   "electors_12": 207853
+   "electors_12": 207853,
+   "shares": {
+    "188": {
+     "pct": 69.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 192,
@@ -7711,7 +10377,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Amjad Hossain Sk.",
-   "electors_12": 207334
+   "electors_12": 207334,
+   "shares": {
+    "189": {
+     "pct": 73.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 193,
@@ -7727,7 +10399,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Tapan Dasgupta",
-   "electors_12": 186882
+   "electors_12": 186882,
+   "shares": {
+    "187": {
+     "pct": 48.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 194,
@@ -7743,7 +10421,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Swati Khandoker",
-   "electors_12": 202047
+   "electors_12": 202047,
+   "shares": {
+    "178": {
+     "pct": 39.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 195,
@@ -7759,7 +10443,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Snehasis Chakraborty",
-   "electors_12": 203459
+   "electors_12": 203459,
+   "shares": {
+    "177": {
+     "pct": 63.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 196,
@@ -7775,7 +10465,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Becharam Manna",
-   "electors_12": 214029
+   "electors_12": 214029,
+   "shares": {
+    "184": {
+     "pct": 66.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 197,
@@ -7792,7 +10488,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Asima Patra",
-   "electors_12": 222562
+   "electors_12": 222562,
+   "shares": {
+    "190": {
+     "pct": 23.6,
+     "basis": "approx"
+    },
+    "191": {
+     "pct": 41.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 198,
@@ -7808,7 +10514,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Rachhpal Singh",
-   "electors_12": 197378
+   "electors_12": 197378,
+   "shares": {
+    "185": {
+     "pct": 55.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 199,
@@ -7824,7 +10536,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Parvez Rahman",
-   "electors_12": 214053
+   "electors_12": 214053,
+   "shares": {
+    "192": {
+     "pct": 51.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 200,
@@ -7840,7 +10558,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AITC",
    "winner_12": "Krishna Chandra Santra",
-   "electors_12": 207829
+   "electors_12": 207829,
+   "shares": {
+    "194": {
+     "pct": 51.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 201,
@@ -7856,7 +10580,13 @@
    "sc_note": "",
    "party12": "AIFB",
    "winner_12": "Karak Biswanath",
-   "electors_12": 193452
+   "electors_12": 193452,
+   "shares": {
+    "195": {
+     "pct": 81.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 202,
@@ -7872,7 +10602,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "AITC",
    "winner_12": "Iqbal Ahmed",
-   "electors_12": 219432
+   "electors_12": 219432,
+   "shares": {
+    "193": {
+     "pct": 39.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 203,
@@ -7888,7 +10624,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Saumen Kumar Mahapatra",
-   "electors_12": 209937
+   "electors_12": 209937,
+   "shares": {
+    "202": {
+     "pct": 41.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 204,
@@ -7904,7 +10646,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Biplab Roy Chowdhury",
-   "electors_12": 186105
+   "electors_12": 186105,
+   "shares": {
+    "201": {
+     "pct": 48.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 205,
@@ -7920,7 +10668,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Omar Ali",
-   "electors_12": 211663
+   "electors_12": 211663,
+   "shares": {
+    "200": {
+     "pct": 43.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 206,
@@ -7937,7 +10691,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Bhushan Chandra Dolai",
-   "electors_12": 196999
+   "electors_12": 196999,
+   "shares": {
+    "203": {
+     "pct": 74.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 207,
@@ -7967,7 +10727,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sudarsan Ghosh Dastidar",
-   "electors_12": 189874
+   "electors_12": 189874,
+   "shares": {
+    "204": {
+     "pct": 41.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 209,
@@ -7983,7 +10749,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Seuli Saha",
-   "electors_12": 188653
+   "electors_12": 188653,
+   "shares": {
+    "205": {
+     "pct": 69.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 210,
@@ -7999,7 +10771,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Phiroja Bibi",
-   "electors_12": 195232
+   "electors_12": 195232,
+   "shares": {
+    "206": {
+     "pct": 78.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 211,
@@ -8015,7 +10793,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Amiya Kanti Bhattacharjee (Kablu)",
-   "electors_12": 188758
+   "electors_12": 188758,
+   "shares": {
+    "207": {
+     "pct": 52.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 212,
@@ -8031,7 +10815,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Jyotirmoy Kar",
-   "electors_12": 182774
+   "electors_12": 182774,
+   "shares": {
+    "215": {
+     "pct": 81.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 213,
@@ -8047,7 +10837,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Banasri Maity",
-   "electors_12": 202138
+   "electors_12": 202138,
+   "shares": {
+    "210": {
+     "pct": 56.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 214,
@@ -8064,7 +10860,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ardhendu Maity",
-   "electors_12": 198952
+   "electors_12": 198952,
+   "shares": {
+    "208": {
+     "pct": 27.6,
+     "basis": "approx"
+    },
+    "214": {
+     "pct": 51.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 215,
@@ -8080,7 +10886,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ranajit Mondal",
-   "electors_12": 177602
+   "electors_12": 177602,
+   "shares": {
+    "209": {
+     "pct": 62.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 216,
@@ -8096,7 +10908,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dibyendu Adhikari",
-   "electors_12": 175105
+   "electors_12": 175105,
+   "shares": {
+    "211": {
+     "pct": 46.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 217,
@@ -8112,7 +10930,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Akhil Giri",
-   "electors_12": 203723
+   "electors_12": 203723,
+   "shares": {
+    "212": {
+     "pct": 99.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 218,
@@ -8128,7 +10952,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Das Samares",
-   "electors_12": 219399
+   "electors_12": 219399,
+   "shares": {
+    "213": {
+     "pct": 67.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 219,
@@ -8144,7 +10974,13 @@
    "sc_note": "",
    "party12": "CPI",
    "winner_12": "Arun Mohapatra",
-   "electors_12": 179499
+   "electors_12": 179499,
+   "shares": {
+    "228": {
+     "pct": 49.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 220,
@@ -8160,7 +10996,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dulal Murmu",
-   "electors_12": 175005
+   "electors_12": 175005,
+   "shares": {
+    "229": {
+     "pct": 79.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 221,
@@ -8176,7 +11018,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Chudamani Mahato",
-   "electors_12": 177748
+   "electors_12": 177748,
+   "shares": {
+    "230": {
+     "pct": 68.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 222,
@@ -8192,7 +11040,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Sukumar Hansda",
-   "electors_12": 184398
+   "electors_12": 184398,
+   "shares": {
+    "231": {
+     "pct": 31.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 223,
@@ -8208,7 +11062,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Biram Mandi",
-   "electors_12": 182549
+   "electors_12": 182549,
+   "shares": {
+    "226": {
+     "pct": 59.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 224,
@@ -8224,7 +11084,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Gyan Singh Sohanpal",
-   "electors_12": 195162
+   "electors_12": 195162,
+   "shares": {
+    "224": {
+     "pct": 15.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 225,
@@ -8240,7 +11106,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Surjya Kanta Mishra",
-   "electors_12": 191752
+   "electors_12": 191752,
+   "shares": {
+    "227": {
+     "pct": 37.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 226,
@@ -8256,7 +11128,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Manas Ranjan Bhunia",
-   "electors_12": 206439
+   "electors_12": 206439,
+   "shares": {
+    "216": {
+     "pct": 61.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 227,
@@ -8272,7 +11150,13 @@
    "sc_note": "",
    "party12": "DSP(P)",
    "winner_12": "Prabodh Chandra Sinha",
-   "electors_12": 194839
+   "electors_12": 194839,
+   "shares": {
+    "217": {
+     "pct": 34.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 228,
@@ -8288,7 +11172,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Haque Nazmul",
-   "electors_12": 166917
+   "electors_12": 166917,
+   "shares": {
+    "225": {
+     "pct": 30.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 229,
@@ -8304,7 +11194,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Radhakanta Maiti",
-   "electors_12": 183967
+   "electors_12": 183967,
+   "shares": {
+    "218": {
+     "pct": 80.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 230,
@@ -8320,7 +11216,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ajit Bhunia",
-   "electors_12": 242616
+   "electors_12": 242616,
+   "shares": {
+    "198": {
+     "pct": 65.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 231,
@@ -8336,7 +11238,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Shankar Dolai",
-   "electors_12": 224916
+   "electors_12": 224916,
+   "shares": {
+    "197": {
+     "pct": 76.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 232,
@@ -8352,7 +11260,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "CPI(M)",
    "winner_12": "Chhaya Dolai",
-   "electors_12": 216439
+   "electors_12": 216439,
+   "shares": {
+    "196": {
+     "pct": 79.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 233,
@@ -8369,7 +11283,17 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Ghosh Susanta",
-   "electors_12": 176796
+   "electors_12": 176796,
+   "shares": {
+    "220": {
+     "pct": 33.3,
+     "basis": "approx"
+    },
+    "221": {
+     "pct": 51.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 234,
@@ -8386,7 +11310,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Srikanta Mahata",
-   "electors_12": 208500
+   "electors_12": 208500,
+   "shares": {
+    "221": {
+     "pct": 45.1,
+     "basis": "approx"
+    },
+    "222": {
+     "pct": 22.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 235,
@@ -8402,7 +11336,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Rameswar Doloi",
-   "electors_12": 194487
+   "electors_12": 194487,
+   "shares": {
+    "219": {
+     "pct": 69.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 236,
@@ -8418,7 +11358,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Mrigendra Nath Maiti",
-   "electors_12": 215287
+   "electors_12": 215287,
+   "shares": {
+    "223": {
+     "pct": 26.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 237,
@@ -8434,7 +11380,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Dibakar Hansda",
-   "electors_12": 179861
+   "electors_12": 179861,
+   "shares": {
+    "232": {
+     "pct": 58.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 238,
@@ -8450,7 +11402,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Besra Susanta",
-   "electors_12": 223789
+   "electors_12": 223789,
+   "shares": {
+    "233": {
+     "pct": 54.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 239,
@@ -8466,7 +11424,13 @@
    "sc_note": "The old seat was ST-reserved; the reservation was removed in 2008.",
    "party12": "AITC",
    "winner_12": "Shantiram Mahato",
-   "electors_12": 175112
+   "electors_12": 175112,
+   "shares": {
+    "235": {
+     "pct": 37.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 240,
@@ -8483,7 +11447,17 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Nepal Mahata",
-   "electors_12": 192018
+   "electors_12": 192018,
+   "shares": {
+    "236": {
+     "pct": 61.2,
+     "basis": "approx"
+    },
+    "237": {
+     "pct": 31.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 241,
@@ -8500,7 +11474,17 @@
    "sc_note": "",
    "party12": "AIFB",
    "winner_12": "Dhirendra Nath Mahato",
-   "electors_12": 189809
+   "electors_12": 189809,
+   "shares": {
+    "237": {
+     "pct": 13.5,
+     "basis": "approx"
+    },
+    "238": {
+     "pct": 52.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 242,
@@ -8516,7 +11500,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "K.P. Singh Deo",
-   "electors_12": 193014
+   "electors_12": 193014,
+   "shares": {
+    "239": {
+     "pct": 52.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 243,
@@ -8532,7 +11522,13 @@
    "sc_note": "Newly reserved for Scheduled Tribes in 2008; the old seat was General.",
    "party12": "AITC",
    "winner_12": "Sandhyarani Tudu",
-   "electors_12": 200562
+   "electors_12": 200562,
+   "shares": {
+    "234": {
+     "pct": 73.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 244,
@@ -8549,7 +11545,17 @@
    "sc_note": "The old seat was ST-reserved; the reservation was removed in 2008.",
    "party12": "AITC",
    "winner_12": "Swapan Kumar Belthariya",
-   "electors_12": 188342
+   "electors_12": 188342,
+   "shares": {
+    "242": {
+     "pct": 59.9,
+     "basis": "approx"
+    },
+    "243": {
+     "pct": 27.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 245,
@@ -8565,7 +11571,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Umapada Bauri",
-   "electors_12": 184196
+   "electors_12": 184196,
+   "shares": {
+    "240": {
+     "pct": 72.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 246,
@@ -8581,7 +11593,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Purna Chandra Bauri",
-   "electors_12": 198409
+   "electors_12": 198409,
+   "shares": {
+    "241": {
+     "pct": 63.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 247,
@@ -8597,7 +11615,13 @@
    "sc_note": "Reserved for Scheduled Castes under the 2008 order.",
    "party12": "AITC",
    "winner_12": "Swapan Bouri",
-   "electors_12": 188606
+   "electors_12": 188606,
+   "shares": {
+    "249": {
+     "pct": 73.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 248,
@@ -8614,7 +11638,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Subhasis Batabyal",
-   "electors_12": 194715
+   "electors_12": 194715,
+   "shares": {
+    "247": {
+     "pct": 39.2,
+     "basis": "approx"
+    },
+    "248": {
+     "pct": 58.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 249,
@@ -8630,7 +11664,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Debalina Hembram",
-   "electors_12": 200986
+   "electors_12": 200986,
+   "shares": {
+    "246": {
+     "pct": 80.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 250,
@@ -8646,7 +11686,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Upen Kisku",
-   "electors_12": 178332
+   "electors_12": 178332,
+   "shares": {
+    "245": {
+     "pct": 87.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 251,
@@ -8662,7 +11708,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Manoranjan Patra",
-   "electors_12": 179758
+   "electors_12": 179758,
+   "shares": {
+    "244": {
+     "pct": 92.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 252,
@@ -8678,7 +11730,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Kashinath Mishra",
-   "electors_12": 215037
+   "electors_12": 215037,
+   "shares": {
+    "251": {
+     "pct": 67.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 253,
@@ -8694,7 +11752,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Asutosh Mukherjee",
-   "electors_12": 203655
+   "electors_12": 203655,
+   "shares": {
+    "250": {
+     "pct": 80.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 254,
@@ -8710,7 +11774,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Arup Kumar Khan",
-   "electors_12": 199552
+   "electors_12": 199552,
+   "shares": {
+    "252": {
+     "pct": 74.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 255,
@@ -8726,7 +11796,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Shyama Prasad Mukherjee",
-   "electors_12": 171567
+   "electors_12": 171567,
+   "shares": {
+    "253": {
+     "pct": 71.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 256,
@@ -8742,7 +11818,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "INC",
    "winner_12": "Khan Saumitra",
-   "electors_12": 190151
+   "electors_12": 190151,
+   "shares": {
+    "254": {
+     "pct": 61.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 257,
@@ -8758,7 +11840,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Gurupada Mete",
-   "electors_12": 188746
+   "electors_12": 188746,
+   "shares": {
+    "255": {
+     "pct": 78.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 258,
@@ -8774,7 +11862,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dipali Saha",
-   "electors_12": 180448
+   "electors_12": 180448,
+   "shares": {
+    "256": {
+     "pct": 81.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 259,
@@ -8790,7 +11884,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Nabin Chandra Bag",
-   "electors_12": 194922
+   "electors_12": 194922,
+   "shares": {
+    "272": {
+     "pct": 41.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 260,
@@ -8822,7 +11922,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "CPI(M)",
    "winner_12": "Khan Basudeb",
-   "electors_12": 209734
+   "electors_12": 209734,
+   "shares": {
+    "273": {
+     "pct": 61.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 262,
@@ -8838,7 +11944,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ujjal Pramanick",
-   "electors_12": 188058
+   "electors_12": 188058,
+   "shares": {
+    "274": {
+     "pct": 73.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 263,
@@ -8854,7 +11966,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Chowdhury Md Hedayatullah",
-   "electors_12": 191823
+   "electors_12": 191823,
+   "shares": {
+    "278": {
+     "pct": 57.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 264,
@@ -8870,7 +11988,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AITC",
    "winner_12": "Kundu Biswajit",
-   "electors_12": 187742
+   "electors_12": 187742,
+   "shares": {
+    "276": {
+     "pct": 75.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 265,
@@ -8886,7 +12010,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Abul Hasem Mondal",
-   "electors_12": 203430
+   "electors_12": 203430,
+   "shares": {
+    "275": {
+     "pct": 86.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 266,
@@ -8902,7 +12032,13 @@
    "sc_note": "Reserved for Scheduled Castes under the 2008 order.",
    "party12": "CPI(M)",
    "winner_12": "Aparna Saha",
-   "electors_12": 211206
+   "electors_12": 211206,
+   "shares": {
+    "270": {
+     "pct": 76.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 267,
@@ -8918,7 +12054,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Banamali Hazra",
-   "electors_12": 197674
+   "electors_12": 197674,
+   "shares": {
+    "268": {
+     "pct": 80.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 268,
@@ -8935,7 +12077,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Swapan Debnath",
-   "electors_12": 191256
+   "electors_12": 191256,
+   "shares": {
+    "277": {
+     "pct": 81.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 269,
@@ -8951,7 +12099,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Tapan Chatterjee",
-   "electors_12": 189373
+   "electors_12": 189373,
+   "shares": {
+    "279": {
+     "pct": 72.3,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 270,
@@ -8967,7 +12121,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Rabindranath Chatterjee",
-   "electors_12": 212236
+   "electors_12": 212236,
+   "shares": {
+    "280": {
+     "pct": 15.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 271,
@@ -8983,7 +12143,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "AITC",
    "winner_12": "Sekh Sahonawez",
-   "electors_12": 198029
+   "electors_12": 198029,
+   "shares": {
+    "282": {
+     "pct": 61.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 272,
@@ -8999,7 +12165,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Sahajahan Choudhury",
-   "electors_12": 202627
+   "electors_12": 202627,
+   "shares": {
+    "281": {
+     "pct": 68.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 273,
@@ -9015,7 +12187,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Basudev Mete",
-   "electors_12": 196219
+   "electors_12": 196219,
+   "shares": {
+    "267": {
+     "pct": 74.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 274,
@@ -9032,7 +12210,17 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AIFB",
    "winner_12": "Sunil Kumar Mondal",
-   "electors_12": 204589
+   "electors_12": 204589,
+   "shares": {
+    "266": {
+     "pct": 38.6,
+     "basis": "approx"
+    },
+    "269": {
+     "pct": 27.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 275,
@@ -9048,7 +12236,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Gauranga Chatterjee",
-   "electors_12": 168065
+   "electors_12": 168065,
+   "shares": {
+    "263": {
+     "pct": 36.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 276,
@@ -9064,7 +12258,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Dr. Nikhil Kumar Banerjee",
-   "electors_12": 202449
+   "electors_12": 202449,
+   "shares": {
+    "264": {
+     "pct": 14.4,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 277,
@@ -9080,7 +12280,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Apurba Mukherjee",
-   "electors_12": 209944
+   "electors_12": 209944,
+   "shares": {
+    "265": {
+     "pct": 49.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 278,
@@ -9096,7 +12302,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ali Sohrab",
-   "electors_12": 197129
+   "electors_12": 197129,
+   "shares": {
+    "261": {
+     "pct": 4.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 279,
@@ -9112,7 +12324,13 @@
    "sc_note": "",
    "party12": "CPI(M)",
    "winner_12": "Jahanara Khan",
-   "electors_12": 175316
+   "electors_12": 175316,
+   "shares": {
+    "262": {
+     "pct": 76.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 280,
@@ -9129,7 +12347,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Tapas Banerjee",
-   "electors_12": 204435
+   "electors_12": 204435,
+   "shares": {
+    "259": {
+     "pct": 29.6,
+     "basis": "approx"
+    },
+    "260": {
+     "pct": 8.9,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 281,
@@ -9161,7 +12389,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Ujjal Chatterjee",
-   "electors_12": 187988
+   "electors_12": 187988,
+   "shares": {
+    "257": {
+     "pct": 58.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 283,
@@ -9177,7 +12411,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Bidhan Upadhyay",
-   "electors_12": 185113
+   "electors_12": 185113,
+   "shares": {
+    "258": {
+     "pct": 81.1,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 284,
@@ -9193,7 +12433,13 @@
    "sc_note": "Newly reserved for Scheduled Castes in 2008; the old seat was General.",
    "party12": "AIFB",
    "winner_12": "Bijoy Bagdi",
-   "electors_12": 181999
+   "electors_12": 181999,
+   "shares": {
+    "286": {
+     "pct": 24.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 285,
@@ -9210,7 +12456,17 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Swapan Kanti Ghosh",
-   "electors_12": 199153
+   "electors_12": 199153,
+   "shares": {
+    "287": {
+     "pct": 35.5,
+     "basis": "approx"
+    },
+    "288": {
+     "pct": 44.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 286,
@@ -9226,7 +12482,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Chandra Nath Sinha",
-   "electors_12": 201791
+   "electors_12": 201791,
+   "shares": {
+    "284": {
+     "pct": 33.5,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 287,
@@ -9242,7 +12504,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Gadadhar Hazra",
-   "electors_12": 218317
+   "electors_12": 218317,
+   "shares": {
+    "283": {
+     "pct": 58.8,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 288,
@@ -9258,7 +12526,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Islam Monirul",
-   "electors_12": 186922
+   "electors_12": 186922,
+   "shares": {
+    "285": {
+     "pct": 69.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 289,
@@ -9274,7 +12548,13 @@
    "sc_note": "Reserved for Scheduled Castes under the 2008 order.",
    "party12": "CPI(M)",
    "winner_12": "Dhiren Bagdi",
-   "electors_12": 190105
+   "electors_12": 190105,
+   "shares": {
+    "289": {
+     "pct": 66.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 290,
@@ -9290,7 +12570,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "CPI(M)",
    "winner_12": "Asok Ray",
-   "electors_12": 182588
+   "electors_12": 182588,
+   "shares": {
+    "290": {
+     "pct": 57.6,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 291,
@@ -9306,7 +12592,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Asish Banerjee",
-   "electors_12": 190293
+   "electors_12": 190293,
+   "shares": {
+    "291": {
+     "pct": 52.0,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 292,
@@ -9322,7 +12614,13 @@
    "sc_note": "The old seat was SC-reserved; the reservation was removed in 2008.",
    "party12": "INC",
    "winner_12": "Asit Mal",
-   "electors_12": 181254
+   "electors_12": 181254,
+   "shares": {
+    "292": {
+     "pct": 60.7,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 293,
@@ -9338,7 +12636,13 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Abhijit Mukherjee",
-   "electors_12": 176584
+   "electors_12": 176584,
+   "shares": {
+    "293": {
+     "pct": 74.2,
+     "basis": "approx"
+    }
+   }
   },
   {
    "ac_no": 294,
@@ -9354,7 +12658,13 @@
    "sc_note": "",
    "party12": "AITC",
    "winner_12": "Nure Alam Chowdhury",
-   "electors_12": 189414
+   "electors_12": 189414,
+   "shares": {
+    "294": {
+     "pct": 73.6,
+     "basis": "approx"
+    }
+   }
   }
  ],
  "sources": [
