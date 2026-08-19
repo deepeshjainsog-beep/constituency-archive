@@ -23,7 +23,7 @@
    "kind": "state",
    "status": "live",
    "note": "Delimitation under the 2002 Act was deferred here in 2008.",
-   "last_updated": "23 July 2026"
+   "last_updated": "18 August 2026"
   },
   {
    "slug": "bihar",
@@ -55,7 +55,7 @@
    "name": "Haryana",
    "kind": "state",
    "status": "live",
-   "last_updated": "21 July 2026"
+   "last_updated": "18 August 2026"
   },
   {
    "slug": "himachal-pradesh",
@@ -153,14 +153,14 @@
    "name": "Punjab",
    "kind": "state",
    "status": "live",
-   "last_updated": "13 July 2026"
+   "last_updated": "18 August 2026"
   },
   {
    "slug": "rajasthan",
    "name": "Rajasthan",
    "kind": "state",
    "status": "live",
-   "last_updated": "17 July 2026"
+   "last_updated": "18 August 2026"
   },
   {
    "slug": "sikkim",
@@ -204,7 +204,7 @@
    "name": "West Bengal",
    "kind": "state",
    "status": "live",
-   "last_updated": "21 July 2026"
+   "last_updated": "18 August 2026"
   }
  ],
  "homepage": {
