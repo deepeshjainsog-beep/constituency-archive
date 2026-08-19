@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="44fb1463-bfb2-4df5-adab-01e2e75f5865"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Limitations &middot; Boundaries</title>
+  <meta name="description" content="What the Boundaries archive can and cannot tell you: sources, method, and the known weaknesses in the record, state by state.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%231c1a16'/%3E%3Ctext x='16' y='25' text-anchor='middle' font-family='Georgia,serif' font-size='20' fill='%23faf8f5'%3EB%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <nav class="masthead">
+    <div class="wrap">
+      <a href="index.html" class="masthead__mark">
+        <span class="logo-b">B</span>
+        <span style="letter-spacing:-0.01em">Boundaries</span>
+      </a>
+      <span class="masthead__links">
+        <a href="index.html#register">Register</a>
+        <a href="notes.html">Notes</a>
+        <a href="limitations.html">Limitations</a>
+        <a href="index.html#about">About</a>
+      </span>
+    </div>
+  </nav>
+
+  <main class="wrap" id="main">
+    <article class="reading">
+      <div class="reading__eyebrow">Boundaries &middot; Limitations</div>
+      <h1>What this archive cannot tell you</h1>
+
+      <p class="reading__lede">
+        Boundaries reconstructs constituencies that were retired and largely
+        left the public record. Reconstruction is not the same as the original.
+        This page sets out where the archive is firm, where it is soft, and
+        where it is silent.
+      </p>
+
+      <div class="reading__body">
+
+        <h2>The territory shares</h2>
+
+        <p>
+          Every seat record lists the constituencies its territory went to, or
+          came from, with a percentage attached. Those percentages are computed
+          by intersecting the mapped boundaries of the two delimitation orders,
+          which are drawn on a single projection for each state. They are
+          measurements of the maps, not readings from the delimitation order.
+        </p>
+
+        <p>
+          Three things follow, and all three matter if you intend to use the
+          numbers.
+        </p>
+
+        <p>
+          The shares are areal. They describe land, not people. A successor
+          seat drawing forty per cent of its area from a predecessor may draw a
+          far larger or far smaller proportion of its electors, because density
+          varies enormously between a city ward and a rural tract. Anyone
+          back-casting election results across the two orders needs to weight by
+          population, and this archive does not supply that weighting.
+        </p>
+
+        <p>
+          The two directions are different numbers. On a pre-delimitation seat
+          the figure is the share of that seat which went to each successor. On
+          a post-delimitation seat it is the share of that seat drawn from each
+          predecessor. A seat can send ninety per cent of itself somewhere and
+          still account for only ten per cent of the destination.
+        </p>
+
+        <p>
+          The figures do not sum to one hundred. Overlaps below one per cent are
+          dropped as slivers, and the record shows only the lineage links that
+          have been curated. The maps commonly show further partial overlaps
+          that no source describes as a successor relationship.
+        </p>
+
+        <h3>Why some shares carry a tilde</h3>
+
+        <p>
+          A figure shown as <span class="mono">~22%</span> is approximate. It
+          means at least one of the two seats is defined by municipal wards, and
+          the two orders number wards on incompatible schemes. The boundary
+          cannot be matched mechanically, so the figure indicates scale rather
+          than a measurement you should quote.
+        </p>
+
+        <p>
+          A small number of links carry no percentage at all. That is
+          deliberate. Where the computed overlap fell below half a per cent on a
+          link the delimitation order supports, printing a figure would imply a
+          precision the geometry does not have. The link is shown; the number is
+          withheld.
+        </p>
+
+        <h2>The maps</h2>
+
+        <p>
+          Pre-delimitation boundaries are digitised from a pre-2008 all-India
+          assembly-constituency shapefile. Post-delimitation boundaries come
+          from the Election Commission's published polygons. The two were drawn
+          for different purposes at different times, and they do not register
+          perfectly against one another.
+        </p>
+
+        <p>
+          Three constituencies have a record on this site but no polygon, and so
+          appear in no share calculation at all: Maharashtra AC 148 Amgaon and
+          AC 278 Ichalkaranji, and Karnataka AC 203 Sankeshwar.
+        </p>
+
+        <p>
+          Maharashtra's two layers show materially more displacement between
+          them than any other state's. Its shares should be read with more
+          caution than the rest.
+        </p>
+
+        <p>
+          Bangalore is a known problem. The city's two layers agree in aggregate,
+          but individual seats carrying the same name sit measurably apart
+          between the orders. The 2008 order rebuilt Bangalore from twenty-five
+          seats to thirty-six and reassigned familiar names to different ground,
+          so some of that displacement is real and some may be an artefact of
+          digitising. The archive does not yet distinguish the two, and no
+          Bangalore share should be relied on.
+        </p>
+
+        <h2>The lineage</h2>
+
+        <p>
+          The links between old and new seats are curated from the delimitation
+          order text and from constituency-level comparison. They record
+          principal successors, not every partial overlap. Where the maps
+          positively contradict a curated link, showing two areas that do not
+          touch at all, the link has been removed.
+        </p>
+
+        <p>
+          The reverse check is not available. Geometry can establish that a
+          claimed link is impossible. It cannot establish that an unlisted link
+          should exist, and testing showed that generating lineage from
+          geometry alone reproduces the curated record too poorly to be used.
+          Absence of a link is therefore weaker evidence than the presence of
+          one.
+        </p>
+
+        <h2>The status field</h2>
+
+        <p>
+          Each pre-delimitation seat is marked continuing, renamed or abolished,
+          and each post-delimitation seat continuing, renamed or new. The field
+          tracks the name, not the territory. A seat whose name survived is
+          marked continuing even where the redraw left little of its original
+          ground, which is common for city seats reduced to their municipal
+          core.
+        </p>
+
+        <p>
+          A seat that split into halves carrying a qualifier, such as a city and
+          a rural counterpart, is treated as abolished rather than renamed: it
+          did not change its name, it ceased to exist. Only a genuine change to
+          the name itself counts as a rename. This convention is applied
+          uniformly across every state.
+        </p>
+
+        <h2>The record, state by state</h2>
+
+        <p>
+          The archive is not uniformly complete. The gaps below are stated so
+          that the absence of information is not mistaken for the absence of a
+          finding.
+        </p>
+
+        <p>
+          West Bengal and Kerala carry no extent text. The delimited description
+          of each constituency is missing for every seat in both states. A
+          consequence is that the ward test which flags approximate shares
+          cannot run there, so every share in those two states is marked
+          approximate. That reflects missing metadata rather than a judgement
+          that those maps are worse.
+        </p>
+
+        <p>
+          Karnataka, Gujarat and Kerala carry no explanatory notes on any seat,
+          and Maharashtra carries them on under half. Elsewhere every seat has
+          one. A seat record without a note is not a seat about which nothing is
+          known.
+        </p>
+
+        <p>
+          Karnataka AC 88 Yelahanka records an electorate that cannot be
+          reconciled with its single listed successor. Either the figure or the
+          lineage is wrong, and until that is resolved the seat should not be
+          used.
+        </p>
+
+        <h2>Sources</h2>
+
+        <p>
+          Constituency composition is taken from the Delimitation of
+          Parliamentary and Assembly Constituencies Orders of 1976 and 2008.
+          Winners and electorate figures are from the Election Commission's
+          statistical reports for the relevant state elections. Boundaries are
+          as described above. Each state page lists its own sources and caveats
+          in full.
+        </p>
+
+        <div class="submit-card">
+          <p>
+            If you find an error, please report it. Every seat record carries a
+            reporting link that fills in the state, seat and order for you, or
+            write directly to
+          </p>
+          <p>
+            <a class="addr" href="mailto:boundaries.sog@gmail.com">boundaries.sog@gmail.com</a>
+          </p>
+          <span class="pending">Confirmed corrections are applied to the state page and the revision date updated</span>
+        </div>
+
+      </div>
+    </article>
+  </main>
+
+  <footer class="colophon">
+    <div class="wrap">
+      <span>Boundaries</span>
+      <span>An open reference &middot; updated state by state</span>
+    </div>
+  </footer>
+</body>
+</html>
