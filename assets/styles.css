@@ -1171,3 +1171,120 @@ footer.colophon .wrap {
   margin-top: 18px;
   display: block;
 }
+
+/* ============================================================
+   Print: Plates I and II only, one per A4 page
+   ============================================================ */
+
+@page {
+  size: A4 portrait;
+  margin: 14mm 14mm 16mm;
+}
+
+@media print {
+
+  /* ---- flatten the screen palette to ink on paper ---- */
+  html, body {
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 10.5pt;
+  }
+  .wrap { max-width: none; padding: 0; }
+
+  /* ---- strip everything that is not a plate ---- */
+  .masthead,
+  .gsearch-holder,
+  .hero,
+  .figures,
+  .plate-nav,
+  .controls,
+  .chip,
+  .tbtn,
+  .map-tip,
+  .hero-map-tip,
+  .panel,
+  #detail-panel,
+  #p2-panel,
+  #p3,
+  #p4,
+  #mal-band,
+  #search-drop,
+  .skip,
+  footer.colophon,
+  .state-hero__map,
+  .hero-stat-pills { display: none !important; }
+
+  /* ---- one plate per sheet ---- */
+  #p1, #p2 {
+    margin: 0;
+    page-break-after: always;
+    break-after: page;
+  }
+  #p2 { page-break-after: auto; break-after: auto; }
+  .section { margin: 0 0 8mm; }
+  .section__head {
+    border-bottom: 0.5pt solid #000;
+    padding-bottom: 3mm;
+    margin-bottom: 4mm;
+  }
+  .section__head .plate {
+    background: none;
+    color: #000;
+    border: 0.5pt solid #000;
+    border-radius: 0;
+  }
+  .section__head .aside { display: none; }
+  .section > p { max-width: none; color: #000; font-size: 9.5pt; }
+
+  /* ---- the plate itself gets the page ---- */
+  .map-grid { display: block; }
+  .sheet {
+    border: 0.75pt solid #000;
+    border-radius: 0;
+    background: none;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .sheet__title { background: none; border-bottom: 0.5pt solid #000; }
+  .map-stage { width: 100%; }
+  .map-stage svg { width: 100%; height: auto; }
+  svg .ac {
+    fill: #fff !important;
+    stroke: #000 !important;
+    stroke-width: 0.35 !important;
+  }
+  svg .ac.is-selected,
+  svg .ac.is-linked { fill: #fff !important; stroke-width: 0.35 !important; }
+  svg .ac.ac-approx { stroke-dasharray: 2 1.5; }
+  .nbr-label { fill: rgba(0,0,0,0.35); }
+
+  /* ---- district ledger stays, flattened ---- */
+  #district-ledger {
+    border: 0.5pt solid #000 !important;
+    background: none !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    font-size: 8.5pt;
+  }
+
+  /* ---- citation printed at the foot of the record ---- */
+  #sources { margin: 0; }
+  #sources > *,
+  #sources .section__head { display: none !important; }
+  #sources #cite-text {
+    display: block !important;
+    border: none;
+    background: none;
+    padding: 0;
+    font-size: 8pt;
+    line-height: 1.5;
+  }
+
+  a { color: #000 !important; text-decoration: none !important; }
+  a[href]::after { content: ""; }
+  *, *::before, *::after {
+    box-shadow: none !important;
+    transition: none !important;
+    backdrop-filter: none !important;
+  }
+}
