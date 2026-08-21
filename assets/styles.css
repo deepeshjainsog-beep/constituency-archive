@@ -1261,6 +1261,107 @@ svg.plate-north {
 }
 
 /* ============================================================
+   Dark palette. The light values above are the source of truth;
+   this block restates the same variables against a dark ground.
+   ============================================================ */
+
+:root { color-scheme: light; }
+
+[data-theme="dark"] {
+  color-scheme: dark;
+
+  --bg:       #14130f;
+  --surface:  #1d1b16;
+  --surface2: #26231c;
+
+  --ink:      #f2efe7;
+  --ink-85:   rgba(242, 239, 231, 0.85);
+  --ink-70:   rgba(242, 239, 231, 0.70);
+  --ink-60:   rgba(242, 239, 231, 0.58);
+  --ink-45:   rgba(242, 239, 231, 0.45);
+  --ink-35:   rgba(242, 239, 231, 0.35);
+  --ink-25:   rgba(242, 239, 231, 0.26);
+  --ink-20:   rgba(242, 239, 231, 0.22);
+  --ink-18:   rgba(242, 239, 231, 0.20);
+  --ink-12:   rgba(242, 239, 231, 0.14);
+  --ink-08:   rgba(242, 239, 231, 0.10);
+  --ink-06:   rgba(242, 239, 231, 0.08);
+
+  /* the accent is lifted: the light teal reads as mud on a dark ground */
+  --teal:     #5cbdb0;
+  --teal-lt:  rgba(92, 189, 176, 0.16);
+  --teal-mid: rgba(92, 189, 176, 0.30);
+
+  --red:      #d97a63;
+  --amber:    #d3a34a;
+  --green:    #6fae7f;
+
+  --border:   0.75px solid var(--ink-18);
+}
+
+/* rules in the light sheet that carry a literal colour need restating */
+[data-theme="dark"] .masthead {
+  background: rgba(20, 19, 15, 0.88);
+}
+[data-theme="dark"] a.state-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+}
+[data-theme="dark"] .gsearch__drop {
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55);
+}
+[data-theme="dark"] .map-tip,
+[data-theme="dark"] .hero-map-tip {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+}
+[data-theme="dark"] .masthead__mark .logo-b::before,
+[data-theme="dark"] .masthead__mark .logo-b::after {
+  background: rgba(20, 19, 15, 0.5);
+}
+[data-theme="dark"] .idx button.is-selected .no,
+[data-theme="dark"] .idx button.is-selected .sc {
+  color: rgba(20, 19, 15, 0.55);
+}
+[data-theme="dark"] .india-map-wrap svg .state.live {
+  stroke: #0c2f2c;
+}
+[data-theme="dark"] .india-map-wrap svg .state.live + text.slabel {
+  fill: rgba(20, 19, 15, 0.8);
+}
+[data-theme="dark"] .nbr-label { fill: rgba(242, 239, 231, 0.22); }
+[data-theme="dark"] .t4tile:hover { box-shadow: 0 0 0 2px var(--ink) !important; }
+
+/* the hero photograph is lit for cream paper */
+[data-theme="dark"] .hero-map-sheet img {
+  filter: brightness(0.82) contrast(1.04);
+}
+
+/* ---- the toggle ------------------------------------------------ */
+
+.theme-toggle {
+  appearance: none;
+  background: none;
+  border: var(--border);
+  border-radius: var(--r);
+  color: var(--ink-70);
+  width: 28px;
+  height: 26px;
+  padding: 0;
+  flex: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 100ms, color 100ms, border-color 100ms;
+}
+.theme-toggle:hover { background: var(--ink-08); color: var(--ink); }
+.theme-toggle svg { width: 15px; height: 15px; fill: currentColor; display: block; }
+.theme-toggle__moon { display: none; }
+[data-theme="dark"] .theme-toggle__sun { display: none; }
+[data-theme="dark"] .theme-toggle__moon { display: inline; }
+
+@media print { .theme-toggle { display: none !important; } }
+
+/* ============================================================
    Print: Plates I and II only, one per A4 page
    ============================================================ */
 
