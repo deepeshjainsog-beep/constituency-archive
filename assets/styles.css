@@ -10,10 +10,18 @@
   --surface:  #f2efe9;
   --surface2: #e8e4db;
   --ink:      #1c1a16;
+  /* one ink, ten steps. Every interface tone is an alpha of this. */
+  --ink-85:   rgba(28, 26, 22, 0.85);
   --ink-70:   rgba(28, 26, 22, 0.70);
+  --ink-60:   rgba(28, 26, 22, 0.60);
   --ink-45:   rgba(28, 26, 22, 0.45);
+  --ink-35:   rgba(28, 26, 22, 0.35);
+  --ink-25:   rgba(28, 26, 22, 0.25);
+  --ink-20:   rgba(28, 26, 22, 0.20);
   --ink-18:   rgba(28, 26, 22, 0.18);
+  --ink-12:   rgba(28, 26, 22, 0.12);
   --ink-08:   rgba(28, 26, 22, 0.08);
+  --ink-06:   rgba(28, 26, 22, 0.06);
   --teal:     #1a6b6b;
   --teal-lt:  #e4f0f0;
   --teal-mid: rgba(26, 107, 107, 0.18);
