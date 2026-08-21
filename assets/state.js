@@ -1300,7 +1300,13 @@
       searchBarHTML() +
       "<span class=\"masthead__links\">" +
       "<a href=\"#p1\">Plate I</a><a href=\"#p2\">Plate II</a><a href=\"#p3\">Plate III</a><a href=\"#p4\">Plate IV</a><a href=\"#sources\">Sources</a><a href=\"limitations.html\">Limitations</a>" +
-      "</span></div></nav>" + inner +
+      "</span>" +
+      "<button data-theme-toggle=\"1\" class=\"theme-toggle\" type=\"button\" aria-pressed=\"false\">" +
+      "<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\" focusable=\"false\">" +
+      "<path class=\"theme-toggle__sun\" d=\"M8 3.2a4.8 4.8 0 100 9.6 4.8 4.8 0 000-9.6zm0 1.4a3.4 3.4 0 110 6.8 3.4 3.4 0 010-6.8z\"/>" +
+      "<path class=\"theme-toggle__moon\" d=\"M13.3 10.2A5.6 5.6 0 016.1 3a5.9 5.9 0 107.2 7.2z\"/>" +
+      "</svg></button>" +
+      "</div></nav>" + inner +
       "<footer class=\"colophon\"><div class=\"wrap\">" +
       "<span>Boundaries</span><span>" + esc((data && data.assembly) || "") + " \u00b7 A Cartographic Record</span>" +
       "</div></footer>";
