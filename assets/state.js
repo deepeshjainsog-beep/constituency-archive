@@ -64,12 +64,12 @@
   const T_COL = {
     continuing: { bg: "var(--surface)",  bc: "var(--ink-25)" },
     renamed:    { bg: "var(--teal-lt)",  bc: "var(--teal)"   },
-    "new":      { bg: "var(--ink)",      bc: "var(--ink)"    },
+    "new":      { bg: "var(--surface2)", bc: "var(--ink)"    },
     abolished:  { bg: "var(--bg)",       bc: "var(--ink-60)" },
     merged:     { bg: "var(--bg)",       bc: "var(--ink-60)" },
     split:      { bg: "var(--bg)",       bc: "var(--ink-60)" },
     replaced:   { bg: "var(--bg)",       bc: "var(--ink-60)" },
-    carved:     { bg: "var(--ink)",      bc: "var(--ink)"    },
+    carved:     { bg: "var(--surface2)", bc: "var(--ink)"    },
     replaces:   { bg: "var(--teal-lt)",  bc: "var(--teal)"   },
   };
 
@@ -549,8 +549,8 @@
       replaced:   { bg: "var(--bg)",       bc: "var(--ink-60)" },
       renamed:    { bg: "var(--teal-lt)",  bc: "var(--teal)"   },
       replaces:   { bg: "var(--teal-lt)",  bc: "var(--teal)"   },
-      "new":      { bg: "var(--ink)",      bc: "var(--ink)"    },
-      carved:     { bg: "var(--ink)",      bc: "var(--ink)"    },
+      "new":      { bg: "var(--surface2)", bc: "var(--ink)"    },
+      carved:     { bg: "var(--surface2)", bc: "var(--ink)"    },
     };
     const col = STATUS_PILL[c.status] || STATUS_PILL.continuing;
     const statusLabel = STATUS_LABELS[c.status] || c.status || "";
@@ -1171,7 +1171,7 @@
             "<div style=\"display:flex;flex-wrap:wrap;gap:4px;align-content:flex-start\">" +
             seats.map(c => {
               const col = T_COL[c.status] || T_COL.continuing;
-              return "<button class=\"t4tile\" data-ac=\"" + c.ac_no + "\" data-side=\"" + side + "\" style=\"all:unset;cursor:pointer;display:flex;flex-direction:column;align-items:flex-start;gap:1px;padding:3px 6px 4px;border:1px solid " + col.bc + ";background:" + col.bg + ";border-radius:2px;min-width:52px;box-sizing:border-box\">" +
+              return "<button class=\"t4tile\" data-ac=\"" + c.ac_no + "\" data-side=\"" + side + "\" style=\"all:unset;cursor:pointer;display:flex;flex-direction:column;align-items:flex-start;gap:1px;padding:3px 6px 4px;border:" + ((c.status==="new"||c.status==="carved") ? "1.6px" : "1px") + " solid " + col.bc + ";background:" + col.bg + ";border-radius:2px;min-width:52px;box-sizing:border-box\">" +
               "<span style=\"display:flex;align-items:center;gap:3px\">" +
               "<span style=\"font-family:var(--mono);font-size:8.5px;opacity:0.55\">" + String(c.ac_no).padStart(2,"0") + "</span>" +
               (c.type === "SC" ? "<span style=\"font-family:var(--sans);font-size:8px;font-weight:700;background:var(--ink);color:var(--bg);padding:0 3px;border-radius:2px;line-height:1.5\">SC</span>" : "") +
@@ -1194,8 +1194,8 @@
       { key:"flipped",    label:"Flipped \u2192" + POST_YEAR, count: flipOldSet.size+"+"+flipNewSet.size, sw:{ bg:"var(--teal-mid)", bc:"var(--teal)" } },
       { key:"held",       label:"Held by same party", count: heldOldSet.size+"+"+heldNewSet.size, sw:{ bg:"var(--ink-12)", bc:"var(--ink-45)" } },
     ];
-    if (hasScOld) chipDefs.push({ key:"sc", label:"SC-reserved", count: olds.filter(c=>c.type==="SC").length+"+"+news.filter(c=>c.type==="SC"||c.sc_note).length, sw:{ bg:"var(--ink)", bc:"var(--ink)" } });
-    if (hasStOld) chipDefs.push({ key:"st", label:"ST-reserved", count: olds.filter(c=>c.type==="ST").length+"+"+news.filter(c=>c.type==="ST").length, sw:{ bg:"var(--ink)", bc:"var(--ink)" } });
+    if (hasScOld) chipDefs.push({ key:"sc", label:"SC-reserved", count: olds.filter(c=>c.type==="SC").length+"+"+news.filter(c=>c.type==="SC"||c.sc_note).length, sw:{ bg:"repeating-linear-gradient(45deg, var(--ink-45) 0 1.3px, transparent 1.3px 6px)", bc:"var(--ink-45)" } });
+    if (hasStOld) chipDefs.push({ key:"st", label:"ST-reserved", count: olds.filter(c=>c.type==="ST").length+"+"+news.filter(c=>c.type==="ST").length, sw:{ bg:"repeating-linear-gradient(135deg, var(--ink-45) 0 1.3px, transparent 1.3px 6px)", bc:"var(--ink-45)" } });
 
     const chipsHTML = chipDefs.map(c =>
       "<button class=\"chip\" data-filter=\"" + c.key + "\" aria-pressed=\"" + (c.key==="all"?"true":"false") + "\" style=\"display:inline-flex;align-items:center;gap:6px\">" +
