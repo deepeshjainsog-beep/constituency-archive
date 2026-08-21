@@ -169,6 +169,7 @@
           svgs[key] = svgs[key] || [];
           svgs[key].push({ svg, holder: h });
           wireSVG(svg, key);
+          ensureHatchDefs(); tagReservations(svg, key);
           if (key === "pre") {
             const vb = (svg.getAttribute("viewBox") || "0 0 860 1120").split(/\s+/);
             const stage = h.closest(".map-stage");
@@ -708,6 +709,59 @@
       "<div style=\"font-family:var(--sans);font-size:12.5px;font-style:italic;color:rgba(41,36,27,0.6);padding:8px 10px\">No seat or district matches</div>";
   }
 
+  /* ==== PLATE FURNITURE ==== */
+
+  function ensureHatchDefs() {
+    if (document.getElementById("plate-hatch-defs")) return;
+    var d = document.createElement("div");
+    d.id = "plate-hatch-defs";
+    d.setAttribute("aria-hidden", "true");
+    d.style.cssText = "position:absolute;width:0;height:0;overflow:hidden";
+    d.innerHTML =
+      "<svg xmlns=\"http://www.w3.org/2000/svg\"><defs>" +
+      "<pattern id=\"pf-sc\" width=\"6\" height=\"6\" patternUnits=\"userSpaceOnUse\" patternTransform=\"rotate(45)\">" +
+      "<rect width=\"6\" height=\"6\" fill=\"var(--bg)\"/><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"6\" stroke=\"rgba(28,26,22,0.45)\" stroke-width=\"1.3\"/></pattern>" +
+      "<pattern id=\"pf-st\" width=\"6\" height=\"6\" patternUnits=\"userSpaceOnUse\" patternTransform=\"rotate(135)\">" +
+      "<rect width=\"6\" height=\"6\" fill=\"var(--bg)\"/><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"6\" stroke=\"rgba(74,103,65,0.55)\" stroke-width=\"1.3\"/></pattern>" +
+      "</defs></svg>";
+    document.body.appendChild(d);
+  }
+
+  function tagReservations(svg, key) {
+    var lookup = (key === "post" || key === "post2" || key === "post3") ? newByN : oldByN;
+    svg.querySelectorAll("path.ac").forEach(function (p) {
+      var c = lookup[+p.dataset.ac];
+      if (!c) return;
+      p.classList.remove("is-sc", "is-st");
+      if (c.type === "SC") p.classList.add("is-sc");
+      else if (c.type === "ST") p.classList.add("is-st");
+    });
+  }
+
+  function northArrowHTML() {
+    return "<svg class=\"plate-north\" viewBox=\"0 0 24 40\" aria-label=\"North\" role=\"img\">" +
+      "<polygon points=\"12,2 18,20 12,15 6,20\" fill=\"var(--ink)\"/>" +
+      "<text x=\"12\" y=\"34\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"600\" fill=\"var(--ink)\">N</text>" +
+      "</svg>";
+  }
+
+  function reservationKeyHTML(side) {
+    var list = side === "new" ? news : olds;
+    var sc = list.filter(function (c) { return c.type === "SC"; }).length;
+    var st = list.filter(function (c) { return c.type === "ST"; }).length;
+    if (!sc && !st) return "";
+    var item = function (cls, label, n) {
+      return "<span class=\"plate-key__item\"><span class=\"plate-key__sw " + cls + "\"></span>" +
+             label + " <span class=\"mono\">" + n + "</span></span>";
+    };
+    return "<div class=\"plate-key\">" +
+      "<span class=\"plate-key__t\">Reservation</span>" +
+      (sc ? item("is-sc", "Scheduled Castes", sc) : "") +
+      (st ? item("is-st", "Scheduled Tribes", st) : "") +
+      "<span class=\"plate-key__item\"><span class=\"plate-key__sw\"></span>General</span>" +
+      "</div>";
+  }
+
   /* ==== CITATION, DOWNLOAD, ERROR REPORT ==== */
 
   function siteOrigin() {
@@ -874,6 +928,7 @@
       const svg = holder.querySelector("svg");
       if (svg) {
         wireSVG(svg, srcKey);
+        ensureHatchDefs(); tagReservations(svg, cloneKey);
         const vb = (svg.getAttribute("viewBox") || "0 0 860 1120").split(/\s+/);
         const stage = holder.closest(".map-stage");
         if (stage) stage.style.aspectRatio = vb[2] + " / " + vb[3];
@@ -970,10 +1025,11 @@
       "<div class=\"t2\" id=\"p1-order-line\">Assembly constituencies \u00b7 Delimitation Order, " + PRE_YEAR + "</div>" +
       "<div class=\"t3\" id=\"p1-caption\">Actual pre-" + POST_YEAR + " boundaries, digitised \u00b7 " + olds.length + " seats</div></div>" +
       "<div class=\"map-stage\" id=\"p1-stage\">" +
+      northArrowHTML() +
       "<div class=\"map-tip\"></div>" +
       "<div data-svg-slot=\"pre\" class=\"layer-base\"></div>" +
       (hasPost ? "<div data-svg-slot=\"post\" class=\"layer-post\" style=\"display:none\"></div>" : "") +
-      "</div></div>" +
+      "</div>" + reservationKeyHTML("old") + "</div>" +
       "<aside class=\"panel\" id=\"detail-panel\" aria-live=\"polite\">" +
       renderInlinePanelDefault("old") +
       "</aside></div>" +
@@ -1022,9 +1078,10 @@
       "<div class=\"t2\">Assembly constituencies \u00b7 Delimitation Order, " + POST_YEAR + "</div>" +
       "<div class=\"t3\">" + news.length + " seats \u00b7 in force since " + POST_YEAR + "</div></div>" +
       "<div class=\"map-stage\" id=\"p2-stage\">" +
+      northArrowHTML() +
       "<div class=\"map-tip\"></div>" +
       "<div data-svg-slot=\"post2\" class=\"layer-base\"></div>" +
-      "</div></div>" +
+      "</div>" + reservationKeyHTML("new") + "</div>" +
       "<aside class=\"panel\" id=\"p2-panel\" aria-live=\"polite\">" +
       renderInlinePanelDefault("new") +
       "</aside></div>" +
