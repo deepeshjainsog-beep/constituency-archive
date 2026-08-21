@@ -629,7 +629,7 @@
                       (soft ? "color:var(--ink-45);font-style:italic" : "color:var(--ink-70)") +
                       "\" title=\"" + (soft ? "Approximate: one of these seats is defined by municipal wards, which the two orders number differently" : "Measured from the mapped boundaries of both orders") + "\">" + txt + "</span>";
           }
-          return "<button " + attr + " style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid var(--ink-45);background:#fff;padding:3px 9px;border-radius:99px;display:inline-flex;align-items:baseline\">" + esc(lk.label) + pctHTML + " <span style=\"margin-left:5px\">\u2192</span></button>";
+          return "<button " + attr + " style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid var(--ink-45);background:var(--surface);padding:3px 9px;border-radius:99px;display:inline-flex;align-items:baseline\">" + esc(lk.label) + pctHTML + " <span style=\"margin-left:5px\">\u2192</span></button>";
         }).join("") + "</div>";
     }
 
@@ -1105,7 +1105,7 @@
         const oldCount = (partyOverlay.old || {})[code] || 0;
         const newCount = (partyOverlay.new || {})[code] || 0;
         return "<button class=\"p3-flip-chip\" data-mode=\"" + esc(code) + "\" style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid var(--ink-45);background:var(--surface);color:var(--ink);padding:3px 10px;border-radius:99px;display:inline-flex;align-items:center;gap:6px\">" +
-          "<span style=\"display:inline-block;width:9px;height:9px;border-radius:2px;background:" + (p ? p.c : "#888") + ";border:1px solid var(--ink-25)\"></span>" +
+          "<span style=\"display:inline-block;width:9px;height:9px;border-radius:2px;background:" + (p ? p.c : "var(--ink-45)") + ";border:1px solid var(--ink-25)\"></span>" +
           esc(code) + " <span style=\"font-family:var(--mono);font-size:10.5px;opacity:0.65\">" + oldCount + "\u2192" + newCount + "</span>" +
           "</button>";
       }).join("");
