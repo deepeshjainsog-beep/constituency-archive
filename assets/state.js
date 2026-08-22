@@ -542,15 +542,15 @@
       replaces:   "Renamed " + POST_YEAR,
     };
     const STATUS_PILL = {
-      continuing: { bg: "var(--surface)",  bc: "var(--ink-25)" },
-      abolished:  { bg: "var(--bg)",       bc: "var(--ink-60)" },
-      merged:     { bg: "var(--bg)",       bc: "var(--ink-60)" },
-      split:      { bg: "var(--bg)",       bc: "var(--ink-60)" },
-      replaced:   { bg: "var(--bg)",       bc: "var(--ink-60)" },
-      renamed:    { bg: "var(--teal-lt)",  bc: "var(--teal)"   },
-      replaces:   { bg: "var(--teal-lt)",  bc: "var(--teal)"   },
-      "new":      { bg: "var(--surface2)", bc: "var(--ink)"    },
-      carved:     { bg: "var(--surface2)", bc: "var(--ink)"    },
+      continuing: { bg: "var(--surface)",  bc: "var(--ink-25)", fg: "var(--ink-70)" },
+      abolished:  { bg: "var(--bg)",       bc: "var(--ink-60)", fg: "var(--ink-60)" },
+      merged:     { bg: "var(--bg)",       bc: "var(--ink-60)", fg: "var(--ink-60)" },
+      split:      { bg: "var(--bg)",       bc: "var(--ink-60)", fg: "var(--ink-60)" },
+      replaced:   { bg: "var(--bg)",       bc: "var(--ink-60)", fg: "var(--ink-60)" },
+      renamed:    { bg: "var(--teal-lt)",  bc: "var(--teal)",   fg: "var(--teal)"   },
+      replaces:   { bg: "var(--teal-lt)",  bc: "var(--teal)",   fg: "var(--teal)"   },
+      "new":      { bg: "var(--surface2)", bc: "var(--ink)",    fg: "var(--ink)"    },
+      carved:     { bg: "var(--surface2)", bc: "var(--ink)",    fg: "var(--ink)"    },
     };
     const col = STATUS_PILL[c.status] || STATUS_PILL.continuing;
     const statusLabel = STATUS_LABELS[c.status] || c.status || "";
@@ -559,65 +559,55 @@
       ? (c.dest || []).map(n => { const s = newByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":s.type==="ST"?" (ST)":""), n, side:"new", pfx:prefix, sh: shareOf(n) } : null; }).filter(Boolean)
       : (c.src  || []).map(n => { const s = oldByN[n]; return s ? { label: String(n).padStart(2,"0") + " \u00b7 " + s.name + (s.type==="SC"?" (SC)":s.type==="ST"?" (ST)":""), n, side:"old", pfx:prefix, sh: shareOf(n) } : null; }).filter(Boolean);
     links.sort((a,b) => ((b.sh && b.sh.pct) || 0) - ((a.sh && a.sh.pct) || 0));
-    const linksLabel = isOld
-      ? "Territory went to (" + POST_YEAR + " seats) \u00b7 share of this seat"
-      : "Built from (pre-" + POST_YEAR + " seats) \u00b7 share of this seat";
+    const linksLabel = isOld ? "Territory went to" : "Built from";
     const partyCode  = isOld ? c.party07 : c.party12;
     const winnerName = isOld ? c.winner_07 : c.winner_12;
     const electors   = isOld ? c.electors_07 : c.electors_12;
     const electorArr = isOld ? electors07 : electors12;
-    const electionLabel = isOld
-      ? "Won in " + PRE_ELEC + " \u2014 last election on this map"
-      : "Won in " + POST_ELEC + " \u2014 first election on this map";
-    const electorLabel = isOld
-      ? "Electorate \u00b7 " + (data.pre_election_label || PRE_ELEC + " election")
-      : "Electorate \u00b7 " + (data.post_election_label || POST_ELEC + " election");
+    const electionYear = isOld ? PRE_ELEC : POST_ELEC;
+    const electionNote = isOld ? "last election on this map" : "first election on this map";
     const party = partyOf(partyCode);
 
-    let html =
-      "<div style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:10px\">" +
-      "<div class=\"eyebrow\" style=\"font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-60)\">" +
-      esc((isOld ? "Before " + POST_YEAR : "After " + POST_YEAR) + " \u00b7 " + c.district + " district \u00b7 No. " + c.ac_no) + "</div>" +
-      "</div>" +
-      "<div style=\"display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:8px 0 4px\">" +
-      "<h3 style=\"margin:0;font-size:25px;font-weight:600;line-height:1.1\">" + esc(c.name) + "</h3>" +
-      (c.type === "SC" ? "<span style=\"font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:0.06em;background:var(--ink);color:var(--bg);padding:1px 6px;border-radius:2px\">SC</span>" : "") +
-      (c.type === "ST" ? "<span style=\"font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:0.06em;background:var(--ink);color:var(--bg);padding:1px 6px;border-radius:2px\">ST</span>" : "") +
-      "</div>" +
-      "<div style=\"margin-bottom:12px\"><span style=\"display:inline-block;padding:2px 10px;border-radius:3px;font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:0.06em;background:" + col.bg + ";border:1px solid " + col.bc + "\">" + esc(statusLabel) + "</span></div>";
+    function row(label, value) {
+      return "<div class=\"idxcard__row\"><span class=\"idxcard__row-label\">" + label +
+        "</span><span class=\"idxcard__leader\"></span><span class=\"idxcard__row-value\">" + value + "</span></div>";
+    }
 
-    if (c.note) html += "<p style=\"margin:0 0 12px;font-size:14.5px;line-height:1.55\">" + esc(c.note) + "</p>";
-    if (c.sc_note) html += "<p style=\"margin:0 0 12px;font-size:13.5px;line-height:1.5;font-style:italic;border-top:1px dotted var(--ink-45);padding-top:8px\">Reservation: " + esc(c.sc_note) + "</p>";
+    let html =
+      "<div class=\"idxcard\">" +
+      "<div class=\"idxcard__hole\"></div>" +
+      "<div class=\"idxcard__head\">" +
+      "<span class=\"idxcard__eyebrow\">" + esc(isOld ? "Before " + POST_YEAR : "After " + POST_YEAR) + "</span>" +
+      "<span class=\"idxcard__no\">No. " + c.ac_no + "</span>" +
+      "</div>" +
+      "<div class=\"idxcard__title-row\">" +
+      "<h3 class=\"idxcard__title\">" + esc(c.name) + "</h3>" +
+      (c.type === "SC" ? "<span class=\"idxcard__tag\">SC</span>" : "") +
+      (c.type === "ST" ? "<span class=\"idxcard__tag\">ST</span>" : "") +
+      "</div>" +
+      "<div class=\"idxcard__district\">" + esc(c.district) + " district</div>" +
+      "<div class=\"idxcard__rule\"></div>" +
+      "<span class=\"idxcard__stamp\" style=\"background:" + col.bg + ";border-color:" + col.bc + ";color:" + col.fg + "\">" + esc(statusLabel) + "</span>";
 
     if (party) {
-      const fullLine = (winnerName ? winnerName + " \u00b7 " : "") + partyLine(party);
-      html +=
-        "<div style=\"font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-60);border-bottom:1px solid var(--ink-25);padding-bottom:4px;margin-bottom:8px\">" + esc(electionLabel) + "</div>" +
-        "<div style=\"display:flex;align-items:center;gap:8px;margin-bottom:12px\">" +
-        "<span style=\"" + partyDotStyle(party) + "\"></span>" +
-        "<span style=\"font-family:var(--sans);font-size:13.5px;font-weight:600\">" + esc(fullLine) + "</span>" +
-        "</div>";
+      html += row(String(electionYear), esc(winnerName || "\u2014")) +
+        "<div class=\"idxcard__sub\"><span style=\"" + partyDotStyle(party) + "\"></span>" + esc(partyLine(party)) +
+        " <span class=\"idxcard__sub-note\">\u00b7 " + electionNote + "</span></div>";
     }
 
     if (electors) {
-      html +=
-        "<div style=\"font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-60);border-bottom:1px solid var(--ink-25);padding-bottom:4px;margin-bottom:8px\">" + esc(electorLabel) + "</div>" +
-        "<p style=\"margin:0 0 12px;font-family:var(--sans);font-size:13.5px;line-height:1.5\">" +
-        "<span style=\"font-family:var(--mono);font-weight:500\">" + fmtElectors(electors) + "</span> electors on the rolls " +
-        "<span style=\"color:var(--ink-60)\">\u00b7 " + esc(devLine(electors, electorArr)) + "</span>" +
-        "</p>";
+      html += row("Electors", "<span style=\"font-family:var(--mono)\">" + fmtElectors(electors) + "</span>") +
+        "<div class=\"idxcard__sub\">" + esc(devLine(electors, electorArr)) + "</div>";
     }
 
-    if (c.extent || c.extent_1976) {
-      html +=
-        "<div style=\"font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-60);border-bottom:1px solid var(--ink-25);padding-bottom:4px;margin-bottom:8px\">Extent of area, as delimited</div>" +
-        "<p style=\"margin:0 0 16px;font-family:var(--sans);font-size:13px;line-height:1.5;color:var(--ink-85)\">" + esc(c.extent || c.extent_1976 || "") + "</p>";
-    }
+    if (c.note) html += "<div class=\"idxcard__block\"><div class=\"idxcard__block-label\">Note</div><p>" + esc(c.note) + "</p></div>";
+    if (c.sc_note) html += "<div class=\"idxcard__block\"><div class=\"idxcard__block-label\">Reservation</div><p>" + esc(c.sc_note) + "</p></div>";
+    if (c.extent || c.extent_1976) html += "<div class=\"idxcard__block\"><div class=\"idxcard__block-label\">Extent, as delimited</div><p>" + esc(c.extent || c.extent_1976 || "") + "</p></div>";
 
     if (links.length) {
       html +=
-        "<div style=\"font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-60);border-bottom:1px solid var(--ink-25);padding-bottom:4px;margin-bottom:8px\">" + esc(linksLabel) + "</div>" +
-        "<div style=\"display:flex;flex-wrap:wrap;gap:6px\">" +
+        "<div class=\"idxcard__xref-label\">" + esc(linksLabel) + "</div>" +
+        "<div class=\"idxcard__tabs\">" +
         links.map(lk => {
           const attr = prefix === "p3" ? "data-p3-link-side=\"" + lk.side + "\" data-p3-link-n=\"" + lk.n + "\""
                                        : "data-t4-link-side=\"" + lk.side + "\" data-t4-link-n=\"" + lk.n + "\"";
@@ -629,14 +619,14 @@
                       (soft ? "color:var(--ink-45);font-style:italic" : "color:var(--ink-70)") +
                       "\" title=\"" + (soft ? "Approximate: one of these seats is defined by municipal wards, which the two orders number differently" : "Measured from the mapped boundaries of both orders") + "\">" + txt + "</span>";
           }
-          return "<button " + attr + " style=\"all:unset;cursor:pointer;font-family:var(--sans);font-size:12.5px;font-weight:500;border:1px solid var(--ink-45);background:var(--surface);padding:3px 9px;border-radius:99px;display:inline-flex;align-items:baseline\">" + esc(lk.label) + pctHTML + " <span style=\"margin-left:5px\">\u2192</span></button>";
+          return "<button class=\"idxcard__tab\" " + attr + ">" + esc(lk.label) + pctHTML + " <span class=\"idxcard__tab-arrow\">\u2192</span></button>";
         }).join("") + "</div>";
     }
 
     html +=
-      "<div style=\"border-top:1px dotted var(--ink-45);margin-top:16px;padding-top:10px\">" +
-      "<a href=\"" + reportHref(c, isOld) + "\" style=\"font-family:var(--sans);font-size:12px;color:var(--ink-60);border-bottom:1px dotted var(--ink-45);text-decoration:none\">" +
-      "Report an error in this record</a></div>";
+      "<div class=\"idxcard__foot\">" +
+      "<a href=\"" + reportHref(c, isOld) + "\" class=\"idxcard__report\">Report an error in this record</a></div>" +
+      "</div>";
 
     return html;
   }
