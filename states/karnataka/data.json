@@ -262,9 +262,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    52,
-    51,
-    50
+    52
    ],
    "note": "",
    "extent": "Aurad taluk in Bidar sub-division.",
@@ -274,14 +272,6 @@
    "shares": {
     "52": {
      "pct": 86.0,
-     "basis": "measured"
-    },
-    "51": {
-     "pct": 1.5,
-     "basis": "measured"
-    },
-    "50": {
-     "pct": 0.5,
      "basis": "measured"
     }
    }
@@ -293,10 +283,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    51,
-    49,
-    48,
-    50
+    50,
+    51
    ],
    "note": "",
    "extent": "Bhalki taluk (excluding Katakchincholi and Saigaon circles') and Janwada circle in Bidar taluk in Bidar sub- division.",
@@ -304,12 +292,12 @@
    "winner_07": "Prakash Khandre",
    "electors_07": 152700,
    "shares": {
-    "51": {
-     "pct": 78.6,
-     "basis": "measured"
-    },
     "50": {
      "pct": 13.5,
+     "basis": "measured"
+    },
+    "51": {
+     "pct": 78.6,
      "basis": "measured"
     }
    }
@@ -321,10 +309,9 @@
    "type": "SC",
    "status": "abolished",
    "dest": [
-    48,
     47,
-    51,
-    49
+    48,
+    51
    ],
    "note": "",
    "extent": "Hulsoor circle in Basavakalyan taluk, Katakchin- choli and Saigaon circles in Bhalki taluk and Dubulgundi and Hallikhed (B) circles in Humnabad taluk in Bidar sub- division.",
@@ -332,12 +319,12 @@
    "winner_07": "Rajendra Varma",
    "electors_07": 162838,
    "shares": {
-    "48": {
-     "pct": 30.4,
-     "basis": "measured"
-    },
     "47": {
      "pct": 25.7,
+     "basis": "measured"
+    },
+    "48": {
+     "pct": 30.4,
      "basis": "measured"
     },
     "51": {
@@ -379,10 +366,8 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    42,
-    49,
     48,
-    43
+    49
    ],
    "note": "",
    "extent": "Hutnnabad taluk [excluding Dubulgundi and Hallikhed (B) circles] and Bagdal circle in Bidar taluk in Bidar sub-division.",
@@ -390,16 +375,12 @@
    "winner_07": "Mirajoddin Patel",
    "electors_07": 180737,
    "shares": {
-    "49": {
-     "pct": 55.6,
-     "basis": "measured"
-    },
     "48": {
      "pct": 43.0,
      "basis": "measured"
     },
-    "43": {
-     "pct": 0.7,
+    "49": {
+     "pct": 55.6,
      "basis": "measured"
     }
    }
@@ -412,9 +393,7 @@
    "status": "continuing",
    "dest": [
     47,
-    43,
-    48,
-    46
+    48
    ],
    "note": "",
    "extent": "Basavakalyan taluk (excluding Hulsoor circle) in Bidar sub-division.",
@@ -426,16 +405,8 @@
      "pct": 68.5,
      "basis": "measured"
     },
-    "43": {
-     "pct": 1.1,
-     "basis": "measured"
-    },
     "48": {
      "pct": 20.1,
-     "basis": "measured"
-    },
-    "46": {
-     "pct": 0.9,
      "basis": "measured"
     }
    }
@@ -447,8 +418,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    42,
-    41
+    41,
+    42
    ],
    "note": "",
    "extent": "Chincholi taluk in Sedam sub-division.",
@@ -456,12 +427,12 @@
    "winner_07": "Vijanath Patil",
    "electors_07": 156293,
    "shares": {
-    "42": {
-     "pct": 74.7,
-     "basis": "measured"
-    },
     "41": {
      "pct": 18.3,
+     "basis": "measured"
+    },
+    "42": {
+     "pct": 74.7,
      "basis": "measured"
     }
    }
@@ -474,11 +445,7 @@
    "status": "abolished",
    "dest": [
     43,
-    46,
-    42,
-    44,
-    40,
-    45
+    46
    ],
    "note": "",
    "extent": "Kamalapur and Mahagaon circles in Gulbarga taluk and Khajuri and Narona circles in Alland taluk in Gulbarga sub-division.",
@@ -493,10 +460,6 @@
     "46": {
      "pct": 23.4,
      "basis": "measured"
-    },
-    "42": {
-     "pct": 2.0,
-     "basis": "measured"
     }
    }
   },
@@ -507,9 +470,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    46,
-    34,
-    44
+    46
    ],
    "note": "",
    "extent": "Alland taluk (excluding Khajuri and Narona circles) in Gulbarga sub-division.",
@@ -519,10 +480,6 @@
    "shares": {
     "46": {
      "pct": 89.2,
-     "basis": "measured"
-    },
-    "34": {
-     "pct": 1.4,
      "basis": "measured"
     }
    }
@@ -576,10 +533,7 @@
    "type": "SC",
    "status": "abolished",
    "dest": [
-    35,
     34,
-    40,
-    38,
     43,
     44
    ],
@@ -589,20 +543,8 @@
    "winner_07": "Sunil Vallapure",
    "electors_07": 212365,
    "shares": {
-    "35": {
-     "pct": 8.0,
-     "basis": "measured"
-    },
     "34": {
      "pct": 36.8,
-     "basis": "measured"
-    },
-    "40": {
-     "pct": 28.0,
-     "basis": "approx"
-    },
-    "38": {
-     "pct": 0.5,
      "basis": "measured"
     },
     "43": {
@@ -623,11 +565,7 @@
    "status": "continuing",
    "dest": [
     34,
-    33,
-    35,
-    32,
-    44,
-    45
+    44
    ],
    "note": "",
    "extent": "Afzalpur taluk and Pattan circle in Gulbarga taluk in Gulbarga sub-division.",
@@ -637,18 +575,6 @@
    "shares": {
     "34": {
      "pct": 70.5,
-     "basis": "measured"
-    },
-    "33": {
-     "pct": 2.9,
-     "basis": "measured"
-    },
-    "35": {
-     "pct": 2.9,
-     "basis": "measured"
-    },
-    "32": {
-     "pct": 3.4,
      "basis": "measured"
     },
     "44": {
@@ -664,9 +590,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    40,
-    41,
-    43
+    42
    ],
    "note": "",
    "extent": "Chitapur, Kalgi and Gundgurthi circles in Chita- pur taluk in Sedam sub-division ; and Awarad circle in Gulbarga taluk in Gulbarga sub-division.",
@@ -674,16 +598,8 @@
    "winner_07": "Vishwanath Patil Hebbal",
    "electors_07": 146590,
    "shares": {
-    "40": {
-     "pct": 84.9,
-     "basis": "approx"
-    },
-    "41": {
-     "pct": 4.2,
-     "basis": "measured"
-    },
-    "43": {
-     "pct": 3.9,
+    "42": {
+     "pct": 6.9,
      "basis": "measured"
     }
    }
@@ -695,9 +611,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    41,
-    39,
-    40
+    41
    ],
    "note": "",
    "extent": "Sedam taluk and 78—Hanikera, 79—Alhalli, 80— Rajola, 82—Dandgund, 83— Sanknoor, 84—-Allur Khurd, 85—Allur Buzurg, 86 —Ramteerath, 87—Bhimanahalli, 88— Belgera and 89 -Yagapur villages in Nalwar circle in Chitapur taluk in Sedam sub-division.",
@@ -708,14 +622,6 @@
     "41": {
      "pct": 80.1,
      "basis": "measured"
-    },
-    "39": {
-     "pct": 3.2,
-     "basis": "measured"
-    },
-    "40": {
-     "pct": 14.5,
-     "basis": "approx"
     }
    }
   },
@@ -726,10 +632,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    35,
-    37,
-    33,
-    27
+    35
    ],
    "note": "",
    "extent": "Jewargi taluk in Gulbarga sub-division.",
@@ -739,18 +642,6 @@
    "shares": {
     "35": {
      "pct": 87.8,
-     "basis": "measured"
-    },
-    "37": {
-     "pct": 1.5,
-     "basis": "measured"
-    },
-    "33": {
-     "pct": 6.6,
-     "basis": "measured"
-    },
-    "27": {
-     "pct": 0.7,
      "basis": "measured"
     }
    }
@@ -788,11 +679,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    38,
-    56,
-    39,
-    53,
-    37
+    38
    ],
    "note": "",
    "extent": "Yadgir and Saidapur circles in Yadgir taluk and Doranhalli and Wadgera circles in Shahapur taluk in Yadgir sub-division.",
@@ -802,22 +689,6 @@
    "shares": {
     "38": {
      "pct": 70.7,
-     "basis": "measured"
-    },
-    "56": {
-     "pct": 4.8,
-     "basis": "measured"
-    },
-    "39": {
-     "pct": 21.1,
-     "basis": "measured"
-    },
-    "53": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
-    "37": {
-     "pct": 1.7,
      "basis": "measured"
     }
    }
@@ -829,11 +700,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    37,
     36,
-    38,
-    56,
-    27
+    37,
+    38
    ],
    "note": "",
    "extent": "Shahapur taluk (excluding Doranhalli and Wadgera circles) and Khembhavi circle in Shorapur taluk in Yadgir sub-division.",
@@ -841,20 +710,16 @@
    "winner_07": "Sharanabasappa Darshanapur",
    "electors_07": 192447,
    "shares": {
-    "37": {
-     "pct": 74.4,
-     "basis": "measured"
-    },
     "36": {
      "pct": 3.6,
      "basis": "measured"
     },
-    "38": {
-     "pct": 14.5,
+    "37": {
+     "pct": 74.4,
      "basis": "measured"
     },
-    "27": {
-     "pct": 3.3,
+    "38": {
+     "pct": 14.5,
      "basis": "measured"
     }
    }
@@ -867,8 +732,8 @@
    "status": "continuing",
    "dest": [
     36,
-    56,
-    26
+    37,
+    38
    ],
    "note": "",
    "extent": "Shorapur taluk (excluding Khembhavi circle) i Yadgir sub-division.",
@@ -878,10 +743,6 @@
    "shares": {
     "36": {
      "pct": 93.0,
-     "basis": "measured"
-    },
-    "26": {
-     "pct": 4.0,
      "basis": "measured"
     }
    }
@@ -893,9 +754,7 @@
    "type": "SC",
    "status": "abolished",
    "dest": [
-    56,
-    55,
-    57
+    56
    ],
    "note": "",
    "extent": "Deodurg taluk in Raichur sub-division.",
@@ -905,14 +764,6 @@
    "shares": {
     "56": {
      "pct": 91.7,
-     "basis": "measured"
-    },
-    "55": {
-     "pct": 2.5,
-     "basis": "measured"
-    },
-    "57": {
-     "pct": 2.4,
      "basis": "measured"
     }
    }
@@ -951,8 +802,7 @@
    "status": "abolished",
    "dest": [
     53,
-    55,
-    54
+    55
    ],
    "note": "",
    "extent": "Raichur taluk (excluding Raichur town, Raichur and Chanderbanda circles ) ; and Sirwar and Kallur circles in Manvi taluk in Raichur sub-division.",
@@ -967,10 +817,6 @@
     "55": {
      "pct": 31.0,
      "basis": "measured"
-    },
-    "54": {
-     "pct": 2.6,
-     "basis": "measured"
     }
    }
   },
@@ -981,10 +827,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
+    53,
     55,
-    59,
-    58,
-    53
+    59
    ],
    "note": "",
    "extent": "Manvi taluk (excluding Sirwar and Kallur circles) in Raichur sub-division.",
@@ -992,20 +837,16 @@
    "winner_07": "Bosuraju Ns",
    "electors_07": 160405,
    "shares": {
+    "53": {
+     "pct": 15.5,
+     "basis": "measured"
+    },
     "55": {
      "pct": 55.9,
      "basis": "measured"
     },
     "59": {
      "pct": 24.7,
-     "basis": "measured"
-    },
-    "58": {
-     "pct": 1.3,
-     "basis": "measured"
-    },
-    "53": {
-     "pct": 15.5,
      "basis": "measured"
     }
    }
@@ -1017,8 +858,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    59,
-    57
+    57,
+    59
    ],
    "note": "",
    "extent": "Lingsugur taluk fexcluding Mudgal circle) in Lingsugur sub-division.",
@@ -1026,12 +867,12 @@
    "winner_07": "Amaregowda Patil Bayyapur",
    "electors_07": 171147,
    "shares": {
-    "59": {
-     "pct": 31.3,
-     "basis": "measured"
-    },
     "57": {
      "pct": 64.8,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 31.3,
      "basis": "measured"
     }
    }
@@ -1044,8 +885,7 @@
    "status": "renamed",
    "dest": [
     58,
-    59,
-    61
+    59
    ],
    "note": "",
    "extent": "Sindhnoor taluk (excluding Turvihal circle) in Lingsugur sub-division.",
@@ -1060,10 +900,6 @@
     "59": {
      "pct": 30.7,
      "basis": "measured"
-    },
-    "61": {
-     "pct": 2.4,
-     "basis": "measured"
     }
    }
   },
@@ -1074,12 +910,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    60,
-    63,
     57,
-    67,
-    25,
-    59
+    60
    ],
    "note": "",
    "extent": "Kushtagi taluk (excluding Tawargera circle) and Mudgal circle in Lingsugur taluk in Lingsugur sub-division.",
@@ -1087,28 +919,12 @@
    "winner_07": "Doddanagoud Hanuamagouda Patil",
    "electors_07": 183314,
    "shares": {
-    "60": {
-     "pct": 59.8,
-     "basis": "measured"
-    },
-    "63": {
-     "pct": 2.1,
-     "basis": "measured"
-    },
     "57": {
      "pct": 24.5,
      "basis": "measured"
     },
-    "67": {
-     "pct": 2.5,
-     "basis": "measured"
-    },
-    "25": {
-     "pct": 7.8,
-     "basis": "measured"
-    },
-    "59": {
-     "pct": 1.5,
+    "60": {
+     "pct": 59.8,
      "basis": "measured"
     }
    }
@@ -1120,10 +936,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    63,
-    64,
-    62,
-    67
+    63
    ],
    "note": "",
    "extent": "Yelburga taluk in Koppal sub-division.",
@@ -1133,18 +946,6 @@
    "shares": {
     "63": {
      "pct": 87.4,
-     "basis": "measured"
-    },
-    "64": {
-     "pct": 2.6,
-     "basis": "measured"
-    },
-    "62": {
-     "pct": 0.9,
-     "basis": "measured"
-    },
-    "67": {
-     "pct": 8.7,
      "basis": "measured"
     }
    }
@@ -1156,11 +957,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    61,
+    59,
     60,
-    62,
-    92,
-    59
+    61
    ],
    "note": "",
    "extent": "Gangavathi taluk (excluding Marli, Gangavathi and Venkatagiri circles) in Koppal sub-division; and Tawaigera circle in Kushtagi taluk and Turvihal circle in Sindhnoor taluk in Lingsugur sub-division.",
@@ -1168,20 +967,16 @@
    "winner_07": "Veerappa Devappa Kesarahatti G",
    "electors_07": 176618,
    "shares": {
-    "61": {
-     "pct": 59.5,
+    "59": {
+     "pct": 13.0,
      "basis": "measured"
     },
     "60": {
      "pct": 23.4,
      "basis": "measured"
     },
-    "62": {
-     "pct": 1.5,
-     "basis": "measured"
-    },
-    "59": {
-     "pct": 13.0,
+    "61": {
+     "pct": 59.5,
      "basis": "measured"
     }
    }
@@ -1193,12 +988,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    62,
-    90,
-    64,
-    89,
-    91,
-    61
+    62
    ],
    "note": "",
    "extent": "Gangavathi, Marli and Venkatagiri circles in Gangavathi taluk and Hittanhal circle in Koppal taluk in Koppal sub-division.",
@@ -1208,14 +998,6 @@
    "shares": {
     "62": {
      "pct": 53.8,
-     "basis": "measured"
-    },
-    "64": {
-     "pct": 25.4,
-     "basis": "measured"
-    },
-    "61": {
-     "pct": 20.1,
      "basis": "measured"
     }
    }
@@ -1227,11 +1009,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    64,
-    88,
-    62,
-    89,
-    65
+    62
    ],
    "note": "",
    "extent": "Koppal taluk (excluding Hittanhal circle) in Koppal sub-division. JI. Siruguppa.—Siruguppa taluk ; and Kolur circle in Bellary taluk in Bellary sub-division.",
@@ -1239,24 +1017,8 @@
    "winner_07": "Basavaraj Bhimappa Hitnal K",
    "electors_07": 166237,
    "shares": {
-    "64": {
-     "pct": 65.3,
-     "basis": "measured"
-    },
-    "88": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
     "62": {
      "pct": 22.5,
-     "basis": "measured"
-    },
-    "89": {
-     "pct": 0.9,
-     "basis": "measured"
-    },
-    "65": {
-     "pct": 3.6,
      "basis": "measured"
     }
    }
@@ -1268,10 +1030,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    92,
     91,
-    93,
-    94
+    92
    ],
    "note": "",
    "extent": "Siruguppa taluk ; and Kolur circle in Bellary taluk in Bellary sub-division.",
@@ -1279,21 +1039,13 @@
    "winner_07": "Somalingappa M S",
    "electors_07": 214693,
    "shares": {
-    "92": {
-     "pct": 66.5,
-     "basis": "measured"
-    },
     "91": {
      "pct": 25.7,
      "basis": "measured"
     },
-    "93": {
-     "pct": 2.9,
-     "basis": "approx"
-    },
-    "94": {
-     "pct": 1.0,
-     "basis": "approx"
+    "92": {
+     "pct": 66.5,
+     "basis": "measured"
     }
    }
   },
@@ -1305,8 +1057,7 @@
    "status": "abolished",
    "dest": [
     91,
-    95,
-    93
+    95
    ],
    "note": "",
    "extent": "Bellary taluk (excluding Bellary city and Kolur circle) in Bellary sub-division.",
@@ -1321,10 +1072,6 @@
     "95": {
      "pct": 28.4,
      "basis": "measured"
-    },
-    "93": {
-     "pct": 16.9,
-     "basis": "approx"
     }
    }
   },
@@ -1392,11 +1139,10 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    95,
-    96,
     89,
-    97,
-    90
+    90,
+    91,
+    95
    ],
    "note": "",
    "extent": "'Sandur taluk in Bellary sub-division; and 10-Kon- dinayakanahalli(P), n-AnanathaseyanaGudi(P), 12 Sa; kalapur (P), 13-Kallahalli (P), 14-Rajapura (P) and 15-Jambu- nathanahalli villages in Hospet circle ai-d Karr.alapur circle [excluding Kamalapur Town, Hampi Town (NAC) and 29- Venkatapura, 30-Nimbapura, 31-Krishnapura, 32-Kaddi Ram- pura, 33-Singanathanahalli, 34-Danapura, 35-Kalghatta and 36- Bukkasagar villages] in Hospet taluk in Hospet sub-division.",
@@ -1404,24 +1150,16 @@
    "winner_07": "Santhosh S Lad",
    "electors_07": 158530,
    "shares": {
-    "95": {
-     "pct": 77.6,
-     "basis": "measured"
-    },
-    "96": {
-     "pct": 2.7,
-     "basis": "measured"
-    },
     "89": {
      "pct": 2.4,
      "basis": "measured"
     },
-    "97": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
     "90": {
      "pct": 16.2,
+     "basis": "measured"
+    },
+    "95": {
+     "pct": 77.6,
      "basis": "measured"
     }
    }
@@ -1433,10 +1171,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    89,
     88,
-    96,
-    95
+    89
    ],
    "note": "",
    "extent": "Kudligi circle in Kudligi taluk, Mariam.manahalii circle in Hosf et taluk, and Kalavi, Hakardi, Kombli, Kotnakalli, Sovenahalli, Nowli and Thimmaiapurpm villages in Hadagalli circle in Hadagalli taluk and HagaribommanahaUi taluk (ex- cluding Kudatinamaggi, Ambli, Ndlukudiri, Karnehalli, Kogili, Kogili-Samatu-Kodihalli and Alatur villages in Malvi circle and Moregere village in Hampasagara circle) in Hospet sub-division.",
@@ -1444,20 +1180,12 @@
    "winner_07": "Anil Lad H",
    "electors_07": 163647,
    "shares": {
-    "89": {
-     "pct": 62.8,
-     "basis": "measured"
-    },
     "88": {
      "pct": 21.5,
      "basis": "measured"
     },
-    "96": {
-     "pct": 12.5,
-     "basis": "measured"
-    },
-    "95": {
-     "pct": 0.5,
+    "89": {
+     "pct": 62.8,
      "basis": "measured"
     }
    }
@@ -1510,11 +1238,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    104,
     88,
-    103,
-    89,
-    87
+    104
    ],
    "note": "",
    "extent": "Hadagalli taluk (excluding Kalavi, Hakandi, Kombli, Kotnakall, Sovenahalli, Nowli and Thimmalapuram villages in Hadagalli circle), Nellukudiri, Kannehalli, KogaH, Kogali- Samatu-Kodihalli and Alabur villages in Malvi circle and Moregere village in Harnpasagara circle in Hagaribommana- halli taluk and Chigateri circle in Harapanahalli taluk, in Hospet sub-division. 39* HaiMpaiiahaUrSC>—Harapanahalli taluk (excluding Chigateri circle) in Hospet sub-division.",
@@ -1522,24 +1247,12 @@
    "winner_07": "Prakash M P",
    "electors_07": 158155,
    "shares": {
-    "104": {
-     "pct": 29.5,
-     "basis": "measured"
-    },
     "88": {
      "pct": 58.4,
      "basis": "measured"
     },
-    "103": {
-     "pct": 1.6,
-     "basis": "measured"
-    },
-    "89": {
-     "pct": 6.3,
-     "basis": "measured"
-    },
-    "87": {
-     "pct": 1.6,
+    "104": {
+     "pct": 29.5,
      "basis": "measured"
     }
    }
@@ -1551,12 +1264,8 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    104,
     103,
-    108,
-    106,
-    105,
-    87
+    104
    ],
    "note": "",
    "extent": "",
@@ -1564,28 +1273,12 @@
    "winner_07": "Parameshwara Naik P T",
    "electors_07": 154558,
    "shares": {
-    "104": {
-     "pct": 70.1,
-     "basis": "measured"
-    },
     "103": {
      "pct": 21.3,
      "basis": "measured"
     },
-    "108": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
-    "106": {
-     "pct": 1.3,
-     "basis": "approx"
-    },
-    "105": {
-     "pct": 2.0,
-     "basis": "measured"
-    },
-    "87": {
-     "pct": 2.0,
+    "104": {
+     "pct": 70.1,
      "basis": "measured"
     }
    }
@@ -1597,10 +1290,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    105,
-    110,
-    106,
-    107
+    105
    ],
    "note": "",
    "extent": "Harihar taluk in Davangere sub-division.",
@@ -1611,18 +1301,6 @@
     "105": {
      "pct": 82.6,
      "basis": "measured"
-    },
-    "110": {
-     "pct": 7.2,
-     "basis": "measured"
-    },
-    "106": {
-     "pct": 2.8,
-     "basis": "approx"
-    },
-    "107": {
-     "pct": 1.2,
-     "basis": "approx"
     }
    }
   },
@@ -1731,9 +1409,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    100,
+    98,
     99,
-    102
+    100
    ],
    "note": "",
    "extent": "Chitradurga town and Chitradurga hobli (ex- cluding i-Medakeripura, 2-Pillekerenahalli, 3-Mallafara, 4- Guddadarangavunahalli, 5-Kallenahalli, 6-Gonur, 44-Kava- dijarahatti, 45-Cholaghatta, 46-Matadakurubarahatti, 47-Malla- nakatte, 48-Thamatakallu, 49-Negalahalli and 50-Medehalli villages) in Chitradurga taluk; and Aimangala hobli in Hiriyur taluk in, Chitradurga sub-division.",
@@ -1741,16 +1419,12 @@
    "winner_07": "Thippa Reddy Gh",
    "electors_07": 179607,
    "shares": {
-    "100": {
-     "pct": 58.3,
-     "basis": "measured"
-    },
     "99": {
      "pct": 39.9,
      "basis": "measured"
     },
-    "102": {
-     "pct": 1.3,
+    "100": {
+     "pct": 58.3,
      "basis": "measured"
     }
    }
@@ -1762,12 +1436,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    103,
     98,
-    99,
-    102,
-    97,
-    108
+    103
    ],
    "note": "",
    "extent": "Jagalur taluk in Davangere sub-division; and Turu- vanur hobli in Chitradurga taluk in Chitradurga sub-division.",
@@ -1775,24 +1445,12 @@
    "winner_07": "Gurusiddanagowda T",
    "electors_07": 150659,
    "shares": {
-    "103": {
-     "pct": 70.8,
-     "basis": "measured"
-    },
     "98": {
      "pct": 18.5,
      "basis": "measured"
     },
-    "99": {
-     "pct": 4.6,
-     "basis": "measured"
-    },
-    "102": {
-     "pct": 4.6,
-     "basis": "measured"
-    },
-    "108": {
-     "pct": 1.0,
+    "103": {
+     "pct": 70.8,
      "basis": "measured"
     }
    }
@@ -1805,8 +1463,7 @@
    "status": "continuing",
    "dest": [
     97,
-    98,
-    96
+    98
    ],
    "note": "",
    "extent": "Molakalmuru taluk and Naikanahatti hobli and 95-Mannekote, 96-Hirehalli, 97-Obannanahallikaval, 98- Obannanahalli, 99-Hanumanthanahally, 100-Gowrasamudra- kaval, 101-Bandethimmalapura, 102-Mallasamudra, 103-Deva- rahalli, 104-Bhoganahalli, 125-Chikkahally, 126-Byadareddy- halli, i27-Bul<kambudi, 128-Gowrasamudra, 129-Devareddy- halli, 130-Ghataparthy, 138-Hanjamuthenahally and 139-Ban- jagere villages in Thalak Hobli in Challakere taluk in Chitra- du ga sub-division.",
@@ -1821,10 +1478,6 @@
     "98": {
      "pct": 2.0,
      "basis": "measured"
-    },
-    "96": {
-     "pct": 0.7,
-     "basis": "measured"
     }
    }
   },
@@ -1835,10 +1488,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    98,
-    100,
     97,
-    99
+    98
    ],
    "note": "",
    "extent": "Challakere taluk (excluding Naikanahatti hobli and 95-Mannekote, 96-Hirehallly, 97-Obannanahallikavalj 98-Obannanahalli, 99-Hanumanthanahally, 100-Gowrasamu- dra kaval, 101-Bandethimmalapura, 102-Mallasamudra, 103- Dsvarahalli, 104-Bhoganahalli, 125-Chikkahally, 126-Byadare- ddyhalli, 127-Bukkambudi, 128-Gowrasamudra, 129- Devareddyhalli, 130-Ghataparthy, 138-Hanjamuthenahally and 139-Banjagere villages in Thalak Hobli in Chitradurga sub- division.",
@@ -1846,20 +1497,12 @@
    "winner_07": "Sudhakar D",
    "electors_07": 173623,
    "shares": {
-    "98": {
-     "pct": 75.1,
-     "basis": "measured"
-    },
-    "100": {
-     "pct": 1.2,
-     "basis": "measured"
-    },
     "97": {
      "pct": 20.2,
      "basis": "measured"
     },
-    "99": {
-     "pct": 0.5,
+    "98": {
+     "pct": 75.1,
      "basis": "measured"
     }
    }
@@ -1871,9 +1514,7 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    100,
-    136,
-    128
+    100
    ],
    "note": "",
    "extent": "Hiriyur taluk (excluding Aimangala hobli) in Ciitradurga sub-division.",
@@ -1883,10 +1524,6 @@
    "shares": {
     "100": {
      "pct": 97.4,
-     "basis": "measured"
-    },
-    "136": {
-     "pct": 2.2,
      "basis": "measured"
     }
    }
@@ -1898,10 +1535,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    102,
-    101,
-    126,
-    109
+    102
    ],
    "note": "",
    "extent": "Holalkere taluk in D avangere sub-division. 5©- Hasadurga.—-Hosadurga taluk in Davangere sub-division.",
@@ -1911,18 +1545,6 @@
    "shares": {
     "102": {
      "pct": 95.0,
-     "basis": "measured"
-    },
-    "101": {
-     "pct": 1.6,
-     "basis": "measured"
-    },
-    "126": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
-    "109": {
-     "pct": 2.7,
      "basis": "measured"
     }
    }
@@ -1934,10 +1556,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    101,
-    128,
-    127,
-    100
+    101
    ],
    "note": "",
    "extent": "",
@@ -1947,14 +1566,6 @@
    "shares": {
     "101": {
      "pct": 94.2,
-     "basis": "measured"
-    },
-    "127": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
-    "100": {
-     "pct": 4.0,
      "basis": "measured"
     }
    }
@@ -1987,8 +1598,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    136,
-    128
+    128,
+    136
    ],
    "note": "",
    "extent": "Sir a taluk (excluding Kallambella and Bukkapatn hoblis) in Madhugiri sub-division.",
@@ -2009,11 +1620,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    128,
-    135,
-    136,
-    133,
-    134
+    128
    ],
    "note": "",
    "extent": "Huliyar hobli in Chiknaikanahalli taluk in Tiptur sub-division; Bukkapatna and Kaliair.bella hoblis in Sira taluk in Madhugiri sub-division ; and Hagalwadi hobli in Gubbi taluk in Tamkur sab-division.",
@@ -2023,14 +1630,6 @@
    "shares": {
     "128": {
      "pct": 55.0,
-     "basis": "measured"
-    },
-    "135": {
-     "pct": 20.8,
-     "basis": "measured"
-    },
-    "136": {
-     "pct": 22.0,
      "basis": "measured"
     }
    }
@@ -2042,10 +1641,8 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    134,
-    135,
-    138,
-    133
+    133,
+    134
    ],
    "note": "",
    "extent": "Dodderi Hobli in Madhugiri taluk and Channaraya- durga hobli in Koratagere taluk in Madhugiri sub-division; and Kora and Bellavi Hoblis in Tumkur taluk and Chelur hobli in Gubbi taluk in Tumkur sub-division.",
@@ -2053,20 +1650,12 @@
    "winner_07": "Kyatsandra N Rajanna",
    "electors_07": 150402,
    "shares": {
-    "134": {
-     "pct": 34.5,
-     "basis": "measured"
-    },
-    "135": {
-     "pct": 22.7,
-     "basis": "measured"
-    },
-    "138": {
-     "pct": 30.2,
-     "basis": "measured"
-    },
     "133": {
      "pct": 12.1,
+     "basis": "measured"
+    },
+    "134": {
+     "pct": 34.5,
      "basis": "measured"
     }
    }
@@ -2078,9 +1667,8 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    138,
     134,
-    139
+    138
    ],
    "note": "",
    "extent": "Madhugiri taluk (excluding Dodderi hobli) in Madhugiri sub-division.",
@@ -2088,16 +1676,12 @@
    "winner_07": "Dr.Parameshwara G",
    "electors_07": 165385,
    "shares": {
-    "138": {
-     "pct": 81.8,
-     "basis": "measured"
-    },
     "134": {
      "pct": 14.0,
      "basis": "measured"
     },
-    "139": {
-     "pct": 0.6,
+    "138": {
+     "pct": 81.8,
      "basis": "measured"
     }
    }
@@ -2109,10 +1693,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    134,
-    181,
-    180,
-    133
+    134
    ],
    "note": "",
    "extent": "Koratagere taluk (excluding Channarayadurga hobli) in Madhugiri sub-division of Tumkur District ; and Somapura and Thyamagondlu hoblis in Nelamangala taluk in Doddaballapur sub-division of Bangalore District.",
@@ -2122,10 +1703,6 @@
    "shares": {
     "134": {
      "pct": 60.4,
-     "basis": "measured"
-    },
-    "133": {
-     "pct": 1.3,
      "basis": "measured"
     }
    }
@@ -2137,9 +1714,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    133,
-    181,
-    132
+    133
    ],
    "note": "",
    "extent": "Tumkur town, Tumkur and Urdigere hoblis in Tumkur taluk in Tumkur sub-division.",
@@ -2149,10 +1724,6 @@
    "shares": {
     "133": {
      "pct": 77.9,
-     "basis": "measured"
-    },
-    "132": {
-     "pct": 1.4,
      "basis": "measured"
     }
    }
@@ -2164,9 +1735,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    133,
     131,
-    182
+    133
    ],
    "note": "",
    "extent": "Hebbur and Gulur hoblis in Tumkur taluk and Kothagere Hobli and Kunigal Town and 1—Mallaghatta, 2—Bidnagere, 50—Kunigal Bagayat and 51—Gargadahalli villages in Kunigal Hobli pr.d 189—Yadehalli village in Huliyurdurga Hobli and Hutridurga hobli in Kunigal taluk in Tumkur sub-division.",
@@ -2174,12 +1744,12 @@
    "winner_07": "Ningappa H",
    "electors_07": 152382,
    "shares": {
-    "133": {
-     "pct": 59.6,
-     "basis": "measured"
-    },
     "131": {
      "pct": 34.8,
+     "basis": "measured"
+    },
+    "133": {
+     "pct": 59.6,
      "basis": "measured"
     }
    }
@@ -2191,9 +1761,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    131,
-    191,
-    185
+    131
    ],
    "note": "",
    "extent": "Kunigal taluk (excluding Kothagere and Hutri- durga Hoblis and Kunigal Town and 1—Mallaghatta, 2—Bid- nagere, 50—Kunigal Bagayat and 51—Gar.gadahalli villages in Kunigal Hobli and 189—Yadehalli village in Huliyurdurga hobli) in Tumkur sub-division.",
@@ -2203,10 +1771,6 @@
    "shares": {
     "131": {
      "pct": 98.3,
-     "basis": "measured"
-    },
-    "191": {
-     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -2218,10 +1782,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    135,
-    130,
-    131,
-    133
+    130
    ],
    "note": "",
    "extent": "Gubbi taluk (excluding Chelur and Hagalvvadi hobnb) in Tumkur sub-division.",
@@ -2229,16 +1790,8 @@
    "winner_07": "Sreenivasa S R",
    "electors_07": 139558,
    "shares": {
-    "135": {
-     "pct": 74.3,
-     "basis": "measured"
-    },
     "130": {
      "pct": 24.1,
-     "basis": "measured"
-    },
-    "133": {
-     "pct": 0.9,
      "basis": "measured"
     }
    }
@@ -2250,9 +1803,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    130,
-    131,
-    193
+    130
    ],
    "note": "",
    "extent": "Turuvekere taluk in Tiptur sub-division.",
@@ -2273,10 +1824,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    129,
-    193,
-    130,
-    194
+    129
    ],
    "note": "",
    "extent": "Tiptur taluk (excluding Kibbanahalli hobli) in Tiptu sub-division.",
@@ -2286,14 +1834,6 @@
    "shares": {
     "129": {
      "pct": 97.2,
-     "basis": "measured"
-    },
-    "193": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "194": {
-     "pct": 1.8,
      "basis": "measured"
     }
    }
@@ -2306,10 +1846,7 @@
    "status": "renamed",
    "dest": [
     128,
-    129,
-    130,
-    135,
-    194
+    129
    ],
    "note": "",
    "extent": "Chiknaikanahalli taluk (excluding Huliyar hobli) and Kibbanahalli hobli in Tiptur taluk in Tiptur sub-division.",
@@ -2324,14 +1861,6 @@
     "129": {
      "pct": 17.6,
      "basis": "measured"
-    },
-    "130": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
-    "135": {
-     "pct": 0.7,
-     "basis": "measured"
     }
    }
   },
@@ -2343,9 +1872,7 @@
    "status": "renamed",
    "dest": [
     139,
-    141,
-    180,
-    179
+    141
    ],
    "note": "",
    "extent": "Gowribidarur taluk (excluding Nagaragere and Dadinaikanapalya hoblis) in Chikballapur sub-division.",
@@ -2370,10 +1897,7 @@
    "type": "SC",
    "status": "renamed",
    "dest": [
-    141,
-    139,
-    179,
-    142
+    141
    ],
    "note": "",
    "extent": "Chikballapur taluk and Dadinaikanapalya hobli in Gowribidanur taluk in Chikballapur sub-division.",
@@ -2383,14 +1907,6 @@
    "shares": {
     "141": {
      "pct": 67.8,
-     "basis": "measured"
-    },
-    "139": {
-     "pct": 15.9,
-     "basis": "measured"
-    },
-    "142": {
-     "pct": 6.1,
      "basis": "measured"
     }
    }
@@ -2402,12 +1918,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    142,
     140,
-    143,
-    178,
-    179,
-    141
+    142
    ],
    "note": "",
    "extent": "Sidlaghatta taluk and Mittemari hobli in Bagepalli taluk in Chikballapur sub-division.",
@@ -2415,20 +1927,12 @@
    "winner_07": "Munishamappa S",
    "electors_07": 150089,
    "shares": {
-    "142": {
-     "pct": 72.8,
-     "basis": "measured"
-    },
     "140": {
      "pct": 19.1,
      "basis": "measured"
     },
-    "143": {
-     "pct": 5.2,
-     "basis": "measured"
-    },
-    "141": {
-     "pct": 2.7,
+    "142": {
+     "pct": 72.8,
      "basis": "measured"
     }
    }
@@ -2440,10 +1944,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    140,
     139,
-    141,
-    142
+    140
    ],
    "note": "",
    "extent": "Bagenalli, Gulur and Pathapalya hoblis in Bagepalli taluk, Gudibanda taluk and Nagaragere Hobli in Gowribidanur taluk in Chikballapur sub-division. 58. Chintamani—Chin.tamani taluk (exluding Kaiwara and Chin- tamani hoblis but including Chintamani town and village 72-Gownigadde) and Chelur hobli in Bagepalli taluk in Chikballapur sub-division.",
@@ -2451,12 +1953,12 @@
    "winner_07": "Sreeramareddy G V",
    "electors_07": 146978,
    "shares": {
-    "140": {
-     "pct": 85.9,
-     "basis": "measured"
-    },
     "139": {
      "pct": 8.5,
+     "basis": "measured"
+    },
+    "140": {
+     "pct": 85.9,
      "basis": "measured"
     }
    }
@@ -2468,10 +1970,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    143,
-    142,
     140,
-    144
+    142,
+    143
    ],
    "note": "",
    "extent": "Chin.tamani taluk (exluding Kaiwara and Chin- tamani hoblis but including Chintamani town and village 72-Gownigadde) and Chelur hobli in Bagepalli taluk in Chikballapur sub-division.",
@@ -2479,20 +1980,16 @@
    "winner_07": "Dr Sudhakar Mc",
    "electors_07": 173956,
    "shares": {
-    "143": {
-     "pct": 43.8,
+    "140": {
+     "pct": 22.9,
      "basis": "measured"
     },
     "142": {
      "pct": 17.1,
      "basis": "measured"
     },
-    "140": {
-     "pct": 22.9,
-     "basis": "measured"
-    },
-    "144": {
-     "pct": 7.4,
+    "143": {
+     "pct": 43.8,
      "basis": "measured"
     }
    }
@@ -2504,8 +2001,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    144,
-    145
+    144
    ],
    "note": "",
    "extent": "Srinivasapur taluk :n Kolar sub-divisior:.",
@@ -2515,10 +2011,6 @@
    "shares": {
     "144": {
      "pct": 86.5,
-     "basis": "measured"
-    },
-    "145": {
-     "pct": 3.7,
      "basis": "measured"
     }
    }
@@ -2530,8 +2022,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    145,
-    146
+    145
    ],
    "note": "",
    "extent": "Mulbagal taluk in Kolar sub-division.",
@@ -2578,8 +2069,8 @@
    "type": "SC",
    "status": "abolished",
    "dest": [
-    147,
-    146
+    146,
+    147
    ],
    "note": "",
    "extent": "Bangarpet taluk (excluding K.G.F. Sani- tary Board, Rebortsonpet town and villages i-Karahally, 42-Tyaranahally, 43-Vombathaguli, 44-Kasipura, 45- InoriJhcs ahally, 46-Doddankandahally, 47-Kaninbelej 48-ya luvahalli, 49-Karamangala, 50-Guttahalli, 51- Madftvala, 52-Honnenahalli, 53-Byadabele, 54-Kup- p-atlanalli, 55-Siddanahally, 56-Madigarahalli, 57- Ramanayakanahalli, 58-Sulikunte, 59-Naganathapura, 60-Kumbaragollahally, 61-Mageri, 62-Mugalabele, 63-Madamanjala, 64-Akshantagollahally, 65-Vagayyana- dinne, 66-Ramapura Dinne, 67-Hanchala, 68-Krishna- rajapura, 69-Pakarahalli, 70-Hudukula, 71-Halliganahally, 72-Vattarakunte, 73-Byaranayakanahalli, 74-Venu- gopalapura, 75-Nayakarahally, 76-Bavarahally, 77-Chi- ckankandahally, 78-Beerandahally, 79-Karabele, 80-Mara- gal, 81-Yalaburigi and 82-Ithandahally in Bangarpet hobli) in Kolar sub-division.",
@@ -2587,12 +2078,12 @@
    "winner_07": "Venkatamuniyappa Bp",
    "electors_07": 177972,
    "shares": {
-    "147": {
-     "pct": 44.8,
-     "basis": "measured"
-    },
     "146": {
      "pct": 40.2,
+     "basis": "measured"
+    },
+    "147": {
+     "pct": 44.8,
      "basis": "measured"
     }
    }
@@ -2602,13 +2093,10 @@
    "name": "Kolar",
    "district": "Kolar",
    "type": "GEN",
-   "status": "continuing",
+   "status": "abolished",
    "dest": [
-    147,
-    148,
     144,
-    145,
-    146
+    147
    ],
    "note": "",
    "extent": "Kolar, Huthur and Holur hoblis in Kolar taluk and villages i-Karahally, 42-Tyaranahally, 43-Vombathaguli, 44-Kasipura, 45-Inorahosahally, 46-Doddankandahally, 47-Kaninbele, 48-Yaluvahalli, 49-Karamangala, 50-Guttahalli, 51-Madivala, 52-Honnenahalli, 53-Bya- dabele, 54-Kuppanahalli, 55-Siddanahaliy, 56-Madigar- ahally, 57-Ramanayakanahally, 58-Sulikunte, 59-Nagana- thapura, 60-Kumbaragollahally, 61-Mageri, 62-Mugala- bele, 63-Madamanjala, 64-Akshantagollahalli, 65-Vagay- yanadinne, 66-Ramapura Dinne, 67-Hanchala, 68-Kri- shnarajapura, 69-Pakarahalli, 70-Hudukula, 71-Halli' ganahally, 72-Vattarakunte, 73-Byaranayakanahally, 74-Venugopalapura, 75-Nayakarahally, 76-Bavarahally, 77-Chickankandahally, 78-Beerandahally, 79-Karabele, 8c-Maragal, 81-Yalaburigi and 82-Ithardahally in Ban- garpet hobli in Bangarpet taluk in Kolar sub-division.",
@@ -2616,24 +2104,12 @@
    "winner_07": "Srinivasa Gowda K",
    "electors_07": 162863,
    "shares": {
-    "147": {
-     "pct": 39.9,
-     "basis": "measured"
-    },
-    "148": {
-     "pct": 20.5,
-     "basis": "measured"
-    },
     "144": {
      "pct": 25.7,
      "basis": "measured"
     },
-    "145": {
-     "pct": 13.3,
-     "basis": "measured"
-    },
-    "146": {
-     "pct": 0.6,
+    "147": {
+     "pct": 39.9,
      "basis": "measured"
     }
    }
@@ -2645,11 +2121,9 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    148,
-    143,
     144,
-    149,
-    178
+    147,
+    148
    ],
    "note": "",
    "extent": "Kolar taluk (excluding Kolar, Huthur and Holur hoblis) in Kolar sub-division ; and Kaiwara hobli and Chin- tamani hobli (excluding Chintamani town and the village 72-Gownigaddet in Chintamani taluk in Chikballapur sub- division.",
@@ -2657,16 +2131,16 @@
    "winner_07": "Krishnabyregowda C B",
    "electors_07": 160584,
    "shares": {
-    "148": {
-     "pct": 42.5,
-     "basis": "measured"
-    },
-    "143": {
-     "pct": 38.6,
-     "basis": "measured"
-    },
     "144": {
      "pct": 16.6,
+     "basis": "measured"
+    },
+    "147": {
+     "pct": 0.6,
+     "basis": "measured"
+    },
+    "148": {
+     "pct": 42.5,
      "basis": "measured"
     }
    }
@@ -2678,9 +2152,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    149,
-    147,
-    178
+    149
    ],
    "note": "",
    "extent": "Malur taluk in Kolar sub-division.",
@@ -2690,10 +2162,6 @@
    "shares": {
     "149": {
      "pct": 85.9,
-     "basis": "measured"
-    },
-    "147": {
-     "pct": 5.2,
      "basis": "measured"
     }
    }
@@ -3143,9 +2611,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    191,
-    189,
-    188
+    191
    ],
    "note": "",
    "extent": "Nagamangala taluk in Pandavapura sub-division.",
@@ -3198,10 +2664,9 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    187,
     186,
-    220,
-    189
+    187,
+    191
    ],
    "note": "",
    "extent": "Kiragaval hobli Circles I and II and circle III (ex- cluding 154-Desavalli and 155-Bendaravadi villages) in Mala- valli taluk and Maddur hobli Circle II (excluding 6-Somana- halli, 7-Desihalli, 8-Agaralinganahalli, 13-Bheemanakere, 14-Honnalagere, 15-Dadaga, 16-Budaguppe, 19-Chandahalli, 39-Narayana Iyengar Doddi, 40-Venkatanarayanappan Doddi and 42-Byadarahalli villages) and Chikkara- sinakere hobli (Circles I, II and III) in Maddur taluk in Mandya sub-division. X04. Malavalli (SC).—Malavalli hobli (Circles I, II and III), Halagur hobli and Boppegowdanapura hobli (Circles I and II) in Malavalli taluk in Mandya sub-division.",
@@ -3209,20 +2674,12 @@
    "winner_07": "Nagamani M K",
    "electors_07": 140105,
    "shares": {
-    "187": {
-     "pct": 63.2,
-     "basis": "measured"
-    },
     "186": {
      "pct": 29.7,
      "basis": "measured"
     },
-    "220": {
-     "pct": 1.1,
-     "basis": "measured"
-    },
-    "189": {
-     "pct": 1.3,
+    "187": {
+     "pct": 63.2,
      "basis": "measured"
     }
    }
@@ -3234,9 +2691,7 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    186,
-    221,
-    220
+    186
    ],
    "note": "",
    "extent": "Malavalli hobli (Circles I, II and III), Halagur hobli and Boppegowdanapura hobli (Circles I and II) in Malavalli taluk in Mandya sub-division.",
@@ -3246,10 +2701,6 @@
    "shares": {
     "186": {
      "pct": 92.7,
-     "basis": "measured"
-    },
-    "220": {
-     "pct": 0.5,
      "basis": "measured"
     }
    }
@@ -3297,8 +2748,8 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    189,
     188,
+    189,
     190
    ],
    "note": "",
@@ -3307,12 +2758,12 @@
    "winner_07": "Ramu Hb",
    "electors_07": 122224,
    "shares": {
-    "189": {
-     "pct": 57.3,
-     "basis": "measured"
-    },
     "188": {
      "pct": 35.4,
+     "basis": "measured"
+    },
+    "189": {
+     "pct": 57.3,
      "basis": "measured"
     }
    }
@@ -3324,11 +2775,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    190,
-    215,
-    220,
-    219,
-    217
+    190
    ],
    "note": "",
    "extent": "Srirangapatna taluk in Pandavapura sub- division; and Kothathi hobli Circle I and 105-Kirgan dur village in Dudda hobli Circle II in Mandya taluk in Man dya sub-division.",
@@ -3339,10 +2786,6 @@
     "190": {
      "pct": 89.7,
      "basis": "measured"
-    },
-    "215": {
-     "pct": 1.2,
-     "basis": "approx"
     }
    }
   },
@@ -3353,10 +2796,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    188,
-    192,
-    190,
-    215
+    188
    ],
    "note": "",
    "extent": "Pandvapura taluk and Seelanere hobli in Krishnarajpet taluk in Pandavapura sub-division.",
@@ -3366,10 +2806,6 @@
    "shares": {
     "188": {
      "pct": 73.9,
-     "basis": "measured"
-    },
-    "192": {
-     "pct": 24.3,
      "basis": "measured"
     }
    }
@@ -3430,10 +2866,7 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    222,
-    221,
-    220,
-    223
+    222
    ],
    "note": "",
    "extent": "Kollegal hobli and 22-Jinakanahalli 23-Saragur, 24-Dangere, 25-C. M. Samudra, 26-Sathegal, 37-Honderabalu and 38-Madhuvanahalli villages in Palyarn firka in Kollegal taluk in Mysore sub-division; and Yelandur taluk in Nanjangud sub-division.",
@@ -3443,14 +2876,6 @@
    "shares": {
     "222": {
      "pct": 63.2,
-     "basis": "measured"
-    },
-    "221": {
-     "pct": 15.9,
-     "basis": "measured"
-    },
-    "220": {
-     "pct": 16.4,
      "basis": "measured"
     }
    }
@@ -3462,7 +2887,6 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    220,
     186
    ],
    "note": "",
@@ -3471,10 +2895,6 @@
    "winner_07": "Sunitha Veerappa Gowda",
    "electors_07": 140468,
    "shares": {
-    "220": {
-     "pct": 83.9,
-     "basis": "measured"
-    },
     "186": {
      "pct": 10.6,
      "basis": "measured"
@@ -3488,10 +2908,7 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    219,
-    220,
-    214,
-    222
+    219
    ],
    "note": "",
    "extent": "T. Narasipur and Mugur hoblies in T-Narasi- pur taluk in Mysore sub-division; and Biligere and Chatra hoblis in Nanjangud taluk in Nanjangud sub-division.",
@@ -3501,14 +2918,6 @@
    "shares": {
     "219": {
      "pct": 63.8,
-     "basis": "measured"
-    },
-    "220": {
-     "pct": 25.6,
-     "basis": "measured"
-    },
-    "214": {
-     "pct": 3.1,
      "basis": "measured"
     }
    }
@@ -3594,11 +3003,7 @@
    "status": "renamed",
    "dest": [
     215,
-    219,
-    213,
-    217,
-    218,
-    216
+    219
    ],
    "note": "",
    "extent": "Mysore taluk, (excluding Mysore City) in Mysore sub-division.",
@@ -3613,22 +3018,6 @@
     "219": {
      "pct": 21.2,
      "basis": "measured"
-    },
-    "213": {
-     "pct": 3.6,
-     "basis": "measured"
-    },
-    "217": {
-     "pct": 1.6,
-     "basis": "approx"
-    },
-    "218": {
-     "pct": 1.1,
-     "basis": "approx"
-    },
-    "216": {
-     "pct": 4.1,
-     "basis": "approx"
     }
    }
   },
@@ -3639,9 +3028,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    214,
-    224,
-    213
+    214
    ],
    "note": "",
    "extent": "Nanjangud and Hullahalli hoblis in Nanjangud taluk in Nanjangud sub-division.",
@@ -3651,10 +3038,6 @@
    "shares": {
     "214": {
      "pct": 85.8,
-     "basis": "measured"
-    },
-    "213": {
-     "pct": 10.6,
      "basis": "measured"
     }
    }
@@ -3693,10 +3076,7 @@
    "status": "continuing",
    "dest": [
     223,
-    224,
-    219,
-    214,
-    222
+    224
    ],
    "note": "",
    "extent": "",
@@ -3711,18 +3091,6 @@
     "224": {
      "pct": 13.8,
      "basis": "measured"
-    },
-    "219": {
-     "pct": 5.8,
-     "basis": "measured"
-    },
-    "214": {
-     "pct": 5.3,
-     "basis": "measured"
-    },
-    "222": {
-     "pct": 5.2,
-     "basis": "measured"
     }
    }
   },
@@ -3733,10 +3101,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    224,
-    219,
-    222,
-    214
+    224
    ],
    "note": "",
    "extent": "Gundlupet taluk in Nanjangud sub- division. }• jfc,",
@@ -3746,18 +3111,6 @@
    "shares": {
     "224": {
      "pct": 77.8,
-     "basis": "measured"
-    },
-    "219": {
-     "pct": 5.5,
-     "basis": "measured"
-    },
-    "222": {
-     "pct": 4.4,
-     "basis": "measured"
-    },
-    "214": {
-     "pct": 7.9,
      "basis": "measured"
     }
    }
@@ -3769,9 +3122,7 @@
    "type": "SC",
    "status": "renamed",
    "dest": [
-    213,
-    214,
-    215
+    213
    ],
    "note": "",
    "extent": "Heggadadevanakote taluk in Hunsur sub-division.",
@@ -3782,14 +3133,6 @@
     "213": {
      "pct": 89.8,
      "basis": "measured"
-    },
-    "214": {
-     "pct": 1.1,
-     "basis": "measured"
-    },
-    "215": {
-     "pct": 0.6,
-     "basis": "approx"
     }
    }
   },
@@ -3844,10 +3187,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    210,
-    211,
-    212,
-    209
+    210
    ],
    "note": "",
    "extent": "Periyapatna taluk and Chunchanakatte hobli [excluding villages 52—Nijaganahalli, 85—Kestur, 86—Kan- chagarakoppal and 87—Malali] in Krishnarajanagar taluk in Hunsur sub-division.",
@@ -3857,18 +3197,6 @@
    "shares": {
     "210": {
      "pct": 80.6,
-     "basis": "measured"
-    },
-    "211": {
-     "pct": 11.0,
-     "basis": "measured"
-    },
-    "212": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
-    "209": {
-     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -3901,8 +3229,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    209,
-    208
+    209
    ],
    "note": "",
    "extent": "Mercara taluk and 24—Ammathi, 33—Kalatha- madu, 34—Hosakote, 35—Hosoor, 36—Bettakeri, 37-Mekur Hosakeri, 38—Puliyeri, 39—Yedoor, 40—Hachinadu, 41—Badaga Bannangala, 42—Guyya, 43—Siddapura 44—Karadigodu, 45—Maldare, 46—Chennayanakote villages* in Ammathi circle in Virajpet taluk in Mercara sub-division",
@@ -3912,10 +3239,6 @@
    "shares": {
     "209": {
      "pct": 67.7,
-     "basis": "measured"
-    },
-    "208": {
-     "pct": 23.2,
      "basis": "measured"
     }
    }
@@ -3963,9 +3286,7 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    195,
-    199,
-    196
+    195
    ],
    "note": "",
    "extent": "Belur taluk in Sakleshpur sub-division. T3O. Arsikere.—Arsikere taluk (excluding Javagal and Gandsi hoblis) in Hassan sub-division. 131. Gauds!.—Gaadsi and Javagal hoblis in Arsikere taluk and Salagame hobli and Dudda hobli in Hassan taluk in Hassan sub-division.",
@@ -3975,10 +3296,6 @@
    "shares": {
     "195": {
      "pct": 91.5,
-     "basis": "measured"
-    },
-    "199": {
-     "pct": 2.4,
      "basis": "measured"
     }
    }
@@ -3991,7 +3308,6 @@
    "status": "continuing",
    "dest": [
     194,
-    129,
     195
    ],
    "note": "",
@@ -4013,11 +3329,10 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    197,
     194,
     195,
     196,
-    199
+    197
    ],
    "note": "",
    "extent": "",
@@ -4025,10 +3340,6 @@
    "winner_07": "Shivaramu B",
    "electors_07": 144391,
    "shares": {
-    "197": {
-     "pct": 22.2,
-     "basis": "measured"
-    },
     "194": {
      "pct": 28.5,
      "basis": "measured"
@@ -4039,6 +3350,10 @@
     },
     "196": {
      "pct": 16.3,
+     "basis": "measured"
+    },
+    "197": {
+     "pct": 22.2,
      "basis": "measured"
     }
    }
@@ -4051,9 +3366,7 @@
    "status": "renamed",
    "dest": [
     193,
-    192,
-    197,
-    191
+    197
    ],
    "note": "",
    "extent": "Channarayapatna taluk [excluding Dandi- ganahalli hobli but including 75—Tippur village] in Hassan sub-division.",
@@ -4078,10 +3391,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
+    193,
     197,
-    198,
-    211,
-    192
+    198
    ],
    "note": "",
    "extent": "Holenarasipur taluk and Dandiganahalli hobli [excluding 75—Tippur village] in Channarayapatna taluk in Hassan sub-division.",
@@ -4089,16 +3401,16 @@
    "winner_07": "Revanna Hd",
    "electors_07": 158510,
    "shares": {
+    "193": {
+     "pct": 0.7,
+     "basis": "measured"
+    },
     "197": {
      "pct": 67.1,
      "basis": "measured"
     },
     "198": {
      "pct": 31.0,
-     "basis": "measured"
-    },
-    "192": {
-     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -4110,9 +3422,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    198,
-    210,
-    208
+    198
    ],
    "note": "",
    "extent": "Arkalgud taluk in Hassan sub-division.",
@@ -4122,10 +3432,6 @@
    "shares": {
     "198": {
      "pct": 93.0,
-     "basis": "measured"
-    },
-    "208": {
-     "pct": 3.3,
      "basis": "measured"
     }
    }
@@ -4137,10 +3443,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    197,
-    199,
     196,
-    198
+    197,
+    199
    ],
    "note": "",
    "extent": "Hassan taluk (excluding Salagame and Dudda hoblis) in Hassan sub-division.",
@@ -4148,16 +3453,16 @@
    "winner_07": "Prakash Hs",
    "electors_07": 206428,
    "shares": {
+    "196": {
+     "pct": 34.4,
+     "basis": "measured"
+    },
     "197": {
      "pct": 36.1,
      "basis": "measured"
     },
     "199": {
      "pct": 29.5,
-     "basis": "measured"
-    },
-    "196": {
-     "pct": 34.4,
      "basis": "measured"
     }
    }
@@ -4169,9 +3474,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    199,
-    208,
-    207
+    199
    ],
    "note": "",
    "extent": "Alur taluk and Manjarabad taluk in Sakleshpur sub-divisio0.",
@@ -4181,10 +3484,6 @@
    "shares": {
     "199": {
      "pct": 94.2,
-     "basis": "measured"
-    },
-    "207": {
-     "pct": 1.5,
      "basis": "measured"
     }
    }
@@ -4196,8 +3495,7 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    207,
-    209
+    207
    ],
    "note": "",
    "extent": "Sullia taluk and Kadaba firka in Puttur taluk in Puttur sub-division.",
@@ -4207,10 +3505,6 @@
    "shares": {
     "207": {
      "pct": 95.3,
-     "basis": "measured"
-    },
-    "209": {
-     "pct": 0.5,
      "basis": "measured"
     }
    }
@@ -4248,9 +3542,8 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    205,
-    206,
-    204
+    204,
+    205
    ],
    "note": "",
    "extent": "Vittal firka [excluding 70—Ananthady, 71—Mani, 72—Peraje, 73—Netlamudnur, 74—Kedila, 75—Perne, 76—Belyoor, 77—Idkidu, 78—Kula, 79—Vittalmudnur and 80—Punacha villages] and Panemangalore firka in Bantwal taluk in Mangalore sub-division.",
@@ -4258,16 +3551,12 @@
    "winner_07": "Padmanabha Kottari",
    "electors_07": 160564,
    "shares": {
-    "205": {
-     "pct": 65.5,
-     "basis": "measured"
-    },
-    "206": {
-     "pct": 11.5,
-     "basis": "measured"
-    },
     "204": {
      "pct": 16.0,
+     "basis": "measured"
+    },
+    "205": {
+     "pct": 65.5,
      "basis": "measured"
     }
    }
@@ -4279,9 +3568,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    200,
-    207,
-    205
+    200
    ],
    "note": "",
    "extent": "Belthangady taluk in Puttur sub-division.",
@@ -4291,14 +3578,6 @@
    "shares": {
     "200": {
      "pct": 96.3,
-     "basis": "measured"
-    },
-    "207": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
-    "205": {
-     "pct": 1.8,
      "basis": "measured"
     }
    }
@@ -4310,10 +3589,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    205,
-    202,
-    204,
-    200
+    205
    ],
    "note": "",
    "extent": "Bantwal firka in Bantwal taluk and Gurpur firka in Mangalore taluk in Mangalore sub-division.",
@@ -4323,18 +3599,6 @@
    "shares": {
     "205": {
      "pct": 60.4,
-     "basis": "measured"
-    },
-    "202": {
-     "pct": 30.7,
-     "basis": "approx"
-    },
-    "204": {
-     "pct": 1.5,
-     "basis": "measured"
-    },
-    "200": {
-     "pct": 3.0,
      "basis": "measured"
     }
    }
@@ -4422,7 +3686,6 @@
    "status": "renamed",
    "dest": [
     121,
-    201,
     122
    ],
    "note": "",
@@ -4433,10 +3696,6 @@
    "shares": {
     "121": {
      "pct": 67.3,
-     "basis": "measured"
-    },
-    "201": {
-     "pct": 4.2,
      "basis": "measured"
     },
     "122": {
@@ -4452,9 +3711,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    121,
-    122,
-    120
+    121
    ],
    "note": "",
    "extent": "Udipi firka in Udipi taluk in Coondapur sub-division.",
@@ -4464,14 +3721,6 @@
    "shares": {
     "121": {
      "pct": 51.8,
-     "basis": "measured"
-    },
-    "122": {
-     "pct": 1.7,
-     "basis": "measured"
-    },
-    "120": {
-     "pct": 32.4,
      "basis": "measured"
     }
    }
@@ -4483,10 +3732,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    120,
-    121,
-    122,
-    119
+    121
    ],
    "note": "",
    "extent": "Brahmavar firka and Kota firka [excluding 61—Shiriyara, 62—Biliadi, 63—Kakkunje, 64—Vandar, 65—Avarshe and 66—Hiliyana villages] in Udipi taluk in Coondapur sub-division",
@@ -4494,20 +3740,8 @@
    "winner_07": "Jayaprakash Hegde K",
    "electors_07": 148036,
    "shares": {
-    "120": {
-     "pct": 49.2,
-     "basis": "measured"
-    },
     "121": {
      "pct": 20.6,
-     "basis": "measured"
-    },
-    "122": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
-    "119": {
-     "pct": 22.2,
      "basis": "measured"
     }
    }
@@ -4582,10 +3816,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    122,
-    201,
-    200,
-    123
+    122
    ],
    "note": "",
    "extent": "Karkal firka [excluding! 13—Mundkur, 14—Inna, 15—Mulladka, 16—Belman, 17—Nandalike and 20—Sooda villages] and Ajekar firka in Karkal taluk in Coondapur sub-division. in. Moodabidri.—Moodabidri firka in Karkal taluk in Coondapur sub-division ; and Mulki firka in Mangalore taluk in Manga- lore sub-division. 15a. Sringeri.—Sringeri and Koppa taluks in Chikmagalur sub- division ; and Narasimharajapua taluk in Tarikere sub- division.",
@@ -4595,14 +3826,6 @@
    "shares": {
     "122": {
      "pct": 90.8,
-     "basis": "measured"
-    },
-    "201": {
-     "pct": 2.9,
-     "basis": "measured"
-    },
-    "200": {
-     "pct": 0.5,
      "basis": "measured"
     }
    }
@@ -4614,9 +3837,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    201,
-    202,
-    203
+    122,
+    201
    ],
    "note": "",
    "extent": "Moodabidri firka in Karkal taluk in Coondapur sub-division ; and Mulki firka in Mangalore taluk in Manga- lore sub-division. CHIKMAGALUR DISTRICT 15a. Sringeri.—Sringeri and Koppa taluks in Chikmagalur sub- division ; and Narasimharajapua taluk in Tarikere sub- division. 153. Mudigere (SC).—Mudigere",
@@ -4624,13 +3846,13 @@
    "winner_07": "Abhayachandra K",
    "electors_07": 118538,
    "shares": {
+    "122": {
+     "pct": 2.1,
+     "basis": "measured"
+    },
     "201": {
      "pct": 92.7,
      "basis": "measured"
-    },
-    "202": {
-     "pct": 2.2,
-     "basis": "approx"
     }
    }
   },
@@ -4641,11 +3863,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    123,
-    124,
-    125,
-    126,
-    122
+    123
    ],
    "note": "",
    "extent": "Sringeri and Koppa taluks in Chikmagalur sub- division ; and Narasimharajapua taluk in Tarikere sub- division.",
@@ -4655,14 +3873,6 @@
    "shares": {
     "123": {
      "pct": 93.7,
-     "basis": "measured"
-    },
-    "124": {
-     "pct": 1.6,
-     "basis": "measured"
-    },
-    "122": {
-     "pct": 1.4,
      "basis": "measured"
     }
    }
@@ -4674,9 +3884,7 @@
    "type": "SC",
    "status": "continuing",
    "dest": [
-    124,
-    200,
-    195
+    124
    ],
    "note": "",
    "extent": "Mudigere taluk and Vasthare and Aldur hoblis in Chikmagalur taluk in Chikmagalur sub-division.",
@@ -4686,10 +3894,6 @@
    "shares": {
     "124": {
      "pct": 95.1,
-     "basis": "measured"
-    },
-    "200": {
-     "pct": 3.5,
      "basis": "measured"
     }
    }
@@ -4701,10 +3905,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    125,
-    124,
     123,
-    195
+    124,
+    125
    ],
    "note": "",
    "extent": "Chikmagalur taluk (excluding Vasthare, Aldur and Lakya hoblis) in Chikmagalur sub-division.",
@@ -4712,16 +3915,16 @@
    "winner_07": "Ravi Ct",
    "electors_07": 142341,
    "shares": {
-    "125": {
-     "pct": 49.8,
+    "123": {
+     "pct": 24.2,
      "basis": "measured"
     },
     "124": {
      "pct": 26.0,
      "basis": "measured"
     },
-    "123": {
-     "pct": 24.2,
+    "125": {
+     "pct": 49.8,
      "basis": "measured"
     }
    }
@@ -4734,10 +3937,7 @@
    "status": "abolished",
    "dest": [
     125,
-    127,
-    195,
-    126,
-    124
+    126
    ],
    "note": "",
    "extent": "Lakya hobli in Chikmagalur taluk in Chikmagalur sub-division ; and Lingadahalli hobli in Tarikere taluk and Sakrepatna and Birur hoblis and 36—Alaghatta, 37—Yare-halli, 38—Panchehosahalli, 39 — Jiganehalli, 40 — Heelapura, 41 — Karehallikaval, 42 -- Bisalehalli, 43 — Kurubagere, 44—Angajanahalli, 45 —• Ramanahalli, 46—Patnagere 48 — Channapura and 51—Saraswathipura villages in Kadur hobli in Kadur taluk in Tarikere sub- division.",
@@ -4749,16 +3949,8 @@
      "pct": 50.4,
      "basis": "measured"
     },
-    "127": {
-     "pct": 25.1,
-     "basis": "measured"
-    },
     "126": {
      "pct": 19.8,
-     "basis": "measured"
-    },
-    "124": {
-     "pct": 4.2,
      "basis": "measured"
     }
    }
@@ -4770,9 +3962,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    127,
-    194,
-    125
+    125,
+    127
    ],
    "note": "",
    "extent": "Kadur taluk [excluding Sakrepatna and Birur hoblis and 36—Alaghatta, 37—Yarehalli, 38 — Panchehosahalli, 39—Jiganehalli, 40 — Heelapura, 41 — Karehallikaval, 42—Bisalehalli, 43 — Kurubagere, 44 — Angajanahalli, 45—Ramanahalli, 46—Patnagere, 48—Channapura and 51—Saraswathipura villages in Kadur hobli in Tarikere sub-division.",
@@ -4793,9 +3984,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    126,
-    127,
-    123
+    126
    ],
    "note": "",
    "extent": "Tarikere taluk (excluding Lingadahalli hobli) in Tarikere sub-division.",
@@ -4805,14 +3994,6 @@
    "shares": {
     "126": {
      "pct": 95.3,
-     "basis": "measured"
-    },
-    "127": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
-    "123": {
-     "pct": 2.1,
      "basis": "measured"
     }
    }
@@ -4857,11 +4038,10 @@
    "type": "SC",
    "status": "abolished",
    "dest": [
+    108,
     109,
-    112,
-    126,
     111,
-    102
+    112
    ],
    "note": "",
    "extent": "Bhadravathi taluk (excluding Bhadravathi New Town Board, Bhadravathi I and Bhadravathi II hoblis); and Ubrani hobli and Channagiri hobli [excluding Channagiri Town and 1—Muddenahalli, 2—Bussenahalli, 3—Agara- bannihatti, 4—Sripura, 5—Gullehalli, 6 —Rangapura, 7 — Mangenahalli, 8 — Garaga, 9 — Honnanaikanahalli, 10—Hodigere, 11—Settihalli, 12—Madapura, 13—Heb- balgere, 14—Benkikere, 15—Gurupura, 16 — Machanaika- nahallikaval, 17 —Machanaikanahalli, 18 — Honnebagi, 52 — Chikkulikere and 53—Donihalli villages] in Channagiri taluk in Shimoga sub-division.",
@@ -4873,17 +4053,13 @@
      "pct": 50.9,
      "basis": "measured"
     },
-    "112": {
-     "pct": 20.7,
-     "basis": "measured"
-    },
-    "126": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
     "111": {
      "pct": 27.0,
      "basis": "approx"
+    },
+    "112": {
+     "pct": 20.7,
+     "basis": "measured"
     }
    }
   },
@@ -4920,9 +4096,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    110,
-    111,
-    108
+    110
    ],
    "note": "",
    "extent": "Honnali taluk in Shimoga sub-division.",
@@ -4932,14 +4106,6 @@
    "shares": {
     "110": {
      "pct": 90.8,
-     "basis": "measured"
-    },
-    "111": {
-     "pct": 5.1,
-     "basis": "approx"
-    },
-    "108": {
-     "pct": 1.3,
      "basis": "measured"
     }
    }
@@ -4952,10 +4118,7 @@
    "status": "continuing",
    "dest": [
     111,
-    112,
-    113,
-    114,
-    123
+    114
    ],
    "note": "",
    "extent": "Shimoga City and Nidige hobli in Shimoga taluk in Shimoga sub-division.",
@@ -4963,21 +4126,13 @@
    "winner_07": "Eshwarappa Ks",
    "electors_07": 200814,
    "shares": {
-    "114": {
-     "pct": 58.2,
-     "basis": "measured"
-    },
-    "123": {
-     "pct": 2.1,
-     "basis": "measured"
-    },
-    "112": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
     "111": {
      "pct": 26.7,
      "basis": "approx"
+    },
+    "114": {
+     "pct": 58.2,
+     "basis": "measured"
     }
    }
   },
@@ -4988,11 +4143,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    114,
-    123,
-    118,
-    122,
-    119
+    114
    ],
    "note": "",
    "extent": "Tirthahalli taluk in Shimoga sub-division; and Nagar hobli in Hosanagar taluk in Sagar sub-division",
@@ -5002,22 +4153,6 @@
    "shares": {
     "114": {
      "pct": 89.8,
-     "basis": "measured"
-    },
-    "123": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "118": {
-     "pct": 4.9,
-     "basis": "measured"
-    },
-    "122": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "119": {
-     "pct": 1.4,
      "basis": "measured"
     }
    }
@@ -5029,11 +4164,9 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    114,
     111,
-    117,
-    113,
-    112
+    114,
+    117
    ],
    "note": "",
    "extent": "Hosanagar taluk (excluding Nagar Hobli) in Sagar sub-division; and Shimoga taluk (excluding Shimoga City and Nidige hobli) in Shimoga sub-division.",
@@ -5041,21 +4174,17 @@
    "winner_07": "Halappa H",
    "electors_07": 177902,
    "shares": {
-    "114": {
-     "pct": 23.1,
-     "basis": "measured"
-    },
     "111": {
      "pct": 41.7,
      "basis": "approx"
     },
+    "114": {
+     "pct": 23.1,
+     "basis": "measured"
+    },
     "117": {
      "pct": 33.0,
      "basis": "measured"
-    },
-    "113": {
-     "pct": 2.0,
-     "basis": "approx"
     }
    }
   },
@@ -5066,10 +4195,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    117,
-    118,
     116,
-    114
+    117
    ],
    "note": "",
    "extent": "Sagar taluk in Sagar sub-division.",
@@ -5077,16 +4204,12 @@
    "winner_07": "Gopalakrishna Belur Bk",
    "electors_07": 146264,
    "shares": {
-    "117": {
-     "pct": 83.9,
-     "basis": "measured"
-    },
-    "118": {
-     "pct": 4.4,
-     "basis": "measured"
-    },
     "116": {
      "pct": 8.4,
+     "basis": "measured"
+    },
+    "117": {
+     "pct": 83.9,
      "basis": "measured"
     }
    }
@@ -5098,10 +4221,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    116,
-    117,
-    115,
-    80
+    116
    ],
    "note": "",
    "extent": "'Sorab taluk in Sagar sub-division.",
@@ -5111,18 +4231,6 @@
    "shares": {
     "116": {
      "pct": 87.4,
-     "basis": "measured"
-    },
-    "117": {
-     "pct": 4.4,
-     "basis": "measured"
-    },
-    "115": {
-     "pct": 1.2,
-     "basis": "measured"
-    },
-    "80": {
-     "pct": 4.7,
      "basis": "measured"
     }
    }
@@ -5134,11 +4242,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    115,
-    111,
-    110,
-    116,
-    117
+    115
    ],
    "note": "",
    "extent": "Shikaripur taluk in Sagar sub-division.",
@@ -5148,22 +4252,6 @@
    "shares": {
     "115": {
      "pct": 87.9,
-     "basis": "measured"
-    },
-    "111": {
-     "pct": 2.0,
-     "basis": "approx"
-    },
-    "110": {
-     "pct": 1.3,
-     "basis": "measured"
-    },
-    "116": {
-     "pct": 5.1,
-     "basis": "measured"
-    },
-    "117": {
-     "pct": 3.5,
      "basis": "measured"
     }
    }
@@ -5176,10 +4264,7 @@
    "status": "continuing",
    "dest": [
     80,
-    116,
-    81,
-    117,
-    79
+    81
    ],
    "note": "",
    "extent": "Siddapur taluk and Sirsi and Banavasi circles in Sirsi taluk in Sirsi sub-division.",
@@ -5191,20 +4276,8 @@
      "pct": 70.6,
      "basis": "measured"
     },
-    "116": {
-     "pct": 3.9,
-     "basis": "measured"
-    },
     "81": {
      "pct": 18.1,
-     "basis": "measured"
-    },
-    "117": {
-     "pct": 2.4,
-     "basis": "measured"
-    },
-    "79": {
-     "pct": 3.1,
      "basis": "measured"
     }
    }
@@ -5216,9 +4289,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    79,
-    117,
-    118
+    79
    ],
    "note": "",
    "extent": "Bhatkal taluk and Manki and Mavinkurve circles in Honavar taluk in Kumta sub-division.",
@@ -5228,14 +4299,6 @@
    "shares": {
     "79": {
      "pct": 82.0,
-     "basis": "measured"
-    },
-    "117": {
-     "pct": 2.4,
-     "basis": "measured"
-    },
-    "118": {
-     "pct": 1.6,
      "basis": "measured"
     }
    }
@@ -5247,9 +4310,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    78,
-    79,
-    80
+    78
    ],
    "note": "",
    "extent": "Kumta taluk and Honavar circle in Honavar taluk in Kumta sub-division.",
@@ -5259,10 +4320,6 @@
    "shares": {
     "78": {
      "pct": 80.2,
-     "basis": "measured"
-    },
-    "79": {
-     "pct": 4.2,
      "basis": "measured"
     }
    }
@@ -5274,10 +4331,9 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    80,
     77,
-    81,
-    78
+    80,
+    81
    ],
    "note": "",
    "extent": "Ankola taluk in Kumta sub-division; Sampkhand and Hulekal circles in Sirsi taluk, and Yellapur circle in Yellapur taluk in Sirsi sub-divsion.",
@@ -5285,20 +4341,16 @@
    "winner_07": "Vishveshwar Hegde Kageri",
    "electors_07": 132845,
    "shares": {
-    "80": {
-     "pct": 31.4,
-     "basis": "measured"
-    },
     "77": {
      "pct": 36.5,
      "basis": "measured"
     },
-    "81": {
-     "pct": 23.1,
+    "80": {
+     "pct": 31.4,
      "basis": "measured"
     },
-    "78": {
-     "pct": 5.1,
+    "81": {
+     "pct": 23.1,
      "basis": "measured"
     }
    }
@@ -5311,8 +4363,7 @@
    "status": "continuing",
    "dest": [
     76,
-    77,
-    81
+    77
    ],
    "note": "",
    "extent": "Karwar and Supa taluks in Karwar sub-division.",
@@ -5337,11 +4388,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    81,
     76,
-    80,
-    82,
-    75
+    81
    ],
    "note": "",
    "extent": "Haliyal taluk in Karwar sub-division] and Maflchi- kere circle in Yellapur taluk and Mundgod taluk in Sirsi sub-division.",
@@ -5349,16 +4397,12 @@
    "winner_07": "Deshpande Rv",
    "electors_07": 179920,
    "shares": {
-    "81": {
-     "pct": 58.2,
-     "basis": "measured"
-    },
     "76": {
      "pct": 38.2,
      "basis": "measured"
     },
-    "80": {
-     "pct": 2.8,
+    "81": {
+     "pct": 58.2,
      "basis": "measured"
     }
    }
@@ -5370,12 +4414,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    75,
-    71,
-    76,
-    74,
-    69,
-    73
+    75
    ],
    "note": "",
    "extent": "Dharwar taluk (excluding Wards 1 to 5 ot Hubli-Dharwar Corporation) in Dharwar sub-division.",
@@ -5385,14 +4424,6 @@
    "shares": {
     "75": {
      "pct": 28.0,
-     "basis": "approx"
-    },
-    "71": {
-     "pct": 55.4,
-     "basis": "approx"
-    },
-    "76": {
-     "pct": 5.8,
      "basis": "approx"
     }
    }
@@ -5418,12 +4449,16 @@
    "winner_07": "Morey S R",
    "electors_07": 189559,
    "shares": {
-    "75": {
-     "pct": 59.1,
+    "71": {
+     "pct": 12.8,
      "basis": "approx"
     },
     "74": {
      "pct": 26.5,
+     "basis": "approx"
+    },
+    "75": {
+     "pct": 59.1,
      "basis": "approx"
     },
     "76": {
@@ -5480,9 +4515,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    70,
-    75,
-    83
+    70
    ],
    "note": "",
    "extent": "",
@@ -5492,10 +4525,6 @@
    "shares": {
     "70": {
      "pct": 43.4,
-     "basis": "measured"
-    },
-    "75": {
-     "pct": 29.6,
      "basis": "measured"
     }
    }
@@ -5507,9 +4536,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    75,
-    81,
-    83
+    69,
+    70,
+    75
    ],
    "note": "",
    "extent": "Kalghatgi taluk, Chebbi circle and 14—Shira- guppi, 18—Nagarahalli, 19 —Mantur, 20 —Bhandiwad and 21 —Hallihal villages in Shiraguppi circle in Hubli taluk, in Dharwar sub-division. r 79. Kundgol.—Kundgol taluk and Shiggaon circle [excluding Shig- gaon town, 21 •—Kanakanwad and 22 —-Jakkanakatti vil",
@@ -5519,10 +4548,6 @@
    "shares": {
     "75": {
      "pct": 82.5,
-     "basis": "measured"
-    },
-    "81": {
-     "pct": 9.6,
      "basis": "measured"
     }
    }
@@ -5534,9 +4559,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    83,
     70,
-    84
+    83
    ],
    "note": "",
    "extent": "Kundgol taluk and Shiggaon circle [excluding Shig- gaon town, 21 •—Kanakanwad and 22 —-Jakkanakatti villages] in Shiggaon taluk, in Savanur sub-division.",
@@ -5544,12 +4568,12 @@
    "winner_07": "Akki Mallikarjunappa Shahadevappa",
    "electors_07": 138679,
    "shares": {
-    "83": {
-     "pct": 26.7,
-     "basis": "measured"
-    },
     "70": {
      "pct": 71.6,
+     "basis": "measured"
+    },
+    "83": {
+     "pct": 26.7,
      "basis": "measured"
     }
    }
@@ -5562,9 +4586,7 @@
    "status": "continuing",
    "dest": [
     83,
-    84,
-    82,
-    85
+    84
    ],
    "note": "",
    "extent": "Shiggaon town, 21—Kanakanwad and 22—Jak- kanakatti villages in Shiggaon circle, Bankapur and Dhundashi circles in Shiggaon taluk and Savanur circle and Hattimattur circle (excluding 35—Huvinsigli, 36—Hennikop, 38—Ba- savankop, 39—Naikerur, 41—Hesarur and 42—Shiddapur villages) in Savanur taluk, in Savanur sub-division.",
@@ -5579,14 +4601,6 @@
     "84": {
      "pct": 23.2,
      "basis": "measured"
-    },
-    "82": {
-     "pct": 7.0,
-     "basis": "measured"
-    },
-    "85": {
-     "pct": 1.7,
-     "basis": "measured"
     }
    }
   },
@@ -5597,10 +4611,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    82,
-    116,
-    85,
-    86
+    82
    ],
    "note": "",
    "extent": "Hanagal taluk in Savanur sub-division.",
@@ -5610,14 +4621,6 @@
    "shares": {
     "82": {
      "pct": 86.6,
-     "basis": "measured"
-    },
-    "116": {
-     "pct": 5.9,
-     "basis": "measured"
-    },
-    "85": {
-     "pct": 1.2,
      "basis": "measured"
     }
    }
@@ -5629,9 +4632,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    86,
-    115,
-    110
+    86
    ],
    "note": "",
    "extent": "Hirekerur taluk in Haveri sub-division.",
@@ -5641,14 +4642,6 @@
    "shares": {
     "86": {
      "pct": 85.4,
-     "basis": "measured"
-    },
-    "115": {
-     "pct": 10.2,
-     "basis": "measured"
-    },
-    "110": {
-     "pct": 1.0,
      "basis": "measured"
     }
    }
@@ -5660,10 +4653,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    87,
-    105,
-    86,
-    85
+    85,
+    87
    ],
    "note": "",
    "extent": "Medleri circle (excluding 40 — Hadarageri, 41 — Chikkuravatti, 42—Chandapur and 43—Chouda- danapur villages) Kuppelur circle, Ranibennur town and 16—Hullatti, 17 — Hunashikatti 18 — Kamadod and 19—Magod villages in Ranibennur circle in Ranibennur taluk in Haveri sub-division.",
@@ -5671,20 +4662,12 @@
    "winner_07": "Shivanna G",
    "electors_07": 163087,
    "shares": {
-    "87": {
-     "pct": 77.8,
-     "basis": "measured"
-    },
-    "105": {
-     "pct": 2.1,
-     "basis": "measured"
-    },
-    "86": {
-     "pct": 5.0,
-     "basis": "measured"
-    },
     "85": {
      "pct": 15.2,
+     "basis": "measured"
+    },
+    "87": {
+     "pct": 77.8,
      "basis": "measured"
     }
    }
@@ -5697,9 +4680,7 @@
    "status": "continuing",
    "dest": [
     85,
-    86,
-    87,
-    116
+    87
    ],
    "note": "",
    "extent": "Byadgi taluk, Ranibennur circle [excluding Rani bennur town and 16—Hullatti, 17—Hunashikatti, 18— Kamadod and 19—Magod villages] and 40—Hadarageri, 41—Chikkuravatti, 42—Chandapur and 43 — Chouda- danapur villages in Medleri circle in Ranibennur taluk, in Haveri sub-division.",
@@ -5709,10 +4690,6 @@
    "shares": {
     "85": {
      "pct": 78.8,
-     "basis": "measured"
-    },
-    "86": {
-     "pct": 12.4,
      "basis": "measured"
     },
     "87": {
@@ -5728,11 +4705,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    85,
     84,
-    87,
-    88,
-    82
+    85
    ],
    "note": "",
    "extent": "Haveri taluk in Haveri sub-division.",
@@ -5740,24 +4714,12 @@
    "winner_07": "Shivaraj Sajjanar",
    "electors_07": 163437,
    "shares": {
-    "85": {
-     "pct": 26.7,
-     "basis": "measured"
-    },
     "84": {
      "pct": 66.8,
      "basis": "measured"
     },
-    "87": {
-     "pct": 1.0,
-     "basis": "measured"
-    },
-    "88": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "82": {
-     "pct": 4.7,
+    "85": {
+     "pct": 26.7,
      "basis": "measured"
     }
    }
@@ -5769,9 +4731,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    65,
-    84,
-    88
+    65
    ],
    "note": "",
    "extent": "•Shirhatti taluk and 35—Huvinsigli, 36—Hon- nikop, 38—Basavankop, 39—Naikerur, 41—Hesarur and 42—Shiddapur villages in Hattimattur circle in Savanur taluk in Savanur sub-division.",
@@ -5781,14 +4741,6 @@
    "shares": {
     "65": {
      "pct": 81.2,
-     "basis": "measured"
-    },
-    "84": {
-     "pct": 10.5,
-     "basis": "measured"
-    },
-    "88": {
-     "pct": 0.9,
      "basis": "measured"
     }
    }
@@ -5800,10 +4752,9 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    65,
+    66,
     67,
-    88,
-    66
+    68
    ],
    "note": "",
    "extent": "Mundargi t luk and 51—Timmapur, 52—Harla- pur, 53—Lakkundi, 54 —Papanasi, 55—Advisomapur, 56—Sambhapur and 57—Hatalageri villages in Betageri circle and Gadag circle [excluding i—Gadag Rural, 2— Asundi, 3—Malasamudra 6—Harti, 19—Kallur, 20— Chincholi, 22—Neelagund, 23—Bentur, 24—Antur, 25— Kurtakoti, 26—Hulkoti, 27—Hirehandigol and 28—Binka- dakatti villages] in Gadag taluk, in Gadag sub-division.",
@@ -5811,20 +4762,16 @@
    "winner_07": "Patil Shidlinganagouda Shiddanagouda",
    "electors_07": 135362,
    "shares": {
-    "65": {
-     "pct": 32.3,
+    "66": {
+     "pct": 14.7,
      "basis": "measured"
     },
     "67": {
      "pct": 46.3,
      "basis": "measured"
     },
-    "88": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "66": {
-     "pct": 14.7,
+    "68": {
+     "pct": 5.9,
      "basis": "measured"
     }
    }
@@ -5908,9 +4855,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    68,
-    69,
-    67
+    68
    ],
    "note": "",
    "extent": "Naragund taluk. Hole-Alur circle and 5—Arahu, nashi village in Ron circle in Ron taluk and 41—Lingadhal 42—Balaganur, 43 —Kadadi and 44— Gawarwad villages in Betageri circle in Gadag taluk, in Gadag sub-division.",
@@ -5920,14 +4865,6 @@
    "shares": {
     "68": {
      "pct": 79.0,
-     "basis": "measured"
-    },
-    "69": {
-     "pct": 7.5,
-     "basis": "measured"
-    },
-    "67": {
-     "pct": 5.4,
      "basis": "measured"
     }
    }
@@ -5939,12 +4876,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    69,
-    71,
-    70,
-    68,
-    66,
-    65
+    69
    ],
    "note": "",
    "extent": "Navalgund taluk and 15—Umachigi, 16—Koli- wad and 17—-Maliigawad villages in Shiraguppi circle in Hubli taluk in Dharwar sub-division.",
@@ -5954,18 +4886,6 @@
    "shares": {
     "69": {
      "pct": 88.2,
-     "basis": "measured"
-    },
-    "71": {
-     "pct": 6.0,
-     "basis": "approx"
-    },
-    "70": {
-     "pct": 2.4,
-     "basis": "measured"
-    },
-    "68": {
-     "pct": 0.7,
      "basis": "measured"
     }
    }
@@ -5977,9 +4897,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    18,
-    17,
-    68
+    18
    ],
    "note": "",
    "extent": "Ramdurg taluk in Baihongal sub-division.",
@@ -5989,14 +4907,6 @@
    "shares": {
     "18": {
      "pct": 84.3,
-     "basis": "measured"
-    },
-    "17": {
-     "pct": 12.9,
-     "basis": "measured"
-    },
-    "68": {
-     "pct": 2.1,
      "basis": "measured"
     }
    }
@@ -6008,10 +4918,8 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    17,
     16,
-    69,
-    71
+    17
    ],
    "note": "",
    "extent": "Parasgad taluk (excluding Murabod circle) in Bailhongal sub-division.",
@@ -6019,21 +4927,13 @@
    "winner_07": "Mamani Vishwanath Karabasappa",
    "electors_07": 161400,
    "shares": {
-    "17": {
-     "pct": 66.5,
-     "basis": "measured"
-    },
     "16": {
      "pct": 24.5,
      "basis": "measured"
     },
-    "69": {
-     "pct": 2.4,
+    "17": {
+     "pct": 66.5,
      "basis": "measured"
-    },
-    "71": {
-     "pct": 2.4,
-     "basis": "approx"
     }
    }
   },
@@ -6044,9 +4944,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    16,
     15,
-    71
+    16
    ],
    "note": "",
    "extent": "Muragod circle in Parasgad taluk and Bailhonga circle and no—Vannur, 113—Myakalmardi, 114—Ujji- natti, 115—Kalakuppi, 116—Mallapur K. N., 117—Ne- sargi, 118—Somanatti, 119—Madanabhavi and 120— Murkibhavi villages in Sarnpagaon circle in Sampagaon taluk, in Bailhongal sub-division.",
@@ -6054,17 +4953,13 @@
    "winner_07": "Jagadish Virupakshi C Matgud",
    "electors_07": 142416,
    "shares": {
-    "16": {
-     "pct": 63.7,
-     "basis": "measured"
-    },
     "15": {
      "pct": 34.6,
      "basis": "measured"
     },
-    "71": {
-     "pct": 1.0,
-     "basis": "approx"
+    "16": {
+     "pct": 63.7,
+     "basis": "measured"
     }
    }
   },
@@ -6075,11 +4970,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    15,
     14,
-    75,
-    71,
-    13
+    15
    ],
    "note": "",
    "extent": "Sampagaon taluk [excluding Bailhongal circle and no—Vannur, 113—Myakaknardi, 114—Ujjinatti, 115—Kalakuppi. 116—Mallapur K. N., 117—Nesargi, 118—SomanattL 119—Madanabhavi and 120—Murki- bhavi villages in Sampagaon circle] in Bailhongal sub- division ; and 26—Karavinkop, 27—Chickmunoli, 28— Itagi, 29—Bogur and 34—'Gandigwad villages in Khana- pur circle in Khanapur taluk in Belgaum sub-division.",
@@ -6087,21 +4979,13 @@
    "winner_07": "Marihal Suresh Shivarudrappa",
    "electors_07": 146848,
    "shares": {
-    "15": {
-     "pct": 65.2,
-     "basis": "measured"
-    },
     "14": {
      "pct": 18.1,
      "basis": "measured"
     },
-    "75": {
-     "pct": 1.5,
+    "15": {
+     "pct": 65.2,
      "basis": "measured"
-    },
-    "13": {
-     "pct": 14.2,
-     "basis": "approx"
     }
    }
   },
@@ -6112,8 +4996,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    14,
-    76
+    14
    ],
    "note": "",
    "extent": "Khanapur taluk [excluding 26—Karavinkop 27—Chickmunoli, 28 —Itagi, 29—Bogur and 34—Gan- digwad villages in Khanapur circle] in Belgaum sub-division.",
@@ -6123,10 +5006,6 @@
    "shares": {
     "14": {
      "pct": 91.1,
-     "basis": "measured"
-    },
-    "76": {
-     "pct": 8.7,
      "basis": "measured"
     }
    }
@@ -6164,9 +5043,9 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    13,
-    14,
-    12
+    10,
+    12,
+    13
    ],
    "note": "",
    "extent": "Belgaum taluk (excluding Wards Nos. 3 to 10 of Belgaum City municipality and Bagewadi and Kakati circles), «n Belgaum sub-division.",
@@ -6176,10 +5055,6 @@
    "shares": {
     "13": {
      "pct": 51.3,
-     "basis": "approx"
-    },
-    "14": {
-     "pct": 1.9,
      "basis": "approx"
     }
    }
@@ -6191,12 +5066,8 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    13,
-    14,
-    11,
     10,
-    15,
-    12
+    13
    ],
    "note": "",
    "extent": "Bagewadi and Kakti circles in Belgaum taluk m Belgaum sub-division .",
@@ -6204,24 +5075,12 @@
    "winner_07": "Abhay Patil",
    "electors_07": 166380,
    "shares": {
-    "13": {
-     "pct": 38.5,
-     "basis": "approx"
-    },
-    "14": {
-     "pct": 2.1,
-     "basis": "measured"
-    },
-    "11": {
-     "pct": 9.1,
-     "basis": "approx"
-    },
     "10": {
      "pct": 39.4,
      "basis": "measured"
     },
-    "12": {
-     "pct": 3.3,
+    "13": {
+     "pct": 38.5,
      "basis": "approx"
     }
    }
@@ -6271,9 +5130,7 @@
    "status": "continuing",
    "dest": [
     8,
-    9,
-    18,
-    17
+    9
    ],
    "note": "",
    "extent": "Gokak taluk [excluding Gokak circle, Gokak Falls (NAC), Konnur Town (T.P.) and 65—Dhupadal, 66—Nan- dagaon, 67 -Mutanal and 68 —Khanapur villages in Arabhavi circle] in Bailhongal sub-division. *;",
@@ -6287,14 +5144,6 @@
     },
     "9": {
      "pct": 17.2,
-     "basis": "measured"
-    },
-    "18": {
-     "pct": 1.0,
-     "basis": "measured"
-    },
-    "17": {
-     "pct": 1.3,
      "basis": "measured"
     }
    }
@@ -6337,7 +5186,10 @@
    "district": "Belgaum",
    "type": "GEN",
    "status": "abolished",
-   "dest": [],
+   "dest": [
+    7,
+    10
+   ],
    "note": "",
    "extent": "Sankeshwar circle and Yatnakanamardi circle [excluding 46 —Majati, 47 —Majali, 48 —Mallaholi, 49 —Wantamuri, 50 —Karaguppi, 51—Bannibagi, 52—Rus- tumpur 53 —Pachapur, 54 —Mavanur, 55 —Gumachinamardi, 56—Bagarnal, 57—Yallapur, 58—Basapur, 59—Hagedal, 60—Shirpur, 61—Gutaguddi, 62—Shahabandar, 63—Islampur and 64 —Berranaholi villages] in Hukkeri taluk, in Belgaum sub-division.",
    "party07": "INC",
@@ -6351,9 +5203,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    7,
-    1,
-    2
+    1
    ],
    "note": "",
    "extent": "Nippani circle and 11—Walki, 12 —Pattankudi, 13—Rampur, 14 —Chikkalwal, 15 —Pangeri (A), 16—Khadak- lat, 17—Peerwadi and 18 —Naralihal villages in Chikkodi circle in Chikkodi taluk in Chikkodi sub-division.",
@@ -6361,16 +5211,8 @@
    "winner_07": "Kakasaheb Panduranga Patil",
    "electors_07": 134620,
    "shares": {
-    "7": {
-     "pct": 2.4,
-     "basis": "measured"
-    },
     "1": {
      "pct": 41.9,
-     "basis": "measured"
-    },
-    "2": {
-     "pct": 11.9,
      "basis": "measured"
     }
    }
@@ -6382,9 +5224,8 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    2,
-    6,
-    1
+    1,
+    2
    ],
    "note": "",
    "extent": "Sadalga circle and 2—Chandur, 3— Ingali, 4—Yadur and 5—Manjari villages in Chikkodi circle in Chikkodi taluk in Chikkodi sub-division.",
@@ -6392,16 +5233,12 @@
    "winner_07": "Prakash Babanna Hukkeri",
    "electors_07": 133934,
    "shares": {
-    "2": {
-     "pct": 40.6,
-     "basis": "measured"
-    },
-    "6": {
-     "pct": 1.0,
-     "basis": "measured"
-    },
     "1": {
      "pct": 44.2,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 40.6,
      "basis": "measured"
     }
    }
@@ -6413,11 +5250,9 @@
    "type": "SC",
    "status": "abolished",
    "dest": [
-    7,
-    6,
-    8,
-    9,
-    2
+    1,
+    2,
+    5
    ],
    "note": "",
    "extent": "Chikkodi circle [excluding 2— Chandur > 3—Ingali, 4—Yadur, 5—Manjari, 11—Walki, 12—Pattan- kudi, 13—Rampur, 14—Chikkalwal, 15—Pangeri (A), 16—Khadaklat, 17—Peerwadi and 18—Naralihal villages] and Nagarmunoli circle [excluding 27—Kabbur, 28 —Mamadapur K.K., 29—Jaganur, 30—Vijayanagar, 31—Belagali, 32—Hanchinal K.K., 33 —Karagaon and 34—Donawad villa- ges] in Chikkodi taluk, and Raibag circle [excluding Raibag town, 4—Saundatti, 5 —Divgewadi, 6—Jalapur, 7—Bhiradi, 8—Chinchali, 9 —Nagral, 10—Bornanal, 11—Birnal and 12—Byakud villages] in Raibag taluk, in Chikkodi sub-division.",
@@ -6425,18 +5260,6 @@
    "winner_07": "Hakkyagol Dattu Yellappa",
    "electors_07": 145879,
    "shares": {
-    "7": {
-     "pct": 7.3,
-     "basis": "measured"
-    },
-    "6": {
-     "pct": 53.4,
-     "basis": "measured"
-    },
-    "8": {
-     "pct": 1.5,
-     "basis": "measured"
-    },
     "2": {
      "pct": 37.6,
      "basis": "measured"
@@ -6450,9 +5273,7 @@
    "type": "SC",
    "status": "renamed",
    "dest": [
-    5,
-    6,
-    8
+    5
    ],
    "note": "",
    "extent": "Raibag town (T.P.), 4—Saundatti, 5 —Divgewadi 6—Jalaput, 7—Bhiradi, 8 —Chinchali, 9 —Nagral 10 —Bomanal, 11—Birnal and 12—Byakud villages in Raibag circle and Kudachi circle in Raibag taluk in Chikkodi sub-division.",
@@ -6462,14 +5283,6 @@
    "shares": {
     "5": {
      "pct": 50.4,
-     "basis": "measured"
-    },
-    "6": {
-     "pct": 41.2,
-     "basis": "measured"
-    },
-    "8": {
-     "pct": 1.7,
      "basis": "measured"
     }
    }
@@ -6481,12 +5294,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    5,
-    20,
-    6,
-    4,
-    2,
-    3
+    3,
+    4
    ],
    "note": "",
    "extent": "Kagwad circle and Athani circle [excluding Athani Town and 1 —Athani (Rural), 4—Muragundi and 5—Masaraguppi villages] in Athani taluk in Chikkodi sub- division. 1 E.C.—15",
@@ -6494,24 +5303,12 @@
    "winner_07": "Bharamagouda (Raju) Alagouda Kage",
    "electors_07": 149181,
    "shares": {
-    "5": {
-     "pct": 8.5,
-     "basis": "measured"
-    },
-    "20": {
-     "pct": 2.7,
+    "3": {
+     "pct": 29.5,
      "basis": "measured"
     },
     "4": {
      "pct": 46.3,
-     "basis": "measured"
-    },
-    "2": {
-     "pct": 2.2,
-     "basis": "measured"
-    },
-    "3": {
-     "pct": 29.5,
      "basis": "measured"
     }
    }
@@ -6524,8 +5321,7 @@
    "status": "continuing",
    "dest": [
     3,
-    4,
-    21
+    4
    ],
    "note": "",
    "extent": "Athani Town, 1—Athani (Rural), 4—Muragunci, and 5—Masaraguppi villages in Athani circle and Ananthapur and Telsang circles in Athani taluk in Chikkodi sub- division. BIJAPUR D I S T R I C T",
@@ -6586,11 +5382,9 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    22,
+    20,
     21,
-    19,
-    24,
-    29
+    22
    ],
    "note": "",
    "extent": "Bilgi taluk and Jamkhandi circle [excluding Jamkharidi town and 2 — Hunnur, 3 - Kadapalti, 4—Hanchinal, 5—Shira guppi, 6—Maigur, 7—Muttur, 8—Albal, 9—Kankanwadi and io~Kadakol villages] and Savalgi circle [excluding 26 Tungal, 42—Takkod,' 43—Jambagi B.K., 44—Jambagi K.H., 45—Shuranali and 4 6 - Tubachi villages] in Jamkhandi taluk, in Jamkhandi sub-division.",
@@ -6598,20 +5392,16 @@
    "winner_07": "Nirani Murugesh Rudrappa",
    "electors_07": 195976,
    "shares": {
-    "22": {
-     "pct": 48.3,
+    "20": {
+     "pct": 1.9,
      "basis": "measured"
     },
     "21": {
      "pct": 38.9,
      "basis": "measured"
     },
-    "19": {
-     "pct": 8.1,
-     "basis": "measured"
-    },
-    "29": {
-     "pct": 1.4,
+    "22": {
+     "pct": 48.3,
      "basis": "measured"
     }
    }
@@ -6624,9 +5414,7 @@
    "status": "continuing",
    "dest": [
     19,
-    18,
-    8,
-    22
+    20
    ],
    "note": "",
    "extent": "Mudhol taluk in Jamkhandi sub-division.",
@@ -6638,16 +5426,8 @@
      "pct": 74.5,
      "basis": "measured"
     },
-    "18": {
-     "pct": 5.9,
-     "basis": "measured"
-    },
-    "8": {
-     "pct": 10.0,
-     "basis": "measured"
-    },
-    "22": {
-     "pct": 0.6,
+    "20": {
+     "pct": 8.2,
      "basis": "measured"
     }
    }
@@ -6659,10 +5439,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    24,
     22,
-    23,
-    25
+    24
    ],
    "note": "",
    "extent": "Bagalkot taluk [excluding 7—Hallur, 8—Bevoor, 9—Bhairamatti, 10—Chavadapur, 11—Ingalagi, 12— Bena- katti and 13—Sirur villages in Bagalkot circle] in Bagalkot sub-division.",
@@ -6670,20 +5448,12 @@
    "winner_07": "Charantimat Veeranna Chandrashekaraya",
    "electors_07": 161837,
    "shares": {
-    "24": {
-     "pct": 59.2,
-     "basis": "measured"
-    },
     "22": {
      "pct": 33.8,
      "basis": "measured"
     },
-    "23": {
-     "pct": 2.5,
-     "basis": "measured"
-    },
-    "25": {
-     "pct": 0.8,
+    "24": {
+     "pct": 59.2,
      "basis": "measured"
     }
    }
@@ -6695,11 +5465,7 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    23,
-    68,
-    22,
-    67,
-    18
+    22
    ],
    "note": "",
    "extent": "Badami taluk [excluding Guledgud circle and 13—Rangasamudra village in Badami circle] in Bagalkot sub-division.",
@@ -6707,24 +5473,8 @@
    "winner_07": "Mahagundappa Kallappa Pattanshetti",
    "electors_07": 149357,
    "shares": {
-    "23": {
-     "pct": 59.7,
-     "basis": "measured"
-    },
-    "68": {
-     "pct": 3.3,
-     "basis": "measured"
-    },
     "22": {
      "pct": 26.5,
-     "basis": "measured"
-    },
-    "67": {
-     "pct": 1.2,
-     "basis": "measured"
-    },
-    "18": {
-     "pct": 8.3,
      "basis": "measured"
     }
    }
@@ -6736,11 +5486,8 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    23,
-    60,
-    25,
     24,
-    22
+    25
    ],
    "note": "",
    "extent": "Guledgud circle and 13—Rangasamudra village in Badami circle in Badami taluk, Amingad circle in Hungund taluk and 7—Hallur, 8—Bevoor, 9—Bhairmatti, 10—Chavadapur, 11—Ingalagi, 12—Benakatti and 13—Sirur villages in Bagalkot circle in Bagalkot taluk, in Bagalkot sub- division.",
@@ -6748,24 +5495,12 @@
    "winner_07": "Moti Hullappa Yamanappa",
    "electors_07": 138946,
    "shares": {
-    "23": {
-     "pct": 43.6,
-     "basis": "measured"
-    },
-    "60": {
-     "pct": 2.9,
-     "basis": "measured"
-    },
-    "25": {
-     "pct": 16.0,
-     "basis": "measured"
-    },
     "24": {
      "pct": 30.9,
      "basis": "measured"
     },
-    "22": {
-     "pct": 6.6,
+    "25": {
+     "pct": 16.0,
      "basis": "measured"
     }
    }
@@ -6777,9 +5512,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    25,
-    60,
-    24
+    24,
+    25
    ],
    "note": "",
    "extent": "Hungund taluk (excluding Amingad circle) in Bagalkot sub-division.",
@@ -6787,16 +5521,12 @@
    "winner_07": "Doddanagouda Gundana Gowda Patil",
    "electors_07": 143177,
    "shares": {
-    "25": {
-     "pct": 91.3,
-     "basis": "measured"
-    },
-    "60": {
-     "pct": 5.2,
-     "basis": "measured"
-    },
     "24": {
      "pct": 2.5,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 91.3,
      "basis": "measured"
     }
    }
@@ -6809,9 +5539,6 @@
    "status": "continuing",
    "dest": [
     26,
-    25,
-    36,
-    57,
     27
    ],
    "note": "",
@@ -6822,18 +5549,6 @@
    "shares": {
     "26": {
      "pct": 75.2,
-     "basis": "measured"
-    },
-    "25": {
-     "pct": 5.5,
-     "basis": "measured"
-    },
-    "36": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
-    "57": {
-     "pct": 0.6,
      "basis": "measured"
     },
     "27": {
@@ -6885,10 +5600,7 @@
    "type": "GEN",
    "status": "renamed",
    "dest": [
-    28,
-    22,
-    29,
-    27
+    29
    ],
    "note": "",
    "extent": "Bisavana-B^gewadi taluk (excluding Huvin Hippargi circle and 5 —Ivanagi, 6—Hanchinal, 7—Narasalgi, 8—Uppaldinni, 9—Mannur, 18—Nagur, 24—Hebbal, 25—Kirshyal, 26—Abbihal and 27—Unnibhavi villages in Basavana-Bjgewadi circie \"and 73 —Golasangi, 74_Hargargi, 75—Mukartihal, 76 -Biraldinni, 77—Angad- geri, 78 -Hunshyal P.C., 79 -Gudadinni, 80—Wandal, 81—Benal, 82-Gonal, 83-Jeerlbhavi, 84-Maddapur, 85—Katapur, 86—Nidgundi, 87—Devalapur, 88—Araldinni, 89-Marimatti, 90 —Almatti, 91—Chimmalgi, 92—Majare- koppa, Q-X —Maradgi. 94 - G a n i , 95 -Bisalkopp, 96 -Sidanath, 10s—Budni, 109—Sikalwadi, no—Akalawadi and H I — A r a - sangi villages in Kolhar circle) and Mamadapur circle and 43-g4vanahalH,44-Honaganhalli, 45 -TonashyaUe-Kar 47—Kakhandaki, 48—Dudihal, 49—Halagani^o—Shegunashi, 51—Madagunaki and 52—Kfrnbagi villages in Bableshwar circle in Bijapur taluk, in Bijapur sub-division.",
@@ -6896,20 +5608,8 @@
    "winner_07": "Shivanand Patil",
    "electors_07": 163223,
    "shares": {
-    "28": {
-     "pct": 62.6,
-     "basis": "measured"
-    },
-    "22": {
-     "pct": 5.9,
-     "basis": "measured"
-    },
     "29": {
      "pct": 27.6,
-     "basis": "measured"
-    },
-    "27": {
-     "pct": 1.5,
      "basis": "measured"
     }
    }
@@ -6922,10 +5622,7 @@
    "status": "abolished",
    "dest": [
     29,
-    31,
-    21,
-    30,
-    3
+    31
    ],
    "note": "",
    "extent": "Tikota and Nagathan circles and Bableshwar circle (excluding 43—Savanahalli, 44—Honaganhalli,45—Tonashyal, 46—Karajol, 47—Kakhandaki, 48—Dudihal, 49—Halagani, 50—Shegunashi, 51—Madagunaki and 52*—Kambagi villages) in Bijapur taluk in Bijapur sub-division.",
@@ -6940,18 +5637,6 @@
     "31": {
      "pct": 19.8,
      "basis": "approx"
-    },
-    "21": {
-     "pct": 5.5,
-     "basis": "measured"
-    },
-    "30": {
-     "pct": 0.7,
-     "basis": "approx"
-    },
-    "3": {
-     "pct": 5.3,
-     "basis": "measured"
     }
    }
   },
@@ -6962,10 +5647,7 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    28,
-    31,
-    29,
-    30
+    31
    ],
    "note": "",
    "extent": "Bijapur town rr.d CO. Bijapur circle in Bijapur taluk in Bijapur sub-division.",
@@ -6973,20 +5655,8 @@
    "winner_07": "Appasaheb Mallappa Pattanashetty",
    "electors_07": 212723,
    "shares": {
-    "28": {
-     "pct": 3.2,
-     "basis": "measured"
-    },
     "31": {
      "pct": 58.7,
-     "basis": "approx"
-    },
-    "29": {
-     "pct": 14.8,
-     "basis": "measured"
-    },
-    "30": {
-     "pct": 23.3,
      "basis": "approx"
     }
    }
@@ -7024,10 +5694,8 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    33,
     32,
-    27,
-    31
+    33
    ],
    "note": "",
    "extent": "Indi circle in Indi taluk and Almel circle in Sinc'gi taluk in Indi sub-division.",
@@ -7035,16 +5703,12 @@
    "winner_07": "Patil Ravikant Shankareppa",
    "electors_07": 168873,
    "shares": {
-    "33": {
-     "pct": 48.2,
-     "basis": "measured"
-    },
     "32": {
      "pct": 49.3,
      "basis": "measured"
     },
-    "27": {
-     "pct": 0.7,
+    "33": {
+     "pct": 48.2,
      "basis": "measured"
     }
    }
@@ -7057,10 +5721,7 @@
    "status": "continuing",
    "dest": [
     27,
-    33,
-    35,
-    31,
-    28
+    33
    ],
    "note": "",
    "extent": "Sindgi taluk (excluding Almel circle) in Indi sub- division.",
@@ -7075,14 +5736,6 @@
     "33": {
      "pct": 42.7,
      "basis": "measured"
-    },
-    "35": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
-    "31": {
-     "pct": 4.4,
-     "basis": "approx"
     }
    }
   }
@@ -7095,8 +5748,9 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
+    204,
     205,
-    204
+    206
    ],
    "note": "",
    "extent": "1 Chikkodi Taluk (Part) 3 Nippani Circle 4 Sadalga Circle (Part) Shiradawad GP – Shiradawad, Galataga GP-Galataga and Bhimapurwadi, Bhoj GP - Bhoj and Bhojwadi, Bedkihal GP – Bedkihal, Hunnaragi GP – Hunnaragi, Mamadapur K.L GP - Mamadapur K.L, Sidnal GP – Sidnal, Kunnur GP - Kunnur, Gajabarwadi and Shivapurwadi, Mangur GP – Mangur, Barwad GP – Barwad. Karadaga GP – Karadaga and Donewadi, Boragaon GP - Boragaon and Borgaonwadi, Manakapur GP- Manakapur and Kasanal, Nippani CMC.",
@@ -7104,12 +5758,12 @@
    "winner_12": "Kakaso Pandurang Patil",
    "electors_12": 174283,
    "shares": {
-    "205": {
-     "pct": 51.7,
-     "basis": "measured"
-    },
     "204": {
      "pct": 35.4,
+     "basis": "measured"
+    },
+    "205": {
+     "pct": 51.7,
      "basis": "measured"
     }
    }
@@ -7122,9 +5776,7 @@
    "status": "new",
    "src": [
     205,
-    208,
-    206,
-    204
+    206
    ],
    "note": "",
    "extent": "1 Chikkodi Taluk (Part) 1 Chikkodi Circle 4 Sadalga Circle (Part) Janawad GP - Janawad, Shamanewadi GP – Shamanewadi, Nej GP – Nej, Nagaral GP – Nagaral, Nanadi GP - Nanadi Nanadiwadi, Malikwad GP – Malikwad, Examba GP- Examba, Yadyanawadi and Ullagaddiwadi, Kallol GP – Kallol, Sadalga (Rural) and Vadagol (Rural), Sadalga TP Chikkodi TMC",
@@ -7136,16 +5788,8 @@
      "pct": 38.4,
      "basis": "measured"
     },
-    "208": {
-     "pct": 3.3,
-     "basis": "measured"
-    },
     "206": {
      "pct": 40.5,
-     "basis": "measured"
-    },
-    "204": {
-     "pct": 8.2,
      "basis": "measured"
     }
    }
@@ -7157,9 +5801,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    209,
-    220,
-    208
+    208,
+    209
    ],
    "note": "",
    "extent": "2 Athani Taluk (Part) 1 Athani Circle and 4 Telsang Circle. Athani TMC",
@@ -7167,16 +5810,12 @@
    "winner_12": "Laxman Sangappa Savadi",
    "electors_12": 169256,
    "shares": {
-    "209": {
-     "pct": 61.5,
-     "basis": "measured"
-    },
-    "220": {
-     "pct": 8.3,
-     "basis": "measured"
-    },
     "208": {
      "pct": 20.8,
+     "basis": "measured"
+    },
+    "209": {
+     "pct": 61.5,
      "basis": "measured"
     }
    }
@@ -7188,8 +5827,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    209,
-    208
+    208,
+    209
    ],
    "note": "",
    "extent": "2 Athani Taluk (Part) 2 Kagawad Circle and 3 Anantapur Circle.",
@@ -7197,12 +5836,12 @@
    "winner_12": "Bharamagouda Alagouda Kage",
    "electors_12": 152975,
    "shares": {
-    "209": {
-     "pct": 46.4,
-     "basis": "measured"
-    },
     "208": {
      "pct": 40.3,
+     "basis": "measured"
+    },
+    "209": {
+     "pct": 46.4,
      "basis": "measured"
     }
    }
@@ -7214,9 +5853,8 @@
    "type": "SC",
    "status": "new",
    "src": [
-    207,
-    208,
-    210
+    206,
+    207
    ],
    "note": "",
    "extent": "3 Raybag Taluk (Part) 2 Kudachi Circle Kudachi TP",
@@ -7226,14 +5864,6 @@
    "shares": {
     "207": {
      "pct": 74.4,
-     "basis": "measured"
-    },
-    "208": {
-     "pct": 12.6,
-     "basis": "measured"
-    },
-    "210": {
-     "pct": 11.2,
      "basis": "measured"
     }
    }
@@ -7277,29 +5907,13 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    206,
-    202,
-    204
+    203
    ],
    "note": "",
    "extent": "5 Hukkeri Taluk (Part) 1 Hukkeri Circle. 3 Sankeshwar Circle (Part) Shippur, Hittani, Mattiwade, Naganur K.S., Rashing, Bugatealur, Hadalga, Bhairapur, Shekinhosur, Konankeri, Honnihalli, Kanagale, Karajage, Sollapur, Haragapur, Bad, Alur (K.M), Akkiwat, Kesti, Borgal, Amminbhavi, Handigud, Ammanagi, Nidasoshi, Ankale, Sankeshwar (R), Kamatanur and Nerli villages. Sankeshwar TMC Hukkeri TP",
    "party12": "JD(S)",
    "winner_12": "Umesh Vishwanath Katti",
-   "electors_12": 157040,
-   "shares": {
-    "206": {
-     "pct": 7.4,
-     "basis": "measured"
-    },
-    "202": {
-     "pct": 50.7,
-     "basis": "measured"
-    },
-    "204": {
-     "pct": 1.6,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 157040
   },
   {
    "ac_no": 8,
@@ -7308,10 +5922,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    201,
-    207,
-    212,
-    206
+    201
    ],
    "note": "",
    "extent": "4 Gokak Taluk (Part) 3 Koujalagi Circle 2 Arabhavi Circle (Part) Arabhavi GP - Arabhavi, Sanganakeri, Lolasur GP - Lolasur, Badigwad GP - Badigwad, Dandapur, Ganeshwadi, Balobal GP- Balobal, Beerangaddi, Dharmatti GP- Dharmatti, Patagundi, Duradundi GP- Duradundi, Hallur GP - Hallur, Hunshyal (P.G.) GP - Hunshyal (P.G.), Kallolli GP - Kallolli, Hanamapur Masaguppi GP - Masaguppi, Gujanatti, Jokanatti, Munyal GP - Munyal, Kamaladinni, Rangapur, Naganur GP - Naganur, Nallanatti GP - Basaligundi, Nallanatti, Rajapur GP - Rajapur, Shivapur GP - Shivapur, Gurlapur, Khanatti, Mudalgi (Rural), Tukkanatti GP - Tukkanatti, Waderatti GP - Fulagaddi and Waderatti villages. Mudalgi TMC",
@@ -7321,18 +5932,6 @@
    "shares": {
     "201": {
      "pct": 84.0,
-     "basis": "measured"
-    },
-    "207": {
-     "pct": 1.6,
-     "basis": "measured"
-    },
-    "212": {
-     "pct": 11.5,
-     "basis": "measured"
-    },
-    "206": {
-     "pct": 1.0,
      "basis": "measured"
     }
    }
@@ -7344,10 +5943,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    201,
-    200,
-    202,
-    206
+    201
    ],
    "note": "",
    "extent": "4 Gokak Taluk (Part) 1 Gokak Circle 2 Arabhavi Circle (Part) Dhupadal GP - Dhupadal, Konnur (Rural) GP - Konnur (Rural), Malmatti, Shivapur, Mallapur (P.G.) GP - Mallapur (P.G.), Nandagaon GP - Khanapur, Mutnal and Nandagaon, Pamaladinni GP - Pamaladinni and Shindikurbet GP - Shindikurbet villages. Gokak CMC Konnur TP Gokak Falls NAC",
@@ -7357,14 +5953,6 @@
    "shares": {
     "201": {
      "pct": 22.9,
-     "basis": "measured"
-    },
-    "200": {
-     "pct": 69.3,
-     "basis": "measured"
-    },
-    "202": {
-     "pct": 1.7,
      "basis": "measured"
     }
    }
@@ -7376,9 +5964,9 @@
    "type": "ST",
    "status": "new",
    "src": [
-    202,
+    198,
     199,
-    200
+    203
    ],
    "note": "",
    "extent": "(ST) 5 Hukeri Taluk (Part) 2 Yemkanmardi Circle 3 Sankeshwar Circle (Part) Masarguppi, Gavanal, Gotur, Hebbal, Kochari, Chikalgud, U Khanapur, Hanchinal, Kurniwadi, Kurni and Arjunwad villages. 6 Belgaum Taluk (Part) 3 Kakati Circle 2 Uchagaon Circle (Part) Maranhol",
@@ -7386,16 +5974,8 @@
    "winner_12": "Jarakiholi Satish Laxmanarao",
    "electors_12": 148948,
    "shares": {
-    "202": {
-     "pct": 36.3,
-     "basis": "measured"
-    },
     "199": {
      "pct": 30.9,
-     "basis": "measured"
-    },
-    "200": {
-     "pct": 11.5,
      "basis": "measured"
     }
    }
@@ -7429,8 +6009,7 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    198,
-    199
+    198
    ],
    "note": "",
    "extent": "6 Belgaum Taluk (Part) 1 Belgaum Circle Belgaum (M Corp) (Part) Belgaum (M Corp.) - Ward No. 1 to 26.",
@@ -7440,10 +6019,6 @@
    "shares": {
     "198": {
      "pct": 0.8,
-     "basis": "approx"
-    },
-    "199": {
-     "pct": 25.2,
      "basis": "approx"
     }
    }
@@ -7455,11 +6030,8 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    199,
     198,
-    197,
-    200,
-    195
+    199
    ],
    "note": "",
    "extent": "6 Belgaum Taluk (Part) 4 Bagewadi Circle 2 Uchagaon Circle (Part) Gojage, Sulge (Uchagaon), Kallehol, Uchagaon, Turamari, Bachi, Kudremani, Sonoli, Belgundi, Bokanur, Savagaon, Mandoli, Hangarge, Bijagarni, Yalebail, Rakaskop, Dhamne S.Bailur, Belvatti, Badas (Inam), Baknur, Kiniye, Karle, Navage, Kuttalawadi, Santibastawad, Bahadarwadi, Ranakunde, Waghawade, Desur, Sulge (Yellur), Rajahansagad, Nandihalli, Nagenahatti Villages. Benakanahalli (OG) - Ward No. 63, Bekkinakeri, Attiwad, Mannur and Ambewadi Villages. Hindalgi (CT), Kangrali (KH)(CT) and Kangrali (BK) (CT).",
@@ -7467,24 +6039,12 @@
    "winner_12": "Sanjay B Patil",
    "electors_12": 187080,
    "shares": {
-    "199": {
-     "pct": 38.8,
-     "basis": "approx"
-    },
     "198": {
      "pct": 23.2,
      "basis": "approx"
     },
-    "197": {
-     "pct": 19.7,
-     "basis": "approx"
-    },
-    "200": {
-     "pct": 1.2,
-     "basis": "approx"
-    },
-    "195": {
-     "pct": 16.8,
+    "199": {
+     "pct": 38.8,
      "basis": "approx"
     }
    }
@@ -7496,11 +6056,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    196,
-    197,
-    199,
     195,
-    198
+    196
    ],
    "note": "",
    "extent": "7 Khanapur Taluk",
@@ -7508,20 +6065,12 @@
    "winner_12": "Pralhad Remani",
    "electors_12": 162839,
    "shares": {
-    "196": {
-     "pct": 77.1,
-     "basis": "measured"
-    },
-    "197": {
-     "pct": 2.8,
-     "basis": "approx"
-    },
-    "199": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
     "195": {
      "pct": 6.9,
+     "basis": "measured"
+    },
+    "196": {
+     "pct": 77.1,
      "basis": "measured"
     }
    }
@@ -7533,10 +6082,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    195,
     194,
-    200,
-    199
+    195
    ],
    "note": "",
    "extent": "8 Sampgaon Taluk (Part) 2 Kittur and 3 Nesargi Circles.",
@@ -7544,12 +6091,12 @@
    "winner_12": "Marihal Suresh Shivarudrappa",
    "electors_12": 149797,
    "shares": {
-    "195": {
-     "pct": 55.8,
-     "basis": "measured"
-    },
     "194": {
      "pct": 38.6,
+     "basis": "measured"
+    },
+    "195": {
+     "pct": 55.8,
      "basis": "measured"
     }
    }
@@ -7561,9 +6108,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    194,
     193,
-    200
+    194
    ],
    "note": "",
    "extent": "8 Sampgaon Taluk (Part) 1 Bailhongal Circle Bailhongal TMC 9 Parasgad Taluk (Part) 1 Murgod Circle 2 Saundatti Circle (Part) Asundi Asundi, Gurlhosur (R), Kadihalli, Mugali, Nadavinahalli, Shingarkop, Badli, Aladakatti K.Y, Badli, Katral, Karikatti Karikatti, Sangreshkoppa Kencharamanahal, Sangreshkoppa, Yadahalli, Yakkundi Bommagadikoppa, Karlakatti, Venkateshnagar and Yakkundi villages.",
@@ -7571,12 +6117,12 @@
    "winner_12": "Metgud Virupaxi (Jagadish) Channappa",
    "electors_12": 146129,
    "shares": {
-    "194": {
-     "pct": 63.8,
-     "basis": "measured"
-    },
     "193": {
      "pct": 34.3,
+     "basis": "measured"
+    },
+    "194": {
+     "pct": 63.8,
      "basis": "measured"
     }
    }
@@ -7588,9 +6134,7 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    193,
-    192,
-    201
+    193
    ],
    "note": "",
    "extent": "Yellamma 9 Parasgad Taluk (Part) 1 Saundatti Circle (Part) Betasur Betasur, Yadravi, Saundatti (Rural), Hanchinal Hanchinal, Hirekumbi, Dhaderkoppa, Dugabal, Hirekumbi, Inamhongal, Chikkulligeri, Hireulligeri, Inamhongal, Ugaragol, Harlapur, Renukanagar, Ugaragol and Kenchalarkop villages. 3 Yaragatti and 4 Munoli Circles. Saundatti Yellamma TMC",
@@ -7600,14 +6144,6 @@
    "shares": {
     "193": {
      "pct": 77.5,
-     "basis": "measured"
-    },
-    "192": {
-     "pct": 15.0,
-     "basis": "measured"
-    },
-    "201": {
-     "pct": 1.2,
      "basis": "measured"
     }
    }
@@ -7619,10 +6155,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    192,
-    212,
-    201,
-    214
+    192
    ],
    "note": "",
    "extent": "10 Ramdurg Taluk",
@@ -7632,18 +6165,6 @@
    "shares": {
     "192": {
      "pct": 83.9,
-     "basis": "measured"
-    },
-    "212": {
-     "pct": 4.7,
-     "basis": "measured"
-    },
-    "201": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
-    "214": {
-     "pct": 6.7,
      "basis": "measured"
     }
    }
@@ -7655,9 +6176,7 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    212,
-    211,
-    210
+    212
    ],
    "note": "",
    "extent": "3 Mudhol Taluk (Part) 2 Lokapur Circle 1 Mudhol Circle (Part) Belagali GP/Belagali, Halagali GP/Halgali, Melligeri, Kulali GP/Kulali, Malapur, Malali GP/Malali, Soragoan, Mantur GP/Budni (P.M), Kishori, Mantur, Mugalkhod GP/Mugalkhod, Nagaral GP/Akkimardi, Nagaral, Shirol GP/Shirol, Uttur GP/Jaliber, Ranjanagi, Rugi, Uttur, Vantigodi GP/Mallapur (P.J), Mirji, Vantigodi and Chanal villages. Mudhol TMC",
@@ -7667,14 +6186,6 @@
    "shares": {
     "212": {
      "pct": 81.8,
-     "basis": "measured"
-    },
-    "211": {
-     "pct": 13.0,
-     "basis": "measured"
-    },
-    "210": {
-     "pct": 0.8,
      "basis": "measured"
     }
    }
@@ -7686,8 +6197,8 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    210,
-    208
+    211,
+    212
    ],
    "note": "",
    "extent": "Ter 1 Jamkhandi Taluk (Part) 2 Terdal Circle (Including Rabkavi Banhatti CMC & Terdal TMC) 3 Mudhol Taluk (Part) 1 Mudhol Circle (Part) Dhavaleshwar/Dhavaleshwar, Nandagoan, Kesrakoppa, Bisanal, Kesrakoppa, Madhabhavi/Madhabhavi, Marapur, Sanganatti and Saidapur/Saidapur villages. Mahalingapur TMC",
@@ -7695,12 +6206,12 @@
    "winner_12": "Siddu. Savadi",
    "electors_12": 178292,
    "shares": {
-    "210": {
-     "pct": 71.0,
+    "211": {
+     "pct": 6.0,
      "basis": "measured"
     },
-    "208": {
-     "pct": 4.8,
+    "212": {
+     "pct": 18.2,
      "basis": "measured"
     }
    }
@@ -7712,10 +6223,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    211,
-    209,
-    220,
-    210
+    211
    ],
    "note": "",
    "extent": "1 Jamkhandi Taluk (Part) 1 Jamakhandi and 3 Savalagi Circles.",
@@ -7725,14 +6233,6 @@
    "shares": {
     "211": {
      "pct": 67.0,
-     "basis": "measured"
-    },
-    "220": {
-     "pct": 11.8,
-     "basis": "measured"
-    },
-    "210": {
-     "pct": 18.3,
      "basis": "measured"
     }
    }
@@ -7745,11 +6245,8 @@
    "status": "continuing",
    "src": [
     211,
-    219,
     213,
-    214,
-    212,
-    215
+    214
    ],
    "note": "",
    "extent": "2 Bilgi Taluk 4-Badami Taluk (Part) 3 Kerur Circle 5 Bagalkot Taluk (Part) 2 Kaladagi Circle",
@@ -7761,20 +6258,12 @@
      "pct": 48.4,
      "basis": "measured"
     },
-    "219": {
-     "pct": 7.0,
-     "basis": "measured"
-    },
     "213": {
      "pct": 19.7,
      "basis": "measured"
     },
     "214": {
      "pct": 18.7,
-     "basis": "measured"
-    },
-    "215": {
-     "pct": 4.2,
      "basis": "measured"
     }
    }
@@ -7818,8 +6307,6 @@
    "status": "continuing",
    "src": [
     213,
-    218,
-    211,
     215,
     216
    ],
@@ -7831,10 +6318,6 @@
    "shares": {
     "213": {
      "pct": 57.9,
-     "basis": "measured"
-    },
-    "218": {
-     "pct": 3.5,
      "basis": "measured"
     },
     "215": {
@@ -7854,11 +6337,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    216,
-    217,
     215,
-    213,
-    26
+    216
    ],
    "note": "",
    "extent": "6 Hungund Taluk (Part) 1 Hunagund, 2 Ilkal and 3 Karadi Circles. 4 Aminagad Circle (Part) Chikanal GP, Benakanavari, Bhimanagad, Chikanal, Chilapur, Kyadiggeri, Siddanakolla, Upnal (S.C.), Gudur GP, Gudur, Kelur GP Kelur, Kunabenchi, Tallikeri, Nagur GP, Ilal, Rakkasagi GP Rakkasagi, Sulibhavi GP Sulibhavi, Vadageri GP, Dammur, Gandal, Gorjnal, Muradi and Vadageri villages. Hungund TP Ilkal TMC",
@@ -7866,24 +6346,12 @@
    "winner_12": "Doddanagouda G Patil",
    "electors_12": 172121,
    "shares": {
-    "216": {
-     "pct": 72.4,
-     "basis": "measured"
-    },
-    "217": {
-     "pct": 4.8,
-     "basis": "measured"
-    },
     "215": {
      "pct": 11.9,
      "basis": "measured"
     },
-    "213": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
-    "26": {
-     "pct": 10.3,
+    "216": {
+     "pct": 72.4,
      "basis": "measured"
     }
    }
@@ -7895,9 +6363,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    218,
-    217,
-    19
+    217
    ],
    "note": "",
    "extent": "5 Muddebihal Taluk (Part) 1 Muddebihal, 3 Naltavad and 4 Davalgi Circles. Muddebihal TMC 2 Talikoti Circle (Part) Chokavi, Hirur, Tamadaddi, Balaganur, Minajagi, Harnal, Hadaginal, Kaladevanahalli, Mukihal, Shivapur and Nagur villages. Talikoti TMC",
@@ -7905,16 +6371,8 @@
    "winner_12": "Appaji Channabasavaraj Shankararao Nadagouda",
    "electors_12": 157624,
    "shares": {
-    "218": {
-     "pct": 31.6,
-     "basis": "measured"
-    },
     "217": {
      "pct": 63.0,
-     "basis": "measured"
-    },
-    "19": {
-     "pct": 4.4,
      "basis": "measured"
     }
    }
@@ -7926,12 +6384,8 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    224,
-    218,
-    223,
-    219,
-    15,
-    217
+    217,
+    224
    ],
    "note": "",
    "extent": "5 Muddebihal Taluk (Part) 2 Talikoti Circle (Part) Tumbagi, Hosahalli, Huvinahalli, Kyatanal, Gotakhindaki, Bhantnur, Peerapur, Shellagi, Karaganur, Gadi Somanal, Bommanahalli, Bolawad, Fatepur P.Talikoti, Guttihal, Kodaganur, Belur, Lakkundi, Navadagi, Matakal Devanhalli, Salawadagi, Gundakanal, Maileshwar, Bilebhavi and Maskanal villages. 3 Sindgi Taluk (Part) 2 Devar Hippargi Circle. 4 Basavana Bagevadi Taluk (Part) 2 Huvin Hippargi Circle.",
@@ -7939,28 +6393,12 @@
    "winner_12": "A.S.Patil (Nadahalli)",
    "electors_12": 164493,
    "shares": {
-    "224": {
-     "pct": 49.6,
-     "basis": "measured"
-    },
-    "218": {
-     "pct": 30.5,
-     "basis": "measured"
-    },
-    "223": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "219": {
-     "pct": 1.6,
-     "basis": "measured"
-    },
-    "15": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
     "217": {
      "pct": 11.5,
+     "basis": "measured"
+    },
+    "224": {
+     "pct": 49.6,
      "basis": "measured"
     }
    }
@@ -8004,10 +6442,8 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    220,
     219,
-    221,
-    211
+    220
    ],
    "note": "",
    "extent": "1 Bijapur Taluk (Part) 1 Tikota, 3 Babaleshwar and 5 Mamadapur Circles.",
@@ -8015,20 +6451,12 @@
    "winner_12": "M.B.Patil",
    "electors_12": 162357,
    "shares": {
-    "220": {
-     "pct": 64.7,
-     "basis": "measured"
-    },
     "219": {
      "pct": 26.6,
      "basis": "measured"
     },
-    "221": {
-     "pct": 4.7,
-     "basis": "measured"
-    },
-    "211": {
-     "pct": 1.1,
+    "220": {
+     "pct": 64.7,
      "basis": "measured"
     }
    }
@@ -8066,11 +6494,9 @@
    "type": "SC",
    "status": "new",
    "src": [
-    222,
     220,
     221,
-    224,
-    223
+    222
    ],
    "note": "",
    "extent": "1 Bijapur Taluk (Part) 4 Nagthan and 2 Bijapur Circles. Bijapur (CMC) (Part) Bijapur (CMC) - Ward No. 12 and 15 to 17. 2 Indi Taluk (Part) 3 Chadachan Circle.",
@@ -8078,10 +6504,6 @@
    "winner_12": "Katakdhond Vitthal Dhondiba",
    "electors_12": 192368,
    "shares": {
-    "222": {
-     "pct": 45.3,
-     "basis": "approx"
-    },
     "220": {
      "pct": 23.0,
      "basis": "approx"
@@ -8090,8 +6512,8 @@
      "pct": 21.4,
      "basis": "approx"
     },
-    "224": {
-     "pct": 4.4,
+    "222": {
+     "pct": 45.3,
      "basis": "approx"
     }
    }
@@ -8104,8 +6526,7 @@
    "status": "continuing",
    "src": [
     222,
-    223,
-    12
+    223
    ],
    "note": "",
    "extent": "2 Indi Taluk (Part) 2 Ballolli Circle 1 Indi Circle (Part) Shiragur Inam (Old), Agarkhed, Gubbewad, Mannur, Hirebevanur, Alur, Mavinalli, Chickbevanur, Ingalgi, Nehrunagar, Bhuyar, Nagarhalli, Khedgi, Lalasangi, Satalagaon (P.I), Salotgi, Rugi, Tennihalli, Gornal, Masali [K.D.], Ramanagar, Naad [B.K.], Naad [K.D.], Golasar, Shivapur [K.H.], Rodagi, Miragi, Hanchinal, Arjunagi [K.H.], Arjunagi [B.K.], Marasanahalli, Teggihalli, Shirshyad, Sangogi and Masali [B.K.] villages. Indi TMC.",
@@ -8120,10 +6541,6 @@
     "223": {
      "pct": 48.7,
      "basis": "measured"
-    },
-    "12": {
-     "pct": 3.9,
-     "basis": "measured"
     }
    }
   },
@@ -8135,9 +6552,7 @@
    "status": "continuing",
    "src": [
     223,
-    12,
-    224,
-    15
+    224
    ],
    "note": "",
    "extent": "3 Sindgi Taluk (Part) 1 Sindgi and 3 Almel Circles. Sindgi TMC 2 Indi Taluk (Part) 1 Indi Circle (Part) Bannihatti, Tamba, Shivapur [B.K.], Kenginal, Gandhinagar, Wade and Bhanthanal villages.",
@@ -8149,16 +6564,8 @@
      "pct": 46.4,
      "basis": "measured"
     },
-    "12": {
-     "pct": 3.2,
-     "basis": "measured"
-    },
     "224": {
      "pct": 42.2,
-     "basis": "measured"
-    },
-    "15": {
-     "pct": 8.2,
      "basis": "measured"
     }
    }
@@ -8170,9 +6577,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    12,
-    9,
-    11
+    11,
+    12
    ],
    "note": "",
    "extent": "2 Afzalpur Taluk 3 Gulbarga Taluk (Part) Farhatabad Circle.",
@@ -8180,16 +6586,12 @@
    "winner_12": "Malikayya Venkaiah Guttedar",
    "electors_12": 178243,
    "shares": {
-    "12": {
-     "pct": 68.8,
-     "basis": "measured"
-    },
-    "9": {
-     "pct": 0.9,
-     "basis": "measured"
-    },
     "11": {
      "pct": 24.0,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 68.8,
      "basis": "measured"
     }
    }
@@ -8201,10 +6603,7 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    15,
-    11,
-    12,
-    224
+    15
    ],
    "note": "",
    "extent": "7 Jewargi Taluk",
@@ -8214,18 +6613,6 @@
    "shares": {
     "15": {
      "pct": 88.8,
-     "basis": "measured"
-    },
-    "11": {
-     "pct": 4.8,
-     "basis": "measured"
-    },
-    "12": {
-     "pct": 2.6,
-     "basis": "measured"
-    },
-    "224": {
-     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -8237,9 +6624,8 @@
    "type": "ST",
    "status": "continuing",
    "src": [
-    19,
     18,
-    217
+    19
    ],
    "note": "",
    "extent": "8 Shorapur Taluk (Part) 3 Hunasgi, 4 Kakkera, 5 Kodekal and 1 Shorapur Circles.",
@@ -8247,12 +6633,12 @@
    "winner_12": "Narasimha Nayak(Raju Gouda)",
    "electors_12": 216176,
    "shares": {
-    "19": {
-     "pct": 91.3,
-     "basis": "measured"
-    },
     "18": {
      "pct": 3.5,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 91.3,
      "basis": "measured"
     }
    }
@@ -8265,8 +6651,7 @@
    "status": "continuing",
    "src": [
     18,
-    15,
-    17
+    19
    ],
    "note": "",
    "extent": "9 Shahapur Taluk (Part) 1 Shahapur and 2 Gogi Circles. 8 Shorapur Taluk (Part) 2 Kembhavi Circle.",
@@ -8278,12 +6663,8 @@
      "pct": 93.9,
      "basis": "measured"
     },
-    "15": {
-     "pct": 2.5,
-     "basis": "measured"
-    },
-    "17": {
-     "pct": 1.9,
+    "19": {
+     "pct": 0.5,
      "basis": "measured"
     }
    }
@@ -8296,9 +6677,8 @@
    "status": "continuing",
    "src": [
     17,
-    16,
     18,
-    11
+    19
    ],
    "note": "",
    "extent": "10 Yadgir Taluk (Part) 1 Yadgir Circle. 9 Shahapur Taluk (Part) 3 Dornahalli, 4 Hayyal (B) and 5 Wadagera Circles.",
@@ -8308,10 +6688,6 @@
    "shares": {
     "17": {
      "pct": 74.3,
-     "basis": "measured"
-    },
-    "16": {
-     "pct": 5.7,
      "basis": "measured"
     },
     "18": {
@@ -8395,10 +6771,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    14,
     7,
-    10,
-    13
+    14
    ],
    "note": "",
    "extent": "5 Sedam Taluk 4 Chincholi Taluk (Part) Sulepeth Circle",
@@ -8406,16 +6780,12 @@
    "winner_12": "Dr. Sharan Prakash Rudrappa Patil",
    "electors_12": 171750,
    "shares": {
-    "14": {
-     "pct": 69.4,
-     "basis": "measured"
-    },
     "7": {
      "pct": 20.2,
      "basis": "measured"
     },
-    "13": {
-     "pct": 2.3,
+    "14": {
+     "pct": 69.4,
      "basis": "measured"
     }
    }
@@ -8428,9 +6798,7 @@
    "status": "continuing",
    "src": [
     7,
-    5,
-    8,
-    10
+    13
    ],
    "note": "",
    "extent": "4 Chincholi Taluk (Part) Chincholi, Ainapur and Kodli Circles 6 Chitapur Taluk (Part) 4 Kalgi Circle",
@@ -8442,12 +6810,8 @@
      "pct": 71.0,
      "basis": "measured"
     },
-    "8": {
-     "pct": 1.7,
-     "basis": "measured"
-    },
-    "10": {
-     "pct": 16.9,
+    "13": {
+     "pct": 3.2,
      "basis": "measured"
     }
    }
@@ -8460,11 +6824,7 @@
    "status": "new",
    "src": [
     8,
-    6,
-    10,
-    5,
-    11,
-    13
+    11
    ],
    "note": "",
    "extent": "(SC) 3 Gulbarga Taluk (Part) Aurad.B, Mahagaon and Kamalapur Circles Gulbarga Circle (Rural) (Part) Azadpur, Kesratgi, Dariyapur (D), Sheik Roza (D), Hagargi, Uplaon, Nandur (B), Nandur (K), Dharmapur, Kusnoor (OG), Kusnoor villages. 6 Chitapur Taluk (Part) 5 Shahabad Circle (Part) Martur GP - Devantegnur, Aldihal and Martur villages. Tonsanhalli GP - Tonsanhalli, Taranhalli, Gola (K), Shahabad TMC and Shahabad ACC NAC Aland Taluk (Part) 5 Narona",
@@ -8476,24 +6836,8 @@
      "pct": 62.4,
      "basis": "measured"
     },
-    "6": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
-    "10": {
-     "pct": 23.8,
-     "basis": "measured"
-    },
-    "5": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
     "11": {
      "pct": 8.6,
-     "basis": "measured"
-    },
-    "13": {
-     "pct": 2.0,
      "basis": "measured"
     }
    }
@@ -8505,11 +6849,8 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    12,
-    8,
-    9,
-    10,
-    11
+    11,
+    12
    ],
    "note": "",
    "extent": "Dakshin 3 Gulbarga Taluk (Part) Gulbarga (M Corp.) (Part) Gulbarga (M Corp.) - Ward No.31 to 55 and Rajapur (OG) (Part) - Ward No. 57. Pattan Circle Gulbarga circle (Rural) (Part) Bhimanhalli GP - Jaffarabad, Nandikur GP - 1. Udnoor, 2. Kotnoor (OG), 3. Naganahalli, 4. Nandikur and 5. Sitnoor, and Madarasanahalli (D), Khanadal GP - Panegaon",
@@ -8517,16 +6858,12 @@
    "winner_12": "Chandrashekhar Patil Revoor",
    "electors_12": 194199,
    "shares": {
-    "12": {
-     "pct": 64.0,
-     "basis": "approx"
-    },
-    "10": {
-     "pct": 4.8,
-     "basis": "approx"
-    },
     "11": {
      "pct": 31.1,
+     "basis": "approx"
+    },
+    "12": {
+     "pct": 64.0,
      "basis": "approx"
     }
    }
@@ -8565,9 +6902,8 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    9,
     8,
-    6
+    9
    ],
    "note": "",
    "extent": "Aland Taluk (Part) 1 Alland, 2 Nimbarga, 3 Madanhipparga and 4 Khajuri Circles.",
@@ -8575,16 +6911,12 @@
    "winner_12": "Guttedar Subash Rukmayya",
    "electors_12": 183596,
    "shares": {
-    "9": {
-     "pct": 70.7,
-     "basis": "measured"
-    },
     "8": {
      "pct": 23.2,
      "basis": "measured"
     },
-    "6": {
-     "pct": 0.7,
+    "9": {
+     "pct": 70.7,
      "basis": "measured"
     }
    }
@@ -8596,8 +6928,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    6,
-    3
+    3,
+    6
    ],
    "note": "",
    "extent": "1 Basavakalyan Taluk (Part) 1 Hulsoor, 2 Basavakalyan, 4 Manthal, 5 Kohinoor and 6 Mudbi Circles. Basavakalyan TMC",
@@ -8605,12 +6937,12 @@
    "winner_12": "Basavaraj Patil Attur",
    "electors_12": 190131,
    "shares": {
-    "6": {
-     "pct": 70.8,
-     "basis": "measured"
-    },
     "3": {
      "pct": 25.2,
+     "basis": "measured"
+    },
+    "6": {
+     "pct": 70.8,
      "basis": "measured"
     }
    }
@@ -8623,9 +6955,8 @@
    "status": "renamed",
    "src": [
     3,
-    6,
-    2,
-    5
+    5,
+    6
    ],
    "note": "",
    "extent": "1 Basavakalyan Taluk (Part) 3 Rajeshwar Circle 5 Homnabad Taluk (Part) 1 Dubalgundi, 3 Chitguppa, 5 Humnabad and 2 Hallikhed (B) Circles. Humnabad TMC and Chitguppa TMC.",
@@ -8637,12 +6968,12 @@
      "pct": 32.1,
      "basis": "measured"
     },
-    "6": {
-     "pct": 22.3,
-     "basis": "measured"
-    },
     "5": {
      "pct": 42.7,
+     "basis": "measured"
+    },
+    "6": {
+     "pct": 22.3,
      "basis": "measured"
     }
    }
@@ -8654,10 +6985,8 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    5,
     4,
-    2,
-    3
+    5
    ],
    "note": "",
    "extent": "5 Homnabad Taluk (Part) 4 Nirna and 6 Bemalkheda Circles. 4 Bidar Taluk (Part) 2 Kamthana, 3 Bagdal, 4 Manhalli, and 6 Bidar (South) Circles.",
@@ -8665,12 +6994,12 @@
    "winner_12": "Bandeppa Khashempur",
    "electors_12": 166391,
    "shares": {
-    "5": {
-     "pct": 61.2,
-     "basis": "measured"
-    },
     "4": {
      "pct": 22.6,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 61.2,
      "basis": "measured"
     }
    }
@@ -8682,7 +7011,6 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    1,
     2,
     4
    ],
@@ -8692,10 +7020,6 @@
    "winner_12": "Gurupadappa Nagmarpally",
    "electors_12": 185232,
    "shares": {
-    "1": {
-     "pct": 2.0,
-     "basis": "measured"
-    },
     "2": {
      "pct": 36.8,
      "basis": "measured"
@@ -8714,7 +7038,6 @@
    "status": "continuing",
    "src": [
     2,
-    1,
     3
    ],
    "note": "",
@@ -8725,10 +7048,6 @@
    "shares": {
     "2": {
      "pct": 65.6,
-     "basis": "measured"
-    },
-    "1": {
-     "pct": 1.8,
      "basis": "measured"
     },
     "3": {
@@ -8765,10 +7084,9 @@
    "type": "ST",
    "status": "new",
    "src": [
-    22,
     21,
-    23,
-    17
+    22,
+    23
    ],
    "note": "",
    "extent": "(ST) 3 Raichur Taluk (Part) 2 Yergera, 3 Gillesugur, 4 Kalmala, 6 Chandrabanda and 5 Deosugur Circles. Shakthinagar (CT) Manvi Taluk (Part) 2 Kurdi Circle. Raichur Circle (Part) Undraldoddi, Ayazpur and Bapur",
@@ -8776,20 +7094,16 @@
    "winner_12": "Raja Rayappa Naik",
    "electors_12": 185830,
    "shares": {
-    "22": {
-     "pct": 58.0,
-     "basis": "measured"
-    },
     "21": {
      "pct": 21.5,
      "basis": "measured"
     },
-    "23": {
-     "pct": 13.5,
+    "22": {
+     "pct": 58.0,
      "basis": "measured"
     },
-    "17": {
-     "pct": 0.5,
+    "23": {
+     "pct": 13.5,
      "basis": "measured"
     }
    }
@@ -8801,8 +7115,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    21,
-    22
+    21
    ],
    "note": "",
    "extent": "3 Raichur Taluk (Part) 1 Raichur Circle (Part) Yegnoor, Sanknur, Baidoddi, Tamalgat (D), Bolmandoddi, Wadwatti, Ghousenagar, Bijangera, Harkandoddi (D), Agapur (D), Mitimalkapur, Sidrampur, Devanpalli, Maliabad, Raichur Rural, Rajalbanda and Kurabdoddi. Raichur CMC",
@@ -8812,10 +7125,6 @@
    "shares": {
     "21": {
      "pct": 84.4,
-     "basis": "measured"
-    },
-    "22": {
-     "pct": 15.6,
      "basis": "measured"
     }
    }
@@ -8827,9 +7136,8 @@
    "type": "ST",
    "status": "continuing",
    "src": [
-    23,
     22,
-    20
+    23
    ],
    "note": "",
    "extent": "4 Manvi Taluk (Part) 1 Manvi, 3 Hirekotnakal, 5 Malat, 7 Kavithal, 8 Sirwar and 9 Kallur Circles Manvi TMC",
@@ -8837,16 +7145,12 @@
    "winner_12": "G. Hampayya Nayak Ballatagi",
    "electors_12": 195274,
    "shares": {
-    "23": {
-     "pct": 59.5,
-     "basis": "measured"
-    },
     "22": {
      "pct": 35.5,
      "basis": "measured"
     },
-    "20": {
-     "pct": 3.0,
+    "23": {
+     "pct": 59.5,
      "basis": "measured"
     }
    }
@@ -8858,10 +7162,7 @@
    "type": "ST",
    "status": "new",
    "src": [
-    20,
-    17,
-    19,
-    18
+    20
    ],
    "note": "",
    "extent": "2 Devadurga Taluk",
@@ -8871,10 +7172,6 @@
    "shares": {
     "20": {
      "pct": 91.6,
-     "basis": "measured"
-    },
-    "17": {
-     "pct": 4.1,
      "basis": "measured"
     }
    }
@@ -8887,9 +7184,7 @@
    "status": "continuing",
    "src": [
     24,
-    26,
-    20,
-    217
+    26
    ],
    "note": "",
    "extent": "1 Lingsugur Taluk (Part) Lingasugur Circle (Part) Kalli Lingasugur, Boopuru, Rampura, Hunukunti, Karadakal (R), Manvinabhavi, Gundasagara, Kachapura, Margatanala, Chitranala, Hanumanagudda, Chitapura, Hirejawoor, Rodalabanda, Kamaladinne, Navali, Chikkajawoor, Anahosuru, Nandhihal, Bendona, Julagudda, Narakaladinne, Echanala, Neeralakera, Chikkaupperi, Sunkal, Hireupperi, Toralabinchi, Jangirampura, Adavibhavi, Yaragunta, Kalapura, Gorebala, Halabhavi, Mincheri, Yalagaladinne, Jaalibenchi, Kesarahatti and Aidanhal villages. 4 Mudgal and 2 Gurugunta Circles Lingsugur and Mudgal TPs Hatti Gold Mines NAC",
@@ -8904,10 +7199,6 @@
     "26": {
      "pct": 26.7,
      "basis": "measured"
-    },
-    "20": {
-     "pct": 2.5,
-     "basis": "measured"
     }
    }
   },
@@ -8918,8 +7209,7 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    25,
-    23
+    25
    ],
    "note": "",
    "extent": "5 Sindhanur Taluk (Part) 1 Sindhanoor (Rural), 2 Salgunda, 3 Huda, 4 Gorebal, 5 Jalihal, 8 Kunnatagi, 11 Jawalgera, 12 Walkamdinni, 13 Hedginal and 14 Badarli Circles. Sindhanur TMC",
@@ -8929,10 +7219,6 @@
    "shares": {
     "25": {
      "pct": 94.5,
-     "basis": "measured"
-    },
-    "23": {
-     "pct": 1.8,
      "basis": "measured"
     }
    }
@@ -8944,10 +7230,9 @@
    "type": "ST",
    "status": "new",
    "src": [
-    24,
     23,
+    24,
     25,
-    26,
     28
    ],
    "note": "",
@@ -8956,20 +7241,16 @@
    "winner_12": "Pratap Gouda Patil",
    "electors_12": 157804,
    "shares": {
-    "24": {
-     "pct": 32.4,
-     "basis": "measured"
-    },
     "23": {
      "pct": 23.1,
      "basis": "measured"
     },
-    "25": {
-     "pct": 30.3,
+    "24": {
+     "pct": 32.4,
      "basis": "measured"
     },
-    "26": {
-     "pct": 1.6,
+    "25": {
+     "pct": 30.3,
      "basis": "measured"
     },
     "28": {
@@ -8986,9 +7267,7 @@
    "status": "continuing",
    "src": [
     26,
-    216,
-    28,
-    215
+    28
    ],
    "note": "",
    "extent": "2 Kushtagi Taluk",
@@ -9000,16 +7279,8 @@
      "pct": 69.5,
      "basis": "measured"
     },
-    "216": {
-     "pct": 3.6,
-     "basis": "measured"
-    },
     "28": {
      "pct": 24.1,
-     "basis": "measured"
-    },
-    "215": {
-     "pct": 1.9,
      "basis": "measured"
     }
    }
@@ -9021,9 +7292,7 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    28,
-    25,
-    29
+    28
    ],
    "note": "",
    "extent": "3 Gangawati Taluk (Part) 3 Marali, 4 Siddapur, 5 Karatagi, 6 Kanakagiri, 7 Navali and 8. Hulihyder Circles.",
@@ -9033,14 +7302,6 @@
    "shares": {
     "28": {
      "pct": 82.2,
-     "basis": "measured"
-    },
-    "25": {
-     "pct": 3.3,
-     "basis": "measured"
-    },
-    "29": {
-     "pct": 13.2,
      "basis": "measured"
     }
    }
@@ -9053,9 +7314,7 @@
    "status": "renamed",
    "src": [
     29,
-    28,
-    30,
-    27
+    30
    ],
    "note": "",
    "extent": "4 Koppal Taluk (Part) 3 Irkalgada Circle 3 Gangawati Taluk (Part) 1 Gangavathi and 2 Venkatagiri Circles.",
@@ -9067,16 +7326,8 @@
      "pct": 53.1,
      "basis": "measured"
     },
-    "28": {
-     "pct": 3.2,
-     "basis": "measured"
-    },
     "30": {
      "pct": 41.3,
-     "basis": "measured"
-    },
-    "27": {
-     "pct": 2.0,
      "basis": "measured"
     }
    }
@@ -9088,9 +7339,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    27,
-    26,
-    189
+    27
    ],
    "note": "",
    "extent": "1 Yelburga Taluk",
@@ -9100,14 +7349,6 @@
    "shares": {
     "27": {
      "pct": 91.1,
-     "basis": "measured"
-    },
-    "26": {
-     "pct": 2.2,
-     "basis": "measured"
-    },
-    "189": {
-     "pct": 1.9,
      "basis": "measured"
     }
    }
@@ -9150,11 +7391,7 @@
    "type": "SC",
    "status": "renamed",
    "src": [
-    186,
-    187,
-    188,
-    30,
-    191
+    186
    ],
    "note": "",
    "extent": "4 Shirhatti Taluk 5 Mundargi Taluk (Part) 1 Mundargi Circle Mundargi TP",
@@ -9164,18 +7401,6 @@
    "shares": {
     "186": {
      "pct": 66.0,
-     "basis": "measured"
-    },
-    "187": {
-     "pct": 27.9,
-     "basis": "measured"
-    },
-    "188": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
-    "30": {
-     "pct": 3.5,
      "basis": "measured"
     }
    }
@@ -9187,8 +7412,6 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    188,
-    191,
     187
    ],
    "note": "",
@@ -9197,14 +7420,6 @@
    "winner_12": "Bidarur Srishilappa Veerupakshappa",
    "electors_12": 172571,
    "shares": {
-    "188": {
-     "pct": 67.6,
-     "basis": "measured"
-    },
-    "191": {
-     "pct": 0.9,
-     "basis": "measured"
-    },
     "187": {
      "pct": 31.1,
      "basis": "measured"
@@ -9218,12 +7433,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    189,
-    187,
-    26,
-    190,
-    214,
-    27
+    187
    ],
    "note": "",
    "extent": "2 Ron Taluk (Part) 2 Naregal Circle (Part) Abbigeri GP Abbigeri, Gogeri GP Gogeri, Matarangi, Nagarashikoppa, Halakeri GP Halakeri, Jakkali GP, Budihal, Jakkali, Maranabasari, Kuntoji GP, Benachamatti, Goudageri, Jigeri, Kuntoji, Myakalzeri, Vadegol, Lakkalakatti GP, Amaragatti, Lakkalakatti, Nagendragad, Rudrapur, Nidagundi GP, Kalakapur, Nidagundi, Rajur GP, Bhairapur, Dindur, Rajur, Rampur GP, Chilzeri, Hirekoppa, Kodaganur, Purthageri, Rampur, Veerapur, and Sudi GP Kalarhal villages. Gajendragad TMC Naregal TP 2 Ron Taluk (Part) 1 Ron Circle Ron TMC 3 Gadag Taluk (Part) 4 Betageri Circle (Part) Harlapur GP Harlapur, Timmapur, Kanaginahal GP Kanaginahal and Kotumachagi GP Kotumachagi villages. 5 Mundargi Taluk (Part) 2 Dambal Circle.",
@@ -9231,28 +7441,8 @@
    "winner_12": "Kalakappa Gurushantappa Bandi",
    "electors_12": 178268,
    "shares": {
-    "189": {
-     "pct": 50.2,
-     "basis": "measured"
-    },
     "187": {
      "pct": 31.7,
-     "basis": "measured"
-    },
-    "26": {
-     "pct": 2.5,
-     "basis": "measured"
-    },
-    "190": {
-     "pct": 3.3,
-     "basis": "measured"
-    },
-    "214": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
-    "27": {
-     "pct": 8.5,
      "basis": "measured"
     }
    }
@@ -9264,12 +7454,8 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    190,
-    214,
-    189,
-    192,
-    188,
-    191
+    187,
+    190
    ],
    "note": "",
    "extent": "1 Nargund Taluk 2 Ron Taluk (Part) 3 Holealur Circle 2 Naregal Circle (Part) D.S.Hadagali GP D.S.Hadagali, Gujmagadi, Kurudagi GP Kurudagi, Nagaral and Yarebeleri villages. 3 Gadag Taluk (Part) 4 Betageri Circle (Part) Adavisomapur GP Adavisomapur, Balajinagar, Jalshankarnagar, Papanashi, Balaganur GP Balaganur, Belahod GP Belahod, H.S.Venkatapur, Madaganur, Chikkahandigol GP Chikkahandigol, Dundur, Shagoti, Hatalageri GP Hatalageri, Narasapur*, Sambhapur, Hombal GP Hombal, Huilgol GP Huilgol, Chikkoppa, Hirekoppa, Kiritageri, Kadadi GP Kadadi, Gavarawad, Lakkundi GP Lakkundi, Lingadhal GP Lingadhal, Neeralagi GP Neeralagi, Benakanakoppa and Nagasamudra villages.",
@@ -9277,28 +7463,12 @@
    "winner_12": "C C Patil",
    "electors_12": 151375,
    "shares": {
+    "187": {
+     "pct": 5.0,
+     "basis": "measured"
+    },
     "190": {
      "pct": 60.4,
-     "basis": "measured"
-    },
-    "214": {
-     "pct": 2.5,
-     "basis": "measured"
-    },
-    "189": {
-     "pct": 10.8,
-     "basis": "measured"
-    },
-    "192": {
-     "pct": 2.0,
-     "basis": "measured"
-    },
-    "188": {
-     "pct": 18.5,
-     "basis": "measured"
-    },
-    "191": {
-     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -9310,12 +7480,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    191,
-    190,
-    193,
-    176,
-    174,
-    188
+    178,
+    191
    ],
    "note": "",
    "extent": "2 Navalgund Taluk 3 Hubli Taluk (Part) 3 Shiraguppi Circle",
@@ -9325,22 +7491,6 @@
    "shares": {
     "191": {
      "pct": 71.9,
-     "basis": "measured"
-    },
-    "190": {
-     "pct": 5.2,
-     "basis": "measured"
-    },
-    "193": {
-     "pct": 2.0,
-     "basis": "measured"
-    },
-    "176": {
-     "pct": 9.5,
-     "basis": "approx"
-    },
-    "188": {
-     "pct": 6.7,
      "basis": "measured"
     }
    }
@@ -9352,11 +7502,9 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    179,
     177,
-    176,
-    191,
-    175
+    178,
+    179
    ],
    "note": "",
    "extent": "5 Kundgol Taluk 3 Hubli Taluk (Part) 1 Hubli and 2 Chabbi Circles.",
@@ -9364,20 +7512,12 @@
    "winner_12": "Chikkangoudra Siddangouda Ishwaragouda",
    "electors_12": 155099,
    "shares": {
-    "179": {
-     "pct": 67.0,
-     "basis": "measured"
-    },
     "177": {
      "pct": 19.7,
      "basis": "measured"
     },
-    "176": {
-     "pct": 1.5,
-     "basis": "approx"
-    },
-    "191": {
-     "pct": 3.3,
+    "179": {
+     "pct": 67.0,
      "basis": "measured"
     }
    }
@@ -9406,8 +7546,8 @@
      "pct": 70.9,
      "basis": "approx"
     },
-    "194": {
-     "pct": 1.5,
+    "175": {
+     "pct": 8.4,
      "basis": "approx"
     },
     "191": {
@@ -9416,6 +7556,10 @@
     },
     "193": {
      "pct": 5.0,
+     "basis": "approx"
+    },
+    "194": {
+     "pct": 1.5,
      "basis": "approx"
     }
    }
@@ -9494,12 +7638,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    178,
     174,
-    175,
-    177,
-    195,
-    173
+    178
    ],
    "note": "",
    "extent": "4 Kalghatgi Taluk 1 Dharwad Taluk (Part) 4 Alnavar and 1 Dharwad Circles. Alnavar TP",
@@ -9507,24 +7647,12 @@
    "winner_12": "Santosh.S. Lad",
    "electors_12": 152486,
    "shares": {
-    "178": {
-     "pct": 48.1,
-     "basis": "measured"
-    },
     "174": {
      "pct": 18.6,
      "basis": "approx"
     },
-    "175": {
-     "pct": 20.2,
-     "basis": "approx"
-    },
-    "177": {
-     "pct": 10.1,
-     "basis": "measured"
-    },
-    "195": {
-     "pct": 0.9,
+    "178": {
+     "pct": 48.1,
      "basis": "measured"
     }
    }
@@ -9537,10 +7665,7 @@
    "status": "continuing",
    "src": [
     172,
-    173,
-    196,
-    174,
-    175
+    173
    ],
    "note": "",
    "extent": "2 Supa Taluk 3 Haliyal Taluk Dandeli CMC",
@@ -9555,14 +7680,6 @@
     "173": {
      "pct": 32.1,
      "basis": "measured"
-    },
-    "196": {
-     "pct": 4.7,
-     "basis": "measured"
-    },
-    "174": {
-     "pct": 1.6,
-     "basis": "approx"
     }
    }
   },
@@ -9573,8 +7690,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    172,
-    171
+    171,
+    172
    ],
    "note": "",
    "extent": "1 Karwar Taluk 7 Ankola Taluk",
@@ -9582,12 +7699,12 @@
    "winner_12": "Asnotikar Anand Vasant",
    "electors_12": 183273,
    "shares": {
-    "172": {
-     "pct": 42.5,
-     "basis": "measured"
-    },
     "171": {
      "pct": 52.7,
+     "basis": "measured"
+    },
+    "172": {
+     "pct": 42.5,
      "basis": "measured"
     }
    }
@@ -9599,8 +7716,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    170,
-    171
+    170
    ],
    "note": "",
    "extent": "8 Kumta Taluk 10 Honavar Taluk (Part) 1 Honnavar Circle. Honavar TP",
@@ -9610,10 +7726,6 @@
    "shares": {
     "170": {
      "pct": 79.2,
-     "basis": "measured"
-    },
-    "171": {
-     "pct": 15.8,
      "basis": "measured"
     }
    }
@@ -9625,9 +7737,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    169,
-    170,
-    168
+    169
    ],
    "note": "",
    "extent": "11 Bhatkal Taluk 10 Honavar Taluk (Part) 2 Mavinkurva and 3 Manki Circles.",
@@ -9637,14 +7747,6 @@
    "shares": {
     "169": {
      "pct": 85.6,
-     "basis": "measured"
-    },
-    "170": {
-     "pct": 3.5,
-     "basis": "measured"
-    },
-    "168": {
-     "pct": 4.6,
      "basis": "measured"
     }
    }
@@ -9656,11 +7758,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    171,
     168,
-    173,
-    170,
-    166
+    171
    ],
    "note": "",
    "extent": "9 Siddapur Taluk 6 Sirsi Taluk (Part) 1 Sirsi Kasaba (Rural), 3 Hulekal and 4 Sampakhand Circles. Sirsi CMC",
@@ -9668,20 +7767,12 @@
    "winner_12": "Kageri Vishweshwar Hegde",
    "electors_12": 159589,
    "shares": {
-    "171": {
-     "pct": 41.0,
-     "basis": "measured"
-    },
     "168": {
      "pct": 51.7,
      "basis": "measured"
     },
-    "173": {
-     "pct": 3.4,
-     "basis": "measured"
-    },
-    "166": {
-     "pct": 2.9,
+    "171": {
+     "pct": 41.0,
      "basis": "measured"
     }
    }
@@ -9693,11 +7784,9 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    173,
-    171,
-    178,
     168,
-    172
+    171,
+    173
    ],
    "note": "",
    "extent": "4 Yellapur Taluk 5 Mundgod Taluk 6 Sirsi Taluk (Part) 2 Banavasi Circle.",
@@ -9705,20 +7794,16 @@
    "winner_12": "V S Patil",
    "electors_12": 138132,
    "shares": {
-    "173": {
-     "pct": 57.9,
+    "168": {
+     "pct": 10.6,
      "basis": "measured"
     },
     "171": {
      "pct": 24.1,
      "basis": "measured"
     },
-    "178": {
-     "pct": 2.7,
-     "basis": "measured"
-    },
-    "168": {
-     "pct": 10.6,
+    "173": {
+     "pct": 57.9,
      "basis": "measured"
     }
    }
@@ -9730,10 +7815,7 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    181,
-    180,
-    173,
-    185
+    181
    ],
    "note": "",
    "extent": "3 Hangal Taluk",
@@ -9743,18 +7825,6 @@
    "shares": {
     "181": {
      "pct": 83.8,
-     "basis": "measured"
-    },
-    "180": {
-     "pct": 9.0,
-     "basis": "measured"
-    },
-    "173": {
-     "pct": 1.2,
-     "basis": "measured"
-    },
-    "185": {
-     "pct": 4.8,
      "basis": "measured"
     }
    }
@@ -9766,10 +7836,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    180,
     179,
-    178,
-    177
+    180
    ],
    "note": "",
    "extent": "1 Shiggaon Taluk 2 Savanur Taluk (Part) 1 Savanur Circle Savanur TMC",
@@ -9777,12 +7845,12 @@
    "winner_12": "Basavaraj Bommai",
    "electors_12": 171717,
    "shares": {
-    "180": {
-     "pct": 73.8,
-     "basis": "measured"
-    },
     "179": {
      "pct": 25.5,
+     "basis": "measured"
+    },
+    "180": {
+     "pct": 73.8,
      "basis": "measured"
     }
    }
@@ -9794,10 +7862,8 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    186,
-    185,
     180,
-    179
+    185
    ],
    "note": "",
    "extent": "Savanur Taluk (Part) 2 Hattimattur Circle. 4 Haveri Taluk (Part) 2 Karjagi and 3 Guttal Circles. Haveri TMC",
@@ -9805,16 +7871,12 @@
    "winner_12": "Neharu Olekar",
    "electors_12": 180520,
    "shares": {
-    "186": {
-     "pct": 12.2,
+    "180": {
+     "pct": 25.6,
      "basis": "measured"
     },
     "185": {
      "pct": 58.7,
-     "basis": "measured"
-    },
-    "180": {
-     "pct": 25.6,
      "basis": "measured"
     }
    }
@@ -9826,11 +7888,9 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    185,
+    183,
     184,
-    180,
-    181,
-    183
+    185
    ],
    "note": "",
    "extent": "5 Byadgi Taluk 4 Haveri Taluk (Part) 1 Haveri Circle 7 Ranibennur Taluk (Part) 1 Ranebennur Circle (Part) Hanumapur, Kakol, Venkatapur, Kajjari, Shidaganahal, Guddaguddapur, Honnatti, Yattinahalli, Kerimallapur, Guddadanveri, Kunabev, Asundi, Hulihalli, Yerekuppi, Laxmapur, Sarvanda, Veerapur, Ukkund, Benakanakond, Joisaraharalahalli, Tirumaladevarakoppa, Sunakalbidari, Guddadahosahalli, Guddadabevinahalli and Hediyal villages.",
@@ -9838,24 +7898,16 @@
    "winner_12": "Patil Sureshagoudra Basalingagoudra",
    "electors_12": 162964,
    "shares": {
-    "185": {
-     "pct": 24.5,
+    "183": {
+     "pct": 12.7,
      "basis": "measured"
     },
     "184": {
      "pct": 59.4,
      "basis": "measured"
     },
-    "180": {
-     "pct": 2.0,
-     "basis": "measured"
-    },
-    "181": {
-     "pct": 1.1,
-     "basis": "measured"
-    },
-    "183": {
-     "pct": 12.7,
+    "185": {
+     "pct": 24.5,
      "basis": "measured"
     }
    }
@@ -9867,10 +7919,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    182,
-    184,
-    183,
-    181
+    182
    ],
    "note": "",
    "extent": "6 Hirekerur Taluk",
@@ -9880,14 +7929,6 @@
    "shares": {
     "182": {
      "pct": 83.0,
-     "basis": "measured"
-    },
-    "184": {
-     "pct": 9.8,
-     "basis": "measured"
-    },
-    "183": {
-     "pct": 4.4,
      "basis": "measured"
     }
    }
@@ -9900,10 +7941,7 @@
    "status": "continuing",
    "src": [
     183,
-    184,
-    185,
-    38,
-    39
+    184
    ],
    "note": "",
    "extent": "7 Ranibennur Taluk (Part) 2 Kuppelur and 3 Medleri Circles 1 Ranibennur Circle (Part) Padmavathipur, Shrinivasapur, Magod, Devagondanakatti and Ranibennur (Rural) villages. Ranibennur CMC",
@@ -9918,18 +7956,6 @@
     "184": {
      "pct": 7.2,
      "basis": "measured"
-    },
-    "185": {
-     "pct": 1.1,
-     "basis": "measured"
-    },
-    "38": {
-     "pct": 3.0,
-     "basis": "measured"
-    },
-    "39": {
-     "pct": 3.3,
-     "basis": "measured"
     }
    }
   },
@@ -9940,12 +7966,8 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    38,
     36,
-    30,
-    187,
-    186,
-    185
+    38
    ],
    "note": "",
    "extent": "1 Hadagalli Taluk 2 Hagaribommanahalli Taluk (Part) 3 Hampasagara Circle.",
@@ -9953,28 +7975,12 @@
    "winner_12": "B.Chandra Naik",
    "electors_12": 139757,
    "shares": {
-    "38": {
-     "pct": 65.6,
-     "basis": "measured"
-    },
     "36": {
      "pct": 29.2,
      "basis": "measured"
     },
-    "30": {
-     "pct": 0.9,
-     "basis": "measured"
-    },
-    "187": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "186": {
-     "pct": 0.8,
-     "basis": "measured"
-    },
-    "185": {
-     "pct": 0.5,
+    "38": {
+     "pct": 65.6,
      "basis": "measured"
     }
    }
@@ -9986,12 +7992,8 @@
    "type": "SC",
    "status": "new",
    "src": [
-    36,
-    30,
     35,
-    37,
-    29,
-    38
+    36
    ],
    "note": "",
    "extent": "halli (SC) 2 Hagaribommanahalli Taluk (Part) 1 Hagaribommanahalli, 2 Kogali (Malvi) and 4 Thambrahalli Circles. 3 Hospet Taluk (Part) 4 Mariyammanahalli Circle. 4 Kottur Circle (Part) Dhoopadahalli GP – Bevoor, Dhoopadahalli, K.Basapura, Tanda, Hyalya GP – Hampapura, Hyalya, Kodihalli, Motikal Tanda, Sirinayakanahalli, Kotturu Ayyanahalli GP – Chapparadahalli, Haralu, Kannanayakanakatte, Kotturu Ayyanahalli, Kandagal GP – Gajapura, Kandagal, Thimmalapura, Rampura GP - Chiribi, Rampura, Kottur TP",
@@ -9999,24 +8001,12 @@
    "winner_12": "K. Nemaraj Naik",
    "electors_12": 162671,
    "shares": {
-    "36": {
-     "pct": 74.1,
-     "basis": "measured"
-    },
-    "30": {
-     "pct": 0.9,
-     "basis": "measured"
-    },
     "35": {
      "pct": 2.9,
      "basis": "measured"
     },
-    "37": {
-     "pct": 15.8,
-     "basis": "measured"
-    },
-    "38": {
-     "pct": 6.2,
+    "36": {
+     "pct": 74.1,
      "basis": "measured"
     }
    }
@@ -10028,8 +8018,6 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    34,
-    29,
     35
    ],
    "note": "",
@@ -10038,14 +8026,6 @@
    "winner_12": "Anand Singh",
    "electors_12": 160652,
    "shares": {
-    "34": {
-     "pct": 38.1,
-     "basis": "measured"
-    },
-    "29": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
     "35": {
      "pct": 59.8,
      "basis": "measured"
@@ -10061,8 +8041,7 @@
    "src": [
     31,
     32,
-    34,
-    29
+    35
    ],
    "note": "",
    "extent": "3 Hospet Taluk (Part) 3 Kampli Circle Kampli TMC 5 Bellary Taluk (Part) 3 Kolur Circle. 2 Kurugodu Circle (Part) Badanahatti GP – Badanahatti Emmiganur GP - Emmiganur Genikihal GP - Genikihal, Kyadigehal Havinahal Veerapura GP - Havinahal Veerapura, Somalapura, Chitiginahalu Kallukamba GP - Kallukamba, Karikeri, Lakshmipura, Mustagatta Kurugodu GP - Kurugodu Nelludi GP - Nelludi, Kotal Camp Orvai GP - Guttiganur, Orvai, Pattanasaragu Siddammanahalli GP-Siddammanahalli",
@@ -10078,8 +8057,8 @@
      "pct": 30.4,
      "basis": "measured"
     },
-    "34": {
-     "pct": 26.5,
+    "35": {
+     "pct": 0.5,
      "basis": "measured"
     }
    }
@@ -10091,8 +8070,7 @@
    "type": "ST",
    "status": "continuing",
    "src": [
-    31,
-    28
+    31
    ],
    "note": "",
    "extent": "4 Siruguppa Taluk",
@@ -10170,10 +8148,8 @@
    "type": "ST",
    "status": "continuing",
    "src": [
-    35,
     32,
-    34,
-    36
+    35
    ],
    "note": "",
    "extent": "6 Sandur Taluk 5 Bellary Taluk (Part) 2 Kurugodu Circle (Part) Kudathini GP – Kudathini, Veniveerapura Yelubemchi GP – Thimmalapura, Yelubemchi",
@@ -10181,20 +8157,12 @@
    "winner_12": "E. Tukaram",
    "electors_12": 138339,
    "shares": {
-    "35": {
-     "pct": 85.7,
-     "basis": "measured"
-    },
     "32": {
      "pct": 10.6,
      "basis": "measured"
     },
-    "34": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "36": {
-     "pct": 0.6,
+    "35": {
+     "pct": 85.7,
      "basis": "measured"
     }
    }
@@ -10243,10 +8211,7 @@
    "status": "continuing",
    "src": [
     46,
-    37,
-    35,
-    47,
-    45
+    47
    ],
    "note": "",
    "extent": "(ST) 1 Molakalmuru Taluk 2 Challakere Taluk (Part) 2 Nayakanahatty and 3 Thalaku Circles.",
@@ -10271,9 +8236,10 @@
    "type": "ST",
    "status": "continuing",
    "src": [
-    47,
+    44,
     45,
-    46
+    46,
+    47
    ],
    "note": "",
    "extent": "2 Challakere Taluk (Part) 1 Kasaba and 4 Parasurampura Circles. Challakere TMC 3 Chitradurga Taluk (Part) 4 Turuvanur Circle",
@@ -10281,16 +8247,16 @@
    "winner_12": "Thippeswamy",
    "electors_12": 180369,
    "shares": {
-    "47": {
-     "pct": 76.6,
-     "basis": "measured"
-    },
     "45": {
      "pct": 18.3,
      "basis": "measured"
     },
     "46": {
      "pct": 2.1,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 76.6,
      "basis": "measured"
     }
    }
@@ -10302,10 +8268,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    43,
-    45,
-    44,
-    47
+    44
    ],
    "note": "",
    "extent": "3 Chitradurga Taluk (Part) 1 Kasaba and 2 Hireguntanur Circles. Chitradurga CMC",
@@ -10313,20 +8276,8 @@
    "winner_12": "Basavarajann (Basanna)",
    "electors_12": 207006,
    "shares": {
-    "43": {
-     "pct": 44.8,
-     "basis": "measured"
-    },
-    "45": {
-     "pct": 8.0,
-     "basis": "measured"
-    },
     "44": {
      "pct": 46.3,
-     "basis": "measured"
-    },
-    "47": {
-     "pct": 0.9,
      "basis": "measured"
     }
    }
@@ -10338,10 +8289,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    48,
     44,
-    47,
-    50
+    48
    ],
    "note": "",
    "extent": "6 Hiriyur Taluk",
@@ -10349,20 +8298,12 @@
    "winner_12": "Sudhakar D.",
    "electors_12": 210539,
    "shares": {
-    "48": {
-     "pct": 63.6,
-     "basis": "measured"
-    },
     "44": {
      "pct": 30.1,
      "basis": "measured"
     },
-    "47": {
-     "pct": 1.0,
-     "basis": "measured"
-    },
-    "50": {
-     "pct": 3.5,
+    "48": {
+     "pct": 63.6,
      "basis": "measured"
     }
    }
@@ -10374,8 +8315,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    50,
-    49
+    50
    ],
    "note": "",
    "extent": "5 Hosadurga Taluk",
@@ -10385,10 +8325,6 @@
    "shares": {
     "50": {
      "pct": 98.0,
-     "basis": "measured"
-    },
-    "49": {
-     "pct": 1.3,
      "basis": "measured"
     }
    }
@@ -10400,12 +8336,7 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    49,
-    43,
-    45,
-    44,
-    42,
-    158
+    49
    ],
    "note": "",
    "extent": "4 Holalkere Taluk (Part) 1 Kasaba, 2 Barmannanayakana – Durga, 3 Ramgiri and 4 Talya Circles. Holalkere TP Chitradurga Taluk (Part) 3 Bharamasagara Circle.",
@@ -10415,18 +8346,6 @@
    "shares": {
     "49": {
      "pct": 71.9,
-     "basis": "measured"
-    },
-    "43": {
-     "pct": 22.1,
-     "basis": "measured"
-    },
-    "45": {
-     "pct": 4.2,
-     "basis": "measured"
-    },
-    "44": {
-     "pct": 0.8,
      "basis": "measured"
     }
    }
@@ -10438,10 +8357,8 @@
    "type": "ST",
    "status": "continuing",
    "src": [
-    45,
-    37,
     39,
-    38
+    45
    ],
    "note": "",
    "extent": "3 Jagalur Taluk 2 Harapanahalli Taluk (Part) 2 Arasikere Circle (Part) Arasikere GP- Arasikere and Thimmalapura. Hosakota GP- Hosakota and Budihalu. Uchhangidurga GP - Uchhangidurga Chatnihalli GP- Chatnihalli and Ramaghatta. Punabaghatta GP -Punabaghatta and Kallugudi. Tauduru GP- Tauduru and Kayarakatte. Anajigere GP- Anajigere and Madihalli.",
@@ -10449,20 +8366,12 @@
    "winner_12": "S.V.Ramachandra",
    "electors_12": 145628,
    "shares": {
-    "45": {
-     "pct": 76.3,
-     "basis": "measured"
-    },
-    "37": {
-     "pct": 2.8,
-     "basis": "measured"
-    },
     "39": {
      "pct": 18.9,
      "basis": "measured"
     },
-    "38": {
-     "pct": 1.6,
+    "45": {
+     "pct": 76.3,
      "basis": "measured"
     }
    }
@@ -10475,8 +8384,7 @@
    "status": "continuing",
    "src": [
     38,
-    39,
-    37
+    39
    ],
    "note": "",
    "extent": "2 Harapanahalli Taluk (Part) 1 Kasaba, 3 Telagi and 4 Chigateri Circle 2 Arasikere Circle (Part) Kanchikere GP - Kanchikere and Hallikere. Shingrihalli GP - Shingrihalli and Sathuru. Heremagalagere GP- Heremagalagere and Lakshmipura. Harapanahalli TP",
@@ -10491,10 +8399,6 @@
     "39": {
      "pct": 65.4,
      "basis": "measured"
-    },
-    "37": {
-     "pct": 2.6,
-     "basis": "measured"
     }
    }
   },
@@ -10505,10 +8409,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    40,
-    183,
-    39,
-    41
+    40
    ],
    "note": "",
    "extent": "1 Harihar Taluk",
@@ -10518,18 +8419,6 @@
    "shares": {
     "40": {
      "pct": 85.2,
-     "basis": "measured"
-    },
-    "183": {
-     "pct": 3.0,
-     "basis": "measured"
-    },
-    "39": {
-     "pct": 4.6,
-     "basis": "measured"
-    },
-    "41": {
-     "pct": 7.0,
      "basis": "measured"
     }
    }
@@ -10598,44 +8487,13 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    41,
-    43,
-    42,
-    158,
-    39,
-    161
+    159
    ],
    "note": "",
    "extent": "6 Channagiri Taluk (Part) 2 Basavapatna-I and 3 Basavapatna-II Circles. 4 Davanagere Taluk (Part)- 2 Anagodu and 3 Mayakonda Circles.",
    "party12": "BJP",
    "winner_12": "M Basavaraja Naika",
-   "electors_12": 160082,
-   "shares": {
-    "41": {
-     "pct": 12.1,
-     "basis": "measured"
-    },
-    "43": {
-     "pct": 26.5,
-     "basis": "measured"
-    },
-    "42": {
-     "pct": 31.7,
-     "basis": "measured"
-    },
-    "158": {
-     "pct": 25.7,
-     "basis": "measured"
-    },
-    "39": {
-     "pct": 1.0,
-     "basis": "measured"
-    },
-    "161": {
-     "pct": 1.3,
-     "basis": "measured"
-    }
-   }
+   "electors_12": 160082
   },
   {
    "ac_no": 109,
@@ -10644,10 +8502,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    158,
-    159,
-    42,
-    49
+    159
    ],
    "note": "",
    "extent": "6 Channagiri Taluk (Part) 1 Kasaba, 4 Santhebennur-I, 5 Santhebennur-II and 6 Ubrani Circles. Channagiri TP",
@@ -10655,20 +8510,8 @@
    "winner_12": "K.Madal Virupakshappa",
    "electors_12": 155121,
    "shares": {
-    "158": {
-     "pct": 41.7,
-     "basis": "measured"
-    },
     "159": {
      "pct": 52.0,
-     "basis": "measured"
-    },
-    "42": {
-     "pct": 2.4,
-     "basis": "measured"
-    },
-    "49": {
-     "pct": 3.1,
      "basis": "measured"
     }
    }
@@ -10680,11 +8523,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    161,
-    40,
-    167,
-    182,
-    158
+    161
    ],
    "note": "",
    "extent": "5 Honnali Taluk",
@@ -10694,22 +8533,6 @@
    "shares": {
     "161": {
      "pct": 89.9,
-     "basis": "measured"
-    },
-    "40": {
-     "pct": 4.2,
-     "basis": "measured"
-    },
-    "167": {
-     "pct": 1.3,
-     "basis": "measured"
-    },
-    "182": {
-     "pct": 0.9,
-     "basis": "measured"
-    },
-    "158": {
-     "pct": 2.7,
      "basis": "measured"
     }
    }
@@ -10721,12 +8544,9 @@
    "type": "SC",
    "status": "new",
    "src": [
-    164,
-    161,
     159,
-    167,
     162,
-    158
+    164
    ],
    "note": "",
    "extent": "(SC) 7 Bhadravati Taluk (Part) 4 Holehonnur I and 5 Holehonnur II Circles Holehonnur III Hobli (Part) Agradahalli, Hanchinasiddapura, Timlapura, Kallihalu, Bommanakatte, Dombarabyranahalli, Marashettihalli, Yedehalli, Bhadrapura, Harogundi, Chandanakere, Kenganalu, Basavapura, Arabilachi, Arakere, Danavadi, Kallapura, Nagoli, Rangapura, Hosur and Tattehalli villages. 6 Shimoga Taluk (Part) 1 Kasaba I, 2 Kasaba II, 3 Nidige I, 5 Holalur I , 6 Holalur II, 7 Harnahalli and 8 Kumsi Circles Shimoga CMC (Part) Shimoga CMC Ward No. 13 to 15.",
@@ -10734,24 +8554,16 @@
    "winner_12": "K.G.Kumaraswamy",
    "electors_12": 178637,
    "shares": {
-    "164": {
-     "pct": 61.2,
-     "basis": "approx"
-    },
-    "161": {
-     "pct": 4.0,
-     "basis": "approx"
-    },
     "159": {
      "pct": 24.0,
      "basis": "approx"
     },
-    "167": {
-     "pct": 1.6,
-     "basis": "approx"
-    },
     "162": {
      "pct": 8.7,
+     "basis": "approx"
+    },
+    "164": {
+     "pct": 61.2,
      "basis": "approx"
     }
    }
@@ -10763,10 +8575,7 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    159,
-    160,
-    162,
-    164
+    159
    ],
    "note": "",
    "extent": "7 Bhadravati Taluk (Part) 1 Kasaba I, 2 Kasaba II and 3 Kudligere Circles Holehonnur III Hobli (Part) Belligere and Badanehalu Villages. Bhadravati CMC",
@@ -10776,18 +8585,6 @@
    "shares": {
     "159": {
      "pct": 47.3,
-     "basis": "measured"
-    },
-    "160": {
-     "pct": 49.4,
-     "basis": "measured"
-    },
-    "162": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
-    "164": {
-     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -10808,6 +8605,10 @@
    "winner_12": "K.S.Eshwarappa",
    "electors_12": 193844,
    "shares": {
+    "162": {
+     "pct": 58.6,
+     "basis": "approx"
+    },
     "164": {
      "pct": 41.4,
      "basis": "approx"
@@ -10821,11 +8622,9 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    163,
-    164,
     162,
-    165,
-    148
+    163,
+    164
    ],
    "note": "",
    "extent": "5 Tirthahalli Taluk Hosanagara Taluk (Part) Humcha Circle and Nagara circle 6 Shimoga Taluk (Part) 4 Nidige II Circle",
@@ -10833,16 +8632,16 @@
    "winner_12": "Kimmane Rathnakar",
    "electors_12": 157503,
    "shares": {
+    "162": {
+     "pct": 9.4,
+     "basis": "measured"
+    },
     "163": {
      "pct": 71.6,
      "basis": "measured"
     },
     "164": {
      "pct": 16.8,
-     "basis": "measured"
-    },
-    "162": {
-     "pct": 9.4,
      "basis": "measured"
     }
    }
@@ -10854,9 +8653,7 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    167,
-    182,
-    166
+    167
    ],
    "note": "",
    "extent": "3 Shikaripura Taluk",
@@ -10866,14 +8663,6 @@
    "shares": {
     "167": {
      "pct": 87.9,
-     "basis": "measured"
-    },
-    "182": {
-     "pct": 8.8,
-     "basis": "measured"
-    },
-    "166": {
-     "pct": 1.5,
      "basis": "measured"
     }
    }
@@ -10885,12 +8674,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    166,
-    168,
-    181,
     165,
-    167,
-    184
+    166
    ],
    "note": "",
    "extent": "2 Sorab Taluk 1 Sagar Taluk (Part) 4 Talaguppa Circle.",
@@ -10898,24 +8683,12 @@
    "winner_12": "H. Halappa",
    "electors_12": 161081,
    "shares": {
-    "166": {
-     "pct": 75.3,
-     "basis": "measured"
-    },
-    "168": {
-     "pct": 3.9,
-     "basis": "measured"
-    },
-    "181": {
-     "pct": 3.2,
-     "basis": "measured"
-    },
     "165": {
      "pct": 12.3,
      "basis": "measured"
     },
-    "167": {
-     "pct": 3.5,
+    "166": {
+     "pct": 75.3,
      "basis": "measured"
     }
    }
@@ -10927,12 +8700,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    165,
     164,
-    166,
-    168,
-    169,
-    167
+    165
    ],
    "note": "",
    "extent": "4 Hosanagara Taluk (Part) Kasaba and Kerehalli circles Hosanagara TP 1 Sagar Taluk (Part) 1 Anandapuram, 2 Kasaba., 3 Avinahalli , 5 Bharangi and 6 Karur Circles. Sagar CMC, Jog Kargal TP",
@@ -10940,28 +8709,12 @@
    "winner_12": "Gopalkrishna Beluru",
    "electors_12": 176006,
    "shares": {
-    "165": {
-     "pct": 69.8,
-     "basis": "measured"
-    },
     "164": {
      "pct": 22.5,
      "basis": "measured"
     },
-    "166": {
-     "pct": 2.1,
-     "basis": "measured"
-    },
-    "168": {
-     "pct": 1.4,
-     "basis": "measured"
-    },
-    "169": {
-     "pct": 1.0,
-     "basis": "measured"
-    },
-    "167": {
-     "pct": 1.3,
+    "165": {
+     "pct": 69.8,
      "basis": "measured"
     }
    }
@@ -11081,9 +8834,9 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    147,
     145,
-    146
+    146,
+    147
    ],
    "note": "",
    "extent": "2 Udupi Taluk (Part) 4 Kapu Circle. Brahamavara Circle (Part) Bellampalli, Kukkehalli, Perdoor, Bairampalli, Bellarpadi and 41 Shiroor villages. Udupi Circle (Part) Bommarabettu, Anjaru, Kudi, Udyavara, Korangrapadi, Athradi, Hirebettu, Badagabettu, Pernankili, Manipura, Marne and Alevooru villages.",
@@ -11091,16 +8844,16 @@
    "winner_12": "Lalaji R. Mendon",
    "electors_12": 138057,
    "shares": {
-    "147": {
-     "pct": 20.0,
-     "basis": "measured"
-    },
     "145": {
      "pct": 46.3,
      "basis": "measured"
     },
     "146": {
      "pct": 23.7,
+     "basis": "measured"
+    },
+    "147": {
+     "pct": 20.0,
      "basis": "measured"
     }
    }
@@ -11112,12 +8865,9 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    150,
-    148,
     145,
-    147,
-    146,
-    163
+    150,
+    151
    ],
    "note": "",
    "extent": "3 Karkal Taluk",
@@ -11125,20 +8875,16 @@
    "winner_12": "H. Gopal Bhandary",
    "electors_12": 142739,
    "shares": {
-    "150": {
-     "pct": 88.9,
-     "basis": "measured"
-    },
-    "148": {
-     "pct": 1.1,
-     "basis": "measured"
-    },
     "145": {
      "pct": 4.1,
      "basis": "measured"
     },
-    "163": {
-     "pct": 1.1,
+    "150": {
+     "pct": 88.9,
+     "basis": "measured"
+    },
+    "151": {
+     "pct": 0.7,
      "basis": "measured"
     }
    }
@@ -11151,11 +8897,7 @@
    "status": "continuing",
    "src": [
     152,
-    163,
-    154,
-    162,
-    150,
-    157
+    154
    ],
    "note": "",
    "extent": "1 Sringeri Taluk 2 Koppa Taluk 3 Narasimharajapura Taluk 6 Chikmagalur Taluk (Part) 4 Kandya Circle.",
@@ -11167,16 +8909,8 @@
      "pct": 85.0,
      "basis": "measured"
     },
-    "163": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
     "154": {
      "pct": 12.3,
-     "basis": "measured"
-    },
-    "157": {
-     "pct": 1.0,
      "basis": "measured"
     }
    }
@@ -11189,9 +8923,7 @@
    "status": "continuing",
    "src": [
     153,
-    154,
-    152,
-    155
+    154
    ],
    "note": "",
    "extent": "6 Chikmagalur Taluk (Part) 2 Amble, 3 Avathi, 6 Vasthare and 7 Aldur Circles 7 Mudigere Taluk",
@@ -11206,14 +8938,6 @@
     "154": {
      "pct": 16.8,
      "basis": "measured"
-    },
-    "152": {
-     "pct": 1.9,
-     "basis": "measured"
-    },
-    "155": {
-     "pct": 3.0,
-     "basis": "measured"
     }
    }
   },
@@ -11224,9 +8948,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    155,
     154,
-    152,
+    155,
     156
    ],
    "note": "",
@@ -11235,16 +8958,12 @@
    "winner_12": "C.T Ravi",
    "electors_12": 175464,
    "shares": {
-    "155": {
-     "pct": 51.5,
-     "basis": "measured"
-    },
     "154": {
      "pct": 45.4,
      "basis": "measured"
     },
-    "152": {
-     "pct": 0.5,
+    "155": {
+     "pct": 51.5,
      "basis": "measured"
     }
    }
@@ -11256,12 +8975,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    157,
-    159,
     155,
-    160,
-    49,
-    152
+    157
    ],
    "note": "",
    "extent": "4 Tarikere Taluk",
@@ -11269,28 +8984,12 @@
    "winner_12": "Suresh .D.S",
    "electors_12": 149874,
    "shares": {
-    "157": {
-     "pct": 74.6,
-     "basis": "measured"
-    },
-    "159": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
     "155": {
      "pct": 18.9,
      "basis": "measured"
     },
-    "160": {
-     "pct": 0.6,
-     "basis": "measured"
-    },
-    "49": {
-     "pct": 0.5,
-     "basis": "measured"
-    },
-    "152": {
-     "pct": 0.6,
+    "157": {
+     "pct": 74.6,
      "basis": "measured"
     }
    }
@@ -11302,10 +9001,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    156,
-    155,
-    157,
-    50
+    156
    ],
    "note": "",
    "extent": "5 Kadur Taluk (Part) 1 Kasaba, 2 Hirenallur, 3 Yagati and 4 Singatagere and 6 Birur Circles. Kadur TMC and Birur TMC.",
@@ -11315,18 +9011,6 @@
    "shares": {
     "156": {
      "pct": 72.2,
-     "basis": "measured"
-    },
-    "155": {
-     "pct": 25.3,
-     "basis": "measured"
-    },
-    "157": {
-     "pct": 0.7,
-     "basis": "measured"
-    },
-    "50": {
-     "pct": 1.0,
      "basis": "measured"
     }
    }
@@ -11338,11 +9022,9 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
+    52,
     53,
-    63,
-    50,
-    48,
-    52
+    63
    ],
    "note": "",
    "extent": "nahalli 1 Chikkanayakanahalli Taluk 2 Sira Taluk (Part) 3 Bukkapatna Circle",
@@ -11368,8 +9050,7 @@
    "status": "continuing",
    "src": [
     62,
-    63,
-    130
+    63
    ],
    "note": "",
    "extent": "8 Tiptur Taluk",
@@ -11394,10 +9075,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    61,
     60,
-    63,
-    62
+    61
    ],
    "note": "",
    "extent": "9 Turuvekere Taluk 7 Gubbi Taluk (Part) 5 C.S. Pura Circle 6 Kadaba Circle (Part) Hindasgere GP- Belur, Bittagondanahalli, Chamanahalli, Harivesandra. K, Kambasandra, Kenchaviranahalli, V. Kodihalli, Kallur GP- Benkana Gondi, Bilinandi, K. Kallahalli, Kallur, Peddanahalli GP- Bochihalli, Kadabagadde Kaval (B), Kunaghatta, Mathighatta, Melekallahalli, Peddanahalli, Pendaranahalli, Vadavana Ghatta and Varahasandra villages.",
@@ -11405,16 +9084,12 @@
    "winner_12": "Jaggesh",
    "electors_12": 163631,
    "shares": {
-    "61": {
-     "pct": 77.4,
-     "basis": "measured"
-    },
     "60": {
      "pct": 19.5,
      "basis": "measured"
     },
-    "63": {
-     "pct": 0.5,
+    "61": {
+     "pct": 77.4,
      "basis": "measured"
     }
    }
@@ -11426,11 +9101,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    59,
     58,
-    61,
-    60,
-    95
+    59
    ],
    "note": "",
    "extent": "10 Kunigal Taluk",
@@ -11438,12 +9110,12 @@
    "winner_12": "B.B. Ramaswamy Gowda",
    "electors_12": 155450,
    "shares": {
-    "59": {
-     "pct": 69.3,
-     "basis": "measured"
-    },
     "58": {
      "pct": 25.4,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 69.3,
      "basis": "measured"
     }
    }
@@ -11476,12 +9148,9 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    58,
-    57,
     54,
-    56,
-    53,
-    60
+    57,
+    58
    ],
    "note": "",
    "extent": "6 Tumkur Taluk (Part) 1 Kasaba, 2 Urdigere, 3 Gulur, 4 Hebbur and 5 Bellavi Circles.",
@@ -11489,24 +9158,16 @@
    "winner_12": "B. Suresh Gowda",
    "electors_12": 155943,
    "shares": {
-    "58": {
-     "pct": 49.8,
+    "54": {
+     "pct": 12.3,
      "basis": "measured"
     },
     "57": {
      "pct": 34.9,
      "basis": "measured"
     },
-    "54": {
-     "pct": 12.3,
-     "basis": "measured"
-    },
-    "56": {
-     "pct": 1.1,
-     "basis": "measured"
-    },
-    "60": {
-     "pct": 0.9,
+    "58": {
+     "pct": 49.8,
      "basis": "measured"
     }
    }
@@ -11518,10 +9179,9 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    56,
     54,
     55,
-    53
+    56
    ],
    "note": "",
    "extent": "5 Koratagere Taluk 4 Madhugiri Taluk (Part) 6 Puruvara Circle. 6 Tumkur Taluk (Part) 6 Kora Circle.",
@@ -11529,10 +9189,6 @@
    "winner_12": "Dr. G. Parameswara",
    "electors_12": 165019,
    "shares": {
-    "56": {
-     "pct": 47.3,
-     "basis": "measured"
-    },
     "54": {
      "pct": 31.8,
      "basis": "measured"
@@ -11541,8 +9197,8 @@
      "pct": 11.7,
      "basis": "measured"
     },
-    "53": {
-     "pct": 0.5,
+    "56": {
+     "pct": 47.3,
      "basis": "measured"
     }
    }
@@ -11590,9 +9246,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    52,
-    53,
-    48
+    52
    ],
    "note": "",
    "extent": "2 Sira Taluk (Part) 1 Kasaba, 2 Kallambella 4 Gowdagere and 5 Hulikunte Circles. Sira TMC",
@@ -11602,14 +9256,6 @@
    "shares": {
     "52": {
      "pct": 72.2,
-     "basis": "measured"
-    },
-    "53": {
-     "pct": 23.4,
-     "basis": "measured"
-    },
-    "48": {
-     "pct": 2.1,
      "basis": "measured"
     }
    }
@@ -11642,8 +9288,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    55,
-    54
+    55
    ],
    "note": "",
    "extent": "4 Madhugiri Taluk (Part) 1 Kasaba, 2 Dodderi, 3 Midigeshi, 4 I.D.Halli and 5 Kodigenahalli Circles. Madhugiri TMC",
@@ -11653,10 +9298,6 @@
    "shares": {
     "55": {
      "pct": 64.6,
-     "basis": "measured"
-    },
-    "54": {
-     "pct": 26.2,
      "basis": "measured"
     }
    }
@@ -11669,8 +9310,6 @@
    "status": "renamed",
    "src": [
     64,
-    65,
-    55,
     67
    ],
    "note": "",
@@ -11681,14 +9320,6 @@
    "shares": {
     "64": {
      "pct": 63.5,
-     "basis": "measured"
-    },
-    "65": {
-     "pct": 17.8,
-     "basis": "measured"
-    },
-    "55": {
-     "pct": 0.6,
      "basis": "measured"
     },
     "67": {
@@ -11704,9 +9335,9 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
+    66,
     67,
-    68,
-    66
+    68
    ],
    "note": "",
    "extent": "3 Gudibanda Taluk 4 Bagepalli Taluk",
@@ -11714,16 +9345,16 @@
    "winner_12": "Sampangi N",
    "electors_12": 158459,
    "shares": {
+    "66": {
+     "pct": 13.7,
+     "basis": "measured"
+    },
     "67": {
      "pct": 54.9,
      "basis": "measured"
     },
     "68": {
      "pct": 17.7,
-     "basis": "measured"
-    },
-    "66": {
-     "pct": 13.7,
      "basis": "measured"
     }
    }
@@ -11735,10 +9366,8 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    65,
     64,
-    67,
-    66
+    65
    ],
    "note": "",
    "extent": "2 Chikkaballapur Taluk 1 Gauribidanur Taluk (Part) 4 Manchenahalli Circle.",
@@ -11746,16 +9375,12 @@
    "winner_12": "K P Bachche Gowda",
    "electors_12": 159971,
    "shares": {
-    "65": {
-     "pct": 71.8,
-     "basis": "measured"
-    },
     "64": {
      "pct": 20.7,
      "basis": "measured"
     },
-    "66": {
-     "pct": 2.8,
+    "65": {
+     "pct": 71.8,
      "basis": "measured"
     }
    }
@@ -11768,9 +9393,7 @@
    "status": "continuing",
    "src": [
     66,
-    68,
-    65,
-    67
+    68
    ],
    "note": "",
    "extent": "5 Sidlaghatta Taluk 6 Chintamani Taluk (Part) 6 Chilakalanerpu Circle.",
@@ -11785,10 +9408,6 @@
     "68": {
      "pct": 17.8,
      "basis": "measured"
-    },
-    "65": {
-     "pct": 5.9,
-     "basis": "measured"
     }
    }
   },
@@ -11799,9 +9418,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    68,
-    74,
-    66
+    68
    ],
    "note": "",
    "extent": "6 Chintamani Taluk (Part) 1 Kasaba, 2 Murugamalla, 3 Ambajidurga, 4 Munganahalli and 5 Kaiwara Circles. Chintamani CMC",
@@ -11811,14 +9428,6 @@
    "shares": {
     "68": {
      "pct": 55.7,
-     "basis": "measured"
-    },
-    "74": {
-     "pct": 37.7,
-     "basis": "measured"
-    },
-    "66": {
-     "pct": 6.1,
      "basis": "measured"
     }
    }
@@ -11831,7 +9440,6 @@
    "status": "renamed",
    "src": [
     69,
-    68,
     73,
     74
    ],
@@ -11843,10 +9451,6 @@
    "shares": {
     "69": {
      "pct": 68.9,
-     "basis": "measured"
-    },
-    "68": {
-     "pct": 6.3,
      "basis": "measured"
     },
     "73": {
@@ -11866,9 +9470,7 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    70,
-    69,
-    73
+    70
    ],
    "note": "",
    "extent": "11 Mulbagal Taluk",
@@ -11878,14 +9480,6 @@
    "shares": {
     "70": {
      "pct": 83.5,
-     "basis": "measured"
-    },
-    "69": {
-     "pct": 3.8,
-     "basis": "measured"
-    },
-    "73": {
-     "pct": 8.8,
      "basis": "measured"
     }
    }
@@ -11897,10 +9491,7 @@
    "type": "SC",
    "status": "renamed",
    "src": [
-    72,
-    70,
-    71,
-    73
+    72
    ],
    "note": "",
    "extent": "(SC) 10 Bangarapet Taluk (Part) 4 Bethamangala and 5 Kyasamballi Circles. Robertson Pet CMC 2 Robertsonpet Circle (Part) Yerranaganahalli, Chinnapalli, Mallampalli-Ryagadahalli, Nakkanahalli, Kallikuppa, Thongal, M. Kothur, Marikuppa, Surapalli, Baliganahalli, Giddegowdanahalli, Chinnaganahalli, Keelukambali, Doddakambali, Bynepalli, Lakshmisagara and Ghattamadamangala villages.",
@@ -11910,14 +9501,6 @@
    "shares": {
     "72": {
      "pct": 79.2,
-     "basis": "measured"
-    },
-    "71": {
-     "pct": 13.8,
-     "basis": "measured"
-    },
-    "73": {
-     "pct": 0.8,
      "basis": "measured"
     }
    }
@@ -11931,8 +9514,7 @@
    "src": [
     72,
     73,
-    75,
-    71
+    74
    ],
    "note": "",
    "extent": "10 Bangarapet Taluk (Part) 1 Kasaba Circle 2 Robertsonpet Circle (Part) Chinnakote GP Chinkote, Thammenhalli, Doddavalagamadhi GP Ajjapalli, Buragamakanahalli, Byraganahalli, Chikkakrimanahalli, Doddachinnapalli, Doddavalagamadhi, Iymarasapura, Doddurkarpanhalli GP, Dasarahosahalli, Doddurkarpanhalli, Dodduru Karapanahalli Plantation, GhattakamadenahalliGP Gattarayagadahalli, Ghattakamadenahalli, Krishnarajapura, Peddapalli, Hunukunda GP, Doddarahalli, Ganacharapura, Hunukunda, Kurubarahalli, Madamuthanhalli, Mittamalahalli, Pitchaguntrahalli, Kamasamudra GP, Maliyangurki, Maliyangurki Amanikere, Karahalli GP, Kavaraganahalli, Kesaranhalli GP Kesaranhalli, Mavahalli GP, Alaganahalli, Chaliganhalli, Kamandahalli, Manchenahalli, Mavahalli and Vadandahalli villages. 3 Kamasamudra and 6 Boodikote Circles. Bangarapet TMC 8 Kolar Taluk (Part) 7 Huttur Circle.",
@@ -11948,12 +9530,8 @@
      "pct": 35.2,
      "basis": "measured"
     },
-    "75": {
-     "pct": 5.5,
-     "basis": "measured"
-    },
-    "71": {
-     "pct": 0.7,
+    "74": {
+     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -11963,10 +9541,9 @@
    "name": "Kolar",
    "district": "Kolar",
    "type": "GEN",
-   "status": "continuing",
+   "status": "new",
    "src": [
-    74,
-    73
+    74
    ],
    "note": "",
    "extent": "8 Kolar Taluk (Part) 2 Vokkaleri, 3 Narasapura and 4 Vemgal Circles. 1 Kolar Kasaba Circle entire Kolar CMC",
@@ -11976,10 +9553,6 @@
    "shares": {
     "74": {
      "pct": 62.8,
-     "basis": "measured"
-    },
-    "73": {
-     "pct": 23.8,
      "basis": "measured"
     }
    }
@@ -11991,8 +9564,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    75,
-    74
+    75
    ],
    "note": "",
    "extent": "9 Malur Taluk",
@@ -12632,9 +10204,8 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    104,
     103,
-    92,
+    104,
     112
    ],
    "note": "",
@@ -12643,12 +10214,12 @@
    "winner_12": "P M Narendraswamy",
    "electors_12": 209579,
    "shares": {
-    "104": {
-     "pct": 78.1,
-     "basis": "measured"
-    },
     "103": {
      "pct": 11.9,
+     "basis": "measured"
+    },
+    "104": {
+     "pct": 78.1,
      "basis": "measured"
     },
     "112": {
@@ -12664,10 +10235,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    102,
-    103,
-    105,
-    93
+    103
    ],
    "note": "",
    "extent": "6 Maddur Taluk (Part) 1 Kasaba - I, 2 Kasaba - II, 5 Koppa - III, 6 Athagur, 7 C.A.Kere- I, 8 C.A.Kere - II and 9 C.A. Kere -III Circles. Maddur TMC",
@@ -12675,10 +10243,6 @@
    "winner_12": "M.S.Siddaraju",
    "electors_12": 179929,
    "shares": {
-    "102": {
-     "pct": 52.6,
-     "basis": "measured"
-    },
     "103": {
      "pct": 43.6,
      "basis": "measured"
@@ -12692,11 +10256,8 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    108,
     106,
-    101,
-    109,
-    105
+    108
    ],
    "note": "",
    "extent": "3 Pandavapura Taluk 5 Mandya Taluk (Part) 7 Dudda Circle-I 8 Dudda Circle-II (Part) Gunnayakanahalli, Mardipura, Shambunahalli, H. Malligere, Shivalli, Ganadalu, Mallanayakanakatte, Sampalli, Beeragowdanahalli, B. Hosahalli, Holalu, Chandagalu, Bilaguli, Modachakanahalli and T, Malligere villages.",
@@ -12704,16 +10265,12 @@
    "winner_12": "C S Puttaraju",
    "electors_12": 174942,
    "shares": {
-    "108": {
-     "pct": 68.9,
-     "basis": "measured"
-    },
     "106": {
      "pct": 21.8,
      "basis": "measured"
     },
-    "105": {
-     "pct": 3.1,
+    "108": {
+     "pct": 68.9,
      "basis": "measured"
     }
    }
@@ -12725,11 +10282,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    106,
-    105,
-    101,
-    102,
-    103
+    106
    ],
    "note": "",
    "extent": "5 Mandya Taluk (Part) 1 Kasaba Circle-I, 2 Keragodu Circle-I, 3 Keragodu Circle-II, 4 Kasaba Circle-II, 5 Basaralu Circle-I and 6 Basaralu Circle-II Mandya CMC",
@@ -12739,18 +10292,6 @@
    "shares": {
     "106": {
      "pct": 67.8,
-     "basis": "measured"
-    },
-    "105": {
-     "pct": 29.8,
-     "basis": "measured"
-    },
-    "102": {
-     "pct": 1.1,
-     "basis": "measured"
-    },
-    "103": {
-     "pct": 1.1,
      "basis": "measured"
     }
    }
@@ -12762,10 +10303,8 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    107,
-    105,
-    108,
-    106
+    106,
+    107
    ],
    "note": "",
    "extent": "4 Srirangapatna Taluk 5 Mandya Taluk (Part) 8 Dudda Circle - II (Part) Kiragandur village. 5 Kothathi -I and 6 Kothathi –II Circles.",
@@ -12775,10 +10314,6 @@
    "shares": {
     "107": {
      "pct": 71.7,
-     "basis": "measured"
-    },
-    "105": {
-     "pct": 14.2,
      "basis": "measured"
     }
    }
@@ -12791,9 +10326,7 @@
    "status": "continuing",
    "src": [
     101,
-    102,
-    59,
-    132
+    103
    ],
    "note": "",
    "extent": "2 Nagamangala Taluk 6 Maddur Taluk (Part) Koppa-I and II Circles.",
@@ -12803,10 +10336,6 @@
    "shares": {
     "101": {
      "pct": 84.3,
-     "basis": "measured"
-    },
-    "102": {
-     "pct": 11.4,
      "basis": "measured"
     }
    }
@@ -12851,8 +10380,7 @@
    "status": "renamed",
    "src": [
     132,
-    62,
-    61
+    133
    ],
    "note": "",
    "extent": "belagola 8 Channarayapatna Taluk (Part) 1 Kasaba, 2 Hirisave, 3 Shravanabelagola, 4 Nuggehalli and 5 Bagur Circles. Channarayapatna TMC",
@@ -12864,8 +10392,8 @@
      "pct": 94.2,
      "basis": "measured"
     },
-    "62": {
-     "pct": 0.5,
+    "133": {
+     "pct": 0.6,
      "basis": "measured"
     }
    }
@@ -12878,10 +10406,7 @@
    "status": "continuing",
    "src": [
     130,
-    131,
-    156,
-    63,
-    62
+    131
    ],
    "note": "",
    "extent": "3 Arsikere Taluk (Part) 1 Kasaba, 2 Kanakatte, 3 Banavara and 4 Gandasi Circles. Arsikere TMC",
@@ -12896,10 +10421,6 @@
     "131": {
      "pct": 24.7,
      "basis": "measured"
-    },
-    "62": {
-     "pct": 1.0,
-     "basis": "measured"
     }
    }
   },
@@ -12911,11 +10432,8 @@
    "status": "continuing",
    "src": [
     129,
-    131,
-    155,
-    154,
-    153,
-    130
+    130,
+    131
    ],
    "note": "",
    "extent": "2 Belur Taluk 3 Arsikere Taluk (Part) 5 Javgal Circle.",
@@ -12941,8 +10459,7 @@
    "status": "continuing",
    "src": [
     131,
-    135,
-    129
+    135
    ],
    "note": "",
    "extent": "4 Hassan Taluk (Part) 1 Kasaba and 5 Salagame Circles. Hassan (CMC+OG)",
@@ -12957,10 +10474,6 @@
     "135": {
      "pct": 53.6,
      "basis": "measured"
-    },
-    "129": {
-     "pct": 1.0,
-     "basis": "measured"
     }
    }
   },
@@ -12971,10 +10484,10 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    133,
     131,
-    135,
-    132
+    132,
+    133,
+    135
    ],
    "note": "",
    "extent": "4 Hassan Taluk (Part) 3 Shantigrama and 4 Dudda Circles. 8 Channarayapatna Taluk (Part) 6 Dandiganahalli Circle. 7 Holenarasipur Taluk (Part) 1 Kasaba and 2 Halekote Circles. Holenarasipur TMC",
@@ -12982,20 +10495,20 @@
    "winner_12": "H. D. Revanna",
    "electors_12": 181153,
    "shares": {
-    "133": {
-     "pct": 52.5,
-     "basis": "measured"
-    },
     "131": {
      "pct": 21.2,
      "basis": "measured"
     },
-    "135": {
-     "pct": 20.3,
-     "basis": "measured"
-    },
     "132": {
      "pct": 5.2,
+     "basis": "measured"
+    },
+    "133": {
+     "pct": 52.5,
+     "basis": "measured"
+    },
+    "135": {
+     "pct": 20.3,
      "basis": "measured"
     }
    }
@@ -13007,10 +10520,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    134,
     133,
-    135,
-    128
+    134
    ],
    "note": "",
    "extent": "6 Arkalgud Taluk 7 Holenarasipur Taluk (Part) 3 Hallimysore Circle.",
@@ -13018,16 +10529,12 @@
    "winner_12": "Manju. A",
    "electors_12": 178209,
    "shares": {
-    "134": {
-     "pct": 67.0,
-     "basis": "measured"
-    },
     "133": {
      "pct": 24.6,
      "basis": "measured"
     },
-    "128": {
-     "pct": 1.1,
+    "134": {
+     "pct": 67.0,
      "basis": "measured"
     }
    }
@@ -13039,10 +10546,8 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    136,
     135,
-    129,
-    131
+    136
    ],
    "note": "",
    "extent": "1 Sakleshpur Taluk 5 Alur Taluk 4 Hassan Taluk (Part) 2 Kattaya Circle.",
@@ -13050,16 +10555,12 @@
    "winner_12": "H. K. Kumaraswamy",
    "electors_12": 167833,
    "shares": {
-    "136": {
-     "pct": 83.0,
-     "basis": "measured"
-    },
     "135": {
      "pct": 9.8,
      "basis": "measured"
     },
-    "129": {
-     "pct": 1.3,
+    "136": {
+     "pct": 83.0,
      "basis": "measured"
     }
    }
@@ -13071,10 +10572,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    140,
-    153,
-    150,
-    141
+    140
    ],
    "note": "",
    "extent": "3 Belthangady Taluk",
@@ -13084,14 +10582,6 @@
    "shares": {
     "140": {
      "pct": 90.3,
-     "basis": "measured"
-    },
-    "153": {
-     "pct": 3.2,
-     "basis": "measured"
-    },
-    "141": {
-     "pct": 0.7,
      "basis": "measured"
     }
    }
@@ -13103,10 +10593,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    151,
-    150,
-    145,
-    144
+    151
    ],
    "note": "",
    "extent": "1 Mangalore Taluk (Part) 2 Surathkal, 4 Moodabidri and 5 Mulki Circles. Mudbidri TMC Mulki TP",
@@ -13116,18 +10603,6 @@
    "shares": {
     "151": {
      "pct": 71.3,
-     "basis": "measured"
-    },
-    "150": {
-     "pct": 6.2,
-     "basis": "measured"
-    },
-    "145": {
-     "pct": 2.6,
-     "basis": "measured"
-    },
-    "144": {
-     "pct": 14.7,
      "basis": "measured"
     }
    }
@@ -13197,9 +10672,6 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    143,
-    142,
-    141,
     139
    ],
    "note": "",
@@ -13208,14 +10680,6 @@
    "winner_12": "U.T. Khadar",
    "electors_12": 141882,
    "shares": {
-    "143": {
-     "pct": 56.4,
-     "basis": "approx"
-    },
-    "141": {
-     "pct": 2.9,
-     "basis": "measured"
-    },
     "139": {
      "pct": 33.8,
      "basis": "measured"
@@ -13229,10 +10693,8 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    141,
     139,
-    140,
-    143
+    141
    ],
    "note": "",
    "extent": "2 Bantval Taluk (Part) 1 Bantwal Circle. 2 Panemangalore Circle (Part) Kariyangala, Badaga Bellur, Tenkabellur, Ammunje, Kallige, Sajipamannuru, Sajipamuda, Amtoor, Narikombu, Shambhoor, Manchi, Golthamajal, Balthila, Barimar and Kadeshwalya villages. 3 Vittal Circle (Part) Bolanthuru, Veerakamba, Ananthadi, Mani, Peraje, Netlamudnur, Kolnadu, Vittalpadanur, Salethur, Karopady and Kanyana villages Bantval TP",
@@ -13240,16 +10702,12 @@
    "winner_12": "B.Ramanatha Rai",
    "electors_12": 172836,
    "shares": {
-    "141": {
-     "pct": 40.8,
-     "basis": "measured"
-    },
     "139": {
      "pct": 48.5,
      "basis": "measured"
     },
-    "140": {
-     "pct": 4.6,
+    "141": {
+     "pct": 40.8,
      "basis": "measured"
     }
    }
@@ -13261,8 +10719,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    138,
-    139
+    138
    ],
    "note": "",
    "extent": "2 Bantval Taluk (Part) 3 Vittal Circle (Part) Biliyur, Perne, Kedila, Vittal, Peruvai, Manila, Alike, Idkidu, Kula, Vittalmudnoor, Kepu and Punacha villages. 4 Puttur Taluk (Part) 3 Puttur Circle 1 Uppinangady Circle (Part) Kabaka (Rural), Kudipadi, Padnoor (Rural), Bannur (Rural), Kodimbady, Chickamudnoor (Rural), Bellipadi, Nekkiladi, Hirebandadi, Uppinangady and Bajathuru villages. Puttur TMC",
@@ -13272,10 +10729,6 @@
    "shares": {
     "138": {
      "pct": 82.0,
-     "basis": "measured"
-    },
-    "139": {
-     "pct": 7.5,
      "basis": "measured"
     }
    }
@@ -13288,9 +10741,7 @@
    "status": "continuing",
    "src": [
     137,
-    138,
-    140,
-    136
+    138
    ],
    "note": "",
    "extent": "6 Sullia Taluk 4 Puttur Taluk (Part) 2 Kadaba Circle 1 Uppinangady Circle (Part) Golithattu, Alanthaya, Konalu, Nelyadi, Kowkradi, Ichlampady, Konaje, Shirady and Shiribagilu villages.",
@@ -13304,10 +10755,6 @@
     },
     "138": {
      "pct": 13.4,
-     "basis": "measured"
-    },
-    "136": {
-     "pct": 1.4,
      "basis": "measured"
     }
    }
@@ -13352,10 +10799,7 @@
    "status": "continuing",
    "src": [
     126,
-    127,
-    128,
-    137,
-    125
+    127
    ],
    "note": "",
    "extent": "3 Virajpet Taluk 1 Madikeri Taluk (Part) 2 Sampaje, 3 Bhagamandala and 4 Napoklu Circles.",
@@ -13370,10 +10814,6 @@
     "127": {
      "pct": 35.7,
      "basis": "measured"
-    },
-    "128": {
-     "pct": 5.0,
-     "basis": "measured"
     }
    }
   },
@@ -13384,9 +10824,7 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    125,
-    128,
-    134
+    125
    ],
    "note": "",
    "extent": "1 Piriyapatna Taluk",
@@ -13396,10 +10834,6 @@
    "shares": {
     "125": {
      "pct": 90.8,
-     "basis": "measured"
-    },
-    "128": {
-     "pct": 1.0,
      "basis": "measured"
     }
    }
@@ -13465,10 +10899,7 @@
    "type": "ST",
    "status": "renamed",
    "src": [
-    122,
-    123,
-    117,
-    118
+    122
    ],
    "note": "",
    "extent": "kote (ST) 5 Heggadadevankote Taluk",
@@ -13478,14 +10909,6 @@
    "shares": {
     "122": {
      "pct": 90.3,
-     "basis": "measured"
-    },
-    "117": {
-     "pct": 1.8,
-     "basis": "measured"
-    },
-    "118": {
-     "pct": 2.9,
      "basis": "measured"
     }
    }
@@ -13497,11 +10920,7 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    118,
-    113,
-    121,
-    122,
-    120
+    118
    ],
    "note": "",
    "extent": "6 Nanjangud Taluk (Part) 1 Kasaba and 2 Hullahalli Circles. 5 Doddakowlande Circle (Part) Hedathale, Basavattige, Devanur, Chikkakowlande, Nerale, Hemmaragala, Kumbarahalli, Hosapura, Koodlapura, Bagooru, Tharadale, Mallahalli, Hampapura, Halepura, Gattavadipura, Haraganapur, Gattavadi and Doddakowlande Villages. Nanjangud TMC",
@@ -13511,22 +10930,6 @@
    "shares": {
     "118": {
      "pct": 63.2,
-     "basis": "measured"
-    },
-    "113": {
-     "pct": 2.6,
-     "basis": "measured"
-    },
-    "121": {
-     "pct": 21.8,
-     "basis": "measured"
-    },
-    "122": {
-     "pct": 3.0,
-     "basis": "measured"
-    },
-    "120": {
-     "pct": 9.4,
      "basis": "measured"
     }
    }
@@ -13538,12 +10941,7 @@
    "type": "GEN",
    "status": "renamed",
    "src": [
-    117,
-    107,
-    108,
-    122,
-    124,
-    115
+    117
    ],
    "note": "",
    "extent": "wari 4 Mysore Taluk (Part) 3 Elwala, 4 Kasaba and 1 Jayapura Circles. Mysore M corp. (Part) Mysore (M Corp.) - Ward No.19",
@@ -13553,18 +10951,6 @@
    "shares": {
     "117": {
      "pct": 91.2,
-     "basis": "approx"
-    },
-    "107": {
-     "pct": 0.9,
-     "basis": "approx"
-    },
-    "122": {
-     "pct": 1.7,
-     "basis": "approx"
-    },
-    "115": {
-     "pct": 3.2,
      "basis": "approx"
     }
    }
@@ -13658,10 +11044,7 @@
    "status": "new",
    "src": [
     113,
-    117,
-    121,
-    120,
-    107
+    117
    ],
    "note": "",
    "extent": "4 Mysore Taluk (Part) 2 Varuna Circle. 6 Nanjangud Taluk (Part) 3 Chikkaiahna-Chatra and 4 Biligere Circles. 5 Doddakowlande Circle (Part) Varahalli, Kakkarahatti, Banooru, Hadya, Karepura, Karya, Chunchanahalli, Konanoor, Konanapura, Paduvalamarahalli, Ramasettipura, Hanumanapura, Paduvala Agrahara, Dasanooru, Doddahomma, Chikkahomma and Thoravalli villages. 7 Tirumakudal Narsipur Taluk (Part) 1 Kasaba Circle.",
@@ -13675,14 +11058,6 @@
     },
     "117": {
      "pct": 26.2,
-     "basis": "measured"
-    },
-    "121": {
-     "pct": 13.7,
-     "basis": "measured"
-    },
-    "120": {
-     "pct": 9.4,
      "basis": "measured"
     }
    }
@@ -13736,9 +11111,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    110,
-    111,
-    104
+    110
    ],
    "note": "",
    "extent": "4 Kollegal Taluk (Part) 2 Palya, 3 Hanur, 4 Ramapura and 5 Lokkanahalli Circles. Hanur TP",
@@ -13748,10 +11121,6 @@
    "shares": {
     "110": {
      "pct": 95.1,
-     "basis": "measured"
-    },
-    "111": {
-     "pct": 3.2,
      "basis": "measured"
     }
    }
@@ -13763,12 +11132,8 @@
    "type": "SC",
    "status": "continuing",
    "src": [
-    111,
-    119,
-    121,
-    113,
     110,
-    120
+    111
    ],
    "note": "",
    "extent": "3 Yelandur Taluk 4 Kollegal Taluk (Part) 1 Kasaba Circle. Kollegal TMC Chamarajanagar Taluk (Part) 4 Santhemarahalli Circle.",
@@ -13776,24 +11141,12 @@
    "winner_12": "R.Dhruvanarayana",
    "electors_12": 180177,
    "shares": {
-    "111": {
-     "pct": 54.3,
-     "basis": "measured"
-    },
-    "119": {
-     "pct": 22.7,
-     "basis": "measured"
-    },
-    "121": {
-     "pct": 11.7,
-     "basis": "measured"
-    },
     "110": {
      "pct": 2.3,
      "basis": "measured"
     },
-    "120": {
-     "pct": 8.9,
+    "111": {
+     "pct": 54.3,
      "basis": "measured"
     }
    }
@@ -13805,9 +11158,7 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    120,
-    119,
-    111
+    120
    ],
    "note": "",
    "extent": "2 Chamarajanagar Taluk (Part) 1 Kasaba, 2 Haradanahalli and 5 Chandakavadi Circles. 3 Harave Circle (Part) Nanjedevanapura, Kalanahundi, Veeranapura, Hangarepura, Udigala, Devalapura, Maduvinabeedu, Uganedahundi, Badagalapura, Katnavadi, Kothalavadi, Kaggalipura, Sanegala and Thammadahalli villages. Chamarajanagar CMC Ramasamudra Rural.",
@@ -13817,10 +11168,6 @@
    "shares": {
     "120": {
      "pct": 83.8,
-     "basis": "measured"
-    },
-    "119": {
-     "pct": 9.8,
      "basis": "measured"
     }
    }
@@ -13832,9 +11179,8 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    121,
     120,
-    118
+    121
    ],
    "note": "",
    "extent": "1 Gundlupet Taluk 2 Chamarajanagar Taluk (Part) 3 Harave Circle (Part) Heggavadi, Bujaganapura, Kerehalli, Aralikatte, Kebbepura, Chikkabegur, Hirebegur, Kilalipura, Mukkadahalli, Govindavadi, Harave, Maliyuru, Kulagana, Mudnakodu, Bettadapura, Sagade, Kethahalli, Kengaki and Kumachahalli Villages.",
@@ -13842,12 +11188,12 @@
    "winner_12": "H.S.Mahadeva Prasad",
    "electors_12": 176750,
    "shares": {
-    "121": {
-     "pct": 86.0,
-     "basis": "measured"
-    },
     "120": {
      "pct": 9.8,
+     "basis": "measured"
+    },
+    "121": {
+     "pct": 86.0,
      "basis": "measured"
     }
    }
