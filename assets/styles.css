@@ -1362,6 +1362,229 @@ svg.plate-north {
 @media print { .theme-toggle { display: none !important; } }
 
 /* ============================================================
+   Seat record as index card
+   ============================================================ */
+
+.idxcard {
+  position: relative;
+  background: var(--bg);
+  border: var(--border);
+  border-radius: 2px;
+  padding: 16px 16px 12px;
+  box-shadow: 0 1px 3px var(--ink-08);
+}
+.idxcard::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--teal);
+  border-radius: 2px 2px 0 0;
+}
+.idxcard__hole {
+  position: absolute;
+  top: 11px; left: 11px;
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 1px solid var(--ink-25);
+}
+.idxcard__head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 6px 0 2px 20px;
+}
+.idxcard__eyebrow {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-60);
+  padding-top: 2px;
+}
+.idxcard__no {
+  flex: none;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  border: 0.75px solid var(--ink-45);
+  border-radius: 2px;
+  padding: 2px 7px;
+  color: var(--ink-70);
+}
+.idxcard__title-row {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 6px 0 1px 20px;
+}
+.idxcard__title {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 1.1;
+}
+.idxcard__tag {
+  font-family: var(--sans);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  background: var(--ink);
+  color: var(--bg);
+  padding: 1px 6px;
+  border-radius: 2px;
+}
+.idxcard__district {
+  margin: 0 0 10px 20px;
+  font-family: var(--sans);
+  font-size: 11.5px;
+  letter-spacing: 0.03em;
+  color: var(--ink-45);
+}
+.idxcard__rule {
+  height: 0;
+  margin: 0 0 12px;
+  border-top: 1.5px solid var(--ink);
+  border-bottom: 0.75px solid var(--ink-45);
+  padding-top: 1.5px;
+}
+.idxcard__stamp {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  border-radius: 3px;
+  border: 1.5px dashed;
+  transform: rotate(-1.5deg);
+  margin: 0 0 14px;
+}
+.idxcard__row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+.idxcard__row-label {
+  flex: none;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-45);
+}
+.idxcard__leader {
+  flex: 1 1 auto;
+  border-bottom: 1px dotted var(--ink-35);
+  margin: 0 2px 3px;
+  min-width: 12px;
+}
+.idxcard__row-value {
+  flex: none;
+  max-width: 62%;
+  text-align: right;
+  font-family: var(--sans);
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--ink);
+}
+.idxcard__sub {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0 0 10px;
+  font-family: var(--sans);
+  font-size: 12px;
+  color: var(--ink-60);
+}
+.idxcard__sub-note {
+  color: var(--ink-45);
+  font-style: italic;
+}
+.idxcard__block {
+  margin: 0 0 12px;
+  padding-left: 10px;
+  border-left: 2px solid var(--ink-18);
+}
+.idxcard__block-label {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ink-45);
+  margin-bottom: 4px;
+}
+.idxcard__block p {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink-85);
+}
+.idxcard__xref-label {
+  font-family: var(--sans);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin-bottom: 8px;
+}
+.idxcard__tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 2px;
+}
+.idxcard__tab {
+  all: unset;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: baseline;
+  font-family: var(--sans);
+  font-size: 12.5px;
+  font-weight: 500;
+  border: 1px solid var(--ink-45);
+  background: var(--surface);
+  padding: 3px 9px;
+  border-radius: 99px;
+  transition: background 100ms, border-color 100ms;
+}
+.idxcard__tab:hover { background: var(--teal-lt); border-color: var(--teal); }
+.idxcard__tab-arrow { margin-left: 5px; }
+.idxcard__foot {
+  border-top: 1px dotted var(--ink-35);
+  margin-top: 14px;
+  padding-top: 9px;
+}
+.idxcard__report {
+  font-family: var(--sans);
+  font-size: 12px;
+  color: var(--ink-60);
+  border-bottom: 1px dotted var(--ink-45);
+  text-decoration: none;
+}
+.idxcard__report:hover { color: var(--ink); border-bottom-color: var(--ink-60); }
+
+@media (max-width: 480px) {
+  .idxcard__row-value { max-width: 55%; }
+}
+
+@media print {
+  .idxcard { box-shadow: none; }
+  .idxcard::before { background: #000 !important; }
+  .idxcard__hole { display: none; }
+  .idxcard__stamp { border-style: solid; }
+}
+
+/* ============================================================
    Print: Plates I and II only, one per A4 page
    ============================================================ */
 
