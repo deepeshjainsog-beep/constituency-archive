@@ -1528,6 +1528,70 @@ svg.plate-north {
   line-height: 1.55;
   color: var(--ink-85);
 }
+
+.idxcard__elections {
+  margin: 0 0 12px;
+}
+.idxcard__elections .idxcard__block-label {
+  margin-bottom: 6px;
+}
+.idxcard__erow {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 3px 0;
+  border-bottom: 1px dotted var(--ink-18);
+}
+.idxcard__erow:last-child {
+  border-bottom: none;
+}
+.idxcard__eyear {
+  flex: none;
+  width: 30px;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--ink-45);
+}
+.idxcard__edot {
+  flex: none;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  border: 1px solid var(--ink-45);
+}
+.idxcard__edot--blank {
+  background: transparent;
+  border-style: dashed;
+  border-color: var(--ink-25);
+}
+.idxcard__ewinner {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-family: var(--sans);
+  font-size: 12.5px;
+  font-weight: 500;
+  color: var(--ink-85);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.idxcard__ewinner--blank {
+  font-style: italic;
+  color: var(--ink-45);
+  font-weight: 400;
+}
+.idxcard__eflag {
+  color: var(--ink-45);
+  cursor: help;
+}
+.idxcard__eparty {
+  flex: none;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.03em;
+  color: var(--ink-60);
+  text-align: right;
+}
 .idxcard__xref-label {
   font-family: var(--sans);
   font-size: 10.5px;
