@@ -30,6 +30,17 @@
     JDU:   { full: "Janata Dal (United)",             c: "oklch(0.65 0.12 90)"  },
     BLD:   { full: "Bharatiya Lok Dal",               c: "oklch(0.68 0.10 100)" },
     RLD:   { full: "Rashtriya Lok Dal",                 c: "oklch(0.7  0.13 115)" },
+    "INC(I)": { full: "Indian National Congress (I)",  c: "oklch(0.62 0.13 245)" },
+    "INC(U)": { full: "Indian National Congress (U)",  c: "oklch(0.70 0.09 245)" },
+    JNP:   { full: "Janata Party",                       c: "oklch(0.70 0.13 75)" },
+    "JNP(SC)": { full: "Janata Party (Secular)",       c: "oklch(0.75 0.11 80)" },
+    "JNP(JP)": { full: "Janata Party (JP)",            c: "oklch(0.66 0.12 70)" },
+    "JNP(SR)": { full: "Janata Party (SR)",            c: "oklch(0.72 0.10 85)" },
+    JP:    { full: "Janata Party",                       c: "oklch(0.68 0.12 72)" },
+    AD:    { full: "Apna Dal",                           c: "oklch(0.66 0.15 25)" },
+    "AD(S)": { full: "Apna Dal (Sonelal)",             c: "oklch(0.66 0.15 25)" },
+    SBSP:  { full: "Suheldev Bharatiya Samaj Party",     c: "oklch(0.58 0.14 320)" },
+    NISHAD:{ full: "Nishad Party",                       c: "oklch(0.60 0.12 200)" },
     LKD:   { full: "Lok Dal",                            c: "oklch(0.66 0.11 105)" },
     AGP:   { full: "Asom Gana Parishad",              c: "oklch(0.65 0.12 130)" },
     AIUDF: { full: "All India United Democratic Front", c: "oklch(0.55 0.14 260)" },
@@ -387,6 +398,16 @@
       const inFlip = (side === "old" ? flipOldSet : flipNewSet).has(acNo);
       return inHeld ? HELD_FILL : (inFlip ? "var(--bg)" : "var(--ink-06)");
     }
+    /* election-year mode: colour every seat by whoever won it that year */
+    if (cPartyMode.indexOf("yr:") === 0) {
+      const yr = parseInt(cPartyMode.slice(3), 10);
+      const cc = side === "old" ? oldByN[acNo] : newByN[acNo];
+      if (!cc || !cc.elections) return "var(--ink-06)";
+      const e = cc.elections.filter(x => x.year === yr)[0];
+      if (!e || !e.party) return "var(--ink-06)";
+      const pp = partyOf(e.party);
+      return (pp && pp.c) ? pp.c : FLIP_FILL;
+    }
     /* party-code mode */
     const c = side === "old" ? oldByN[acNo] : newByN[acNo];
     if (!c) return "var(--ink-06)";
@@ -394,6 +415,14 @@
     if (!won) return "var(--ink-06)";
     const p = partyOf(won);
     return (p && p.code === cPartyMode) ? (p.c || FLIP_FILL) : "var(--ink-06)";
+  }
+
+  /* every election year present in the data, split by which map it belongs to */
+  function electionYears(side) {
+    const rows = side === "old" ? olds : news;
+    const ys = {};
+    rows.forEach(c => (c.elections || []).forEach(e => { if (e.year) ys[e.year] = 1; }));
+    return Object.keys(ys).map(Number).sort((a,b) => a-b);
   }
 
   function updatePlate3() {
@@ -438,6 +467,26 @@
         if (sw) sw.style.background = cPartyMode === "flipped" ? FLIP_FILL : HELD_FILL;
         const txt = flipNote.querySelector(".p3-flip-text");
         if (txt) txt.textContent = cPartyMode === "flipped" ? "seats won by different parties in both elections" : "seats won by the same party in both elections";
+      } else if (cPartyMode.indexOf("yr:") === 0) {
+        /* election-year mode: name the top parties for that year */
+        const yr = parseInt(cPartyMode.slice(3), 10);
+        const isOldYear = olds.some(c => (c.elections||[]).some(e => e.year === yr));
+        const rows = isOldYear ? olds : news;
+        const tally = {};
+        rows.forEach(c => {
+          const e = (c.elections||[]).filter(x => x.year === yr)[0];
+          if (e && e.party) tally[e.party] = (tally[e.party]||0) + 1;
+        });
+        const top = Object.keys(tally).sort((a,b) => tally[b]-tally[a]).slice(0,5);
+        flipNote.style.display = "inline-flex";
+        const sw = flipNote.querySelector(".p3-flip-swatch");
+        if (sw) {
+          const tp = top.length ? partyOf(top[0]) : null;
+          sw.style.background = tp && tp.c ? tp.c : FLIP_FILL;
+        }
+        const txt = flipNote.querySelector(".p3-flip-text");
+        if (txt) txt.textContent = yr + " \u00b7 " + (isOldYear ? "before-2008 map" : "after-2008 map") + " \u00b7 " +
+          top.map(k => k + " " + tally[k]).join(" \u00b7 ");
       } else {
         /* party mode */
         const p = partyOf(cPartyMode);
@@ -1125,6 +1174,21 @@
       }).join("");
     }
 
+    /* Election-year chips: colour each map by who won that year.
+       Old-order years paint the pre-2008 map, new-order years the post-2008 map. */
+    const yrsOld = electionYears("old"), yrsNew = electionYears("new");
+    let yearRowHTML = "";
+    if (yrsOld.length + yrsNew.length > 2) {
+      const mk = (y) => "<button class=\"p3-flip-chip\" data-mode=\"yr:" + y + "\" style=\"all:unset;cursor:pointer;font-family:var(--mono);font-size:12px;font-weight:500;border:1px solid var(--ink-45);background:var(--surface);color:var(--ink);padding:3px 10px;border-radius:99px\">" + y + "</button>";
+      yearRowHTML =
+        "<div style=\"display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:14px\">" +
+        "<span style=\"font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-70);margin-right:4px\">By election</span>" +
+        yrsOld.map(mk).join("") +
+        (yrsNew.length ? "<span style=\"font-family:var(--sans);font-size:11px;color:var(--ink-45);padding:0 2px\">\u2502</span>" : "") +
+        yrsNew.map(mk).join("") +
+        "</div>";
+    }
+
     return "<section class=\"section\" id=\"p3\">" +
       "<div class=\"section__head\"><span class=\"plate\">Plate III</span>" +
       "<h2>The two orders, side by side</h2>" +
@@ -1134,6 +1198,9 @@
       "<div style=\"display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:14px\">" +
       "<span style=\"font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-70);margin-right:4px\">Party overlay</span>" +
       chipRowHTML +
+      "</div>" +
+      yearRowHTML +
+      "<div style=\"display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:14px\">" +
       "<span id=\"p3-flip-note\" style=\"display:none;align-items:center;gap:7px;font-family:var(--sans);font-size:12px;color:var(--ink-70);margin-left:10px;padding-left:12px;border-left:1px solid var(--ink-35)\">" +
       "<span class=\"p3-flip-swatch\" style=\"display:inline-block;width:10px;height:10px;border-radius:2px;border:1px solid var(--ink-45)\"></span>" +
       "<span class=\"p3-flip-text\"></span>" +
