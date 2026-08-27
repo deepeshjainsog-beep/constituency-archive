@@ -13,7 +13,10 @@
   "post2008": "map-post2008.svg",
   "hero": "hero.jpg"
  },
- "intro": "Uttar Pradesh's 403-seat map shown here as “before 2008” was itself only two elections old when the 2008 delimitation replaced it. Until 2000, undivided Uttar Pradesh elected 425 members, including the hill and Terai seats that became Uttarakhand on its creation that year. The 403-seat map on this page reflects UP alone, used for the 2002 and 2007 elections. The 1980–1996 results shown against each of these seats are the historical winners for the area that later became that seat, carried over by the constituency's own number under the undivided 425-seat list — not results from an election contested on these exact lines, which did not yet exist.",
+ "intro": [
+  "Uttar Pradesh's 403-seat map shown here as “before 2008” was itself only two elections old when the 2008 delimitation replaced it. Until 2000, undivided Uttar Pradesh elected 425 members, including the hill and Terai seats that became Uttarakhand on its creation that year. The 403-seat map on this page reflects UP alone, used for the 2002 and 2007 elections. The 1980–1996 results shown against each of these seats are the historical winners for the area that later became that seat, carried over by the constituency's own number under the undivided 425-seat list — not results from an election contested on these exact lines, which did not yet exist.",
+  "Uttar Pradesh's assembly map on the eve of its two most disruptive redraws"
+ ],
  "figures": [
   {
    "k": "Seats",
@@ -43856,23 +43859,19 @@
   }
  ],
  "sources": [
-  {
-   "label": "Elections.in, constituency-level results, 1980–2022",
-   "url": "https://www.elections.in/uttar-pradesh/"
-  },
-  {
-   "label": "Election Commission of India, statistical reports",
-   "url": "https://www.eci.gov.in/statistical-reports"
-  },
-  {
-   "label": "Election Commission of India, delimitation background",
-   "url": "https://www.eci.gov.in/delimitation"
-  },
-  {
-   "label": "Post-2008 constituency geometry, third-party digitisation (skthewimp/india-constituency-maps)",
-   "url": "https://github.com/skthewimp/india-constituency-maps/tree/main/post2008/assembly"
-  }
+  "Election Commission of India, statistical reports on Uttar Pradesh assembly elections, 1980–2022",
+  "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
+  "Elections.in, constituency-level winner records, 1980–2022",
  ],
- "map_caveats": "Territory lineage is derived from the text of both delimitation orders, using the tehsil/pargana/circle hierarchy each order describes, then checked against the mapped boundaries of both orders: a claimed link is dropped if the two constituencies' polygons do not touch at all, on the same principle used elsewhere in this archive. 229 of 403 old seats have at least one surviving link; the remainder could not be matched with confidence and are shown with none rather than a guess. This is a lower match rate than most states in this archive, which reflects a genuinely more disruptive redraw rather than a weaker method: the average pre-2008 UP seat's territory was split across several successors. Six 1991 winners and two 1993 winners are missing from the source and are shown with a blank result rather than a guess. The 1996 Shikarpur result reflects a deferred poll and is excluded from that year's party tally even though it is shown on the seat record. Post-2008 boundaries are drawn from a verified third-party digitisation, not an official ECI GIS release; use the ECI's own statistical reports for authoritative verification of any individual result.",
- "footnotes": "Reservation status (SC/ST) reflects the category in force at the time of the relevant order, not any later reclassification."
+ "map_caveats": [
+  "Territory lineage is derived from the text of both delimitation orders, using the tehsil/pargana/circle hierarchy each order describes, then checked against the mapped boundaries of both orders: a claimed link is dropped if the two constituencies' polygons do not touch at all, on the same principle used elsewhere in this archive.",
+  "229 of 403 old seats have at least one surviving link; the remainder could not be matched with confidence and are shown with none rather than a guess. This is a lower match rate than most states in this archive, which reflects a genuinely more disruptive redraw rather than a weaker method: the average pre-2008 UP seat's territory was split across several successors.",
+  "Six 1991 winners and two 1993 winners are missing from the source and are shown with a blank result rather than a guess.",
+  "The 1996 Shikarpur result reflects a deferred poll and is excluded from that year's party tally even though it is shown on the seat record.",
+  "Post-2008 boundaries are drawn from a verified third-party digitisation, not an official ECI GIS release; use the ECI's own statistical reports for authoritative verification of any individual result."
+ ],
+ "footnotes": [
+  "Uttar Pradesh's 403-seat pre-2008 map was itself only two elections old when the 2008 order replaced it: undivided UP elected 425 members until Uttarakhand's creation in 2000. The 1980–1996 results shown against each seat are the historical winners for the area that later became that seat, carried over by the constituency's own number under the undivided list, not results from an election contested on these exact lines.",
+  "Reservation status (SC/ST) reflects the category in force at the time of the relevant order, not any later reclassification."
+ ]
 }
