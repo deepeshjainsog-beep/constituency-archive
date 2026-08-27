@@ -29,6 +29,8 @@
     JD:    { full: "Janata Dal",                      c: "oklch(0.65 0.12 90)"  },
     JDU:   { full: "Janata Dal (United)",             c: "oklch(0.65 0.12 90)"  },
     BLD:   { full: "Bharatiya Lok Dal",               c: "oklch(0.68 0.10 100)" },
+    RLD:   { full: "Rashtriya Lok Dal",                 c: "oklch(0.7  0.13 115)" },
+    LKD:   { full: "Lok Dal",                            c: "oklch(0.66 0.11 105)" },
     AGP:   { full: "Asom Gana Parishad",              c: "oklch(0.65 0.12 130)" },
     AIUDF: { full: "All India United Democratic Front", c: "oklch(0.55 0.14 260)" },
     BPF:   { full: "Bodoland People's Front",         c: "oklch(0.58 0.12 180)" },
@@ -589,7 +591,23 @@
       "<div class=\"idxcard__rule\"></div>" +
       "<span class=\"idxcard__stamp\" style=\"background:" + col.bg + ";border-color:" + col.bc + ";color:" + col.fg + "\">" + esc(statusLabel) + "</span>";
 
-    if (party) {
+    if (c.elections && c.elections.length > 1) {
+      html += "<div class=\"idxcard__elections\">" +
+        "<div class=\"idxcard__block-label\">Election history</div>" +
+        c.elections.map(function(e) {
+          var ep = e.party ? partyOf(e.party) : null;
+          var dot = ep ? "<span class=\"idxcard__edot\" style=\"background:" + ep.c + "\"></span>" : "<span class=\"idxcard__edot idxcard__edot--blank\"></span>";
+          var winnerHTML = e.winner ? esc(e.winner) : "<span class=\"idxcard__ewinner--blank\">No result recorded</span>";
+          var flag = e.status ? " <span class=\"idxcard__eflag\" title=\"" + esc(e.status) + "\">\u2020</span>" : "";
+          return "<div class=\"idxcard__erow\">" +
+            "<span class=\"idxcard__eyear\">" + e.year + "</span>" +
+            dot +
+            "<span class=\"idxcard__ewinner\">" + winnerHTML + flag + "</span>" +
+            "<span class=\"idxcard__eparty\">" + (ep ? esc(ep.code) : "") + "</span>" +
+            "</div>";
+        }).join("") +
+        "</div>";
+    } else if (party) {
       html += row(String(electionYear), esc(winnerName || "\u2014")) +
         "<div class=\"idxcard__sub\"><span style=\"" + partyDotStyle(party) + "\"></span>" + esc(partyLine(party)) +
         " <span class=\"idxcard__sub-note\">\u00b7 " + electionNote + "</span></div>";
