@@ -172,13 +172,13 @@
    "slug": "tamil-nadu",
    "name": "Tamil Nadu",
    "kind": "state",
-   "status": "coming-soon"
+   "status": "live"
   },
   {
    "slug": "telangana",
    "name": "Telangana",
    "kind": "state",
-   "status": "live",
+   "status": "coming-soon",
    "note": "Constituted in 2014; its pre-2008 constituencies fall under undivided Andhra Pradesh."
   },
   {
