@@ -1,0 +1,7397 @@
+{
+ "title": "Delhi",
+ "name": "Delhi",
+ "assembly": "Delhi Legislative Assembly",
+ "slug": "delhi",
+ "in_force": "1993–2003",
+ "pre_election_year": 2003,
+ "post_election_year": 2008,
+ "pre_election_label": "2003",
+ "post_election_label": "2008",
+ "pre_order_year": 1992,
+ "post_order_year": 2008,
+ "pre_order_label": "1992 order",
+ "post_order_label": "2008 order",
+ "maps": {
+  "pre2008": "map-pre2008.svg",
+  "post2008": "map-post2008.svg",
+  "hero": "hero.jpg"
+ },
+ "intro": [
+  "Delhi is the only state in this archive whose assembly did not exist when the 1976 delimitation was made. The Legislative Assembly was abolished in 1956 under the States Reorganisation Act, and Delhi was governed for the next thirty-six years without one. It returned only with the Sixty-ninth Amendment, and the seventy constituencies on the left were drawn for that new assembly by the Election Commission in September 1992, using provisional 1991 census figures. They were contested three times, in 1993, 1998 and 2003, before the 2008 order replaced them.",
+  "The assembly map Delhi used for its first three elections"
+ ],
+ "figures": [
+  {
+   "k": "Seats",
+   "v": "70 → 70"
+  },
+  {
+   "k": "Parliamentary seats",
+   "v": "11 → 7"
+  },
+  {
+   "k": "SC-reserved",
+   "v": "13 → 12"
+  },
+  {
+   "k": "Elections fought",
+   "v": "3 → 5"
+  }
+ ],
+ "stats": [
+  {
+   "k": "New seats (2008)",
+   "v": "19"
+  },
+  {
+   "k": "2003 result",
+   "v": "INC 47 · BJP 20 · IND 1 · NCP 1"
+  },
+  {
+   "k": "2008 result",
+   "v": "INC 43 · BJP 23 · BSP 2 · LJP 1"
+  }
+ ],
+ "district_grid_old": [
+  {
+   "name": "Chandni Chowk"
+  },
+  {
+   "name": "East Delhi"
+  },
+  {
+   "name": "New Delhi"
+  },
+  {
+   "name": "North East Delhi"
+  },
+  {
+   "name": "North West Delhi"
+  },
+  {
+   "name": "South Delhi"
+  },
+  {
+   "name": "West Delhi"
+  }
+ ],
+ "district_grid_new": [
+  {
+   "name": "Chandni Chowk"
+  },
+  {
+   "name": "East Delhi"
+  },
+  {
+   "name": "New Delhi"
+  },
+  {
+   "name": "North East Delhi"
+  },
+  {
+   "name": "North West Delhi"
+  },
+  {
+   "name": "South Delhi"
+  },
+  {
+   "name": "West Delhi"
+  }
+ ],
+ "constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Sarojini Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    40
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory became part of the new New Delhi. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in NDMC Charges No, 6, 7 and 8; and Blocks 56 to 119, 122 and 125 in NDMC Charge No. 9.",
+   "party07": "INC",
+   "winner_07": "ASHOK AHUJA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "RAM BHAJ",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SH. RAM BHAJ",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "ASHOK AHUJA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 65.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 2,
+   "name": "Gole Market",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    40
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory became part of the new New Delhi. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in NDMC Charges No. 2, 3 and 4; Blocks 1 to 12, 29 to 51, 55 and 56 in NDMC Charge No. 5; and Blocks 1 to 55. 120, 121, 123, 124, 126 and 127 in NDMC Charge No. 9.",
+   "party07": "INC",
+   "winner_07": "SHEILA DIKSHIT",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "KIRTI AZAD",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SHEILA DIKSHIT",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SHEILA DIKSHIT",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 80.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 3,
+   "name": "Minto Road",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    40,
+    41
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new New Delhi, Jangpura. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in NDMC Charge No. 1; Blocks 13 to 28 and 52 to 54 in NDMC Charge No. 5; All Blocks in DMC Charge No. 14; Blocks 68 to 83 and 85 in DMC Charge No. 18; Blocks I to 12 in DMC Charge No. 98; and Blocks 1 to 14, 17 to 21 and 77 to 100 in DMC Charge No. 99.",
+   "party07": "INC",
+   "winner_07": "TAJDAR BABAR",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "TAJDAR BABAR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "TAJDAR BABAR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "TAJDAR BABAR",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 23.7,
+     "basis": "measured"
+    },
+    "41": {
+     "pct": 53.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 4,
+   "name": "Kasturba Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    42
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 37 in DMC Charge No. 94; Blocks I t o 23 and 135 to 154 in DMC Charge No. 95; All Blocks in DMC Charge No. 96; and Blocks 43 to SI in DMC Charge No. 97.",
+   "party07": "BJP",
+   "winner_07": "SUSHIL CHOUDERY",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "JAGDISH LAL BATRA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SUSHIL CHOUDHARY",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SUSHIL CHOUDERY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "42": {
+     "pct": 86.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 5,
+   "name": "Jangpura",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    41,
+    42
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kasturba Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 42 and 52 to 89 in DMC Charge No.1 97; Blocks 13 to 109 in DMC Charge No. 98; and Blocks 15, 16 and 22 to 76 in DMC Charge No. 99.",
+   "party07": "INC",
+   "winner_07": "TARVINDER SINGH MARWAH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "JAG PARVESH CHANDRA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "TARVINDER SINGH MARWAH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "TARVINDER SINGH MARWAH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "41": {
+     "pct": 38.7,
+     "basis": "measured"
+    },
+    "42": {
+     "pct": 39.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 6,
+   "name": "Okhla",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    51,
+    54
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kalkaji. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 38 to 113 and 119 to 143 in DMC Charge No. 94; Blocks 1 to 96, 103 to 121,138 to 144, 181 and 182 in DMC Charge No. 100; and Blocks 1 to 8 in DMC Charge No. 110.",
+   "party07": "INC",
+   "winner_07": "PARVEZ HASHMI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "PARVEJ",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "PARVEZ HASHMI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "PARVEZ HASHMI",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 32.5,
+     "basis": "measured"
+    },
+    "54": {
+     "pct": 44.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 7,
+   "name": "Kalkaji",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    50,
+    51
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Greater Kailash. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 103 to 111 in DMC Charge No. 89; Blocks 1 to 113 in DMC Charge No. 91; and Blocks 1 to 87 and 144 to 156 in DMC Charge No. 93. 8,. Malviya Nagar Blocks 19 to 102 and 112 to 140 in DMC Chargs No. 83; 11 1 2 Blocks 114 tD (18 a i l 14t to 153 it DMC Charge No. 94; a}i Blocks 44 to 131 i i D v l J C n r g j No. 95.",
+   "party07": "INC",
+   "winner_07": "SUBHASH CHOPRA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "PURNIMA SETHI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SUBHASH CHOPRA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SUBHASH CHOPRA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "50": {
+     "pct": 36.1,
+     "basis": "measured"
+    },
+    "51": {
+     "pct": 50.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 8,
+   "name": "Malviya Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    50
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Greater Kailash. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 19 to 102 and 112 to 140 in DMC Charge No. 83; Blocks 114 to 118 and 141 to 153 in DMC Charge No. 94; and Blocks 44 to 134 in DMC Charge No. 95.",
+   "party07": "INC",
+   "winner_07": "DR. YOGANAND SHASTRI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "RAJENDRA GUPTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "DR. YOGANAND SHASTRI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "DR. YOGANAND SHASTRI",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "50": {
+     "pct": 77.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 9,
+   "name": "Hauz Khas",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    43
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory became part of the new Malviya Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 12ani 52 hi DM0 Charja No. 85; All Blocks in DMC Cliaru* No. 86; Blocks 50 to 6}, 63 to 91 a a i 110 to 112 in DMC Chargo No. 88; Blocks 1 to 18 ia DMC C m j e No. 89; and Blocks 24 to 43 aai 15J t:> 199 in DMC Charge No. 95.",
+   "party07": "INC",
+   "winner_07": "KIRAN WALIA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "RAJESH SHARMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SUSHMA SWARAJ",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "KIRAN WALIA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 83.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 10,
+   "name": "R.K.Puram",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    44
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 12 to 37 in DMC Charge No. 83; All Blocks in DMC Charge No. 84; Blocks 13 to 51 in DMC Charge No. 85; Blocks 1 to 26 and 43 to 61 in DMC Charge No. 87; and Blocks 1 to 32 and 166 to 170 in DMC Charge No. 88.",
+   "party07": "INC",
+   "winner_07": "BARKHA SINGH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "BODH RAJ",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "ASHOK SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "BARKHA SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "44": {
+     "pct": 83.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 11,
+   "name": "Delhi Cantonment",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    38
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity; the name was modernised to Delhi Cantt. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in Dilhi Cantonment; Block! 81 to 89, 9 L to 122 and 144 to 149 ia DMC Charge No. 79; Blocks 4 to 21 in DMC Charge No. 81; and Blocks 1 to 11 in DMC Charg* No. 83.",
+   "party07": "BJP",
+   "winner_07": "KARAN SINGH TANWAR",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "KARAN SINGH TANWAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "KIRAN CHOUDHARY",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "KARAN SINGH TANWAR",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 90.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 12,
+   "name": "Janak Puri",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    30,
+    32
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Uttam Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charge No. 78; and Bloclrc I to 40,47, 61, 62,90 and 150 in DMC Charge No. 79.",
+   "party07": "BJP",
+   "winner_07": "JAGDISH MUKHI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "JAGDISH MUKHI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "PROF. JAGDISH MUKHI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "JAGDISH MUKHI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "30": {
+     "pct": 63.4,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 22.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 13,
+   "name": "Hari Nagar",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    28
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 41 t 0 46, 48 t o 60 and 63 to 80 in DMC Charge No,T9; Blocks 49 to 112 and 1S8 to IT* In DMC Charge No. 80; and Blocks 1 to 3 and 22 to 108 in DMC Charge No. 81.",
+   "party07": "BJP",
+   "winner_07": "HARSHARAN SINGH BALLI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "HARSARAN SINGH BALLI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "HARSHARAN SINGH BALLI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "HARSHARAN SINGH BALLI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 77.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 14,
+   "name": "Tilak Nagar",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    27,
+    28,
+    29,
+    30
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rajouri Garden, Hari Nagar, Janakpuri. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 59 in DMC Chargt No. 75; Blocks 1 to 39, 78 to 106 and 195 ib DMC Charge N o . 76; Blocks 1 to 36, 86 to 89 and 97 to 10i in DMC Charge No. 77; and Blocks 113 to 137 in DMC Chargs No. 80.",
+   "party07": "BJP",
+   "winner_07": "O.P. BABBAR",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "O.P BABBAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "JASPAL SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "O.P. BABBAR",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "27": {
+     "pct": 15.1,
+     "basis": "measured"
+    },
+    "28": {
+     "pct": 30.4,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 35.7,
+     "basis": "measured"
+    },
+    "30": {
+     "pct": 18.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 15,
+   "name": "Rajouri Garden",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    25,
+    26,
+    27,
+    28
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Moti Nagar, Madipur, Hari Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 29 to 90 in DMC Charge No. 74; Blocks 1 to 48 in DJMC Oha*e No. 80; and All Blocks in DMC Chirgo No. 107. 12 THE GAZETTE OF INDIA 1 2",
+   "party07": "INC",
+   "winner_07": "AJAY MAKAN",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "AJAY MAKAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "AJAY MAKAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "AJAY MAKAN",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 18.7,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 33.9,
+     "basis": "measured"
+    },
+    "27": {
+     "pct": 30.1,
+     "basis": "measured"
+    },
+    "28": {
+     "pct": 17.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 16,
+   "name": "Madipur",
+   "district": "West Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    15,
+    26
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Shakur Basti. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charge No. 70; and Blocks 22 t 0 44, 46 to 49 and 53 in DMC Charge No. 72.",
+   "party07": "INC",
+   "winner_07": "MALA RAM GANGWAL",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "SWARUP CHAND RAJAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MALA RAM GANGWAL",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MALA RAM GANGWAL",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "15": {
+     "pct": 39.9,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 44.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 17,
+   "name": "Tri Nagar",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    16,
+    17,
+    25
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Wazirpur, Moti Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks in DMC Charge No. 47; and Block si to 25 and 80 to 104 in DMC Charge No. 71.",
+   "party07": "INC",
+   "winner_07": "ANIL BHARDWAJ",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "NAND KISHORE GARG",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "NAND KISHORE GARG",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "ANIL BHARDWAJ",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "16": {
+     "pct": 28.6,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 40.4,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 23.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 18,
+   "name": "Shakurbasti",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    15,
+    16
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tri Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charge No. 62; and Blocks 26 to 79 and 105 t o 114 in DMC Charge No. 71.",
+   "party07": "INC",
+   "winner_07": "S.C.VATS",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "GAURI SHANKAR BHARDWAJ",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "DR. S.C. VATS",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "S.C.VATS",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "15": {
+     "pct": 38.8,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 42.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 19,
+   "name": "Shalimar Bagh",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    14,
+    17
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Wazirpur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 109 and 154 to 156 in DMC Charge No. 60; and All Blocks In DMC Charge No. 61.",
+   "party07": "BJP",
+   "winner_07": "RAVINDER NATH BANSAL",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "SAHIB SINGH VERMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "RAVINDER NATH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "RAVINDER NATH BANSAL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 41.3,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 38.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 20,
+   "name": "Badli",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    5
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Blocks 110 to 153 in DMC Charge No. 6o; Blocks 55 to 66 in DMC Charge No. 63; All Blocks in DMC Charges No. 64 and 65; and Villages: 1. Kankar Khera 2. Siraspur and 3. Libaspur in Delhi Tehsil.",
+   "party07": "BJP",
+   "winner_07": "JAI BHAGWAN AGGARWAL",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "JAI BHAGWAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "JAI BHAGWAN AGGARWAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "JAI BHAGWAN AGGARWAL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "5": {
+     "pct": 34.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 21,
+   "name": "Sahibabad Daulatpur",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    7
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Bawana.",
+   "extent": "Blocks 1 to 54 and 67 to 105 in DMC Daulatpur Charge No. 63; Blocks 6o, 61 and 69 to 82 in DMC Charge No. 67; and Villages: 1. Census Town Pahaladpur Banger, 2. Begumpur and Pooth Kalan in Mehrauli Tehsil; and 4. PansaH, 5. Sahibabad Daulatpur and 6. Barwala in Delhi Tehsil.",
+   "party07": "BJP",
+   "winner_07": "KULWANT RANA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "JET RAM SOLANKI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "RAMESH KUMAR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "KULWANT RANA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 48.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 22,
+   "name": "Bawana",
+   "district": "North West Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    7,
+    8,
+    9
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Mundka, Kirari.",
+   "extent": "Villages: 1. Census Town Pooth Khurd, 2. Census Town Bawana, 3. Census Town Kanjhawala, 4. Nizampur Rash id pur, 5. Daryapur Kalan, 6. Hareoli 7. Ochandi, 8. Mungeshpur, 9. Qutabgarh. 10. Ketewara, 11. Bazldpur Thakran, 12. Nangal Thakran, 13. Sultanpur D abas. 14. Chandpur. : EXTRAORDINARY fPART II—SEC. 3(lii)] . 1 2 15. Budhanpur, 16. Salahpur Majra, 17. Khor J a t, 18. Khor Punjab, 19. Chatesar, 20. Jonti, 21. Garh» Rindhala, 22. Ladpur, 23. Mohammadpur Majra and 24- Karala in Delhi Teh sil; and 25. Kirari Suleman Nagar,, 26. Nithari, 27. MadanpurDabasand 28. Mubarak pur D aba s in Mehrauli Tehsil.",
+   "party07": "INC",
+   "winner_07": "SURENDER KUMAR",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "CHAND RAM",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SURENDER KUMAR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SURENDER KUMAR",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 55.2,
+     "basis": "measured"
+    },
+    "8": {
+     "pct": 34.1,
+     "basis": "measured"
+    },
+    "9": {
+     "pct": 2.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 23,
+   "name": "Sultanpur Majra",
+   "district": "North West Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    12
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Mangol Puri.",
+   "extent": "Blocks 238 to 247 in DMC Charge (SO No. 67; Blocks 31 to 63 i n DMC Charge No. 69;and Census Town Sultanpur Majra.",
+   "party07": "INC",
+   "winner_07": "JAI KISHAN",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "JAI KISHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SUSHILA DEVI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "JAI KISHAN",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 12.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 24,
+   "name": "Mangolpuri",
+   "district": "North West Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    12,
+    15
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Shakur Basti. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 59, 62 to 68 and 83 to 237 in DMC Charge No. 67.",
+   "party07": "INC",
+   "winner_07": "RAJKUMAR CHAUHAN",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "RAJ KUMAR CHAUHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "RAJ KUMAR CHAUHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "RAJKUMAR CHAUHAN",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 64.0,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 28.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 25,
+   "name": "Nangloi Jat",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    8,
+    11
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Mundka.",
+   "extent": "Blocks 1 to 30, 64 and 65 in DMC Charge No. 69; and Villages : 1. Census Town Nangloi Jat, 2. CenSusTownMundaka, 3. Rasoolpur, 4. Ranikhera, 5. Nilothiand 6. QamuruddinNagar in MehraoliTehsil; and 7. Saoda and 8. Gheora Jaffarpur in Delhi Tehsil.",
+   "party07": "INC",
+   "winner_07": "BIJENDER SINGH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "DAVINDER SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "PREM CHAND",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "BIJENDER SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "8": {
+     "pct": 59.7,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 14.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 26,
+   "name": "Vishnu Garden",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    27,
+    29
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Rajouri Garden, Tilak Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 60 to 110 i» DMC Charge No. 751 Blocks 40 to 77 and 107 to 192 in DMC Charge No. 76; and Blocks 46 to 78 in DMC Charge NO. 77.",
+   "party07": "BJP",
+   "winner_07": "A.DAYANAND CHANDILA. A",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "MAHINDER SINGH SAATHI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MAHINDER SINGH SAATHI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "A.DAYANAND CHANDILA. A",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "27": {
+     "pct": 60.6,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 39.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 27,
+   "name": "Hastsal",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    31
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Vikaspuri.",
+   "extent": "Blocks 37 to 45, 79 r0 85, 90 to 96 and 102 to 117 to DMC Charge No. 77; and Villages : 1. Census T°wn Bindapur, 2. Hastsal. 3. Nawa<ja Majra Hastsal, 4. Ranhola Shaflpur, 5i Titaagpur Kotla and 6. Razapm- Khurd in Mejuauji Tehsil; and 7. Bajcarwala, 8. Bapfaula and 9. Hiran Kudna in Delhi Tehsil. 1 2",
+   "party07": "INC",
+   "winner_07": "MUKESH SHARMA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "MUKESH SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MUKESH SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MUKESH SHARMA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 65.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 28,
+   "name": "Najafgarh",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    8,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Mundka.",
+   "extent": "Blocks in DMC Charge No. 68; and Villages : I. Census Town Roshanpura alias Dichaon Khurd, 2. Tikri Kalan, 3. Dindarpur, 4. Nangli Sakrawati, 5. Neelwal. 6. Dichaon Kalan. 7. Jharoda Kalan, 8. Mitraon 9. Kharkhari Nahar, 10. Surera, 11. Kair 12. Mundhela Khurd, 1 3. Mundhela Kalan, 14. Jaffarpur Kalan, 15. KheraDabar, 16. Ujwa, 17. Samaspur Khalsa, 18\" flaqar Garh, 19. Isapur, 20. Qazipur Malikpur Zer, 21. Najafgarh, 22. Dhaosa, 23. Khera and 24. Surakhpur • in DelhiTehsil; and 25. Kharkhari Jatmal in Mehrauli Tehsil.",
+   "party07": "IND",
+   "winner_07": "RANBIR SINGH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "SURAJ PARSHAD",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "KANWAL SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "RANBIR SINGH",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "8": {
+     "pct": 10.1,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 77.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 29,
+   "name": "Nasirpur",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    33
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory became part of the new Dwarka. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks J23 to 143 in DMC Charge No. 79; and Villages : 1. Census Town Nasirpur, 2. Block No. 52 to 61 and 92 to 104 (Mangla Puri and Sadh Nagar) of Census Town Palam, 3. Dabri and 4. Sagarpur in Mehrauli Tehsil.",
+   "party07": "INC",
+   "winner_07": "MAHABAL MISHRA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "VINOD KUMAR SHARMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MAHABAL MISHRA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MAHABAL MISHRA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 64.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 30,
+   "name": "Palam",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    34
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Matiala. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Census Town Palam (excluding Blocks 52 to 61 and 92 to 104 covering Mangla Puri and Sadh Nagar), Mirzapur, Toghanpur, Matola, Lohar Heri, Kakrola, Goela Khurd, Paprawat, Kharkhari Rond, Pindwala Kalan, Pindwala Khurd, Daulatpur, Tajpur Khurd, Qutabpur, Ambar Hai, Pochanpur and Rawla Khampur in Mehrauli Tehsil; and Sherpur Deri, Daryapur Khurd, Goman Hera, Jhuljhuli, Sarangpur, Ghalibpur, Raota and Deorala in Delhi Tehsil.",
+   "party07": "BJP",
+   "winner_07": "DHARAM DEV SOLANKI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "DHARAM DEV SOLANKI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MAHENDER YADAV",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "DHARAM DEV SOLANKI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "34": {
+     "pct": 89.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 31,
+   "name": "Mahipalpur",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    34,
+    36,
+    45,
+    46
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Matiala, Bijwasan, Mehrauli, Chhatarpur.",
+   "extent": "Blocks27 to42and 62 to 127 in DMC Charge No, 87; Blocks 113 to 122 in DMC Charge No. 88; and Villages : 1. Census Town Malikpur Kohi alias Rangpuri 2. Cesnus Town Nagal Dewat, 3. Census Town Rajokri. 4. Census Town Ghitorni, 5 Bagrola, 6. Salahpur, 7, Kapas Hera, 8, Sambhalka, 9. Kusumpur, 10. Moradabad Pahari, 11. Jainpur, 12. Sahupur, 13. Shahbad Mohammadpur, 14. DhulSiras, 15. Chhawla, 16. Asalatpur Khawad, 17. Shikarpur, 18. Jhatikra, 19. Nanak Heri, 20. Raghupur, 21. Badhosra, 22. Kangan Heri, 23, Bamnoli, 24, Bhartal, 25. Bijwasan and 26, Hasanpur in Mehrauli Tohsil.",
+   "party07": "INC",
+   "winner_07": "VIJAY SINGH LOCHAV",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "SAT PARKASH RANA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MAHENDER SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "VIJAY SINGH LOCHAV",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "34": {
+     "pct": 23.8,
+     "basis": "measured"
+    },
+    "36": {
+     "pct": 31.6,
+     "basis": "measured"
+    },
+    "45": {
+     "pct": 24.7,
+     "basis": "measured"
+    },
+    "46": {
+     "pct": 9.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 32,
+   "name": "Mehrauli",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    46
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chhatarpur.",
+   "extent": "Blocks 33 to 49, 61 to 67, 92 to 109 and 123 to 165 in DMC Charge No. 88; Blocks 92 to 110 in DMC Charge No. 108; and Villages : 1. Census Town Sultanpur, 2. Census Town Asola, 3, Census Town Yahya Nagar, 4. Gadaipur, 5, Chhattarpur 6. Maidan Garhi, 7, SaidulAjalb, 8. Rajpur Khurd, 9. Satberj, 14 THE GAZETTE OF INDIA 1 2 — _„_ \\ Mahrauli—(C-mtd.) 10. Chandan Hola, 11. Jonapur, 12. Dcra, 13. Mandi, 14. Fatehpur Beri, 15. Bhati, 16. Neb Sarai and 17. Shaburpur in Mohrauli Tehsil.",
+   "party07": "INC",
+   "winner_07": "BALRAM TANWAR",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "BRAHM SINGH TANWAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "BHRAM SINGH TANWAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "BALRAM TANWAR",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 82.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 33,
+   "name": "Saket",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    47
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Deoli.",
+   "extent": "Blocks 98 to 121 in DMC Charge No. 90; Blocks 1 to 91 and 111 to 116 inDMC Charge No. 108; and 1. Census Town Deoli and 2. Census Town Tigri.",
+   "party07": "BJP",
+   "winner_07": "VIJAY JOLLY",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "TEK CHAND S/O DHANPAT SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "TEK CHAND SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "VIJAY JOLLY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "47": {
+     "pct": 47.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 34,
+   "name": "Dr. Ambedkar Nagar",
+   "district": "South Delhi",
+   "type": "SC",
+   "status": "renamed",
+   "dest": [
+    47,
+    50
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity; the name was modernised to Deoli. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 97.122 and 123 In DMC Nagar (SC) Charge No. 90; and Blocks 1 to 102 and 128 to 143 in DMC Charge No. 109.",
+   "party07": "INC",
+   "winner_07": "CH. PREM SINGH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "PREM SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "CH. PREM SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "CH. PREM SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "47": {
+     "pct": 37.3,
+     "basis": "measured"
+    },
+    "50": {
+     "pct": 46.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 35,
+   "name": "Tuglakabad",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    52
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Tughlakabad.",
+   "extent": "Blocks 114 and 115 inDMC Charpe No. 91; all Blocks in DMC Charge No. 92; Blocks 88 to 143 in DMC Charge No. 93; Blocks 103 to 127 and 144 to 131 in DMC Charge No. 109; Blocks 115 to 123 in DMC Charge No. 110; and Census Town Pul Pehlad.",
+   "party07": "BJP",
+   "winner_07": "RAMESH BIDHURI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "SHISH PAL",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SHISH PAL SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "RAMESH BIDHURI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 52.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 36,
+   "name": "Badarpur",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    53,
+    54
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Okhla.",
+   "extent": "Blocks 97 to 102,122 to 137 and 145 to 180 in DMC Charge No. 100; Blocks 9 to 114 in DMC Charge No. 110; and Villages : 1. Consus Town Molar Band, 2. Census Town Tajpul, 3. Kotla Mahigiran, 4. Saidabad, 5. Aali, 6. Jaitpur and 7. Mithepur in Mehrauli Tehsil.",
+   "party07": "NCP",
+   "winner_07": "RAMBIR SINGH BIDHURI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "RAM VIR SINGH BIDHURI",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "RAM SINGH NETAJI",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "RAMBIR SINGH BIDHURI",
+     "party": "NCP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 45.6,
+     "basis": "measured"
+    },
+    "54": {
+     "pct": 33.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 37,
+   "name": "Trilokpuri",
+   "district": "East Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    55,
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kondli.",
+   "extent": "Blocks 1 to 99 in DMC Charge No. 105; and Villages : 1. Dallopura, 2. Chilla Saroda Banger and 3. Chilla Saroda Khadar in Delhi Tehsil.",
+   "party07": "INC",
+   "winner_07": "BRAHM PAL",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "BRAHM PAL",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "BRAHM PAL",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "BRAHM PAL",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 70.2,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 6.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 38,
+   "name": "Patpar Ganj",
+   "district": "East Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kondli.",
+   "extent": "Blocks 1 to 13, 17 to 25, 37 to 56, 61 to 73 and 80 to 159 in DMC Charge No. 12; A : EXTRAORDINARY [PART II—SEC. 3(iii)] 1 2 Patpar Ganj (SC)— Blocks 100 to 111 in DMC Charge (ConM.) No. 105; and Villages : 1. Census Town Gharonda Ncomka Bangar alias Patpar Ganj, 2. Kandli and 3. Gharoli in Delhi Tehsil.",
+   "party07": "INC",
+   "winner_07": "AMRISH SINGH GAUTAM",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "GYAN CHAND",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "AMRISH SINGH GAUTAM",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "AMRISH SINGH GAUTAM",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "56": {
+     "pct": 39.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 39,
+   "name": "Mandawali",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    57,
+    58
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Patparganj, Laxmi Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 88 and 153 in DMC Charge No. 11 Blocks 14 to 16,26 to 36,57 to 60 and 74 to 79 in DMC Charge No. 12; Blocks 102 to 201 in DMC Charge No. 13; and Villages : 1. Shakarpur Baramad and 2. Shamaspur in Delhi Tehsil.",
+   "party07": "INC",
+   "winner_07": "MEERA BHARDWAJ",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "M.S. PANWAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MEERA BHARDWAJ",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MEERA BHARDWAJ",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 25.5,
+     "basis": "measured"
+    },
+    "58": {
+     "pct": 44.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 40,
+   "name": "Geeta Colony",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    58,
+    60
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Laxmi Nagar, Krishna Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 66 to 68 and 81 to 181 in DMC Charge No. 7; and Blocks 1 to 101, 202 and 203 in DMC Charge No. 13.",
+   "party07": "INC",
+   "winner_07": "DR. ASHOK KUMAR WALIA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "A.K. WALIA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "ASHOK KUMAR WALIA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "DR. ASHOK KUMAR WALIA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "58": {
+     "pct": 65.7,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 32.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 41,
+   "name": "Gandhi Nagar",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    61
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charge N;>, 6; and Blocks 1 to 44, 50 to 65 and 69 to 80 in DMC Charge No. 7.",
+   "party07": "INC",
+   "winner_07": "ARVINDER SINGH LOVELY",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "DARSHAN KUMAR BAHL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "ARVINDER SINGH (LOVELY)",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "ARVINDER SINGH LOVELY",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "61": {
+     "pct": 81.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 42,
+   "name": "Krishna Nagar",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    60
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 45 to 49 in DMC Charge No. 7; and Blocks 1 to 122, 136 to 162 and 171 to 211 in DMC Charge No. 8.",
+   "party07": "BJP",
+   "winner_07": "DR. HARSH VARDHAN",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "HARSH VARDHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "HARSH VARDHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "DR. HARSH VARDHAN",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "60": {
+     "pct": 75.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 43,
+   "name": "Vishwash Nagar",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    59
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity; the name was modernised to Vishwas Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 123 to 135, 163 to 170 and 212 to 225 in DMC Charge No. 8; Blocks 1 to 95 and 125 to 135 in DMC Charge No. 10; and Blocks 89 to 152 and 154 in DMC Charge No. 11.",
+   "party07": "INC",
+   "winner_07": "NASEEB SINGH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "MADAN LAL GAWA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "NASEEB SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "NASEEB SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 72.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 44,
+   "name": "Shahdara",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    59,
+    62
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Vishwas Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charge No. 9; Blocks 96 to 124 in DMC Charge No. 10; and Blocks 1 to 157 in DMC Charge No. 102.",
+   "party07": "INC",
+   "winner_07": "NARENDER NATH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "RAM NIWAS GOYAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "NARENDER NATH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "NARENDER NATH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 27.9,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 53.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 45,
+   "name": "Seemapuri",
+   "district": "North East Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    63
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 74 to 91 and 128 to 134 in DMC Charge No. 1; all Blocks in DM C Charge No, 101; Blosks 58 to 62 in DMC Charge No. 102; and all Bb;fcs in DMC Charge No. 103.",
+   "party07": "INC",
+   "winner_07": "VEER SINGH DHINGAN",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "BALBIR SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "VEER SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "VEER SINGH DHINGAN",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 57.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 46,
+   "name": "Nand Nagari",
+   "district": "North East Delhi",
+   "type": "SC",
+   "status": "abolished",
+   "dest": [
+    68
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Gokalpur.",
+   "extent": "Blocks 1 to 73 and 92 to 127 in DMC Charge No. 1; Blocks 155 to 162 in DMC Charge No. 2; and VILLAGES : 1. Consus Town Gokalpur, 2. Jiwanpur alias Johfipur and 3. Khanpur Dhani in Delhi Tdhsil. 1",
+   "party07": "INC",
+   "winner_07": "BALJOR SINGH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "FATEH SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "ROOP CHAND",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "BALJOR SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "68": {
+     "pct": 40.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 47,
+   "name": "Rohtas Nagar",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    64
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 154 and 163 in DMC Charge No. 2; and Blocks 103 to 108 and 131 to 177 in DMC Chargo No. 3.",
+   "party07": "INC",
+   "winner_07": "RAM BABU SHARMA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "ALOK KUMAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "RADHEY SHYAM KHANNA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "RAM BABU SHARMA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 89.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 48,
+   "name": "Babarpur",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    67
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Blocks 17 to 102, 109 to 130 and 173 to 20* in DMC Charge No. 3; and Census Town Babarpur.",
+   "party07": "INC",
+   "winner_07": "VINAY SHARMA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "NARESH GAUR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "NARESH GAUR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "VINAY SHARMA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "67": {
+     "pct": 63.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 49,
+   "name": "Seelampur",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    65
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Blocks 1 to 16 in DMC Chargo No. 3; Blocks 1 to 51, 58 to 70 and 110 to 210 in DMC Chargo No. 104; and Census Town Jaffrabad.",
+   "party07": "INC",
+   "winner_07": "CHAUDHRY MATEEN AHMED",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "MATIN AHMED",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "CH. MATEEN AHMAD",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "CHAUDHRY MATEEN AHMED",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "65": {
+     "pct": 87.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 50,
+   "name": "Ghonda",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    65,
+    66
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Seelampur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 17 and 33 to 41 in DMC Charge No. 4; all Blocks in DMC Charge No. 5; and Blocks 52 to 57 in DMC Charge No. 104,",
+   "party07": "INC",
+   "winner_07": "BHEESHMA SHARMA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "LAL BEHARI TIWARI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "BHEESHM SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "BHEESHMA SHARMA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "65": {
+     "pct": 28.1,
+     "basis": "measured"
+    },
+    "66": {
+     "pct": 71.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 51,
+   "name": "Yamuna Vihar",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    66,
+    67,
+    70
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Ghonda, Babarpur, Karawal Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 18 to 32 and 42 to 186 in DMC Charge No. 4; Blocks 71 to 109 in DMC Charge No. 104; and Villages : 1. Gaihi Mendu and 2, SaadatpuT Gujran in Delhi Telisil.",
+   "party07": "BJP",
+   "winner_07": "SAHAB SINGH CHAUHAN",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "SAHAB SINGH CHAUHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SAHAB SINGH CHAUHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SAHAB SINGH CHAUHAN",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 41.5,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 26.2,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 22.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 52,
+   "name": "Qarawal Nagar",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    69,
+    70
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Mustafabad.",
+   "extent": "VILLAGES : 1. Ziauddinpur, 2. Sabapur, 3. Baqiabad, 4. Saadatpur, 5. Sherpur, 6. Khajoori Khas, 7. Beharipur, 8. Qarawal Nagar, 9. Dayalpur, 10. Mustafabad, 11. Mirpur Turk and 12. Tukhmirpur in Delhi Tehsil.",
+   "party07": "BJP",
+   "winner_07": "MOHAN SINGH BISHT",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "RAM PAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MOHAN SINGH BISHT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MOHAN SINGH BISHT",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "69": {
+     "pct": 8.2,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 71.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 53,
+   "name": "Wazirpur",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    17,
+    18
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Model Town. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charge No. 48; and Blocks 1 to 92 in DMC Chargo No. 106.",
+   "party07": "BJP",
+   "winner_07": "MANGE RAM GARG",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "DEEP CHAND BANDHU",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "BANDHU DEEP CHAND",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MANGE RAM GARG",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 50.6,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 39.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 54,
+   "name": "Narela",
+   "district": "North West Delhi",
+   "type": "SC",
+   "status": "renamed",
+   "dest": [
+    1
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Nerela.",
+   "extent": "Blocks in DMC Charge No. 66; and VILLAGES : 1. Census Town Alipur, 2. Lampur, 3. Bankner, 4. Bhorgarh, 5. Kueni, 6. Mamoorpur, 7. TikriKhurd, 8. Singhola, 9. Singhu, 10. Hamidpur, 11. Tajpur Kalan, 15 1 2 12. Akbarpur, 13. Palla, 14. Qullakpur, 15. Jhangolla, 16. Sungerpur, 17. Fatchpur Jat, 18. Tigipur, 19. Bakhtawarpur, 20. Bankauli, 21. Khampur, 22. Shahpur, 23. Razapur Kalan, 24. Sanoth, 25. Ghoga, 26. Iradat Nagar, 27. Holambi Khurd, 28. Holambi Kalan, 29. Zindpur, 30, Hiranki, 31. Mohammedpur Ramganpur, 32. Tohri Daulatpur, 33. Khara Khurd, 34. Khera Kalan an i 35. Bodhpur Bijapur in Delhi Tohs il.",
+   "party07": "INC",
+   "winner_07": "CHARAN SINGH KANDERA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "INDER RAJ SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "CHARAN SINGH KANDERA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "CHARAN SINGH KANDERA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 88.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 55,
+   "name": "Bhalswa Jahangirpur",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    1,
+    2,
+    5,
+    70
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Nerela, Burari, Badli, Karawal Nagar.",
+   "extent": "VILLAGES : Jahangirpur 1. Census Town Bhalswa Jahangir- pur, 2. Ibrahimpur, 3. Qadipur, 4. Salimpur Majra Burarj, 5. Badarpur, 6. Pur, 7, Burari, «. Shanjarpur, 9. Mukandpuv, 10. Kamalpur, 11. Jharoda Majra Burari, 12. Jagatpur Burari, 13. Garhi Khasru, 14. Mukhmclpur; and 15. Nagli Poona in Delhi Tohsil.",
+   "party07": "INC",
+   "winner_07": "J.S. CHAUHAN",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "JITENDRA KUMAR",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "J.S.CHAUHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "J.S. CHAUHAN",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 6.0,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 67.8,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 8.6,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 6.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 56,
+   "name": "Adarsh Nagar",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    3,
+    4,
+    18
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Timarpur, Model Town. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 99 to 145 in DMC Cliarge No . 49; Blocks 27 to 30 and 86 to 100 in DMC Charge No.57; Blocks 62 to 191 in DMC Charge No , 59; and Blocks 93 to 138 in in DMC Charge No. 106.",
+   "party07": "INC",
+   "winner_07": "MANGAT RAM",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "JAI PARKASH YADAV",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MANGAT RAM",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MANGAT RAM",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 26.5,
+     "basis": "measured"
+    },
+    "4": {
+     "pct": 41.0,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 20.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 57,
+   "name": "Pahar Ganj",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    21,
+    23,
+    40
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Matia Mahal, Karol Bagh, New Delhi. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charge No. 15; Blocks 38 to 60 in DMC Charge No. 16; Blocks 38 to 51, 53 to 58 and 60 to 74 in DMC Clwrge No, 23; Blocks 93 to 105 in DMC Charge No'. 31; and all Blocks in DMC Charge No. 32. Ifi THE GAZETTE OF INDIA 1 2",
+   "party07": "INC",
+   "winner_07": "ANJALI RAI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "SATISH CHANDRA KHANDELWAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "ANJALI RAI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "ANJALI RAI",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "21": {
+     "pct": 45.4,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 25.5,
+     "basis": "measured"
+    },
+    "40": {
+     "pct": 22.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 58,
+   "name": "Matia Mahal",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    20
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chandni Chowk. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 37 in DMC Charge No. 16; all Blocks in DMC Charge No. 17; Blocks 1 to 67 and 84 in DMC Charge No. 18; and Blocks 18 to 61 and 66 to 68 in DMC Charge No. 19.",
+   "party07": "JD(S)",
+   "winner_07": "SHOAIB IQBAL",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "SHOAIB IQBAL",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SHOAIB IQBAL",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SHOAIB IQBAL",
+     "party": "JD(S)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 55.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 59,
+   "name": "Balli Maran",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    22
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 17 to 20 in DMC Charge No. 21; all Blocks in DMC Charge No. 22; Blocks 1 to 37, 52 to 54. 59 anJ 75 in DMC Charge No. 23; all Blocks in DMC Charge No. 30; and Blocks 10 to 13 and 17 to 66 in DMC Charge No. 34.",
+   "party07": "INC",
+   "winner_07": "HAROON YUSUF",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "HAROON YUSUF",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "HAROON YUSUF",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "HAROON YUSUF",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 81.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 60,
+   "name": "Chandni Chowk",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    20
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 17 and 62 to 65 in DMC Charge No. 19; all Blocks in DMC Charge No. 20; Blocks 1 to 16, 21 and 22 in DMC Charge No. 21; all Blocks in DMC Charge No. 24; Blocks 1 to 5, 12 to 15 and 17 to 20 in DMC Charge No. 25; Block 25 in DMC Charge No. 52; till Blocks in DMC Charges No. 54 and 55; and Blocks 63 to 81 and 93 to 96 in DMC Charge No. 56.",
+   "party07": "INC",
+   "winner_07": "PARLAD SINGH SAWHNEY",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "VASDEV KAPTAIN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "PRAHLAD SINGH SAWHNEY",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "PARLAD SINGH SAWHNEY",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 93.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 61,
+   "name": "Timarpur",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    3
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 24 and 26 to 46 in DMC Charge No. 52; Blocks 1 to 62. 82 to 92 and 97 to 99 in DMC Charge No. 56: Blocks 1 to 2.6, 31 to 85 and 101 in DMC Charge No. 57; and Blocks 17 to 33 in DMC Charge No. 58.",
+   "party07": "INC",
+   "winner_07": "SURINDER PAL SINGH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "RAJENDER GUPTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "JAGDISH ANAND",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SURINDER PAL SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 84.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 62,
+   "name": "Model Town",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    3,
+    18
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Timarpur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to. 98 in DMC Charge No. 49; Blocks 1 to 16 and 34 to 105 in DMC Charge No. 58; $nd Blocks 1 to 61 in DMC Charge No. 59.",
+   "party07": "INC",
+   "winner_07": "KANWAR KARAN SINGH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "CHATRI LAL GOEL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "KANWAR KARAN SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "KANWAR KARAN SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 37.9,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 58.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 63,
+   "name": "Kamla Nagar",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    18,
+    19
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Model Town, Sadar Bazar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 31 to 38 in DMC Charge No. 27; Blocks 1 to 37 in DMC Charge No. 5; and all Blocks in DMC Charges No. 46, 50 and 51.",
+   "party07": "INC",
+   "winner_07": "SHADI RAM",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "P.K. CHANDLA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "SHADI RAM",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SHADI RAM",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "18": {
+     "pct": 30.3,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 61.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 64,
+   "name": "Sadar Bazar",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    19
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 6 to 11 and 16 io DMC Charge No. 25; all Blocks in DMC Charge No. 26; Blocks 1 to 30 and 39 to 44 in DMC Charge No. 27; all Blocks in DMC Charge No. 29 Printed by the Manager, Govt. o •ad Publi»h»d by th« Contro A :EXTRAORDINARY [PART tt-~^r,cr3fiii)] I Sadar Bazar_(Conti'!.) Blocks 1 to 9 and 14 to 16 in DMC Charge No. 34; and all Blocks in DMC Charge No. 53,",
+   "party07": "INC",
+   "winner_07": "RAJESH JAIN",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "HARI KRISHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "RAJESH JAIN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "RAJESH JAIN",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 71.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 65,
+   "name": "Moti Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    25
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 21, 45 and 50 to 52 in DMC Charge No. 72; Blocks 1 to 51 in DMC Charge No, 73; Blocks 1 to 28 in DMC Charge No. 74; and all Blocks in DMC Charge No. 82.",
+   "party07": "BJP",
+   "winner_07": "MADAN LAL KHURANA",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "MADAN LAL KHURANA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "AVINASH SAHNI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MADAN LAL KHURANA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 78.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 66,
+   "name": "Patel Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    24,
+    39
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rajinder Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks IIS to 130 in DMC Charge NO. 38; all Blocks in DMC Charge No. 42; Blocks I to 55 and 131 to 168 in DMC Charge No. 43; and Blocks 56 to 71 in DMC Charge No. 73.",
+   "party07": "INC",
+   "winner_07": "RAMA KANT GOSWAMI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "M.R ARYA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "RAMA KANT GOSWAMI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "RAMA KANT GOSWAMI",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "24": {
+     "pct": 55.9,
+     "basis": "measured"
+    },
+    "39": {
+     "pct": 34.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 67,
+   "name": "Rajinder Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    39
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 49 in DMC Charge No. 39; and all blocks in DMC Charges No. 40 flp.d 41.",
+   "party07": "BJP",
+   "winner_07": "PURAN CHAND YOGI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "PURAN CHAND YOGI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "PURAN CHAND YOGI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "PURAN CHAND YOGI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 83.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 68,
+   "name": "Karol Bagh",
+   "district": "New Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    23
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charges No. 36 and 37; Blocks 1 to 117 and 131 to 152 in DMC Charge No. 38; and Blocks 50 to 54 in DMC Charge No. 39.",
+   "party07": "BJP",
+   "winner_07": "SURENDER PAL RATAWAL",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "S.P. RATWAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "MOTI LAL BOKOLIA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "SURENDER PAL RATAWAL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 60.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 69,
+   "name": "Ram Nagar",
+   "district": "New Delhi",
+   "type": "SC",
+   "status": "abolished",
+   "dest": [
+    22,
+    23
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Ballimaran, Karol Bagh. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Blocks 1 to 92 and 106 to 122 in DMC Charge N,o. 31; and all Blocks in DMC Charges No, 33 and 35.",
+   "party07": "BJP",
+   "winner_07": "MOTI LAL SODI",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "MOTI LAL SODDI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "DARSHNA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "MOTI LAL SODI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 43.6,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 50.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 70,
+   "name": "Baljit Nagar",
+   "district": "New Delhi",
+   "type": "SC",
+   "status": "abolished",
+   "dest": [
+    19,
+    23,
+    24
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Sadar Bazar, Karol Bagh, Patel Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All Blocks in DMC Charge No. 28; Blocks 56 to 130 and 169 in DMC Charge No. 43; all Blocks in DMC Charge No. 44; Blocks 38 to 48 in DMC Charge No. 45; and Blocks 52 to 55 in DMC Charge No. 73. Notes : 1. Any reference in this TABLE to a Charge, Block, Census Town or Village shall be taken to mean the area comprised within that Census Chaigc, Census Block, Census Town or Village as indi- cated in the \"C;nsu-v of India 1991—Series 31; DELHI, Occasional Paper No. 1 of 1992\" show- ing provisional total population and Scheduled Caste population published by the Director of Census Operations, Delhi in February, 1992. 2. NDMC stands for New Delhi Municipal Commi- ttee and DMC stands for Delhi Municipal Corporation (Urban). $a./- T. N. SESHAN, Chief Election Commissioner of India [No. 282/DL792] By Order. K. P. G. KUTTY. Secy. of India Pfeii, Ring Road, New DeIM-1100*4 oller ot Publications, Delhi-110054, 1992",
+   "party07": "INC",
+   "winner_07": "KRISHNA TIRATH",
+   "electors_07": null,
+   "elections": [
+    {
+     "year": 1993,
+     "winner": "KRISHAN TIRATH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1998,
+     "winner": "KRISHNA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2003,
+     "winner": "KRISHNA TIRATH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 28.7,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 20.9,
+     "basis": "measured"
+    },
+    "24": {
+     "pct": 48.4,
+     "basis": "measured"
+    }
+   }
+  }
+ ],
+ "post2008_constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Nerela",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    54,
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Narela.",
+   "extent": "DMC-Ward No. 101 Ward No.101 (Urban), Bankner (CT), Ghoga (CT), Sanoth (CT), Lam Pur, Mamoor Pur, Singhola, Tikri Khurd, Kureni and Bhor Garh villages. DMC-Ward No. 102 Khera Khurd (CT), Ali Pur (CT), Singhu, Hamid Pur, Taj Pur Kalan, Akbar Pur Majra, Palla, Qullak Pur, Jhangola, SungerPur Shahdara, Sunger Pur Delhi, Tigi Pur, Fateh Pur Jat, Bakhtawar Pur, Bankauli, Kham Pur, Shah Pur Garhi, Rajpur Kalan, Iradat Nagar alias Naya Bans, Holambi Khurd, Holambi Kalan, Zind Pur, Hiranki, Mohd. Pur Ramzan Pur, Tehri Daulat Pur, Bodh Pur Bija Pur and Khera Kalan vilages.",
+   "party12": "INC",
+   "winner_12": "JASWANT SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "JASWANT SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "NEEL DAMAN KHATRI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SHARAD KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SHARAD KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "RAJ KARAN KHATRI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "54": {
+     "pct": 85.3,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 2.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 2,
+   "name": "Burari",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Bhalswa Jahangirpur.",
+   "extent": "DMC-Ward No. 104 (Part) Burari (CT), Jharoda Majra Burari (CT), Bhalswa Jahangir Pur (CT), Ibrahim Pur, Garhi Khasru, Mukhmel Pur, Qadi Pur, Nangli Poona, Sanjarpur, Salem Pur Majra Burari, Badar Pur Majra Burari, Jagat Pur ilaqa Shahdara, Jagat Pur ilaqa Delhi, Kamal Pur Majra Burari and Mukand Pur villages.",
+   "party12": "BJP",
+   "winner_12": "SHRI KRISHAN",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SHRI KRISHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SANJEEV JHA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SANJEEV JHA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SANJEEV JHA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SANJEEV JHA",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 83.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 3,
+   "name": "Timarpur",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    56,
+    61,
+    62
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Adarsh Nagar, Model Town. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 115 Ward No.115 (Urban) DMC-Ward No. 116 Ward No.116 (Urban) DMC-Ward No. 121 (Part) E.B. No. 1 - 36 and 73 -",
+   "party12": "INC",
+   "winner_12": "SURINDER PAL SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SURINDER PAL SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "HARISH KHANNA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "PANKAJ PUSHKAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "DILIP PANDEY",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SURYA PRAKASH KHATRI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "56": {
+     "pct": 7.6,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 67.0,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 12.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 4,
+   "name": "Adarsh Nagar",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    56
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 105 (Part) E.B. No. 1 - 112 DMC-Ward No. 106 Ward No.106 (Urban) DMC-Ward No. 118 (Part) E.B. No. 92 -",
+   "party12": "INC",
+   "winner_12": "MANGAT RAM",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "MANGAT RAM",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RAM KISHAN SINGHAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "PAWAN KUMAR SHARMA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "PAWAN SHARMA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "RAJ KUMAR BHATIA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "56": {
+     "pct": 22.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 5,
+   "name": "Badli",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    20,
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bhalswa Jahangirpur.",
+   "extent": "DMC-Ward No. 34 (Part) E.B. No. 66 – 133, 170 – 178 and 180-181 Libas Pur (CT) and Siras Pur (CT) DMC-Ward No. 103 Bhalswa Jahangir Pur (CT)",
+   "party12": "INC",
+   "winner_12": "DEVENDER YADAV",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "DEVENDER YADAV",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "DEVENDER YADAV",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "AJESH YADAV",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "AJESH YADAV",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "AAHIR DEEPAK CHAUDHARYY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 50.4,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 34.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 6,
+   "name": "Rithala",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    21
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Sahibabad Daulatpur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 33 (Part) EB. No. 1 - 59, 115 -130, 359 - 411, 417, 419 - 423, 426, 432 and 435 – 438 DMC-Ward No. 34 (Part) EB. No. 179 DMC-Ward No. 35 (Part) E.B. No. 1 – 92 and 224 –",
+   "party12": "BJP",
+   "winner_12": "KULWANT RANA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "KULWANT RANA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "KULWANT RANA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "MOHINDER GOYAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "MOHINDER GOYAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "KULWANT RANA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "21": {
+     "pct": 97.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 7,
+   "name": "Bawana",
+   "district": "North West Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    21,
+    22
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sahibabad Daulatpur.",
+   "extent": "DMC-Ward No. 33 (Part) EB. No. 439-446 DMC-Ward No. 34 (Part) Kankar Khera village DMC-Ward No. 36 Sahibabad Daulat Pur (CT), Pehlad Pur Bangar (CT), Begum Pur (CT), Pooth Kalan (CT), Pansali and Barwala villages DMC-Ward No. 37 Bawana (CT), Nangal Thakran (CT), Pooth Khurd (CT), Darya Pur Kalan, Hareoli, Ochandi, Mungesh Pur, Katewara, Bazid Pur Thakran, Sultan Pur Dabas, Qutab Garh, Punjab Khor, Jat Khor, Salah Pur Majra, Budhan Pur and Chand Pur villages.",
+   "party12": "INC",
+   "winner_12": "SURENDER KUMAR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SURENDER KUMAR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "GUGAN SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "VED PARKASH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "JAI BHAGWAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "RAVINDER INDRAJ SINGH",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "21": {
+     "pct": 17.0,
+     "basis": "measured"
+    },
+    "22": {
+     "pct": 76.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 8,
+   "name": "Mundka",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    22,
+    25,
+    28
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Bawana, Nangloi Jat, Najafgarh.",
+   "extent": "DMC-Ward No. 38 (Part) Kanjhawala (CT), Karala, Mohammad Pur Majri, Madan Pur Dabas, Lad Pur, Chatesar, Jonti, Garhi Rindhala and Nizam Pur Rashid Pur villages. DMC-Ward No. 43 (Part) Nangloi Jat (CT)(Part) EB No. 1 - 39 DMC-Ward No. 44 Mundka (CT) Nangloi Jat (CT) (Part) EB No. 1 - 32 and 35 Quammruddin Nagar (CT) (Part) EB No. 1 - 3 and 14 -15 Gheora (CT), Rani Khera, Rasool Pur, Saoda and Nilothi villages DMC-Ward No. 48 (Part) Jaffar Pur alias Hiran Kudna village DMC-Ward No. 50 (Part) Tikri Kalan and Neel Wal villages.",
+   "party12": "BJP",
+   "winner_12": "MANOJ KUMAR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "MANOJ KUMAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RAMBIR SHOKEEN",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SUKHVIR SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "DHARAMPAL LAKRA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "GAJENDER DRALL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 57.6,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 24.8,
+     "basis": "measured"
+    },
+    "28": {
+     "pct": 16.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 9,
+   "name": "Kirari",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    22
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Bawana.",
+   "extent": "DMC-Ward No. 38 (Part) Kirari Suleman Nagar (CT), Nithari and Mubarak Pur Dabas villages.",
+   "party12": "BJP",
+   "winner_12": "ANIL JHA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "ANIL JHA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "ANIL JHA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "RITURAJ GOVIND",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RITURAJ GOVIND",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "ANIL JHA",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 48.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 10,
+   "name": "Sultanpur Majra",
+   "district": "North West Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    22
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bawana. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 39 (Part) (SC) Sultan Pur Majra (CT) (Part) EB. No. 12-94 DMC-Ward No. 40 Sultan Pur Majra (CT) DMC-Ward No. 41 (Part) E.B. No. 1 – 60",
+   "party12": "INC",
+   "winner_12": "JAI KISHAN",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "JAI KISHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "JAI KISHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SANDEEP KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "Mukesh Kumar Ahlawat",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "MUKESH KUMAR AHLAWAT",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 66.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 11,
+   "name": "Nangloi Jat",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    25
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "DMC-Ward No. 39 (Part) Ward No.39 (Urban) DMC-Ward No. 43 (Part) Ward No.43 (Urban) Nangloi Jat (CT) (Part) E.B. No. 40 - 186 DMC-Ward No. 44 (Part) Nangloi Jat (CT) (Part) E.B. No. 33 - 34 Quammruddin Nagar (CT) (Part) E.B. No. 4 – 13",
+   "party12": "INC",
+   "winner_12": "BIJENDER SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "BIJENDER SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "MANOJ KUMAR SHOKEEN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "RAGHUVINDER SHOKEEN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAGHUVINDER SHOKEEN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "MANOJ KUMAR SHOKEEN",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 77.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 12,
+   "name": "Mangol Puri",
+   "district": "North West Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    23,
+    24
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sultanpur Majra. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 35 (Part) (SC) E.B. No. 93 – 223 and 320 DMC-Ward No. 39 (Part) Sultan Pur Majra (CT) (Part) EB. No. 1-11 DMC-Ward No. 41 (Part) E.B. No. 61 – 153 DMC-Ward No. 42 Ward No.42 (Urban)",
+   "party12": "INC",
+   "winner_12": "RAJ KUMAR CHAUHAN",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "RAJ KUMAR CHAUHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RAKHI BIRLA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "RAKHI BIRLA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAKHI BIRLA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "RAJ KUMAR CHAUHAN",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 4.4,
+     "basis": "measured"
+    },
+    "24": {
+     "pct": 37.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 13,
+   "name": "Rohini",
+   "district": "North West Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    20,
+    21
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Badli, Sahibabad Daulatpur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 33 (Part) E.B. No. 60-114, 131-358, 412- 416, 418, 424, 425, 427-431 and 433-434 DMC-Ward No. 34 (Part) E.B. No. 134 –",
+   "party12": "BJP",
+   "winner_12": "JAI BHAGWAN AGGARWAL",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "JAI BHAGWAN AGGARWAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RAJESH GARG",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "VIJENDER GUPTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "VIJENDER GUPTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "VIJENDER GUPTA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 58.1,
+     "basis": "measured"
+    },
+    "21": {
+     "pct": 41.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 14,
+   "name": "Shalimar Bagh",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    19
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 31 Ward No.31 (Urban) DMC-Ward No. 32 Ward No.32 (Urban) DMC-Ward No. 34 (Part) E.B. No. 1 – 65",
+   "party12": "BJP",
+   "winner_12": "RAVINDER NATH BANSAL",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "RAVINDER NATH BANSAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "BANDANA KUMARI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "BANDANA KUMARI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "BANDANA KUMARI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "REKHA GUPTA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 37.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 15,
+   "name": "Shakur Basti",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    16,
+    18,
+    24
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Madipur, Mangolpuri. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 26 Ward No.26 (Urban) DMC-Ward No. 30 Ward No.30 (Urban)",
+   "party12": "BJP",
+   "winner_12": "SHYAM LAL GARG",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SHYAM LAL GARG",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SATYENDER KUMAR JAIN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SATYENDAR JAIN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SATYENDAR JAIN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "KARNAIL SINGH",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "16": {
+     "pct": 26.4,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 36.7,
+     "basis": "measured"
+    },
+    "24": {
+     "pct": 8.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 16,
+   "name": "Tri Nagar",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    17,
+    18
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Shakurbasti. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 27 Ward No. 27 (Urban) DMC-Ward No. 28 (Part) E.B. No. 1 – 53 and 108-121 DMC-Ward No. 29 Ward No. 29 (Urban)",
+   "party12": "INC",
+   "winner_12": "ANIL BHARDWAJ",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "ANIL BHARDWAJ",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "NAND KISHORE GARG",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "JITENDER SINGH TOMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "PREETI TOMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "TILAK RAM GUPTA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 20.0,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 66.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 17,
+   "name": "Wazirpur",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    17,
+    19,
+    53
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tri Nagar, Shalimar Bagh. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 28 (Part) E.B. No. 54-107 DMC-Ward No. 99 Ward No. 99 (Urban) DMC-Ward No. 100 Ward No.100 (Urban) DMC-Ward No. 105 (Part) E.B. No. 113 –",
+   "party12": "INC",
+   "winner_12": "HARI SHANKAR GUPTA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "HARI SHANKAR GUPTA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "DR MAHANDER NAGPAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "RAJESH GUPTA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAJESH GUPTA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "POONAM SHARMA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 22.0,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 32.2,
+     "basis": "measured"
+    },
+    "53": {
+     "pct": 28.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 18,
+   "name": "Model Town",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    53,
+    56,
+    62,
+    63
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Wazirpur, Adarsh Nagar, Kamla Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 117 Ward No. 117 (Urban) DMC-Ward No. 118 (Part) E.B. No. 1 to 91& Special E.B. No. 701 – 704 and 801 - 803 DMC-Ward No. 119 Ward No. 119 (Urban)",
+   "party12": "INC",
+   "winner_12": "KANWAR KARAN SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "KANWAR KARAN SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "AKHILESH PATI TRIPATHI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "AKHILESH PATI TRIPATHI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "AKHILESH PATI TRIPATHI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "ASHOK GOEL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 22.1,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 11.2,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 37.6,
+     "basis": "measured"
+    },
+    "63": {
+     "pct": 16.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 19,
+   "name": "Sadar Bazar",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    63,
+    64,
+    70
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kamla Nagar, Baljit Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 120 Ward No. 120 (Urban) DMC-Ward No. 121 (Part) E.B. No. 37 - 72 and 111 - 115 DMC-Ward No. 122 Ward No. 122 (Urban) DMC-Ward No. 133 Ward No. 133 (Urban)",
+   "party12": "INC",
+   "winner_12": "RAJESH JAIN",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "RAJESH JAIN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SOM DUTT",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SOM DUTT",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SOM DUTT",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SOM DUTT",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 42.6,
+     "basis": "measured"
+    },
+    "64": {
+     "pct": 23.1,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 18.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 20,
+   "name": "Chandni Chowk",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    58,
+    60
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Matia Mahal. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 110 Ward No. 110 (Urban) DMC-Ward No. 113 Ward No. 113 (Urban) DMC-Ward No. 114 Ward No. 114 (Urban)",
+   "party12": "INC",
+   "winner_12": "PARLAD SINGH SAWHNEY",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "PARLAD SINGH SAWHNEY",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "PARLAD SINGH SAWHNEY",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "ALKA LAMBA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "PARLAD SINGH SAWHNEY",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "PUNARDEEP SINGH SAWHNEY (SABBY)",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "58": {
+     "pct": 17.1,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 73.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 21,
+   "name": "Matia Mahal",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    57
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pahar Ganj. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 1 (Part) E.B. No. 1-84 DMC-Ward No. 107 Ward No. 107 (Urban) DMC-Ward No. 108 (Part) E.B. No. 85 - 103 DMC-Ward No. 109 Ward No. 109 (Urban)",
+   "party12": "LJP",
+   "winner_12": "SHOAIB IQBAL",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SHOAIB IQBAL",
+     "party": "LJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SHOAIB IQBAL",
+     "party": "JD(U)",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "ASIM AHMED KHAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SHOAIB IQBAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "AALEY MOHAMMED IQBAL",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 22.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 22,
+   "name": "Ballimaran",
+   "district": "Chandni Chowk",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    59,
+    69
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ram Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 112 Ward No. 112 (Urban) DMC-Ward No. 111 Ward No. 111 (Urban) DMC-Ward No. 131 Ward No. 131 (Urban)",
+   "party12": "INC",
+   "winner_12": "HAROON YUSUF",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "HAROON YUSUF",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "HAROON YUSUF",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "IMRAN HUSSAIN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "IMRAN HUSSAIN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "IMRAN HUSSAIN",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 42.8,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 36.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 23,
+   "name": "Karol Bagh",
+   "district": "New Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    57,
+    68,
+    69,
+    70
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pahar Ganj, Ram Nagar, Baljit Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 108 (Part) E.B. No. 1 – 84 and 104 -105 DMC-Ward No. 129 (Part) E.B. 1-19, 45-79 and 82-88 DMC-Ward No. 130 Ward No. 130 (Urban) DMC-Ward No. 132 Ward No. 132 (Urban)",
+   "party12": "BJP",
+   "winner_12": "SURENDER PAL RATAWAL",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SURENDER PAL RATAWAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "VISHESH RAVI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "VISHESH RAVI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "VISHESH RAVI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "VISHESH RAVI",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 7.5,
+     "basis": "measured"
+    },
+    "68": {
+     "pct": 52.7,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 22.9,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 16.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 24,
+   "name": "Patel Nagar",
+   "district": "New Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    66,
+    70
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Baljit Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 125 (Part) E.B.1 - 83 and 100 - 126 DMC-Ward No. 126 (Part) EB No. 1 - 46 and 104 - 136 DMC-Ward No. 134 (Part) EB No. 1 – 127, 150 – 167 and 178 –",
+   "party12": "INC",
+   "winner_12": "RAJESH LILOTHIA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "RAJESH LILOTHIA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "VEENA ANAND",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "HAZARI LAL CHAUHAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAAJ KUMAR ANAND",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "PRAVESH RATN",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 42.7,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 43.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 25,
+   "name": "Moti Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    15,
+    17,
+    65
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rajouri Garden, Tri Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 123 Ward No. 123 (Urban) DMC-Ward No. 124 Ward No.124 (Urban) DMC-Ward No. 125 (Part) E.B. 84 - 99 Ward No.23 (Part) E.B. 86 - 110 DMC-Ward No. 134 (Part) EB No. 128 – 149 and 168 –",
+   "party12": "BJP",
+   "winner_12": "SUBHASH SACHDEVA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SUBHASH SACHDEVA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SUBHASH SACHDEVA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SHIV CHARAN GOEL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SHIV CHARAN GOEL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "HARISH KHURANA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "15": {
+     "pct": 9.8,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 12.4,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 58.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 26,
+   "name": "Madipur",
+   "district": "West Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    15,
+    16
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rajouri Garden. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 23 (Part) E.B. No. 49 - 85 DMC-Ward No. 24 Ward No. 24 (Urban) DMC-Ward No. 25 Ward No. 25 (Urban)",
+   "party12": "INC",
+   "winner_12": "MALA RAM GANGWAL",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "MALA RAM GANGWAL",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "GIRISH SONI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "GIRISH SONI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "Girish Soni",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "KAILASH GANGWAL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "15": {
+     "pct": 29.2,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 62.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 27,
+   "name": "Rajouri Garden",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    14,
+    15,
+    26
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tilak Nagar, Vishnu Garden. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 21 Ward No. 21 (Urban) DMC-Ward No. 22 (Part) E.B. No. 81 DMC-Ward No. 23 (Part) E.B. No. 1 - 48 DMC-Ward No. 45 Ward No.45 (Urban) DMC-Ward No. 46 (Part) E.B. No. 1 – 23",
+   "party12": "INC",
+   "winner_12": "A DAYA NAND CHANDELA A",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "A DAYA NAND CHANDELA A",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "MANJINDER SINGH SIRSA",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "JARNAIL SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "A DHANWATI CHANDELA A",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "MANJINDER SINGH SIRSA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 14.4,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 30.4,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 43.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 28,
+   "name": "Hari Nagar",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    13,
+    14,
+    15
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tilak Nagar, Rajouri Garden. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 18 (Part) E.B. No. 1 – 43 and 93 - 142 DMC-Ward No. 19 (Part) E,B. No. 1-110 and 165-167 DMC-Ward No. 20 Ward No. 20 (Urban)",
+   "party12": "BJP",
+   "winner_12": "HARSHARN SINGH BALLI",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "HARSHARN SINGH BALLI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "JAGDEEP SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "JAGDEEP SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAJ KUMARI DHILLON",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SHYAM SHARMA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "13": {
+     "pct": 56.7,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 14.6,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 8.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 29,
+   "name": "Tilak Nagar",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    14,
+    26
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Vishnu Garden. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 22 (Part) E.B. No. 1 - 80, 82 - 148 & Special E.B. No. 2901 DMC-Ward No. 46 (Part) E.B. No. 24 –",
+   "party12": "BJP",
+   "winner_12": "O.P. BABBAR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "O.P. BABBAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "JARNAIL SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "JARNAIL SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "JARNAIL SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "JARNAIL SINGH",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 27.6,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 22.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 30,
+   "name": "Janakpuri",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    12,
+    14
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tilak Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 17 Ward No.17 (Urban) DMC-Ward No. 18 (Part) E.B. No. 44 - 92 DMC-Ward No. 19 (Part) E.B. No. 111-164 DMC-Ward No. 51 (Part) E.B. No. 1 – 76",
+   "party12": "BJP",
+   "winner_12": "PROF. JAGDISH MUKHI",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "PROF. JAGDISH MUKHI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "PROF. JAGDISH MUKHI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "RAJESH RISHI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAJESH RISHI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "ASHISH SOOD",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 54.4,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 12.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 31,
+   "name": "Vikaspuri",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Hastsal.",
+   "extent": "DMC-Ward No. 47 Ward No.47 (Urban) and Hastsal (CT) DMC-Ward No. 48 (Part) Bapraula, Raja Pur Khurd, Bakkar Wala, Tilang Pur Kotla and Shafi Pur Ranhola villages.",
+   "party12": "INC",
+   "winner_12": "NAND KISHORE",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "NAND KISHORE",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "MAHINDER YADAV",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "MAHINDER YADAV",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "MAHINDER YADAV",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "PANKAJ KUMAR SINGH",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "27": {
+     "pct": 86.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 32,
+   "name": "Uttam Nagar",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    12
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Janak Puri. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 48 (Part) Ward No. 48 (Urban)",
+   "party12": "INC",
+   "winner_12": "MUKESH SHARMA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "MUKESH SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "PAWAN SHARMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "NARESH BALYAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "NARESH BALYAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "PAWAN SHARMA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 19.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 33,
+   "name": "Dwarka",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    29
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Nasirpur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 51 (Part) E.B. No. 77 - 174 DMC-Ward No. 52 (Part) E.B. No. 61 - 75 and 95 –",
+   "party12": "INC",
+   "winner_12": "MAHABAL MISHRA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "MAHABAL MISHRA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "PARDUYMN RAJPUT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "ADARSH SHASTRI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "VINAY MISHRA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "PARDUYMN SINGH RAJPUT",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "29": {
+     "pct": 54.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 34,
+   "name": "Matiala",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    30,
+    31
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Palam, Mahipalpur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 49 (Part) Dindar Pur, Kharkhari Nahar, Kharkhari Jatmal, Khera Dabar and Nangli Sakrawati villages. DMC-Ward No. 53 (Part) E.B. No. 1-86 & 132-217 Paprawat, Goela Khurd, Qutab Pur, Taj Pur Khurd, Rewla Kham Pur, Pindwala Kalan, Darya Pur Khurd, Sher Pur Deri, Kharkhari Rond, Daulat Pur, Pindwala Khurd, Goman Hera, Jhuljhuli, Sarang Pur, Ghalib Pur, Raota and Deorala villages. DMC-Ward No. 54 (Part) E.B. No. 225-229 DMC-Ward No. 55 (Part) Chhawala (CT) Hasan Pur, Kangan Heri, Raghu Pur, Badhosra, Nanak Heri, Jhatikra, Asalat Pur Khawad, Shikar Pur and Jain Pur villages.",
+   "party12": "INC",
+   "winner_12": "SUMESH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SUMESH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RAJESH GAHLOT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "GULAB SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "GULAB SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SANDEEP SEHRAWAT",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "30": {
+     "pct": 59.2,
+     "basis": "measured"
+    },
+    "31": {
+     "pct": 23.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 35,
+   "name": "Najafgarh",
+   "district": "West Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    28
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "DMC-Ward No. 49 (Part) Ward No.49 (Urban) Roshan Pura alias Dichaon Khurd (CT) Khera village. DMC-Ward No. 50 (Part) Jharoda Kalan, Dichaon Kalan, Mitraon, Surakh Pur, Kair, Mundhela Khurd, Mundhela Kalan, Jaffar Pur Kalan, Surera, Ujwa, Samas Pur Khalsa, Baqar Garh, Isa Pur, Qazi Pur, Malik Pur zer-Najafgarh and Dhansa villages.",
+   "party12": "IND",
+   "winner_12": "BHARAT SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "BHARAT SINGH",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "AJEET SINGH KHARKHARI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "KAILASH GAHLOT",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "KAILASH GAHLOT",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "NEELAM PAHALWAN",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 96.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 36,
+   "name": "Bijwasan",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    31
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Mahipalpur.",
+   "extent": "DMC-Ward No. 54 (Part) E.B. No. 1-76 DMC-Ward No. 55 (Part) Ward No. 55 (Urban) Sambhalka (CT), Kapas Hera (CT) and Salah Pur village. DMC-Ward No. 56 (Part) E.B. No. 1 - 41 Nangal Dewat (CT) and Malik Pur Kohi alias Rang Puri village.",
+   "party12": "BJP",
+   "winner_12": "SAT PRAKASH RANA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SAT PRAKASH RANA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SAT PRAKASH RANA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "COL DEVINDER SEHRAWAT",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "BHUPINDER SINGH JOON",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "KAILASH GAHLOT",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 96.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 37,
+   "name": "Palam",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    30
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 52 (Part) E.B. No. 1 – 60 and 76 - 94 DMC-Ward No. 53 (Part) E.B. No. 87-131 DMC-Ward No. 54 (Part) E.B. No. 77 - 224, 230 - 237 & Special E.B. No. 1101 - 1102, 1501 – 1510 and 2",
+   "party12": "BJP",
+   "winner_12": "DHARAM DEV SOLANKI",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "DHARAM DEV SOLANKI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "DHARM DEV SOLANKI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "BHAVNA GAUR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "BHAVNA GAUR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "KULDEEP SOLANKI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "30": {
+     "pct": 65.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 38,
+   "name": "Delhi Cantt",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    11
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity; the name was modernised to Delhi Cantonment. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Ward No 1 Delhi Cantt-Ward No 2 Delhi Cantt-Ward No 3 Delhi Cantt- Ward No 4 Delhi Cantt-Ward No 5 Delhi Cantt-Ward No 6 Delhi Cantt-Ward No 7 N.D.M.C. - Charge No. 9 (Part) E.B. No. 18 - 140, 301- 302 and 1201 – 1",
+   "party12": "BJP",
+   "winner_12": "KARAN SINGH TANWAR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "KARAN SINGH TANWAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SURENDER SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SURENDER SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "Virender Singh Kadian",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "VIRENDER SINGH KADIAN",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "11": {
+     "pct": 71.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 39,
+   "name": "Rajinder Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    66,
+    67
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Patel Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 126 (Part) EB No.47 - 103 DMC-Ward No. 127 Ward No.127 (Urban) DMC-Ward No. 128 Ward No.128 (Urban) DMC-Ward No. 129 (Part) E.B. No. 20-44 and 80-81",
+   "party12": "INC",
+   "winner_12": "RAMA KANT GOSWAMI",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "RAMA KANT GOSWAMI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "R.P.SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "VIJENDER GARG VIJAY",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAGHAV CHADHA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "UMANG BAJAJ",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 7.5,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 76.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 40,
+   "name": "New Delhi",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    1,
+    2,
+    3,
+    57
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Sarojini Nagar, Gole Market, Minto Road, Pahar Ganj. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "New Delhi N.D.M.C. - Charge No. 1 N.D.M.C. - Charge No. 2 N.D.M.C. - Charge No. 3 N.D.M.C. - Charge No. 4 N.D.M.C. - Charge No. 5 N.D.M.C. - Charge No. 6 N.D.M.C. - Charge No. 7 N.D.M.C. - Charge No. 8 N.D.M.C. - Charge No. 9 (Part) EB No. 1 – 17",
+   "party12": "INC",
+   "winner_12": "SHEILA DIKSHIT",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SHEILA DIKSHIT",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "ARVIND KEJRIWAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "ARVIND KEJRIWAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "ARVIND KEJRIWAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "PARVESH SAHIB SINGH",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 19.0,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 58.1,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 16.4,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 1.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 41,
+   "name": "Jangpura",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    3,
+    5
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Minto Road. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 1 (Part) E.B. No. 85-101 DMC-Ward No. 2 Ward No. 2 (Urban) DMC-Ward No. 5 (Part) E.B. No. 15-60 DMC-Ward No. 6 Ward No. 6 (Urban)",
+   "party12": "INC",
+   "winner_12": "TARVINDER SINGH MARWAH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "TARVINDER SINGH MARWAH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "MANINDER SINGH DHIR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "PRAVEEN KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "PRAVEEN KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "TARVINDER SINGH MARWAH",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 79.9,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 16.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 42,
+   "name": "Kasturba Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    4,
+    5
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jangpura. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 3 Ward No.3 (Urban) DMC-Ward No. 4 Ward No.4 (Urban) DMC-Ward No. 5 (Part) E.B. No. 1-14 and 61-113 DMC-Ward No. 8 (Part) E.B. No. 1 - 5, 63 – 97 and",
+   "party12": "INC",
+   "winner_12": "NEERAJ BASOYA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "NEERAJ BASOYA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "MADAN LAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "MADAN LAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "MADAN LAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "NEERAJ BASOYA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 53.2,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 27.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 43,
+   "name": "Malviya Nagar",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    9
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Hauz Khas. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 11 (Part) E.B. No. 1 - 95 and 150 DMC-Ward No. 13 (Part) E.B. No. 17 - 106 DMC-Ward No. 14 Ward No. 14 (Urban)",
+   "party12": "INC",
+   "winner_12": "KIRAN WALIA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "KIRAN WALIA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SHRI SOMNATH BHARTI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SOMNATH BHARTI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SOMNATH BHARTI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SATISH UPADHYAY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 65.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 44,
+   "name": "R K Puram",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    10
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 13 (Part) E.B. No. 1 – 16 and 107 - 117 DMC-Ward No. 15 Ward No. 15 (Urban) DMC-Ward No. 16 Ward No. 16 (Urban) and Moradabad Pahari village.",
+   "party12": "INC",
+   "winner_12": "BARKHA SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "BARKHA SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "ANIL KUMAR SHARMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "PARMILA TOKAS",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "PRAMILA TOKAS",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "ANIL KUMAR SHARMA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 72.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 45,
+   "name": "Mehrauli",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    31
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Mahipalpur.",
+   "extent": "DMC-Ward No. 55 (Part) Rajokri (CT) DMC-Ward No. 56 (Part) E.B. No. 42-129& Special EB. 2101-2102 and 3601-3603 Kusum Pur village. DMC-Ward No. 57 (Part) Ward No.57 (Urban) DMC-Ward No. 59 (Part) E.B. No. 1 - 4 and 71 – 93",
+   "party12": "INC",
+   "winner_12": "DR. YOGANAND SHASTRI",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "DR. YOGANAND SHASTRI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "PARVESH SAHIB SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "NARESH YADAV",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "NARESH YADAV",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "GAJENDER SINGH YADAV",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 72.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 46,
+   "name": "Chhatarpur",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    31,
+    32
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Mahipalpur, Mehrauli.",
+   "extent": "DMC-Ward No. 58 Sultan Pur(CT), Asola(CT), Bhati(CT),Jona Pur(CT) and Gadai Pur, Aya Nagar, Mandi, Raj Pur Khurd, Satberi, Shahur Pur, Chandan Hola, Fateh Pur Beri, Dera, Chattar Pur and Maidan Garhi villages. DMC-Ward No. 57 (Part) Saidul Azaib (CT) and Neb Sarai village DMC-Ward No. 56 (Part) Ghitorni (CT)",
+   "party12": "INC",
+   "winner_12": "BALRAM TANWAR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "BALRAM TANWAR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "BRAHM SINGH TANWAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "KARTAR SINGH TANWAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "KARTAR SINGH TANWAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "KARTAR SINGH TANWAR",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 11.7,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 86.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 47,
+   "name": "Deoli",
+   "district": "South Delhi",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    33,
+    34
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Saket, Dr. Ambedkar Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Ward No. 60 Deoli (CT) Tigri (CT) DMC-Ward No. 62 (Part) E.B. No. 1 - 68 DMC-Ward No. 64 (A) Ward No. 64 (A) (Urban)",
+   "party12": "INC",
+   "winner_12": "ARVINDER SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "ARVINDER SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "PRAKASH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "PRAKASH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "PRAKASH @ PRAKASH JARWAL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "PREM CHAUHAN",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 64.4,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 7.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 48,
+   "name": "Ambedkar Nagar",
+   "district": "South Delhi",
+   "type": "SC",
+   "status": "renamed",
+   "src": [
+    33
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity; the name was modernised to Saket. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 59 (Part) E.B. No. 5 - 70 and 94 - 140 DMC-Ward No. 61 Ward No. 61 (Urban) DMC-Ward No. 62 (Part) E.B. No. 69 –",
+   "party12": "INC",
+   "winner_12": "CH. PREM SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "CH. PREM SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "ASHOK KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "AJAY DUTT",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "AJAY DUTT",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "DR. AJAY DUTT",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 81.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 49,
+   "name": "Sangam Vihar",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    33,
+    35
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Saket, Tuglakabad. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 63 (Part) E.B. No. 1 - 51 DMC-Ward No. 64 (B) (Part) Ward No. 64 (B) (Urban)",
+   "party12": "BJP",
+   "winner_12": "DR. S.C.L. GUPTA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "DR. S.C.L. GUPTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "DINESH MOHANIYA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "DINESH MOHANIYA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "DINESH MOHANIYA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "CHANDAN KUMAR CHOUDHARY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 33.1,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 53.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 50,
+   "name": "Greater Kailash",
+   "district": "New Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    7,
+    8,
+    34
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Kalkaji, Malviya Nagar, Dr. Ambedkar Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 9 Ward No. 9 (Urban) DMC-Ward No. 11 (Part) E.B. No. 96 - 149 and 151 - 156 DMC-Ward No. 12 Ward No. 12 (Urban)",
+   "party12": "BJP",
+   "winner_12": "VIJAY KUMAR MALHOTRA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "VIJAY KUMAR MALHOTRA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SAURABH BHARADWAJ",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SAURABH BHARADWAJ",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SAURABH BHARADWAJ",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SHIKHA ROY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 18.8,
+     "basis": "measured"
+    },
+    "8": {
+     "pct": 60.8,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 10.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 51,
+   "name": "Kalkaji",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    6,
+    7
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Okhla. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 7 (Part) EB No. 1-7, 118-126 and 136-143 DMC-Ward No. 8 (Part) EB No. 6 - 62, 98 - 167, 169 and 170 DMC-Ward No. 10 Ward No. 10 (Urban) DMC-Ward No. 63 (Part) EB. No. 52-97 and 100-",
+   "party12": "INC",
+   "winner_12": "SUBHASH CHOPRA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SUBHASH CHOPRA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "HARMEET SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "AVTAR SINGH KALKAJI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "ATISHI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "ATISHI",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 57.5,
+     "basis": "measured"
+    },
+    "7": {
+     "pct": 35.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 52,
+   "name": "Tughlakabad",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Tuglakabad.",
+   "extent": "DMC-Ward No. 63 (Part) EB. No. 98-99, 105-148, 2801 and Pul Pehlad (CT) DMC-Ward No. 64 (B) (Part) Pul Pehlad (CT) DMC-Ward No. 66 Ward No. 66 (Urban)",
+   "party12": "BJP",
+   "winner_12": "RAMESH BIDHURI",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "RAMESH BIDHURI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RAMESH BIDHURI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SAHI RAM",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SAHIRAM",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SAHI RAM",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "35": {
+     "pct": 68.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 53,
+   "name": "Badarpur",
+   "district": "South Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    36
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "DMC-Ward No. 65 (Part) EB No. 23 – 51 and 55 - 83 Molar Band (CT), Mithe Pur (CT), Jait Pur and Tajpul (CT).",
+   "party12": "BSP",
+   "winner_12": "RAM SINGH NETAJI",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "RAM SINGH NETAJI",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RAMBIR SINGH BIDHURI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "NARAYAN DUTT SHARMA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAMVIR SINGH BIDHURI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "RAM SINGH NETAJI",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 78.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 54,
+   "name": "Okhla",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    6,
+    36
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Badarpur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 7 (Part) EB No. 8-117, 127-135 and 144-201 DMC-Ward No. 65 (Part) EB.No. 1-22, 52 – 54, 84-118 and 3301-3304 Saidabad, Kotla Mahigiram and Aali villages.",
+   "party12": "INC",
+   "winner_12": "PARVEZ HASHMI",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "PARVEZ HASHMI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "ASIF MOHD KHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "AMANATULLAH KHAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "AMANATULLAH KHAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "AMANATULLAH KHAN",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 41.1,
+     "basis": "measured"
+    },
+    "36": {
+     "pct": 54.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 55,
+   "name": "Trilokpuri",
+   "district": "East Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "DMC-Ward No. 67 (Part) Ward No. 67 (Urban) Dallo Pura (CT) and Chilla Saroda Bangar (CT) DMC-Ward No. 68 (Part) Dallo Pura (CT) (Part) E.B. No. 1 – 81",
+   "party12": "BJP",
+   "winner_12": "SUNIL KUMAR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SUNIL KUMAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RAJU",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "RAJU DHINGAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "ROHIT KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "RAVI KANT",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "37": {
+     "pct": 68.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 56,
+   "name": "Kondli",
+   "district": "East Delhi",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    37,
+    38
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Trilokpuri, Patpar Ganj.",
+   "extent": "DMC-Ward No. 68 (Part) Kondli (CT) Dallo Pura (CT) (Part) E.B. No. 82 - 114 DMC-Ward No. 70 Ward No. 70 (Urban) Gharoli (CT) and Kondli (CT) DMC-Ward No. 72 (Part) Gharoli (CT)",
+   "party12": "INC",
+   "winner_12": "AMRISH SINGH GAUTAM",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "AMRISH SINGH GAUTAM",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "MANOJ KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "MANOJ KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "KULDEEP KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "KULDEEP KUMAR (MONU)",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "37": {
+     "pct": 15.4,
+     "basis": "measured"
+    },
+    "38": {
+     "pct": 55.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 57,
+   "name": "Patparganj",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    39
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Mandawali. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 69 (Part) Ward No. 69 (Urban) Gharonda Neemka Bangar alias Patpar Ganj (CT) Samas Pur (Part) DMC-Ward No. 67 (Part) & 69 (Part) Chilla Saroda Khadar village. DMC-Ward No. 72 (Part) E.B. No. 5 - 172 and 201 –",
+   "party12": "INC",
+   "winner_12": "ANIL KUMAR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "ANIL KUMAR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "MANISH SISODIA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "MANISH SISODIA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "Manish Sisodia",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "Ravinder Singh Negi (Ravi Negi)",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 59.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 58,
+   "name": "Laxmi Nagar",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    39,
+    40
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2008, built from the former Mandawali, Geeta Colony. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 71 Ward No. 71 (Urban) Samas Pur (Part) and Shakar Pur Baramad villages DMC-Ward No. 72 (Part) E.B. No. 173 - 200 DMC-Ward No. 74 Ward No. 74 (Urban)",
+   "party12": "INC",
+   "winner_12": "DR. ASHOK KUMAR WALIA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "DR. ASHOK KUMAR WALIA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "VINOD KUMAR BINNY",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "NITIN TYAGI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "ABHAY VERMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "ABHAY VERMA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 54.2,
+     "basis": "measured"
+    },
+    "40": {
+     "pct": 32.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 59,
+   "name": "Vishwas Nagar",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    43,
+    44
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity; the name was modernised to Vishwash Nagar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 79 (Part) E.B. No. 33 - 180 DMC-Ward No. 80 Ward No. 80 (Urban)",
+   "party12": "INC",
+   "winner_12": "NASEEB SINGH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "NASEEB SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "OM PRAKASH SHARMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "OM PRAKASH SHARMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "OM PRAKASH SHARMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "OM PRAKASH SHARMA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 74.5,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 13.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 60,
+   "name": "Krishna Nagar",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    40,
+    42
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Geeta Colony. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 73 Ward No. 73 (Urban) DMC-Ward No. 77 (Part) E.B. No. 74-120 and 124-128 DMC-Ward No. 78 Ward No. 78 (Urban) DMC-Ward No. 79 (Part) E.B. No. 1 – 32",
+   "party12": "BJP",
+   "winner_12": "DR. HARSH VARDHAN",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "DR. HARSH VARDHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "DR. HARSH VARDHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "S K BAGGA, ADVOCATE",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "S. K. Bagga (Advocate)",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "DR ANIL GOYAL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 32.1,
+     "basis": "measured"
+    },
+    "42": {
+     "pct": 34.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 61,
+   "name": "Gandhi Nagar",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    41
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 75 Ward No.75 (Urban) DMC-Ward No. 76 Ward No.76 (Urban) DMC-Ward No. 77 (Part) E.B. No. 1-73 and 121-123 DMC-Ward No. 91 (Part) E.B.No. 1-33 and 144-147 DMC-Ward No. 92 (Part) E.B. No. 30 – 52",
+   "party12": "INC",
+   "winner_12": "ARVINDER SINGH LOVELY",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "ARVINDER SINGH LOVELY",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "ARVINDER SINGH LOVELY",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "ANIL KUMAR BAJPAI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "ANIL KUMAR BAJPAI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "ARVINDER SINGH LOVELY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "41": {
+     "pct": 54.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 62,
+   "name": "Shahdara",
+   "district": "East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    44
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 81 Ward No. 81 (Urban) DMC-Ward No. 82 Ward No. 82 (Urban) DMC-Ward No. 84 (Part) E.B. No. 1 - 47 and 111 – 121",
+   "party12": "INC",
+   "winner_12": "DR. NARENDER NATH",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "DR. NARENDER NATH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "JITENDER SINGH SHUNTY",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "RAM NIWAS GOEL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAM NIWAS GOEL",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SANJAY GOYAL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "44": {
+     "pct": 86.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 63,
+   "name": "Seema Puri",
+   "district": "North East Delhi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    45
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC- Ward No. 83 (Part) E.B.No. 1 – 162 and 199 - 200 DMC- Ward No. 84 (Part) E.B.No. 48 - 110 and 122 - 184 DMC- Ward No.85 (Part) Mandoli E.B.No. 25 - 91 and 150-",
+   "party12": "INC",
+   "winner_12": "VEER SINGH DHINGAN",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "VEER SINGH DHINGAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "DHARMENDER SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "RAJENDRA PAL GAUTAM",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "RAJENDRA PAL GAUTAM",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "VEER SINGH DHINGAN",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "45": {
+     "pct": 60.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 64,
+   "name": "Rohtas Nagar",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    47
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC- Ward No.85 (Part) Mandoli E.B.No. 1 - 24 DMC- Ward No.87 Ward No. 87 (Urban) DMC- Ward No.88 Ward No. 88 (Urban) and Gokal Pur (CT) DMC- Ward No.89 (Part) EB 1 - 39 and 91 –",
+   "party12": "INC",
+   "winner_12": "RAM BABU SHARMA",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "RAM BABU SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "JITENDER KUMAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SARITA SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "Jitender Mahajan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "JITENDER MAHAJAN",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "47": {
+     "pct": 63.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 65,
+   "name": "Seelampur",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    49,
+    50
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ghonda. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC- Ward No.91 (Part) E.B.No. 34 - 143 DMC- Ward No.92 (Part) E.B.No. 1 - 29 Jaffarabad (CT) DMC- Ward No.93 (Part) E.B. No. 85 - 129 DMC- Ward No.96 (Part) E.B. No. 1 – 66",
+   "party12": "INC",
+   "winner_12": "CHAUDHARY MATEEN AHMAD",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "CHAUDHARY MATEEN AHMAD",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "CHAUDHARY MATEEN AHMAD",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "MOHD. ISHRAQUE",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "ABDUL REHMAN",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "CHAUDHARY ZUBAIR AHMAD",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "49": {
+     "pct": 59.9,
+     "basis": "measured"
+    },
+    "50": {
+     "pct": 29.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 66,
+   "name": "Ghonda",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    50,
+    51
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Yamuna Vihar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC- Ward No.93 (Part) E.B. No. 1 - 84 DMC- Ward No.94 Ward No. 94 (Urban) Garhi Mendu E.B. No. 1 DMC Ward No. 95 (Part) Garhi Mendu E.B. No. 2-3 EB.No. 51-115 Khanpur Dhani E.B. No. 507-509 DMC Ward No. 96 (Part) Khanpur Dhani E.B. No. 1-10 Gokulpur (CT) and Ziauddin Pur (CT)",
+   "party12": "BJP",
+   "winner_12": "SAHAB SINGH CHAUHAN",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SAHAB SINGH CHAUHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "SAHAB SINGH CHAUHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "SHRI DUTT SHARMA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "AJAY MAHAWAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "AJAY MAHAWAR",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "50": {
+     "pct": 56.0,
+     "basis": "measured"
+    },
+    "51": {
+     "pct": 31.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 67,
+   "name": "Babarpur",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    48,
+    51
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Yamuna Vihar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC- Ward No.89 (Part) E.B.No. 40 – 90, 114 – 127 and Jaffarabad (CT) DMC- Ward No.90 Ward No. 90 (Urban) Gokulpur (CT), Babarpur (CT) and Jaffarabad (CT) DMC- Ward No.96 (Part) 554 E.B. No. 67 - 101 DMC- Ward No.95 (Part) E.B. No. 1 - 50 and 116-",
+   "party12": "BJP",
+   "winner_12": "NARESH GAUR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "NARESH GAUR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "NARESH GAUR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "GOPAL RAI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "GOPAL RAI",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "GOPAL RAI",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "48": {
+     "pct": 49.2,
+     "basis": "measured"
+    },
+    "51": {
+     "pct": 36.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 68,
+   "name": "Gokalpur",
+   "district": "North East Delhi",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    46
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Nand Nagari.",
+   "extent": "DMC-Ward No. 83 (Part) E.B. No. 163 - 198 DMC- Ward No.85 (Part) Mandoli E.B. No. 92 - 149 and 152-155 DMC-Ward No. 86 Ward No.86 (Urban) Karawal Nagar (CT), Jiwan Pur alias Johri Pur (CT), Ziauddin Pur (CT) and Gokal Pur (CT) .",
+   "party12": "BSP",
+   "winner_12": "SURENDRA KUMAR",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "SURENDRA KUMAR",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "RANJEET SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "FATEH SINGH",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "SURENDRA KUMAR",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "SURENDRA KUMAR",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 78.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 69,
+   "name": "Mustafabad",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    52
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Qarawal Nagar.",
+   "extent": "DMC-Ward No. 97 (Part) Karwal Nagar (CT) EB.No.1-81, 83-89 and 94-135 DMC-Ward No. 98 Mustafabad (CT) and Ziauddin Pur (CT) DMC Ward No. 97(Pt), 98(Pt) Baqiabad EB.No.1-17",
+   "party12": "INC",
+   "winner_12": "HASAN AHMAD",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "HASAN AHMAD",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "HASAN AHMED",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "JAGDISH PRADHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "HAJI YUNUS",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "MOHAN SINGH BISHT",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 56.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 70,
+   "name": "Karawal Nagar",
+   "district": "North East Delhi",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    51,
+    52,
+    55
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity; the name was modernised to Yamuna Vihar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "DMC-Ward No. 97 (Part) Karawal Nagar (CT) (Part) EB. 82, 90-93 and 136-214 Sadat Pur Gujran (CT) Saba Pur Delhi, Saba Pur Shahdara, Sadat Pur Musalman villages. Khajoori khas (CT) and Mir Pur Turk (CT) DMC-Ward No. 104 (Part) Badar Pur Khadar, Pur Delhi and Pur Shahdara villages. DMC-Ward No. 95 (Part) Sadat Pur Gujran (CT) DMC-Ward No. 98 (Part) Dayal Pur (CT), Mir Pur Turk (CT) Tukhmir Pur, Bihari Pur and Sher Pur villages. 555 TABLE B - PARLIAMENTARY CONSTITUENCIES Sl. No. & Name Extent in terms of Parliamentary Constituencies 1-Chandni Chowk 4.Adarsh Nagar, 14.Shalimar Bagh, 15.Shakur Basti, 16. Tri Nagar, 17.Wazirpur, 18.Model Town, 19.Sadar Bazar, 20.Chandni Chowk, 21.Matia Mahal and 22.Ballimaran. 2-North East Delhi 2.Burari, 3.Timarpur, 63.Seemapuri (SC), 64.Rohtas Nagar, 65.Seelam Pur, 66.Ghonda, 67.Babarpur, 68.Gokalpur (SC), 69.Mustafabad and 70.Karawal Nagar. 3-East Delhi 41.Jangpura, 54.Okhla, 55.Trilokpuri (SC), 56.Kondli (SC), 57.Patparganj, 58.Laxmi Nagar, 59.Vishwas Nagar, 60.Krishna Nagar, 61.Gandhi Nagar and 62.Shahdara. 4-New Delhi 23.Karol Bagh (SC), 24.Patel Nagar (SC), 25.Moti Nagar, 38.Delhi Cantt, 39.Rajinder Nagar, 40.New Delhi, 42.Kasturba Nagar, 43.Malviya Nagar, 44.R.K. Puram and 50.Greater Kailash. 5-North West Delhi 1.Nerela, 5.Badli, 6.Rithala, 7.Bawana (SC), 8.Mundka, 9.Kirari, (SC) 10.Sultan Pur Majra (SC), 11.Nangloi Jat, 12.Mangol Puri (SC) and 13.Rohini. 6-West Delhi 26.Madipur (SC), 27.Rajouri Garden, 28.Hari Nagar, 29.Tilak Nagar, 30.Janakpuri, 31.Vikaspuri, 32.Uttam Nagar, 33.Dwarka, 34.Matiala and 35.Najafgarh. 7-South Delhi 36.Bijwasan, 37.Palam, 45.Mehrauli, 46.Chhatarpur, 47.Deoli (SC), 48.Ambedkar Nagar (SC), 49.Sangam Vihar, 51.Kalkaji, 52.Tughlakabad and 53.Badarpur. NOTE :- Any reference in Table A to a Ward and EB, CT and Villages or other territorial division shall be taken to mean the area comprised within that Ward and EB, CT and Villages or other territorial division as on the 15th day of February, 2004.",
+   "party12": "BJP",
+   "winner_12": "MOHAN SINGH BISHT",
+   "electors_12": null,
+   "elections": [
+    {
+     "year": 2008,
+     "winner": "MOHAN SINGH BISHT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2013,
+     "winner": "MOHAN SINGH BISHT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2015,
+     "winner": "KAPIL MISHRA",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2020,
+     "winner": "MOHAN SINGH BISHT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2025,
+     "winner": "KAPIL MISHRA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 6.8,
+     "basis": "measured"
+    },
+    "52": {
+     "pct": 63.0,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 15.8,
+     "basis": "measured"
+    }
+   }
+  }
+ ],
+ "party_overlay": {
+  "old": {
+   "INC": 47,
+   "BJP": 20,
+   "IND": 1,
+   "NCP": 1,
+   "JD(S)": 1
+  },
+  "new": {
+   "INC": 43,
+   "BJP": 23,
+   "BSP": 2,
+   "LJP": 1,
+   "IND": 1
+  },
+  "parties": [
+   "BJP",
+   "BSP",
+   "INC",
+   "IND",
+   "JD(S)",
+   "LJP",
+   "NCP"
+  ]
+ },
+ "sources": [
+  "Election Commission of India, Order of 22 September 1992 delimiting the seventy assembly constituencies of the National Capital Territory of Delhi, published in the Gazette of India Extraordinary, Part II Section 3(iii), No. 69",
+  "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008, Schedule XXXI",
+  "Election Commission of India, statistical reports on Delhi assembly elections, 1993–2025"
+ ],
+ "map_caveats": [
+  "The pre-2008 boundaries published here have been georectified. The source digitisation was displaced by roughly five kilometres and was about two and a half per cent too large relative to the post-2008 layer, which would have made any comparison between the two maps meaningless. The correction was fitted on the outer boundary of the National Capital Territory, which is fixed in law and identical under both orders, and was then tested against the constituencies that kept their names across the redraw, none of which was used to fit it: their average overlap rises from four per cent to fifty-five per cent, and the number with no overlap at all falls from thirty-four to one. The two outlines agree to an intersection-over-union of 0.95 after correction. Readers comparing these boundaries against the source digitisation should expect them to differ, by design.",
+  "Territory lineage is given for all seventy seats in both orders, on two different footings, and each seat record states which applies to it. For twenty of the seventy pre-2008 seats the link is derived from the text of the 1992 and 2008 orders, which name villages and census towns in common. For the remaining fifty the two orders share no vocabulary: the 1992 order describes seats by 1991 census charges and blocks, the 2008 order by municipal ward and enumeration block numbers, and these do not map onto one another. For those seats the successor shown is the one holding the largest share of the old seat's area, inferred from the boundaries alone and labelled as such.",
+  "Territory percentages are measured from the mapped boundaries in every case, and are areal shares, not shares of the electorate.",
+  "Elector counts are not published for Delhi. The Election Commission's statistical reports for the relevant elections were not available when this page was compiled.",
+  "Both maps are grouped by the seven parliamentary constituencies of the 2008 order. The source digitisation of the pre-2008 map carried a parliamentary constituency field that was unreliable, assigning thirteen Delhi seats to constituencies in Uttar Pradesh and Haryana and leaving the central Delhi seats badly undercounted, so it has not been used. Each pre-2008 seat is instead grouped by the 2008 parliamentary constituency its territory mostly falls within, which is a statement about where the ground lies rather than about how the seat was grouped at the time."
+ ],
+ "footnotes": [
+  "Delhi's assembly seats were not delimited by the 1976 order, which covered the territory's parliamentary constituencies only. The seventy assembly constituencies were created by the Election Commission under section 38 of the Government of National Capital Territory of Delhi Act, 1991.",
+  "Reservation status (SC) reflects the category in force at the time of the relevant order, not any later reclassification."
+ ]
+}
