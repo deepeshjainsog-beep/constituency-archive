@@ -27,8 +27,8 @@
    "v": "70 → 70"
   },
   {
-   "k": "Parliamentary seats",
-   "v": "11 → 7"
+   "k": "Districts",
+   "v": "11 → 11"
   },
   {
    "k": "SC-reserved",
@@ -55,48 +55,72 @@
  ],
  "district_grid_old": [
   {
-   "name": "Chandni Chowk"
+   "name": "Central"
   },
   {
-   "name": "East Delhi"
+   "name": "East"
   },
   {
    "name": "New Delhi"
   },
   {
-   "name": "North East Delhi"
+   "name": "North"
   },
   {
-   "name": "North West Delhi"
+   "name": "North East"
   },
   {
-   "name": "South Delhi"
+   "name": "North West"
   },
   {
-   "name": "West Delhi"
+   "name": "Shahdara"
+  },
+  {
+   "name": "South"
+  },
+  {
+   "name": "South East"
+  },
+  {
+   "name": "South West"
+  },
+  {
+   "name": "West"
   }
  ],
  "district_grid_new": [
   {
-   "name": "Chandni Chowk"
+   "name": "Central"
   },
   {
-   "name": "East Delhi"
+   "name": "East"
   },
   {
    "name": "New Delhi"
   },
   {
-   "name": "North East Delhi"
+   "name": "North"
   },
   {
-   "name": "North West Delhi"
+   "name": "North East"
   },
   {
-   "name": "South Delhi"
+   "name": "North West"
   },
   {
-   "name": "West Delhi"
+   "name": "Shahdara"
+  },
+  {
+   "name": "South"
+  },
+  {
+   "name": "South East"
+  },
+  {
+   "name": "South West"
+  },
+  {
+   "name": "West"
   }
  ],
  "constituencies": [
@@ -187,7 +211,7 @@
   {
    "ac_no": 3,
    "name": "Minto Road",
-   "district": "East Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -234,7 +258,7 @@
   {
    "ac_no": 4,
    "name": "Kasturba Nagar",
-   "district": "New Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -276,7 +300,7 @@
   {
    "ac_no": 5,
    "name": "Jangpura",
-   "district": "East Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -323,7 +347,7 @@
   {
    "ac_no": 6,
    "name": "Okhla",
-   "district": "East Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -370,7 +394,7 @@
   {
    "ac_no": 7,
    "name": "Kalkaji",
-   "district": "South Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -417,7 +441,7 @@
   {
    "ac_no": 8,
    "name": "Malviya Nagar",
-   "district": "New Delhi",
+   "district": "South",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -459,7 +483,7 @@
   {
    "ac_no": 9,
    "name": "Hauz Khas",
-   "district": "New Delhi",
+   "district": "South",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -585,7 +609,7 @@
   {
    "ac_no": 12,
    "name": "Janak Puri",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -632,7 +656,7 @@
   {
    "ac_no": 13,
    "name": "Hari Nagar",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -674,7 +698,7 @@
   {
    "ac_no": 14,
    "name": "Tilak Nagar",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -731,7 +755,7 @@
   {
    "ac_no": 15,
    "name": "Rajouri Garden",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -788,7 +812,7 @@
   {
    "ac_no": 16,
    "name": "Madipur",
-   "district": "West Delhi",
+   "district": "West",
    "type": "SC",
    "status": "continuing",
    "dest": [
@@ -835,7 +859,7 @@
   {
    "ac_no": 17,
    "name": "Tri Nagar",
-   "district": "Chandni Chowk",
+   "district": "North West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -887,7 +911,7 @@
   {
    "ac_no": 18,
    "name": "Shakurbasti",
-   "district": "Chandni Chowk",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -934,7 +958,7 @@
   {
    "ac_no": 19,
    "name": "Shalimar Bagh",
-   "district": "Chandni Chowk",
+   "district": "North West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -981,7 +1005,7 @@
   {
    "ac_no": 20,
    "name": "Badli",
-   "district": "North West Delhi",
+   "district": "North",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -1023,7 +1047,7 @@
   {
    "ac_no": 21,
    "name": "Sahibabad Daulatpur",
-   "district": "North West Delhi",
+   "district": "North West",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -1065,7 +1089,7 @@
   {
    "ac_no": 22,
    "name": "Bawana",
-   "district": "North West Delhi",
+   "district": "North West",
    "type": "SC",
    "status": "continuing",
    "dest": [
@@ -1117,7 +1141,7 @@
   {
    "ac_no": 23,
    "name": "Sultanpur Majra",
-   "district": "North West Delhi",
+   "district": "West",
    "type": "SC",
    "status": "continuing",
    "dest": [
@@ -1159,7 +1183,7 @@
   {
    "ac_no": 24,
    "name": "Mangolpuri",
-   "district": "North West Delhi",
+   "district": "North West",
    "type": "SC",
    "status": "continuing",
    "dest": [
@@ -1206,7 +1230,7 @@
   {
    "ac_no": 25,
    "name": "Nangloi Jat",
-   "district": "North West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -1253,7 +1277,7 @@
   {
    "ac_no": 26,
    "name": "Vishnu Garden",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -1300,7 +1324,7 @@
   {
    "ac_no": 27,
    "name": "Hastsal",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -1342,7 +1366,7 @@
   {
    "ac_no": 28,
    "name": "Najafgarh",
-   "district": "West Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -1389,7 +1413,7 @@
   {
    "ac_no": 29,
    "name": "Nasirpur",
-   "district": "West Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -1431,7 +1455,7 @@
   {
    "ac_no": 30,
    "name": "Palam",
-   "district": "West Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -1473,7 +1497,7 @@
   {
    "ac_no": 31,
    "name": "Mahipalpur",
-   "district": "South Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -1530,7 +1554,7 @@
   {
    "ac_no": 32,
    "name": "Mehrauli",
-   "district": "South Delhi",
+   "district": "South",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -1572,7 +1596,7 @@
   {
    "ac_no": 33,
    "name": "Saket",
-   "district": "South Delhi",
+   "district": "South",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -1614,7 +1638,7 @@
   {
    "ac_no": 34,
    "name": "Dr. Ambedkar Nagar",
-   "district": "South Delhi",
+   "district": "South",
    "type": "SC",
    "status": "renamed",
    "dest": [
@@ -1661,7 +1685,7 @@
   {
    "ac_no": 35,
    "name": "Tuglakabad",
-   "district": "South Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "renamed",
    "dest": [
@@ -1703,7 +1727,7 @@
   {
    "ac_no": 36,
    "name": "Badarpur",
-   "district": "South Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -1750,7 +1774,7 @@
   {
    "ac_no": 37,
    "name": "Trilokpuri",
-   "district": "East Delhi",
+   "district": "East",
    "type": "SC",
    "status": "continuing",
    "dest": [
@@ -1797,7 +1821,7 @@
   {
    "ac_no": 38,
    "name": "Patpar Ganj",
-   "district": "East Delhi",
+   "district": "East",
    "type": "SC",
    "status": "continuing",
    "dest": [
@@ -1839,7 +1863,7 @@
   {
    "ac_no": 39,
    "name": "Mandawali",
-   "district": "East Delhi",
+   "district": "East",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -1886,7 +1910,7 @@
   {
    "ac_no": 40,
    "name": "Geeta Colony",
-   "district": "East Delhi",
+   "district": "East",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -1933,7 +1957,7 @@
   {
    "ac_no": 41,
    "name": "Gandhi Nagar",
-   "district": "East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -1975,7 +1999,7 @@
   {
    "ac_no": 42,
    "name": "Krishna Nagar",
-   "district": "East Delhi",
+   "district": "East",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2017,7 +2041,7 @@
   {
    "ac_no": 43,
    "name": "Vishwash Nagar",
-   "district": "East Delhi",
+   "district": "East",
    "type": "GEN",
    "status": "renamed",
    "dest": [
@@ -2059,7 +2083,7 @@
   {
    "ac_no": 44,
    "name": "Shahdara",
-   "district": "East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2106,7 +2130,7 @@
   {
    "ac_no": 45,
    "name": "Seemapuri",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "SC",
    "status": "continuing",
    "dest": [
@@ -2148,7 +2172,7 @@
   {
    "ac_no": 46,
    "name": "Nand Nagari",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "SC",
    "status": "abolished",
    "dest": [
@@ -2190,7 +2214,7 @@
   {
    "ac_no": 47,
    "name": "Rohtas Nagar",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2232,7 +2256,7 @@
   {
    "ac_no": 48,
    "name": "Babarpur",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2274,7 +2298,7 @@
   {
    "ac_no": 49,
    "name": "Seelampur",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2316,7 +2340,7 @@
   {
    "ac_no": 50,
    "name": "Ghonda",
-   "district": "North East Delhi",
+   "district": "North East",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2363,7 +2387,7 @@
   {
    "ac_no": 51,
    "name": "Yamuna Vihar",
-   "district": "North East Delhi",
+   "district": "North East",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -2415,7 +2439,7 @@
   {
    "ac_no": 52,
    "name": "Qarawal Nagar",
-   "district": "North East Delhi",
+   "district": "North East",
    "type": "GEN",
    "status": "renamed",
    "dest": [
@@ -2462,7 +2486,7 @@
   {
    "ac_no": 53,
    "name": "Wazirpur",
-   "district": "Chandni Chowk",
+   "district": "North West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2509,7 +2533,7 @@
   {
    "ac_no": 54,
    "name": "Narela",
-   "district": "North West Delhi",
+   "district": "North",
    "type": "SC",
    "status": "renamed",
    "dest": [
@@ -2551,7 +2575,7 @@
   {
    "ac_no": 55,
    "name": "Bhalswa Jahangirpur",
-   "district": "North East Delhi",
+   "district": "North",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -2608,7 +2632,7 @@
   {
    "ac_no": 56,
    "name": "Adarsh Nagar",
-   "district": "Chandni Chowk",
+   "district": "North",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2660,7 +2684,7 @@
   {
    "ac_no": 57,
    "name": "Pahar Ganj",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -2712,7 +2736,7 @@
   {
    "ac_no": 58,
    "name": "Matia Mahal",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2754,7 +2778,7 @@
   {
    "ac_no": 59,
    "name": "Balli Maran",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2796,7 +2820,7 @@
   {
    "ac_no": 60,
    "name": "Chandni Chowk",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2838,7 +2862,7 @@
   {
    "ac_no": 61,
    "name": "Timarpur",
-   "district": "North East Delhi",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2880,7 +2904,7 @@
   {
    "ac_no": 62,
    "name": "Model Town",
-   "district": "Chandni Chowk",
+   "district": "North",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -2927,7 +2951,7 @@
   {
    "ac_no": 63,
    "name": "Kamla Nagar",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "abolished",
    "dest": [
@@ -2974,7 +2998,7 @@
   {
    "ac_no": 64,
    "name": "Sadar Bazar",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -3016,7 +3040,7 @@
   {
    "ac_no": 65,
    "name": "Moti Nagar",
-   "district": "New Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -3058,7 +3082,7 @@
   {
    "ac_no": 66,
    "name": "Patel Nagar",
-   "district": "New Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "dest": [
@@ -3147,7 +3171,7 @@
   {
    "ac_no": 68,
    "name": "Karol Bagh",
-   "district": "New Delhi",
+   "district": "Central",
    "type": "SC",
    "status": "continuing",
    "dest": [
@@ -3189,7 +3213,7 @@
   {
    "ac_no": 69,
    "name": "Ram Nagar",
-   "district": "New Delhi",
+   "district": "Central",
    "type": "SC",
    "status": "abolished",
    "dest": [
@@ -3236,7 +3260,7 @@
   {
    "ac_no": 70,
    "name": "Baljit Nagar",
-   "district": "New Delhi",
+   "district": "Central",
    "type": "SC",
    "status": "abolished",
    "dest": [
@@ -3290,7 +3314,7 @@
   {
    "ac_no": 1,
    "name": "Nerela",
-   "district": "North West Delhi",
+   "district": "North",
    "type": "GEN",
    "status": "renamed",
    "src": [
@@ -3349,7 +3373,7 @@
   {
    "ac_no": 2,
    "name": "Burari",
-   "district": "North East Delhi",
+   "district": "Central",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -3403,7 +3427,7 @@
   {
    "ac_no": 3,
    "name": "Timarpur",
-   "district": "North East Delhi",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -3467,7 +3491,7 @@
   {
    "ac_no": 4,
    "name": "Adarsh Nagar",
-   "district": "Chandni Chowk",
+   "district": "North",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -3521,7 +3545,7 @@
   {
    "ac_no": 5,
    "name": "Badli",
-   "district": "North West Delhi",
+   "district": "North",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -3580,7 +3604,7 @@
   {
    "ac_no": 6,
    "name": "Rithala",
-   "district": "North West Delhi",
+   "district": "North West",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -3634,7 +3658,7 @@
   {
    "ac_no": 7,
    "name": "Bawana",
-   "district": "North West Delhi",
+   "district": "North",
    "type": "SC",
    "status": "continuing",
    "src": [
@@ -3693,7 +3717,7 @@
   {
    "ac_no": 8,
    "name": "Mundka",
-   "district": "North West Delhi",
+   "district": "North West",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -3757,7 +3781,7 @@
   {
    "ac_no": 9,
    "name": "Kirari",
-   "district": "North West Delhi",
+   "district": "North West",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -3811,7 +3835,7 @@
   {
    "ac_no": 10,
    "name": "Sultanpur Majra",
-   "district": "North West Delhi",
+   "district": "North West",
    "type": "SC",
    "status": "continuing",
    "src": [
@@ -3865,7 +3889,7 @@
   {
    "ac_no": 11,
    "name": "Nangloi Jat",
-   "district": "North West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -3919,7 +3943,7 @@
   {
    "ac_no": 12,
    "name": "Mangol Puri",
-   "district": "North West Delhi",
+   "district": "North West",
    "type": "SC",
    "status": "continuing",
    "src": [
@@ -3978,7 +4002,7 @@
   {
    "ac_no": 13,
    "name": "Rohini",
-   "district": "North West Delhi",
+   "district": "North",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -4037,7 +4061,7 @@
   {
    "ac_no": 14,
    "name": "Shalimar Bagh",
-   "district": "Chandni Chowk",
+   "district": "North West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4091,7 +4115,7 @@
   {
    "ac_no": 15,
    "name": "Shakur Basti",
-   "district": "Chandni Chowk",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4155,7 +4179,7 @@
   {
    "ac_no": 16,
    "name": "Tri Nagar",
-   "district": "Chandni Chowk",
+   "district": "North West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4214,7 +4238,7 @@
   {
    "ac_no": 17,
    "name": "Wazirpur",
-   "district": "Chandni Chowk",
+   "district": "North West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4278,7 +4302,7 @@
   {
    "ac_no": 18,
    "name": "Model Town",
-   "district": "Chandni Chowk",
+   "district": "North",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4347,7 +4371,7 @@
   {
    "ac_no": 19,
    "name": "Sadar Bazar",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4411,7 +4435,7 @@
   {
    "ac_no": 20,
    "name": "Chandni Chowk",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4470,7 +4494,7 @@
   {
    "ac_no": 21,
    "name": "Matia Mahal",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4524,7 +4548,7 @@
   {
    "ac_no": 22,
    "name": "Ballimaran",
-   "district": "Chandni Chowk",
+   "district": "Central",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4583,7 +4607,7 @@
   {
    "ac_no": 23,
    "name": "Karol Bagh",
-   "district": "New Delhi",
+   "district": "Central",
    "type": "SC",
    "status": "continuing",
    "src": [
@@ -4652,7 +4676,7 @@
   {
    "ac_no": 24,
    "name": "Patel Nagar",
-   "district": "New Delhi",
+   "district": "West",
    "type": "SC",
    "status": "continuing",
    "src": [
@@ -4711,7 +4735,7 @@
   {
    "ac_no": 25,
    "name": "Moti Nagar",
-   "district": "New Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4775,7 +4799,7 @@
   {
    "ac_no": 26,
    "name": "Madipur",
-   "district": "West Delhi",
+   "district": "West",
    "type": "SC",
    "status": "continuing",
    "src": [
@@ -4834,7 +4858,7 @@
   {
    "ac_no": 27,
    "name": "Rajouri Garden",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4898,7 +4922,7 @@
   {
    "ac_no": 28,
    "name": "Hari Nagar",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -4962,7 +4986,7 @@
   {
    "ac_no": 29,
    "name": "Tilak Nagar",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -5021,7 +5045,7 @@
   {
    "ac_no": 30,
    "name": "Janakpuri",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -5080,7 +5104,7 @@
   {
    "ac_no": 31,
    "name": "Vikaspuri",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -5134,7 +5158,7 @@
   {
    "ac_no": 32,
    "name": "Uttam Nagar",
-   "district": "West Delhi",
+   "district": "West",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -5188,7 +5212,7 @@
   {
    "ac_no": 33,
    "name": "Dwarka",
-   "district": "West Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -5242,7 +5266,7 @@
   {
    "ac_no": 34,
    "name": "Matiala",
-   "district": "West Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -5301,7 +5325,7 @@
   {
    "ac_no": 35,
    "name": "Najafgarh",
-   "district": "West Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -5355,7 +5379,7 @@
   {
    "ac_no": 36,
    "name": "Bijwasan",
-   "district": "South Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -5409,7 +5433,7 @@
   {
    "ac_no": 37,
    "name": "Palam",
-   "district": "South Delhi",
+   "district": "South West",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -5645,7 +5669,7 @@
   {
    "ac_no": 41,
    "name": "Jangpura",
-   "district": "East Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -5704,7 +5728,7 @@
   {
    "ac_no": 42,
    "name": "Kasturba Nagar",
-   "district": "New Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -5763,7 +5787,7 @@
   {
    "ac_no": 43,
    "name": "Malviya Nagar",
-   "district": "New Delhi",
+   "district": "South",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -5871,7 +5895,7 @@
   {
    "ac_no": 45,
    "name": "Mehrauli",
-   "district": "South Delhi",
+   "district": "New Delhi",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -5925,7 +5949,7 @@
   {
    "ac_no": 46,
    "name": "Chhatarpur",
-   "district": "South Delhi",
+   "district": "South",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -5984,7 +6008,7 @@
   {
    "ac_no": 47,
    "name": "Deoli",
-   "district": "South Delhi",
+   "district": "South",
    "type": "SC",
    "status": "new",
    "src": [
@@ -6043,7 +6067,7 @@
   {
    "ac_no": 48,
    "name": "Ambedkar Nagar",
-   "district": "South Delhi",
+   "district": "South",
    "type": "SC",
    "status": "renamed",
    "src": [
@@ -6097,7 +6121,7 @@
   {
    "ac_no": 49,
    "name": "Sangam Vihar",
-   "district": "South Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -6156,7 +6180,7 @@
   {
    "ac_no": 50,
    "name": "Greater Kailash",
-   "district": "New Delhi",
+   "district": "South",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -6220,7 +6244,7 @@
   {
    "ac_no": 51,
    "name": "Kalkaji",
-   "district": "South Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -6279,7 +6303,7 @@
   {
    "ac_no": 52,
    "name": "Tughlakabad",
-   "district": "South Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "renamed",
    "src": [
@@ -6333,7 +6357,7 @@
   {
    "ac_no": 53,
    "name": "Badarpur",
-   "district": "South Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -6387,7 +6411,7 @@
   {
    "ac_no": 54,
    "name": "Okhla",
-   "district": "East Delhi",
+   "district": "South East",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -6446,7 +6470,7 @@
   {
    "ac_no": 55,
    "name": "Trilokpuri",
-   "district": "East Delhi",
+   "district": "East",
    "type": "SC",
    "status": "continuing",
    "src": [
@@ -6500,7 +6524,7 @@
   {
    "ac_no": 56,
    "name": "Kondli",
-   "district": "East Delhi",
+   "district": "East",
    "type": "SC",
    "status": "new",
    "src": [
@@ -6559,7 +6583,7 @@
   {
    "ac_no": 57,
    "name": "Patparganj",
-   "district": "East Delhi",
+   "district": "East",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -6613,7 +6637,7 @@
   {
    "ac_no": 58,
    "name": "Laxmi Nagar",
-   "district": "East Delhi",
+   "district": "East",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -6672,7 +6696,7 @@
   {
    "ac_no": 59,
    "name": "Vishwas Nagar",
-   "district": "East Delhi",
+   "district": "East",
    "type": "GEN",
    "status": "renamed",
    "src": [
@@ -6731,7 +6755,7 @@
   {
    "ac_no": 60,
    "name": "Krishna Nagar",
-   "district": "East Delhi",
+   "district": "East",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -6790,7 +6814,7 @@
   {
    "ac_no": 61,
    "name": "Gandhi Nagar",
-   "district": "East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -6844,7 +6868,7 @@
   {
    "ac_no": 62,
    "name": "Shahdara",
-   "district": "East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -6898,7 +6922,7 @@
   {
    "ac_no": 63,
    "name": "Seema Puri",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "SC",
    "status": "continuing",
    "src": [
@@ -6952,7 +6976,7 @@
   {
    "ac_no": 64,
    "name": "Rohtas Nagar",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -7006,7 +7030,7 @@
   {
    "ac_no": 65,
    "name": "Seelampur",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -7065,7 +7089,7 @@
   {
    "ac_no": 66,
    "name": "Ghonda",
-   "district": "North East Delhi",
+   "district": "North East",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -7124,7 +7148,7 @@
   {
    "ac_no": 67,
    "name": "Babarpur",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "GEN",
    "status": "continuing",
    "src": [
@@ -7183,7 +7207,7 @@
   {
    "ac_no": 68,
    "name": "Gokalpur",
-   "district": "North East Delhi",
+   "district": "Shahdara",
    "type": "SC",
    "status": "new",
    "src": [
@@ -7237,7 +7261,7 @@
   {
    "ac_no": 69,
    "name": "Mustafabad",
-   "district": "North East Delhi",
+   "district": "North East",
    "type": "GEN",
    "status": "new",
    "src": [
@@ -7291,7 +7315,7 @@
   {
    "ac_no": 70,
    "name": "Karawal Nagar",
-   "district": "North East Delhi",
+   "district": "North East",
    "type": "GEN",
    "status": "renamed",
    "src": [
@@ -7381,14 +7405,15 @@
  "sources": [
   "Election Commission of India, Order of 22 September 1992 delimiting the seventy assembly constituencies of the National Capital Territory of Delhi, published in the Gazette of India Extraordinary, Part II Section 3(iii), No. 69",
   "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008, Schedule XXXI",
-  "Election Commission of India, statistical reports on Delhi assembly elections, 1993–2025"
+  "Election Commission of India, statistical reports on Delhi assembly elections, 1993–2025",
+  "Constituency geometry: third-party digitisation (skthewimp/india-constituency-maps)"
  ],
  "map_caveats": [
   "The pre-2008 boundaries published here have been georectified. The source digitisation was displaced by roughly five kilometres and was about two and a half per cent too large relative to the post-2008 layer, which would have made any comparison between the two maps meaningless. The correction was fitted on the outer boundary of the National Capital Territory, which is fixed in law and identical under both orders, and was then tested against the constituencies that kept their names across the redraw, none of which was used to fit it: their average overlap rises from four per cent to fifty-five per cent, and the number with no overlap at all falls from thirty-four to one. The two outlines agree to an intersection-over-union of 0.95 after correction. Readers comparing these boundaries against the source digitisation should expect them to differ, by design.",
   "Territory lineage is given for all seventy seats in both orders, on two different footings, and each seat record states which applies to it. For twenty of the seventy pre-2008 seats the link is derived from the text of the 1992 and 2008 orders, which name villages and census towns in common. For the remaining fifty the two orders share no vocabulary: the 1992 order describes seats by 1991 census charges and blocks, the 2008 order by municipal ward and enumeration block numbers, and these do not map onto one another. For those seats the successor shown is the one holding the largest share of the old seat's area, inferred from the boundaries alone and labelled as such.",
   "Territory percentages are measured from the mapped boundaries in every case, and are areal shares, not shares of the electorate.",
   "Elector counts are not published for Delhi. The Election Commission's statistical reports for the relevant elections were not available when this page was compiled.",
-  "Both maps are grouped by the seven parliamentary constituencies of the 2008 order. The source digitisation of the pre-2008 map carried a parliamentary constituency field that was unreliable, assigning thirteen Delhi seats to constituencies in Uttar Pradesh and Haryana and leaving the central Delhi seats badly undercounted, so it has not been used. Each pre-2008 seat is instead grouped by the 2008 parliamentary constituency its territory mostly falls within, which is a statement about where the ground lies rather than about how the seat was grouped at the time."
+  "Both maps are grouped by Delhi's eleven revenue districts. Neither the 1992 order nor the 2008 order assigns constituencies to districts, and the pre-2008 digitisation carried a parliamentary constituency field that was unusable, so each seat is grouped by the district its territory mostly falls within."
  ],
  "footnotes": [
   "Delhi's assembly seats were not delimited by the 1976 order, which covered the territory's parliamentary constituencies only. The seventy assembly constituencies were created by the Election Commission under section 38 of the Government of National Capital Territory of Delhi Act, 1991.",
