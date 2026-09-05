@@ -1,0 +1,7897 @@
+{
+ "title": "Jammu & Kashmir",
+ "name": "Jammu & Kashmir",
+ "assembly": "Jammu and Kashmir Legislative Assembly",
+ "slug": "jammu-kashmir",
+ "in_force": "1996–2014",
+ "pre_election_year": 2014,
+ "post_election_year": 2024,
+ "pre_election_label": "2014",
+ "post_election_label": "2024",
+ "pre_order_year": 1995,
+ "post_order_year": 2022,
+ "pre_order_label": "1995 order",
+ "post_order_label": "2022 order",
+ "maps": {
+  "pre2008": "map-pre2008.svg",
+  "post2008": "map-post2008.svg",
+  "hero": "hero.jpg"
+ },
+ "intro": [
+  "Jammu and Kashmir is the one state in this archive the 2008 delimitation never touched. Its assembly seats were drawn under the state's own constitution and Representation of the People Act, last by the Gupta Commission in 1995 on the 1981 census, and in 2002 the state froze any further redrawing until 2026. The freeze ended with the state itself: after Article 370 was read down in 2019 and the state was reorganised, a fresh Delimitation Commission redrew the constituencies in 2022, and the new map was first contested in 2024.",
+  "The assembly map Jammu and Kashmir used for four elections"
+ ],
+ "figures": [
+  {
+   "k": "Seats",
+   "v": "83 → 90"
+  },
+  {
+   "k": "Districts",
+   "v": "20 → 20"
+  },
+  {
+   "k": "SC-reserved",
+   "v": "7 → 7"
+  },
+  {
+   "k": "ST-reserved",
+   "v": "0 → 9"
+  }
+ ],
+ "stats": [
+  {
+   "k": "New seats (2022)",
+   "v": "30"
+  },
+  {
+   "k": "2014 result",
+   "v": "JKPDP 28 · BJP 25 · JKNC 15 · INC 9"
+  },
+  {
+   "k": "2024 result",
+   "v": "JKNC 42 · BJP 29 · IND 7 · INC 6"
+  }
+ ],
+ "district_grid_old": [
+  {
+   "name": "Anantnag"
+  },
+  {
+   "name": "Bandipora"
+  },
+  {
+   "name": "Baramulla"
+  },
+  {
+   "name": "Budgam"
+  },
+  {
+   "name": "Doda"
+  },
+  {
+   "name": "Ganderbal"
+  },
+  {
+   "name": "Jammu"
+  },
+  {
+   "name": "Kathua"
+  },
+  {
+   "name": "Kishtwar"
+  },
+  {
+   "name": "Kulgam"
+  },
+  {
+   "name": "Kupwara"
+  },
+  {
+   "name": "Poonch"
+  },
+  {
+   "name": "Pulwama"
+  },
+  {
+   "name": "Rajouri"
+  },
+  {
+   "name": "Ramban"
+  },
+  {
+   "name": "Reasi"
+  },
+  {
+   "name": "Samba"
+  },
+  {
+   "name": "Shopian"
+  },
+  {
+   "name": "Srinagar"
+  },
+  {
+   "name": "Udhampur"
+  }
+ ],
+ "district_grid_new": [
+  {
+   "name": "Anantnag"
+  },
+  {
+   "name": "Bandipora"
+  },
+  {
+   "name": "Baramulla"
+  },
+  {
+   "name": "Budgam"
+  },
+  {
+   "name": "Doda"
+  },
+  {
+   "name": "Ganderbal"
+  },
+  {
+   "name": "Jammu"
+  },
+  {
+   "name": "Kathua"
+  },
+  {
+   "name": "Kishtwar"
+  },
+  {
+   "name": "Kulgam"
+  },
+  {
+   "name": "Kupwara"
+  },
+  {
+   "name": "Poonch"
+  },
+  {
+   "name": "Pulwama"
+  },
+  {
+   "name": "Rajouri"
+  },
+  {
+   "name": "Ramban"
+  },
+  {
+   "name": "Reasi"
+  },
+  {
+   "name": "Samba"
+  },
+  {
+   "name": "Shopian"
+  },
+  {
+   "name": "Srinagar"
+  },
+  {
+   "name": "Udhampur"
+  }
+ ],
+ "constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Karnah",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    1,
+    2,
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Trehgam, Kupwara.",
+   "extent": "All PCs of Tehsil Karnah; PC Keran of Tehsil Kupwara.",
+   "party07": "JKPDP",
+   "winner_07": "Raja Manzoor Ahmad",
+   "electors_07": 33132,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "KAFEEL-U-REHMAN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Kafil-u-Rehman",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "KAFIL UR REHMAN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Raja Manzoor Ahmad",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 19.5,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 16.3,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 6.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 2,
+   "name": "Kupwara",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    2,
+    3,
+    5
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Trehgam, Handwara.",
+   "extent": "PCs 18-Sulakot, 20-Radabug, 22-Bumhama , 23-Drugmulla, 25-Gushi, 26-Batergam, 27-Dadikoot, 30-Gulgam, 31-Harrai, 32-Hayan, 33-Trehgam, 34-Guglose, 35-Kralpora, 36-Guzeryal, 37-Gundizona-Reshi, 38-Panzgam, 39-Meelyal, 40-Shooloora, 41-Dardihairi-Kharagund, 42-Kupwara and P.C. 55-Manzgam in Tehsil Handwara.",
+   "party07": "JKPC",
+   "winner_07": "Bashir Ahmad Dar",
+   "electors_07": 107033,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SAIFULLAH MIR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mir Saifullah",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MIR SAIFULLAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bashir Ahmad Dar",
+     "party": "JKPC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "2": {
+     "pct": 22.2,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 69.9,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 1.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 3,
+   "name": "Lolab",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    3,
+    4
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kupwara.",
+   "extent": "PCs 1-Harduring, 2-Chontiwari, 3-Machil, 4-Kalaroch, 5-Khumrayal, 6-Kanthpora, 7-Wawoora, 8-Maidanpora, 9-Khurhama, 10-Warnow, 11-Krusan, 12-Sogam, 13-Darapora, 14-Lalpora, 15-Chandigam, 16-Tekipora, 17-Dewar Inderbug, 19-Manigah, 29-Haihama, 45-Dardapora in Kupwara Tehsil.",
+   "party07": "JKPDP",
+   "winner_07": "Abdul Haq Khan",
+   "electors_07": 100045,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MUSHTAQ AHMAD LONE",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Qaiser Ahmed Lone Alias Qaiser Jamsheed Lone",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ABDUL HAQ KHAN",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abdul Haq Khan",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 16.2,
+     "basis": "measured"
+    },
+    "4": {
+     "pct": 70.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 4,
+   "name": "Handwara",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    2,
+    3,
+    5,
+    6
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Trehgam, Kupwara, Langate.",
+   "extent": "PCs 8-Maidan Chogal, 28-Taratpora, 29-Wilgam, 30-Lilam, 31-Dulipora, 32-Opzawani, 33-Shogapora, 34-Neelipora, 35-Magam, 36-Jagarpora, 39-Behnipora, 40-Rajpora, 41-Zachaldara, 42-Wadder, 43-Turkapora, 44-Chanjimulla, 45-Wadipora, 46-Bhaki Akhar, 47-Batakoot, 48-Braripora, 49-Waripora Gonipora, 50-Nutanoosa, 51-Kandikhas, 52-Handwara; 53- Dhama, 54-Panchakoot in Tehsil Handwara; and 21-Kegam, 28-Nagrimalpora, 24-Najatpora in Tehsil Kupwara.",
+   "party07": "JKPC",
+   "winner_07": "Sajad Gani Lone",
+   "electors_07": 89983,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHD. RAMZAN CHOWDRY",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gh.Mohi-ud-din Sofi",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "CHOWDARY MOHD RAMZAN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Sajad Gani Lone",
+     "party": "JKPC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "2": {
+     "pct": 19.5,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 6.9,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 46.8,
+     "basis": "measured"
+    },
+    "6": {
+     "pct": 18.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 5,
+   "name": "Langate",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    5,
+    6
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Handwara.",
+   "extent": "PCs 1- Langate, 2-Unusu, 3-Pohrupeth, 4-Glura, 5- Martgam, 6-Hanga, 7-Shanoo, 9-Nowgam, 10-Mawar, 11- Qalamchakla, 12- Adura, 13-Haril, 14-Drangsoo-Shah- Nagri, 15-Udipora, 16- Kralagund, 17-Lokipora, 18-Kichlo Qazipora, 19-Khaipora, 20-Panditpora, 21-Super-Nagam, 22-Ashapora, 23-Safalpora, 24-Kralpora, 25-Deedarpora, 26-Shathgund-Balla, 27-Rawalpora, 37-Wasiakawnar, 38- Lachampora in Tehsil Handwara.",
+   "party07": "IND",
+   "winner_07": "Abdul Rashid Sheikh",
+   "electors_07": 70608,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "AB. AHAD WANIE",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sharief-Ud-din Shariq",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "AB RASHID SHEIKH",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abdul Rashid Sheikh",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "5": {
+     "pct": 66.7,
+     "basis": "measured"
+    },
+    "6": {
+     "pct": 25.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 6,
+   "name": "Uri",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    9
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All PCs in Tehsil Uri.",
+   "party07": "JKNC",
+   "winner_07": "Mohammad Shafi",
+   "electors_07": 74909,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHD. SHAFI",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Taj Mohi-u-Din",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "TAJ MOHI-UD-DIN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mohammad Shafi",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 79.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 7,
+   "name": "Rafiabad",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    6,
+    8,
+    10
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Langate, Baramulla.",
+   "extent": "PCs 11-Chakloo, 12- Nadihal, 13-Shitloo, 15-Biner Kahdoora in Tehsil Baramulla; and PCs 5-Nowpora Kalan, 8-Watergam, 9-Fidarpora, 10-Handipora, 11-Yarbug, 12-Riban-Ramhama, 13- Ladora, 14-Rehama, 15-Chijahama, 16- Wanpora, 17-Panzalla- Gundabal, 18- Sailkoot, 19-Balhama-Thakanpora, 20-Chatoosa, 21-Dangiwacha, 22-Rawacha, 23-Harduchanam, 24-Bakshipora-Batapora, 25-Zithan, 36- Behrampora, 37-Chitlora, 38- Achabal in Tehsil Sopore.",
+   "party07": "JKPDP",
+   "winner_07": "Yawar Ahmad Mir",
+   "electors_07": 80165,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHMAD DILAWAR MIR",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohamad Dilawar Mir",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "JAVAID AHMAD DAR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Yawar Ahmad Mir",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 22.5,
+     "basis": "measured"
+    },
+    "8": {
+     "pct": 66.2,
+     "basis": "measured"
+    },
+    "10": {
+     "pct": 10.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 8,
+   "name": "Sopore",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    7
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "PCs 1-Sopore with NAC, 2- Warapora, 3- Arampora, 4- Dangerpora, 6- Watalab, 32- Seeloo, 33- Botingoo, 34- Mundji, 35- Duroo, 39- Hardu-Shiva, 41- Aadipora- Bomai, 42-Wadoora, 40-Tujar-Pahlihar, 43- Harwan, 44- Zaloora in Tehsil Sopore. 51 DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR 30 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—",
+   "party07": "INC",
+   "winner_07": "Abdul Rashid Dar",
+   "electors_07": 103782,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "HAJI ABDUL AHAD VAKIL",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Abdul Rashid",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MOHD ASHRAF GANIE",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abdul Rashid Dar",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 60.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 9,
+   "name": "Gurez",
+   "district": "Bandipora",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    16
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Gurez(St) (St).",
+   "extent": "All PCs in Tehsil Gurez.",
+   "party07": "JKNC",
+   "winner_07": "Nazir Ahmad Khan",
+   "electors_07": 17624,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "FAQIR MOHD. KHAN",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Nazir Ahmad",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "NAZIR AHMAD KHAN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Nazir Ahmad Khan",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "16": {
+     "pct": 99.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 10,
+   "name": "Bandipora",
+   "district": "Bandipora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    6,
+    14,
+    15
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Langate, Sonawari.",
+   "extent": "All PCs in Tehsil Bandipora; and PC 1- Ajas of Tehsil Sonawari.",
+   "party07": "INC",
+   "winner_07": "Usman Abdul Majid",
+   "electors_07": 98701,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GH. RASOOL MIR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Usman Abdul Majid",
+     "party": "JKAL",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "NIZAMUDDIN BHAT",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Usman Abdul Majid",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 4.7,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 8.4,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 86.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 11,
+   "name": "Sonawari",
+   "district": "Bandipora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    14,
+    15
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bandipora. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "All PCs in Tehsil Sonawari excluding PC 1-Ajas.",
+   "party07": "JKNC",
+   "winner_07": "Mohammad Akbar Lone",
+   "electors_07": 99490,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "M0HD. YOUSUF PARRAY",
+     "party": "JKAL",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd Akbar Lone",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MOHD. AKBAR LONE",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mohammad Akbar Lone",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 40.4,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 54.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 12,
+   "name": "Sangrama",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    7,
+    10,
+    12
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Sopore, Baramulla, Wagoora - Kreeri.",
+   "extent": "PCs 16-Kreeri, 17-Wizar, 18-Authora, 19-Shalakawara, 20-Nowpora-Jagir, 21-Wagoora, 22-Kachumuqam, 24- Manigam, 25-Kalantara-Balla, 26 - Dandmoh, 27- Sultanpora-Kandi in Tehsil Baramulla; and 7-Tarzoo, 26-Hygam, 27-Seer-Jagir, 28-Bulagam, 29-Sangrama, 30-Krank-Shivan, 31-Wagub in Tehsil Sopore.",
+   "party07": "JKPDP",
+   "winner_07": "Syed Basharat Ahmed Bukhari",
+   "electors_07": 66159,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHD. MAQBOOL",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ghulam Nabi Lone",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SYED BASHARAT AHMAD",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Syed Basharat Ahmed Bukhari",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 11.8,
+     "basis": "measured"
+    },
+    "10": {
+     "pct": 7.1,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 78.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 13,
+   "name": "Baramulla",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    10
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Baramulla PCs 1- Laridora, 2- Heewan, 30 Malapora, 4-Kich-Hama, 50-Ushkara, 6-Khanpora with NAC, 7-Khaja-Bagh, 8-Taki-Sultan, 9-Khaitangan, 10-Delina, 14-Kansipora, 23- Chandoosa in Tehsil Baramulla.",
+   "party07": "JKPDP",
+   "winner_07": "Javid Hassan Baig",
+   "electors_07": 82937,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MUJAHID MOHD. ABDULLAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Muzaffer Hussain Baigh",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MUZAFFAR HUSSAIN BAIG",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Javid Hassan Baig",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 94.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 14,
+   "name": "Gulmarg",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    11,
+    13
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pattan.",
+   "extent": "All PCs in Teshil Gulmarg; and 2-Wailoo Kralpora, 8-Sriwarpora, 9-Chokar, 10- Waripora-Bangil, 12- Malmoh, 13- Nowlari, 16-Yal in Tehsil Pattan.",
+   "party07": "JKPDP",
+   "winner_07": "Mohd. Abass Wani",
+   "electors_07": 94700,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SHIEK MUSTAFA KAMAL",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ghulam Hassan Mir",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "GH HASSAN MIR",
+     "party": "JKDPN",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mohd. Abass Wani",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "11": {
+     "pct": 87.3,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 9.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 15,
+   "name": "Pattan",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    12,
+    13
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Wagoora - Kreeri. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Tehsil Pattan excluding 2-Wailoo-Kralpora, 8-Sriwarapora, 9-Chokar, 10-Waripora Bangil, 12- Malmoh, 13-Nowlari and 16-Yal.",
+   "party07": "JKPDP",
+   "winner_07": "Imran Raza Ansari",
+   "electors_07": 89416,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "IFTIKHAR HUSSAIN ANSARI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Molvi Ifthikar Hussain Ansari",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "IFTIKHAR HUSSAIN ANSARI",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Imran Raza Ansari",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 27.1,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 51.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 16,
+   "name": "Kangan",
+   "district": "Ganderbal",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    17
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Kangan(St) (St).",
+   "extent": "All PCs of Tehsil Kangan; and PCs -Manigam, 2-Wailoo, 3-Nunar in Tehsil Ganderwal.",
+   "party07": "JKNC",
+   "winner_07": "Altaf Ahmad",
+   "electors_07": 69590,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MIAN ALTAF AHMED",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Altaf Ahmad",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ALTAF AHMAD",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Altaf Ahmad",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 98.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 17,
+   "name": "Ganderbal",
+   "district": "Ganderbal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    14,
+    18,
+    19
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sonawari, Hazratbal.",
+   "extent": "Tehsil Ganderbal excluding 1-Manigam, 2-Wailoo, 3-Nunar and P .C. Haran in Srinagar Tehsil.",
+   "party07": "JKNC",
+   "winner_07": "Ishfaq Ahmad Sheikh",
+   "electors_07": 90582,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "FAROOQ ABDULLAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Qazi Mohd Afzal",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "OMAR ABDULLAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ishfaq Ahmad Sheikh",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 13.1,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 50.6,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 15.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 18,
+   "name": "Hazratbal",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    19
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Ward 16 in Srinagar Municipality (excluding Municipal areas not falling in Srinagar Tehsil but falling in Ganderbal Tehsil) and PC 9-Bachpora in Tehsil Ganderbal and Wards 17 and 12 except the following Mohallas of Ward 12 ; Mugal Mohalla, Surateng, Khawjapora, Kocha Nidan, Zindashah and boat population of these wards.",
+   "party07": "JKPDP",
+   "winner_07": "Asiea",
+   "electors_07": 99857,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHMMAD SYED AKHOON",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd. Syed Akhoon",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "FAROOQ ABDULLAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Asiea",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 89.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 19,
+   "name": "Zadibal",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    19
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Hazratbal.",
+   "extent": "Wards 14 and 15 in Srinagar Municipality and boat population of Anchar and of the ghats of these wards.",
+   "party07": "JKPDP",
+   "winner_07": "Abid Hussain Ansari",
+   "electors_07": 76915,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SADIQ ALI",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Shahjahan Dar",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "PEER AAFAQ AHMED",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abid Hussain Ansari",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 99.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 20,
+   "name": "Eidgah",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    19
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Hazratbal. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Idgah Wards 8 and 11 in Srinagar Municipality and P.C. 38-Palpora and 41-Sangam in Srinagar Tehsil.",
+   "party07": "JKNC",
+   "winner_07": "Mubarik Ahmad Gul",
+   "electors_07": 58822,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MUBARAK AHMAD GUL",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mubarak Ahmad Gul",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MUBARAK AHMAD GUL",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mubarik Ahmad Gul",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 99.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 21,
+   "name": "Khanyar",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    20
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Khanyar Wards 10-13 of Srinagar Municipality and the following mohallas of Ward 12-Mugal Mohalla, Surateng, Khawjapora, Zindshah and Kocha Nidan and boat population of these wards.",
+   "party07": "JKNC",
+   "winner_07": "Ali Mohd Sagar",
+   "electors_07": 51011,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ALI MOHAMMED SAGAR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ali Mohd. Sagar",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ALI MOHAMMAD SAGAR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ali Mohd Sagar",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 61.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 22,
+   "name": "Habba Kadal",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    20,
+    24
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Khanyar, Zadibal. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "kadal Wards 7 and 9 in Srinagar Municipality and boat population of Wards 6, 7 and 9.",
+   "party07": "JKNC",
+   "winner_07": "Shamim Firdous",
+   "electors_07": 54858,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "PIYARE LAL HANDOO",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Raman Mattoo",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SHAMEEMA FIRDOUS",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Shamim Firdous",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 66.9,
+     "basis": "measured"
+    },
+    "24": {
+     "pct": 19.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 23,
+   "name": "Amira Kadal",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    20,
+    21,
+    24,
+    25,
+    26
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Khanyar, Habbakadal, Zadibal, Eidgah, Central Shalteng. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "kadal Wards 3 and 4 in Srinagar Municipality excluding (i) Natipora (rural), (ii) Rawalpora (rural), (iii) Hyderpora (rural) ; and excluding Aramwari, Gund Chandal, Stingoo, Sutho Kirther Bagh in Tehsil Chadoora and Watdoor, Galwanpora Laloo and Shesgam Bagh in Tehsil Badgam and boat population of these wards and of Ward 5.",
+   "party07": "JKPDP",
+   "winner_07": "Syed Mohammad Altaf Bukhari",
+   "electors_07": 86520,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MUHAMMED SHAFI BHAT",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd. Shafi Bhat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "NASIR ASLAM WANI",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Syed Mohammad Altaf Bukhari",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 39.6,
+     "basis": "measured"
+    },
+    "21": {
+     "pct": 5.7,
+     "basis": "measured"
+    },
+    "24": {
+     "pct": 9.3,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 20.0,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 15.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 24,
+   "name": "Sonawar",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    22
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory became part of the new Lal Chowk. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Wards 1 and 2 in Srinagar Municipality and Badamibagh Cantonment and P.C. 21-Chitrahama, 19-Dara, 29-Khunmu, 30-Balhama, 31-Zewan in Tehsil Sringar and boat population of ghats in these wards.",
+   "party07": "JKPDP",
+   "winner_07": "Mohammad Ashraf Mir",
+   "electors_07": 77512,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GHULAM MOHD. BAWAN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd. Yaseen Shah",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "FAROOQ ABDULLAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mohammad Ashraf Mir",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 78.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 25,
+   "name": "Batmaloo",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    19,
+    20,
+    24,
+    25
+   ],
+   "lineage_basis": "geometric",
+   "note": "Name vanished. Its territory was divided among the new Hazratbal, Khanyar, Zadibal, Eidgah. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Wards 5 and 6 in Srinagar Municipality ; and PCs 6-Mujgund, 42-Bachipora Tengpora in Srinagar Tehsil. 1 2 3",
+   "party07": "JKPDP",
+   "winner_07": "Noor Mohd Sheikh",
+   "electors_07": 120344,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GHULAM MOHI-UD-DIN SHAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gh.Mohi-ud-din Shah",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MOHAMAD IRFAN SHAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Noor Mohd Sheikh",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 58.4,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 11.6,
+     "basis": "measured"
+    },
+    "24": {
+     "pct": 5.1,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 14.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 26,
+   "name": "Chadoora",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    30,
+    31
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chrar-I- Sharief.",
+   "extent": "The following Patwar Circles of Tehsil Chadoora, 16-Chadoora, 24-Chattergam, 25-Wagora, 26-Wathura, 27-Khanda, 28-Bugam Batapora, 29-Kralpora, 30-Hayatpora, 31-Pohroo, 32-Rakh Shalina, 33-Bagati Kanipora, 34-Nowgam, 35-Kanihama, 36-Daulatpora, 38-Natipora rural area outside Srinagar Municipal limits in ward 4 and 39-Lasjan and Aramwari, Gund, Chandal Stengoo, Suthoo, Kirtherbagh and 40-Kursu Padshahibagh.",
+   "party07": "JKPDP",
+   "winner_07": "Javaid Mustafa Mir",
+   "electors_07": 84218,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ALI MOHAMMAD",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Javid Mir",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "JAVAID MUSTAFFA MIR",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Javaid Mustafa Mir",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 92.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 27,
+   "name": "Budgam",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    26,
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Central Shalteng.",
+   "extent": "PCs 1-Soibugh, 2-Dhrmana, 3-Wahabpora, 4-Arth, 5-Wadwan, 6-Bemina, 7-Pallar, 8-Garriend Kalan, 9-Sholipra, 10-Nassar-ullah-Pora, 11-Jahama, 12-Water-Wani, 28-Chune, 29-Badgam, 30-Ompora 31-Narkara, 32-Humhama, 35-Karewa Damodar, 36-Gund-Sathu, 37-Ichakoot, 38-Ichgam, 33-Rawalpora (rural), 34-Hyderpora (rural) in Badgam Tehsil.",
+   "party07": "JKNC",
+   "winner_07": "Aga Syed Ruhullah Mehdi",
+   "electors_07": 103683,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SYED GH. HUSSAIN GEELANI",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Aga Syed Roohullah Mehdi",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "AGA SYED RUHULLAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Aga Syed Ruhullah Mehdi",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "26": {
+     "pct": 18.9,
+     "basis": "measured"
+    },
+    "27": {
+     "pct": 79.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 28,
+   "name": "Beerwah",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    23,
+    26,
+    27,
+    28,
+    29
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Channapora, Central Shalteng, Budgam, Khansahib.",
+   "extent": "PCs 1-Suzeth-Gooripora, 2-Kawoosa Khalisa, 3-Kawoosa Jagir, 4-Batapora Kahihama, 5-Sanoor-Kalipora, 6-Hardu Malpora, 7-Bandagam, 8-Utligam, 9-Mula- Shulla, 10-Sonapah, 12-Gondipora, 21-Shanglipora, 22-Khag, 23-Malpora Khag, 24-Himchipora, 25-Lalpora, 26-Beerwah, 27-Chewdara, 28-Peth Mukahama, 29-Rathusun, 30-Bona Makhama, 31-Nagam, 32-Iskanderpora, 33-Aripanthan, 34-Palpora, 36-Hardua-Shorsh in Tehsil Beerwah.",
+   "party07": "JKNC",
+   "winner_07": "Omar Abdullah",
+   "electors_07": 93046,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "AGA SYED MEHMOOD ALMOSVI",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd Sarfraz Khan",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SHAFI AHMAD WANI",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Omar Abdullah",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 7.3,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 3.3,
+     "basis": "measured"
+    },
+    "27": {
+     "pct": 2.0,
+     "basis": "measured"
+    },
+    "28": {
+     "pct": 58.4,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 15.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 29,
+   "name": "Khan Sahib",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    28,
+    29,
+    30
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Beerwah, Chrar-I- Sharief.",
+   "extent": "sahib PCs 1-Hokhalatri, 13-Phartahn, 14-Kandoora, 15-Drahg, 16-Sitaharan, 17-Zogikharian, 18-Arizal, 19-Qamroo, 20-Rawalpora-Beerwah ; and PC 35- Sail in Tehsil Berwah; and PCs 13-Waterhail, 14-Jawalapora, 15-Sondipora, 16-Dalipora, 17-Yari Khah, 18-Talapora, 19-Parnawah, 20-Drayagram, 21-Frestwar Khasipora, 22-Arigam, 23-Khan Sahib, 24-Raithan, 25-Kachwari, 26-Gurwait Kalan, 27-Falchall in Tehsil Budgam.",
+   "party07": "JKPDF",
+   "winner_07": "Hakeem Mohammad Yaseen Shah",
+   "electors_07": 86041,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "AB. GANI NASEEM",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Hakim Mohd Yassin",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "HAKEEM MOHAMMAD YASIN",
+     "party": "PDF",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Hakeem Mohammad Yaseen Shah",
+     "party": "JKPDF",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 10.4,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 86.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 30,
+   "name": "Chrar-I-Sharief",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    30,
+    31
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chadoora.",
+   "extent": "-i-Sharief PCs 1-Gogji Pathari, 2-Brinjan, 3-Hafroo Batapora, 4-Branawar, 5-Surasyar, 6-Dada- Ompara, 7-Hanjura, 8-Nowpora, 9-Pakharpora, 10-Hardu Dalwan Futlipora, 11-Teelsarah, 12-Chrar-i-Sharief, 13-Watkaloo, 14-Darawan Nowgam, 15-Chtsesn, 17-Nagam, 18-Badipora, 19-Yarikalan, 20-Ropora Namtihal, 21-Kanir, 22-Ranger, 23-Sogam, 37-Nowhar in Tehsil Chadoora.",
+   "party07": "JKPDP",
+   "winner_07": "Ghulam Nabi Lone",
+   "electors_07": 78359,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ABDUL RAHIM RATHER",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Abdul Rahim Rather",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ABDUL RAHIM RATHER",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ghulam Nabi Lone",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "30": {
+     "pct": 93.0,
+     "basis": "measured"
+    },
+    "31": {
+     "pct": 5.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 31,
+   "name": "Tral",
+   "district": "Pulwama",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    33,
+    34
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pulwama.",
+   "extent": "All PCs in Tehsil Tral.",
+   "party07": "JKPDP",
+   "winner_07": "Mushtaq Ahmad Shah",
+   "electors_07": 84231,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ALI MOHD. NAIK",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ghulam Nabi Bhat",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MUSHTAQ AHMAD SHAH",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mushtaq Ahmad Shah",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 90.1,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 7.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 32,
+   "name": "Pampore",
+   "district": "Pulwama",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    32,
+    33
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tral.",
+   "extent": "All PCs in Tehsil Pampore and Patwar Circles 26-Awantipora, 27-Padgampora, 29-Lilhar, 46-Nihama, 47-Kakapora in Tehsil Pulwama.",
+   "party07": "JKPDP",
+   "winner_07": "Zahoor Ahmad Mir",
+   "electors_07": 78176,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MUSHTAQ AHMAD",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ab.Aziz Mir",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ZAHOOR AHMAD",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Zahoor Ahmad Mir",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "32": {
+     "pct": 81.7,
+     "basis": "measured"
+    },
+    "33": {
+     "pct": 7.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 33,
+   "name": "Pulwama",
+   "district": "Pulwama",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    32,
+    34,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pampore, Rajpora.",
+   "extent": "PCs 1-Inder, 2-Gangoo, 5-Pulwama with NAC, 9-Ratnipora, 10-Pahoo, 11-Trich, 12-Koil, 13-Pinglina, 14-Narwa, 17-Litter-Shistar, 18-Nayina, 19-Panzgam, 20-Dogripora, 21-Rishipora, 22-Laderpur, 23-Nownagri, 24-Tokna, 25-Malangpora, 28-Lajoora, 40-Palapora, 45-Newa, 48-Jagir Parigam, 49-Tumchi Nowpora, 50-Hakripora in Tehsil Pulwama.",
+   "party07": "JKPDP",
+   "winner_07": "Mohd. Khalil Band",
+   "electors_07": 79175,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "BASHIR AHMAD NENGROO",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohamad Khalil Band",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MOHD KHALIL BANDH",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mohd. Khalil Band",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "32": {
+     "pct": 34.6,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 46.7,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 18.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 34,
+   "name": "Rajpora",
+   "district": "Pulwama",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    34,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pulwama.",
+   "extent": "PCs 3-Karimabad, 4-Moran, 6-Kangan, 7-Wahibugh, 8-Gosoo, 15-Bonarah, 16-Trichal, 30-Ramoo, 31-Billowdergund, 32-Qasbayar, 33-Drubgam, 34-Mitrigam, 35-Abhama, 36-Trujan, 37-Khaigam, 38-Noorpora Payeen, 39-Arihal, 41-Tahab- Shadipora, 42-Achan, 43-Chandigam, 44-Rajpora in Tehsil Pulwama.",
+   "party07": "JKPDP",
+   "winner_07": "Haseeb A Drabu",
+   "electors_07": 90581,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GH. MOHI-UD-DIN MIR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Syed Bashir Ahmad",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SYED BASHIR AHMAD SHAH",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Haseeb A Drabu",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "34": {
+     "pct": 16.1,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 79.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 35,
+   "name": "Wachi",
+   "district": "Shopian",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    36,
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Zainapora, Shopian.",
+   "extent": "PCs 8-Kalroo Malikgund, 9-Nadigam, 11-Dangerpora, 12-Turka Wangam, 13-Urapora, 14-Hardu-Handow, 15-Harmain, 16-Chak-Chowand, 17-Kapran, 19-Dangam, 20-Chakora, 21-Pratabpora, 24-Kanji-Ullar, 25-Chitragam,, 26-Darikalpora, 27-Hef, 28-Sugan, 29-Awnera, 30-Wachi, 31-Aglar, 32-Zainapora, and 39-Allowpora- Sheikhpora in Tehsil Shopian. 1 2 3 53 DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR 32 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—",
+   "party07": "JKPDP",
+   "winner_07": "Aijaz Ahmad Mir",
+   "electors_07": 79257,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHD. JABAR MIR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Khalil Naik",
+     "party": "CPI(M)",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MEHBOOBA MUFTI",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Aijaz Ahmad Mir",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 90.2,
+     "basis": "measured"
+    },
+    "37": {
+     "pct": 5.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 36,
+   "name": "Shopian",
+   "district": "Shopian",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    36,
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Zainapora.",
+   "extent": "PCs 1-Saidapora, 2-Meemandar, 3-Arhama, 4-Pinjoora, 5-Ganowpora Arish, 6-Bemnipora, 7-Harapora, 10-Trenz, 18-Vehilchal-Awatoo, 22-Sedew, 23-Ram Nagri, 33-Diyaroo, 34-Barthipora, 35-Daramdoora, 36-Zoora-Baderhama, 37-Narapora, 38-Keegam, 40-Keller Mastpora, 41-Pahlipora, 42-Sindhu-Shrimal, 43-Shopian, 44-Devipora (forest block) in Tehsil Shopian.",
+   "party07": "JKPDP",
+   "winner_07": "Mohd Yousuf Bhat",
+   "electors_07": 82348,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SHIEKH MOHD. RAFI",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gh. Hassan Khan",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ABDUL RAZAQ WAGAY",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mohd Yousuf Bhat",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 6.0,
+     "basis": "measured"
+    },
+    "37": {
+     "pct": 91.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 37,
+   "name": "Noorabad",
+   "district": "Kulgam",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    38
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new D. H. Pora.",
+   "extent": ". PCs 5-Malwan, 6- Pahloo, 7-Akhal, 23- Gudder, 34-Brinal Lamber, 46-Damhal- Hanjipora, 47- Ahmada-Abad, 48- Yaroo, 49 - Hardu-Mandagori, 51- Manzgam, 52-Asnoor, 53-Wattoo, 54-Avil, 55-Khuri-Batapora, 56-Nagam, 57-Danow-Kandimarg, 58-Bdi-Jehalan, 59-Chimar, 60-Qasba Khul, 61-Nandimarg in Tehsil Kulgam.",
+   "party07": "JKPDP",
+   "winner_07": "Abdul Majid Padder",
+   "electors_07": 73355,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SAKINA AKHTAR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ab. Aziz Zargar",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SAKINA ITOO",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abdul Majid Padder",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 97.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 38,
+   "name": "Kulgam",
+   "district": "Kulgam",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    39
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "PCs 1-Kulgam with NAC, 2-Hanad-Chawalgam, 3-Amnoo, 4-Chamabagund, 11-Ashmuji, 19-Mirhama, 20-Akey, 21-Pariwan, 22-Chehla, 24-Areh, 25-Bihibagh, 26-Gopalpora, 38-Bugam, 39-Tarigam-Devsar, 43-Yamroch, 44-Munand-Guffan, 45-Katersoo, 50-Largurhama in Tehsil Kulgam.",
+   "party07": "CPI(M)",
+   "winner_07": "Mohamad Yousuf Tarigami",
+   "electors_07": 94362,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHD. YOUSUF",
+     "party": "CPI(M)",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd. Yousf Tarigami",
+     "party": "CPI(M)",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MOHMAD YOUSUF RATHER",
+     "party": "CPI(M)",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mohamad Yousuf Tarigami",
+     "party": "CPI(M)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 81.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 39,
+   "name": "Hom Shali Bugh",
+   "district": "Kulgam",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    39,
+    40
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Kulgam, Devsar.",
+   "extent": "e-Shalibugh PCs 8-Uranhal, 9-Tuli-Nowpora, 10-Kujar, 12-Redwani, 13-Arwani, 14-Frisal, 15-Jablipora, 16-Wanpora, 17-Hassanpora Tavela, 18-Khandi-Phari, 40-Tarigam- Devibugh, 41-Matibugh, 42-Homshalibugh in Tehsil Kulgam.",
+   "party07": "JKNC",
+   "winner_07": "Ab. Majeed",
+   "electors_07": 75936,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GUL MD. RAFIQUI",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ab. Gafar Sofi",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ABDUL GAFFAR SOFI",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ab. Majeed",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 19.1,
+     "basis": "measured"
+    },
+    "40": {
+     "pct": 39.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 40,
+   "name": "Anantnag",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    43,
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Anantnag West.",
+   "extent": "PCs 1-Qasba Bhagat, 2-Khanabal, 3-Roohoo, 4-Kamar, 5-Anchidoora, 6-Hardu- Chichan, 10-Ranbirpora in Tehsil Anantnag.",
+   "party07": "JKPDP",
+   "winner_07": "Mufti Mohd Sayeed",
+   "electors_07": 83607,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SAFDAR ALI BEG",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Dr. Mehboob Beigh",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MUFTI MOHAMMAD SAYEED",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mufti Mohd Sayeed",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 66.7,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 12.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 41,
+   "name": "Devsar",
+   "district": "Kulgam",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    39,
+    40,
+    43
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kulgam, Anantnag West.",
+   "extent": "PCs 27-Devsar, 28-Bona Devsar, 29-Kilam-Buzgam, 30-Hablishi, 31-Nipora, 32-Laram- Ganipora, 33-Chowgam, 35-Razloo, 36-Waitengu, 37-Sopat Tengpora, 62-Oral in Tehsil Kulgam ; and PCs 18-Vesoo, 19-Nasoo-Badargund, 20-Panzeth, 21-Kurigam, 23- Qazigund with NAC in Doru Tehsil.",
+   "party07": "INC",
+   "winner_07": "Mohammad Amin Bhat",
+   "electors_07": 88991,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "PEERZADA GHULAM AHMAD",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd. Sartaj Madni",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MOHAMMAD SARTAJ MADNI",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mohammad Amin Bhat",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 8.3,
+     "basis": "measured"
+    },
+    "40": {
+     "pct": 70.3,
+     "basis": "measured"
+    },
+    "43": {
+     "pct": 19.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 42,
+   "name": "Dooru",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    41
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "PCs 1- Doru, 2-Bragam, 3-Oibamdooth, 4-Mantpora, 5-Larkipora, 6-Hakura, - Badasgam, 7-Batgund, 8-Verinag, 9-Sadiwara, 10-Mundah, 11-Hiller, 12-Nowgam Shahabad, 13-Rain-Chowgund, 14-Thamankoot, 15-Qamar, 16-Halsidar, 17-Kapron, 22- Wangund in Tehsil Doru.",
+   "party07": "JKPDP",
+   "winner_07": "Syed Farooq Ahmad Andrabi",
+   "electors_07": 74321,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GH. HASSAN WANI",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gh. Ahmad Mir",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "GHULAM AHMAD MIR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Syed Farooq Ahmad Andrabi",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "41": {
+     "pct": 95.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 43,
+   "name": "Kokernag",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    41,
+    42
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Dooru.",
+   "extent": "PCs 28-Saagam, 29-Bider-Hayatpora, 30-Bhai, 31-Akingam, 32-Nagam, 33-Soof-Shali, 34-Panzgam, 35-Bindo-Zulangam, 36-Devalgam, 37-Nalla-Sund-Brari, 38-Lohar-Sanzi, 39-Ahlan-Gadol, 40-Kharatti, 41-Desoo, 42-Kharapora, 43-Qasba-Nowbugh, 44-Mati Hundoo, 45-Larnoo, 46-Kokernag NAC, 47-Achabal NAC in Tehsil Anantnag.",
+   "party07": "JKPDP",
+   "winner_07": "Abdul Rahim Rather",
+   "electors_07": 86825,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SYED ABDUL RASHID",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Peerzada Mohd. Syed",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "PEERZADA MOHD. SYED",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abdul Rahim Rather",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "41": {
+     "pct": 24.2,
+     "basis": "measured"
+    },
+    "42": {
+     "pct": 74.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 44,
+   "name": "Shangus",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    42,
+    43,
+    44,
+    46
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Kokernag(St) (St), Anantnag West, Anantnag, Shangus - Anantnag East.",
+   "extent": "PCs 13-Sahibabad, 14-Nowgam, 15-Imoh, 16- Brakapora, 17-Shangus, 18-Uttarsoo, 19-Kreri, 20-Chatergul, 21-Ghikalpora, 22-Ranipora, 23-Detho-Nagnarian, 24-Gopalpora, 25-Telwani, 26-Kwarigam, 27-Ahupaisan in Tehsil Anantnag.",
+   "party07": "INC",
+   "winner_07": "Gulzar Ahmad Wani",
+   "electors_07": 82689,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ABDUL MAJEED",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Peer Mohd. Hussain",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "PEERZADA MANSOOR HUSSAIN",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Gulzar Ahmad Wani",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "42": {
+     "pct": 46.4,
+     "basis": "measured"
+    },
+    "43": {
+     "pct": 7.3,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 5.0,
+     "basis": "measured"
+    },
+    "46": {
+     "pct": 40.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 45,
+   "name": "Bijbehara",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    44,
+    45
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Anantnag, Srigufwara - Bijbehara.",
+   "extent": "All PCs in Tehsil Bijbehara and PCs 7-Macha Bawan, 11-Nanilang, 12-Akora in Tehsil Anantnag.",
+   "party07": "JKPDP",
+   "winner_07": "Abdul Rehman Bhat",
+   "electors_07": 86929,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MEHBOOBA MUFTI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ab. Rehman Bhat",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ABDUL REHMAN BHAT",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abdul Rehman Bhat",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "44": {
+     "pct": 3.4,
+     "basis": "measured"
+    },
+    "45": {
+     "pct": 80.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 46,
+   "name": "Pahalgam",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    47
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "All PCs in Tehsil Pahalgam and PCs 8-Seer-Kanligund, 9-Salia in Tehsil Anantnag.",
+   "party07": "JKNC",
+   "winner_07": "Altaf Ahmad Wani",
+   "electors_07": 80985,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "AB. KABIR BHAT",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mehbooba Mufti",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "RAFI AHMAD MIR",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Altaf Ahmad Wani",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "47": {
+     "pct": 97.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 51,
+   "name": "Kishtwar",
+   "district": "Kishtwar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    48,
+    49,
+    50
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Inderwal, Padder - Nagseni.",
+   "extent": "PCs 1-Marghi, 2-Inshan, 3-Yerudu, 4-Renai, 5-Nowpachi, 6-Chanjer, 7-Qaderana, 8-Deharana, 9-Lopara, 10-Loharna, 11-Soundhar, 19-Palmar, 30-Trigam, 31-Kishtwar, 32-Matta, 33-Poochal, 34-Dool, 35-Bhagnah, 36-Galarbahta, 37-Atholi, 38-Sohal, 39-Ishtiari, 40-Gulabgarh, 41-Massu, 42-Kishtwar NAC, 43-Forest Block in Tehsil Kishtwar.",
+   "party07": "BJP",
+   "winner_07": "Sunil Kumar Sharma",
+   "electors_07": 79174,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "BASHIR AHMED KICHLOO",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sajjad Hussain",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SAJJAD AHMAD KICHLOO",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Sunil Kumar Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "48": {
+     "pct": 42.9,
+     "basis": "measured"
+    },
+    "49": {
+     "pct": 14.8,
+     "basis": "measured"
+    },
+    "50": {
+     "pct": 40.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 52,
+   "name": "Inderwal",
+   "district": "Kishtwar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    48,
+    49,
+    52
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kishtwar, Doda.",
+   "extent": "PCs 12-Chingam, 13-Inderwal, 14-Chatroo, 15-Sigdi, 16-Moolchhiter, 17-Drubeel, 18-Kochal, 20-Filler, 21-Pakhalan, 22-Keshwan, 23-Shandri, 24-Sangna, 25-Patnazi, 1 2 3 26-Jawalapur, 27-Loundri, 28-Badhat and 29-Karool in Tehsil Kishtwar ; PCs 1-Jakyas in Tehsil Bhalesa (Gandoh) and following PCs of Tehsil Thathri :-- 1-Jangalwar, 3-Malanoo, 4-Kansu, 10-Kandote.",
+   "party07": "INC",
+   "winner_07": "Ghulam Mohd Saroori",
+   "electors_07": 83813,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "QAZI JALAL-UD-DIN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gulam Mohammad",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "GHULAM MOHD SAROORI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ghulam Mohd Saroori",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "48": {
+     "pct": 70.0,
+     "basis": "measured"
+    },
+    "49": {
+     "pct": 16.2,
+     "basis": "measured"
+    },
+    "52": {
+     "pct": 5.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 53,
+   "name": "Doda",
+   "district": "Doda",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    52,
+    53
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Doda West.",
+   "extent": "All PCs of Tehsil Doda except 8-Dessa, 9-Dhandal, 10-Kastigarh, 11-Shamti, 12-Chaka Kundi, 13-Assar, 14-Charrota.",
+   "party07": "BJP",
+   "winner_07": "Shakti Raj",
+   "electors_07": 84548,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MAULANA ATTAULLAH SUHARWARDY",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Abdul Majid",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ABDUL MAJID WANI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Shakti Raj",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 38.0,
+     "basis": "measured"
+    },
+    "53": {
+     "pct": 58.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 54,
+   "name": "Bhaderwah",
+   "district": "Doda",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    51,
+    52
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Bhadarwah.",
+   "extent": "All PCs of Tehsil Bhaderwah and PCs 2-Budhli, 3-Chilli, 4-Drawani, 5-Kahal Jugasar, 6-Budwar, 7-Chanisar, 8-Kilotran, 9-Kharangal, 10-Gandoh in Tehsil Bhalesa ; and PCs 2-Jora, 5-Bhaja, 6-Bhalla, 7-Jagiti, 8-Bhallari, 9-Rokali, 11-Pamshayee in Tehsil Thathri.",
+   "party07": "BJP",
+   "winner_07": "Daleep Singh",
+   "electors_07": 106302,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ABDUL REHMAN",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd. Sharief",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "GHULAM NABI AZAD",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Daleep Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 97.0,
+     "basis": "measured"
+    },
+    "52": {
+     "pct": 2.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 55,
+   "name": "Ramban",
+   "district": "Ramban",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    53,
+    54,
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Doda West, Banihal.",
+   "extent": "All PCs of Tehsil Ramban except 5-Sarbagni and PCs of 8-Dessa, 9-Dhandhal, 10-Kastigarh, 11-Shamti, 12-Chaka, 13-Assar, 14-Charrota of Tehsil Doda.",
+   "party07": "BJP",
+   "winner_07": "Neelam Kumar Langeh",
+   "electors_07": 86604,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "BALI BHAGAT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Chaman Lal",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ASHOK KUMAR",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Neelam Kumar Langeh",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 39.4,
+     "basis": "measured"
+    },
+    "54": {
+     "pct": 41.8,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 16.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 56,
+   "name": "Banihal",
+   "district": "Ramban",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    54,
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ramban.",
+   "extent": "All PCs of Tehsil Banihal and 5-Sarbagni in Tehsil Ramban.",
+   "party07": "INC",
+   "winner_07": "Vikar Rasool Wani",
+   "electors_07": 78588,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHD. FAROOQ MIR",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Molvi Abdul Rashid",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "VIKAR RASOOL",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Vikar Rasool Wani",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "54": {
+     "pct": 14.1,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 77.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 57,
+   "name": "Gulab Garh",
+   "district": "Reasi",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    56,
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Gulabgarh(St) (St).",
+   "extent": "PCs 2-Mahore, 2-Sarh, 3-Dewal, 4-Gulabgarh, 5-Chasote, 6-Bagankote, 7-Shergarhi, 8-Shikari, 9-Kanthi, 10-Tulibana, 13-Shajroo in Tehsil Gulabgarh and PC 16-Jij in Tehsil Reasi.",
+   "party07": "INC",
+   "winner_07": "Mumtaz Ahmed",
+   "electors_07": 68379,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ABDUL GHANI MALIK",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ab. Gani Malik",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ABDUL GANI MALIK",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mumtaz Ahmed",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "56": {
+     "pct": 88.3,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 10.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 58,
+   "name": "Reasi",
+   "district": "Reasi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    57,
+    58,
+    59
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Shri Mata Vaishno Devi, Udhampur West.",
+   "extent": "Tehsil Reasi except following PCs:— 1.Salal, 15-Chinkah, 16-Jij, 17-Thakrakote and following PCs of Tehsil Udhampur:— 13-Panjar, 14-Lali, 15-Ladah, 17-Dhandu, 18-Jhandawa, 32-Badhota and 19-Suhal.",
+   "party07": "BJP",
+   "winner_07": "Ajay Nanda",
+   "electors_07": 108535,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "JAGJIVEN LAL",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jugal Kishore",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "BALDEV RAJ",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ajay Nanda",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 29.7,
+     "basis": "measured"
+    },
+    "58": {
+     "pct": 37.1,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 25.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 59,
+   "name": "Gool Arnas",
+   "district": "Reasi",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    55,
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Banihal, Reasi.",
+   "extent": "Gool Arnas Following PCs of Tehsil Gool Gulabgarh:— 11-Thuru, 12-Bhudhan, 14-Kanthan, 15-Judda, 16-Dhanow, 17-Kali Masta, 18-Gool, 19-Thatharka, 20-Sangaldan, 21-Forest Block ; and 1-Salal, 15-Chinkah, 17-Thakrakote in Tehsil Reasi.",
+   "party07": "INC",
+   "winner_07": "Ajaz Ahmed Khan",
+   "electors_07": 61476,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ABDUL WAHID SHAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Aijaz Ahmad",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "AJAZ AHMED KHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ajaz Ahmed Khan",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 17.4,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 59.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 60,
+   "name": "Udhampur",
+   "district": "Udhampur",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    59,
+    60,
+    61
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Udhampur West.",
+   "extent": "All PCs of Tehsil Udhampur except the following PCs :— 13-Panjar, 14-Lali, 15-Ladha, 17-Dhandu, 18-Jhandawa, 19-Suhal, 20-Ludha, 21-Balian, 27-Sunal, 29-Meer, 30-Kathi, 32-Badhota.",
+   "party07": "IND",
+   "winner_07": "Pawan Kumar Gupta",
+   "electors_07": 107118,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SHIV CHARAN GUPTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Balwant Singh",
+     "party": "JKNPP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "BALWANT SINGH MANKOTIA",
+     "party": "JKNPP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Pawan Kumar Gupta",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 34.9,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 34.7,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 27.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 61,
+   "name": "Chenani",
+   "district": "Udhampur",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    59,
+    60,
+    61,
+    62
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Udhampur West, Udhampur East, Ramnagar(Sc) (Sc).",
+   "extent": "All PCs of Tehsil Chenani and following PCs of Tehsil Udhampur :— 20-Ladha, 21-Balian, 27-Sunal, 29-Meer, 30-Kathi and following PCs of Tehsil Ramnagar. 10-Dudu, 11-Latti, 31-Ghordi, 33-Hartarian, 34-Dandal, 35-Barmeen, 36-Nalla Ghoran.",
+   "party07": "BJP",
+   "winner_07": "Dina Nath",
+   "electors_07": 87627,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "PRITHVI CHAND",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sh Faquir Nath",
+     "party": "JKNPP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "KRISHAN CHANDER",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dina Nath",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 8.4,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 5.6,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 77.1,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 6.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 62,
+   "name": "Ram Nagar",
+   "district": "Udhampur",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    60,
+    61,
+    62
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Udhampur East.",
+   "extent": "nagar All PCs of Tehsil Ramnagar except the following :— 10-Dudu, 11-Latti, 31-Ghordi, 33-Hartarian, 34-Dhandal, 35-Barmeen, 36-Nala Ghoran.",
+   "party07": "BJP",
+   "winner_07": "Ranbir Singh Pathania",
+   "electors_07": 109209,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "HARSH DEV SINGH",
+     "party": "JPP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Harsh Dev Singh",
+     "party": "JKNPP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "HARSH DEV SINGH",
+     "party": "JKNPP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ranbir Singh Pathania",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "60": {
+     "pct": 28.1,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 8.8,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 59.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 63,
+   "name": "Bani",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    63
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "PCs 14-Bani, 15-Banjal, 16-Fatehpur, 17-Sandroon, 18-Rolka, 19-Buggah, 20-Lowang, 21-Kanthal, 22-Surjan, 23-Dhanggar, 24-Koti, 25-Forest Block in Tehsil Basohli and 9-Godu Flal, 10-Bdnota, 11-Machadi, 20-Malhar in Tehsil Billawar.",
+   "party07": "BJP",
+   "winner_07": "Jewan Lal",
+   "electors_07": 41533,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GHULAM HYDER",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Prem Sagar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "LAL CHAND",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Jewan Lal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 95.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 64,
+   "name": "Basohli",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    64,
+    65,
+    66,
+    67
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Billawar, Jasrota, Kathua(Sc) (Sc).",
+   "extent": "PCs 1-Thein, 2-Basantpur, 3-Lakhanpur, 4-Hatli, 7-Tridwan, 36-Lakhanpur NAC, 29-Berthian and 30-Sorlian in Tehsil Kathua and PCs 1-Basohli, 1-a-Basohli NAC, 2-Sandhar, 3-Hutt, 4-Bhoond, 5-Saman, 6-Dhar Jankar, 7-Dhar Mahanpur, 8-Plahi, 9-Prita, 10- Saber, 11-Patti, 12-Athalith, 13-Mahanpur in Tehsil Basohli and PCs 21-Dhar Digno, 22-Huttar, 23-Dambra in Tehsil Billawar. 1 2 3 55 DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR 34 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—",
+   "party07": "BJP",
+   "winner_07": "Lal Singh",
+   "electors_07": 76209,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "LAL SINGH",
+     "party": "AIIC(T)",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Lal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "JAGDISH RAJ SAPOLIA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Lal Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 9.8,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 81.1,
+     "basis": "measured"
+    },
+    "66": {
+     "pct": 6.7,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 1.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 65,
+   "name": "Kathua",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    66,
+    67
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Jasrota, Kathua(Sc) (Sc).",
+   "extent": "PCs 5-Dilwan, 6-Maha, 8-Kharote, 9-Taraf Manjili, 10-Taraf Tajwal, 11-Karian, 12-Taraf Bajwal, 13-Changran, 14-Govindsar, 15-Chak Soon Noopa, 16-Khakhyal, 17-Mirpur Ram, 18-Taraf Balla, 20-Katharian, 21-Janglote, 22-Loagate, 23-Jakhbar, 24-Airwan, 26-Chak Sakta, 27-Budhi, 28-Nanan, 31-Barwal, 32-Jherhere, 33-Kathua Forest Block, 34-Kathua NAC , 35-Perlain and 25-Folote in Tehsil Kathua.",
+   "party07": "BJP",
+   "winner_07": "Rajiv Jasrotia",
+   "electors_07": 113075,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SAGAR CHAND",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jatinder Singh",
+     "party": "DM",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "CHARANJIT SINGH",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Rajiv Jasrotia",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 59.1,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 40.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 66,
+   "name": "Billawar",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    64,
+    66,
+    68
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jasrota, Hiranagar.",
+   "extent": "PCs 11-Katli, 17-Bhaya, 21-Denga Amb, 23-Dhamal, 25-Mangloor, 26-Chelakh, 27-Salain in Tehsil Hiranagar and PCs 1-Ramkot, 2-Makwal, 3-Salora, 4-Rajwlta, 5-Danjisdhar, 6-Thara Kalwal, 7-Kalyal, 8-Thanthoo, 12-Kohag, 13-Malti, 14-Durang, 15-Dharan Kote, 16-Bhaddu, 17-Billawar, 18-Billawar NAC, 19-Buggan, 24-Parnala, 25-Pallan in Tehsil Billawar and PC 19-Juthana in Tehsil Kathua.",
+   "party07": "BJP",
+   "winner_07": "Dr. Nirmal Kumar Singh",
+   "electors_07": 96599,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "BALBIR SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Manohar Lal Sharma",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MANOHAR LAL SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dr. Nirmal Kumar Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 66.1,
+     "basis": "measured"
+    },
+    "66": {
+     "pct": 20.7,
+     "basis": "measured"
+    },
+    "68": {
+     "pct": 6.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 67,
+   "name": "Hira Nagar",
+   "district": "Kathua",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    66,
+    68,
+    69,
+    70
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jasrota, Ramgarh(Sc) (Sc), Samba.",
+   "extent": "nagar (SC) 1-Jatwal, 2-Nonath, 3-Ghagwal, 4-Sarath, 5-Bhatyari Kotlan, 6-Sanoora, 7-Mawa, 8-Nohran, 9-Chachwal, 10-Sarti Kalan, 12-Chak Dulma, 13-Jondi, 14-Londi, 15-Rajpura, 16-Kootah, 18-Gurah Mathian, 19-Bavia, 20-Katal Brahmana, 24-Hamirpur, 28-Chhan Rorian, 29-Marheen, 22-Saiswan, 30-Khanpur, 31-Hiranagar, 32-Hiranagar NAC, 33-Pansar, 34-Kore Punu, 35-Chak Deva, 36-Chak Bhagwana, 37-Chak Kahna, 38-Chadwal, 39-Forest Block in Tehsil Hiranagar.",
+   "party07": "BJP",
+   "winner_07": "Kuldeep Raj",
+   "electors_07": 110753,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "PREM LAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Girdhari Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "DURGA DASS",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kuldeep Raj",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 6.8,
+     "basis": "measured"
+    },
+    "68": {
+     "pct": 54.3,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 18.5,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 17.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 68,
+   "name": "Samba",
+   "district": "Samba",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    60,
+    69,
+    70,
+    71
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Udhampur East, Ramgarh(Sc) (Sc), Vijaypur.",
+   "extent": "PCs 1-NAC Samba, 2-Samba Khas, 3-Taloor, 4-Amli, 5-Durin, 6-Katli, 7-Ram Nagar, 8-Pingdore, 11-Sunian, 10-Sarna, 12-Bhartgarh, 13-Suran, 14-Goran, 15-Balhter, 17-Katwalta, 18-Kharah Madena, 21-Baghore, 22-Purmandal, 24-Mohar Garh, 25-Badhari, 26-Kard in Tehsil Samba and PC 28-Chaudi in Jammu Tehsil.",
+   "party07": "BJP",
+   "winner_07": "Devinder Kumar Manyal",
+   "electors_07": 84916,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SOM NATH",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Yash Paul",
+     "party": "JKNPP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "YASH PAUL KUNDAL",
+     "party": "JKNPP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Devinder Kumar Manyal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "69": {
+     "pct": 11.1,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 61.8,
+     "basis": "measured"
+    },
+    "71": {
+     "pct": 21.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 69,
+   "name": "Vijay Pur",
+   "district": "Samba",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    69,
+    70,
+    71,
+    75
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ramgarh(Sc) (Sc), Samba, Bahu.",
+   "extent": "PCs 9-Khanpur, 20-Vijaypur, 23-Gurah Salathian, 28-Harmander, 29-Chak Salarian, 30-Nanga, 31-Logwal, 32-Keso Manhasan, 33-Ramgarh, 34-Gho-Brahmana, 35 Chak Chataka, 36-Chann Fatwal, 37-Abtal, 38-Swankha, 39-Mahal Shan, 40-Rari, 41-Smailpur, 27-Birpur, 42-Tarore, 43-Bagla, 44-Gandwal in Tehsil Samba.",
+   "party07": "BJP",
+   "winner_07": "Chander Parkash",
+   "electors_07": 113082,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SURJIT SINGH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Manjit Singh",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SURJIT SINGH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Chander Parkash",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "69": {
+     "pct": 36.9,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 10.4,
+     "basis": "measured"
+    },
+    "71": {
+     "pct": 34.8,
+     "basis": "measured"
+    },
+    "75": {
+     "pct": 9.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 70,
+   "name": "Nagrota",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    76,
+    77
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jammu East.",
+   "extent": "PCs 39-Ranjan, 40-Sarote, 41-Jandial, 42-Gorda, 44-Nagrota, 45-Dansal, 46-Jhajar Kotli, 47-Thara, 48-Bamyal, 49-Katal Batal, 50-Shiba, 51-Jagti, 52-Jindrah, 53-Kanyala, 54-Kothar, 55-Kharte, 56-Dhan, 57-Songoon, 58-Ponthal, 59-Surinsar in Tehsil Jammu and PCs 16-Bain Bajalta, 19-Aitham in Tehsil Samba.",
+   "party07": "JKNC",
+   "winner_07": "Devender Singh Rana",
+   "electors_07": 72907,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "AJAT SHATRU SINGH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jugal Kishore",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "JUGAL KISHORE",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Devender Singh Rana",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "76": {
+     "pct": 22.9,
+     "basis": "measured"
+    },
+    "77": {
+     "pct": 76.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 71,
+   "name": "Gandhi Nagar",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    74,
+    75
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new R. S. Pura- Jammu South, Bahu.",
+   "extent": "nagar Ward-16 (Gandhinagar), Ward-17 (Naibasti), Ward-22 (Chhani Rama), Ward-23 (Bahu), 24-Digiana, 26-Bahu, 27-Sunjwan, 29-Gadigarh, 30-Satwari in Tehsil Jammu.",
+   "party07": "BJP",
+   "winner_07": "Kavinder Gupta",
+   "electors_07": 169672,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "PIARA SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Raman Bhalla",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "RAMAN BHALLA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kavinder Gupta",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "74": {
+     "pct": 71.0,
+     "basis": "measured"
+    },
+    "75": {
+     "pct": 15.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 72,
+   "name": "Jammu East",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    75,
+    76
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bahu. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Wards 1 to 6, 9, 10, 12 and 15.",
+   "party07": "BJP",
+   "winner_07": "Rajesh Gupta",
+   "electors_07": 53346,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "VAID VISHNO DUTT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Yogesh Kumar Sawhney",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ASHOK KUMAR KHAJURIA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Rajesh Gupta",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "75": {
+     "pct": 29.8,
+     "basis": "measured"
+    },
+    "76": {
+     "pct": 60.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 73,
+   "name": "Jammu West",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    78
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Wards 7, 8, 11, 13, 14, 18, 19, 20 and 21.",
+   "party07": "BJP",
+   "winner_07": "Sat Paul Sharma",
+   "electors_07": 153794,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "HANS RAJ",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mangat Ram Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "CHAMAN LAL GUPTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Sat Paul Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "78": {
+     "pct": 64.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 74,
+   "name": "Bishnah",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    72
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Bishnah(Sc) (Sc).",
+   "extent": "All PCs in Tehsil Bishnah and 25-Naugran in Tehsil Jammu.",
+   "party07": "JKNC",
+   "winner_07": "Kamal Verma",
+   "electors_07": 92694,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "JAGDISH RAJ DUBEY",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ashwani Kumar Sharma",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ASHWANI KUMAR SHARMA",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kamal Verma",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "72": {
+     "pct": 88.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 75,
+   "name": "Ranbir Singh Pura",
+   "district": "Jammu",
+   "type": "SC",
+   "status": "abolished",
+   "dest": [
+    72,
+    73,
+    74
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Bishnah(Sc) (Sc), Suchetgarh(Sc) (Sc), R. S. Pura- Jammu South.",
+   "extent": "R. S. Pura (SC) PCs 1-Salhar, 2-Rathana, 3-Kandlihar, 4-Khour, 5-Kalyana, 14-R. S. Pura with NAC, 15-Khas Gigian, 16-Chohalla, 19-Kirpind, 20-Kotli Shah Dula, 25-Marlia, 24-Darsopur, 35-Gondla in Tehsil R. S. Pura.",
+   "party07": "BJP",
+   "winner_07": "Dr. Gagan Bhagat",
+   "electors_07": 79570,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "RAM CHAND",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Suman lata Bhagat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "GHARU RAM BHAGAT",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dr. Gagan Bhagat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "72": {
+     "pct": 1.0,
+     "basis": "measured"
+    },
+    "73": {
+     "pct": 70.4,
+     "basis": "measured"
+    },
+    "74": {
+     "pct": 28.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 76,
+   "name": "Suchet Garh",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    73
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Suchetgarh(Sc) (Sc).",
+   "extent": "garh PCs 6-Dablihar, 7-Magowali, 8-Parlah, 9-Chak Baza, 10-Nekowal, 11-Jevroh, 12-Saie Kalan, 13-Chak Mulo, 17-Badyal Brahmana, 18-Jssore, 21-Chak Agra, 22-Fatehpur Brahmana, 25-Samka, 26-Baspur, 27-Rangpur Malana, 28-Suchetgarh, 29-Chandu Chak, 30-Satowali, 31-Grarana, 32-Badyal Qazian, 33-Abdal, 34-Chakroi in Tehsil R. S. Pura.",
+   "party07": "BJP",
+   "winner_07": "Sham Lal Choudhary",
+   "electors_07": 65695,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "CHUNI LAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gharu Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SHAM LAL CHOUDHARY",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Sham Lal Choudhary",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "73": {
+     "pct": 89.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 77,
+   "name": "Marh",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    78,
+    80
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Jammu West, Marh(Sc) (Sc).",
+   "extent": "PCs 60-Prahaladpur, 61-Mandal, 62-Sum, 65-Gho Manhasan, 66-Sohanjana, 67-Thub, 68-Sahran, 69-Rathua, 70-Chanore, 71-Makwal, 72-Gool, 74-Gajansoo, 75-Kalyanpur, 76-Kahnachak, 77-Marh, 78-Gangoo Chak, 79-Kalrup, 80-Dhateryal, 31-Flora Nagbani in Tehsil Jammu. 1 2 3",
+   "party07": "BJP",
+   "winner_07": "Sukhnandan Kumar",
+   "electors_07": 73503,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "AJAY KUMAR",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ajay Kumar",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SUKH NANDAN KUMAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Sukhnandan Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "78": {
+     "pct": 4.4,
+     "basis": "measured"
+    },
+    "80": {
+     "pct": 90.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 78,
+   "name": "Raipur Domana",
+   "district": "Jammu",
+   "type": "SC",
+   "status": "abolished",
+   "dest": [
+    77,
+    79
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Nagrota, Jammu North.",
+   "extent": "PCs 31-Paloura, 32-Muthi, 33-Barn, 34-Siri Panditan, 35-Gharota, 36-Raipur Domana, 37-Kot Bhalwal, 38-Amb, 43-Kaink, 63-Hakkal, 64-Khandwal, 73-Bhadora, 82-Panjore in Tehsil Jammu.",
+   "party07": "BJP",
+   "winner_07": "Bali Bhagat",
+   "electors_07": 98420,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "SAT PAUL",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mulla Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "BHARAT BHUSHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bali Bhagat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "77": {
+     "pct": 55.9,
+     "basis": "measured"
+    },
+    "79": {
+     "pct": 32.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 79,
+   "name": "Akhnoor",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    81,
+    82
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Akhnoor(Sc) (Sc), Chhamb.",
+   "extent": "PCs 1-Chowki, 2-Choura, 3-Kathar, 4-Mandarian, 8-Narri, 6-Ambaran, 7-Barui, 9-Ganderwan, 10-Manda, 11-Akhnoor Khas, 12-Sungal, 13-Pangairi, 14-Devipur, 15-Chak Kirpalpur, 16-Jadh, 17-Muthi Maira, 18-Rakh Dhoke, 19-Saliote, 20-Ghar Majoor, 21-Mawa Brahmana, 22-Leherian in Tehsil Akhnoor.",
+   "party07": "BJP",
+   "winner_07": "Rajeev Sharma",
+   "electors_07": 97125,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GOVIND RAM",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Madan Lal Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SHAM LAL SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Rajeev Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "81": {
+     "pct": 57.6,
+     "basis": "measured"
+    },
+    "82": {
+     "pct": 41.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 80,
+   "name": "Chhamb",
+   "district": "Jammu",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    81,
+    82
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Akhnoor(Sc) (Sc).",
+   "extent": "PCs 8-Mattoo, 24-Gurah Manhasan, 25-Sarwal, 23-Pargwal, 26-Bhalwal Malu, 27-Hamirpur, 28-Bakore, 29-Chak Malal, 30-Derian, 31-Sainth, 32-Gigarial, 33-Khour, 34-Kot Mera, 35-Palanwala, 36-Kharah, 37-Nathal, 38- Doori, 39-Chhani Dewanoo, 40-Samuan, 41-Chakla in Tehsil Akhnoor.",
+   "party07": "BJP",
+   "winner_07": "Dr. Kirshan Lal",
+   "electors_07": 76763,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "TARA CHAND",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Tara Chand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "TARA CHAND",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dr. Kirshan Lal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "81": {
+     "pct": 13.1,
+     "basis": "measured"
+    },
+    "82": {
+     "pct": 83.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 81,
+   "name": "Nowshera",
+   "district": "Rajouri",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    83,
+    84
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kalakote - Sunderbani.",
+   "extent": "Nowshera All PCs of Tehsil Nowshara except 11-Narian and all PCs of Tehsil Sunderbani.",
+   "party07": "BJP",
+   "winner_07": "Ravinder Raina",
+   "electors_07": 94729,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "RADHAY SHAM SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Romesh Chander",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "RADHAY SHAM SHARMA",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ravinder Raina",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "83": {
+     "pct": 24.3,
+     "basis": "measured"
+    },
+    "84": {
+     "pct": 69.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 82,
+   "name": "Darhal",
+   "district": "Rajouri",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    85,
+    86,
+    87
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Rajouri(St) (St), Budhal(St) (St), Thannamandi(St) (St).",
+   "extent": "All PCs of Tehsil Budhal except 3-Khawas, 6-Kote Chalwal and following PCs of Tehsil Thanamandi :— 5-Darhal, 6-Chowdian, 7-Nadian, 8-Ujhan ; and PC 4-Nagrota in Tehsil Rajouri.",
+   "party07": "JKPDP",
+   "winner_07": "Chowdhary Zulfkar Ali",
+   "electors_07": 93646,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "CH. MOHD. HUSSAIN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Puran Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "ZULFKAR ALI",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Chowdhary Zulfkar Ali",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "85": {
+     "pct": 8.4,
+     "basis": "measured"
+    },
+    "86": {
+     "pct": 71.7,
+     "basis": "measured"
+    },
+    "87": {
+     "pct": 19.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 83,
+   "name": "Rajouri",
+   "district": "Rajouri",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    85,
+    87
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Rajouri(St) (St), Thannamandi(St) (St).",
+   "extent": "Rajouri Following PCs of Tehsil Rajouri :— 1-Gambir Muglan, 2-Dani-Dhar, 7-Bathooni, 8-Sarola, 9-Sohana, 10-Doongi Brahmana, 11-Katarmal, 12-Deri Delote, 13-Panj Grain, 14-Galhoti, 15-Fatehpur, 17-Bagla, 19-Rampur with NAC Rajouri with following PCs of Thanamandi Tehsil:— 1-Dodasan Balla, 2-Saaj, 3-Shahdara Sharief, 4-Hosplote, 10-Thanamandi with NAC and 9-Bharote.",
+   "party07": "JKPDP",
+   "winner_07": "Qamar Hussain",
+   "electors_07": 115647,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MOHD. SHARIEF TARIQ",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohd Aslam",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SHABBIR AHMED KHAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Qamar Hussain",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "85": {
+     "pct": 39.5,
+     "basis": "measured"
+    },
+    "87": {
+     "pct": 60.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 84,
+   "name": "Kala Kote",
+   "district": "Rajouri",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    83,
+    85
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Kalakote - Sunderbani, Rajouri(St) (St).",
+   "extent": "kote All PCs of Tehsil Kalakote and following PCs of Tehsil Rajouri :— 2-Dalhari, 3-Dhangri, 6-Potha Grlana, 16-Khanpur Chingus, 18-Bhadoon and PC 11-Narian of Tehsil Nowshera ; and 3-Khaskote Chalwal of Budhal Tehsil.",
+   "party07": "BJP",
+   "winner_07": "Abdul Ghani Kohli",
+   "electors_07": 86303,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "ASHOK KUMAR SHARMA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Rachpal Singh",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "RACHHPAL SINGH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abdul Ghani Kohli",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "83": {
+     "pct": 59.4,
+     "basis": "measured"
+    },
+    "85": {
+     "pct": 21.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 85,
+   "name": "Surankote",
+   "district": "Poonch",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    88,
+    89
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Surankote(St) (St).",
+   "extent": "kote All PCs in Surankote Tehsil and PCs 12-Rajpur, 21-Shindra, 22-Seri-Khawja in Poonch Tehsil.",
+   "party07": "INC",
+   "winner_07": "Ch Mohd Akram",
+   "electors_07": 86084,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "MUSHTAQ AHMED SHAH",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mushtaq Ahmad Shah",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "MOHD. ASLAM",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ch Mohd Akram",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "88": {
+     "pct": 95.8,
+     "basis": "measured"
+    },
+    "89": {
+     "pct": 2.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 86,
+   "name": "Mendhar",
+   "district": "Poonch",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    90
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Mendhar(St) (St).",
+   "extent": "All PCs of Tehsil Mendhar.",
+   "party07": "JKNC",
+   "winner_07": "Javed Ahmed Rana",
+   "electors_07": 81554,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "NISAR AHMED KHAN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Javed Ahmad Rana",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "SARDAR RAFIQ HUSSAIN KHAN",
+     "party": "JKPDP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Javed Ahmed Rana",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "90": {
+     "pct": 94.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 87,
+   "name": "Poonch Haveli",
+   "district": "Poonch",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    88,
+    89
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Surankote(St) (St).",
+   "extent": "All PCs of Tehsil Poonch except 12-Rajpur, 21-Shindra, 22-Sheri Khawja.",
+   "party07": "JKPDP",
+   "winner_07": "Shah Mohd Tantray",
+   "electors_07": 99958,
+   "elections": [
+    {
+     "year": 1996,
+     "winner": "GHULAM MOHD. JAN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ghulam Mohd Jan",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2008,
+     "winner": "AJAZ AHMED JAN",
+     "party": "JKNC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Shah Mohd Tantray",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "89": {
+     "pct": 99.5,
+     "basis": "measured"
+    }
+   }
+  }
+ ],
+ "post2008_constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Karnah",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    1
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Karnah Tehsil; Kralpora Tehsil (Part); Gundzonareshi PC; Panzgam PC; Shuloora PC",
+   "party12": "JKNC",
+   "winner_12": "Javaid Ahmad Mirchal",
+   "electors_12": 59224,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Javaid Ahmad Mirchal",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 80.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 2,
+   "name": "Trehgam",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    1,
+    2,
+    4
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Karnah, Kupwara, Handwara.",
+   "extent": "Trehgam Tehsil; Keran Tehsil; Kralpora Tehsil (Part); Kralpora Tehsil excluding; Gundzonareshi PC; Panzgam PC; Shuloora PC; Kupwara Tehsil (Part); Gushi PC; Dedkoot PC; Nagri Malpora PC",
+   "party12": "JKNC",
+   "winner_12": "Saifullah Mir",
+   "electors_12": 79216,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Saifullah Mir",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 63.6,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 13.0,
+     "basis": "measured"
+    },
+    "4": {
+     "pct": 21.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 3,
+   "name": "Kupwara",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Karnah, Lolab, Handwara.",
+   "extent": "Kupwara Tehsil (Part); Kupwara Tehsil excluding; Gushi PC; Dedkoot PC; Nagri Malpora PC; Dragmulla Tehsil (Part); Bumhama PC",
+   "party12": "JKPDP",
+   "winner_12": "Mir Mohammad Fayaz",
+   "electors_12": 95859,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Mir Mohammad Fayaz",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 23.7,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 39.2,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 29.8,
+     "basis": "measured"
+    },
+    "4": {
+     "pct": 7.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 4,
+   "name": "Lolab",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Sogam (Lolab) Tehsil; Lalpora Tehsil; Machil Tehsil",
+   "party12": "JKNC",
+   "winner_12": "Qaysar Jamshaid Lone",
+   "electors_12": 91669,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Qaysar Jamshaid Lone",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 94.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 5,
+   "name": "Handwara",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    2,
+    4,
+    5
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kupwara, Langate.",
+   "extent": "Vilgam Tehsil; Zachaldara Tehsil; Tarathpora (Ramhal) Tehsil; Dragmulla Tehsil (Part); Dragmulla Tehsil excluding; Bumhama PC; Handwara Tehsil (Part); Bakaiaker PC; Handwara PC; Shoghpora PC; Wadipora PC; Sirajpora PC; Badkoot Machipora PC; Jagerpora PC",
+   "party12": "JKPC",
+   "winner_12": "Sajad Gani Lone",
+   "electors_12": 99271,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Sajad Gani Lone",
+     "party": "JKPC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "2": {
+     "pct": 0.7,
+     "basis": "measured"
+    },
+    "4": {
+     "pct": 42.7,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 48.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 6,
+   "name": "Langate",
+   "district": "Kupwara",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    4,
+    5,
+    7,
+    10
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Handwara, Rafiabad, Bandipora.",
+   "extent": "Qaziabad (Kralgund) Tehsil; Langate Tehsil; Qalamabad Tehsil; Handwara Tehsil (Part); Handwara Tehsil excluding; Bakaiaker PC; Handwara PC; Shoghpora PC; Wadipora PC; Sirajpora PC; Badkoot Machipora PC; Jagerpora PC; Assembly Existing & Proposed Seats",
+   "party12": "IND",
+   "winner_12": "Khursheed Ahmad Shiekh",
+   "electors_12": 120584,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Khursheed Ahmad Shiekh",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 29.3,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 30.7,
+     "basis": "measured"
+    },
+    "7": {
+     "pct": 22.7,
+     "basis": "measured"
+    },
+    "10": {
+     "pct": 14.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 7,
+   "name": "Sopore",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    8,
+    12
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sangrama.",
+   "extent": "Sopore Tehsil; Dangerpora Tehsil; Khoie Tehsil (Part); Tarzoo PC",
+   "party12": "JKNC",
+   "winner_12": "Irshad Rasool Kar",
+   "electors_12": 112997,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Irshad Rasool Kar",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "8": {
+     "pct": 85.7,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 12.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 8,
+   "name": "Rafiabad",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    7
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Zaingeer Tehsil; Watergam Tehsil; Rafiabad (Rohama) Tehsil; Dangiwacha Tehsil",
+   "party12": "JKNC",
+   "winner_12": "Javid Ahmad Dar",
+   "electors_12": 113457,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Javid Ahmad Dar",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 74.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 9,
+   "name": "Uri",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    6
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Uri Tehsil; Boniyar Tehsil; Narvaw Tehsil (Part); Kitchama PC",
+   "party12": "JKNC",
+   "winner_12": "Sajjad Shafi",
+   "electors_12": 105612,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Sajjad Shafi",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 86.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 10,
+   "name": "Baramulla",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    7,
+    12,
+    13
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rafiabad, Sangrama.",
+   "extent": "Baramulla Tehsil; Narvaw Tehsil (Part); Narvaw Tehsil excluding; Kitchama PC; Wagoora Tehsil (Part); Wagoora Tehsil excluding; Wagoora PC; Forest Block",
+   "party12": "JKNC",
+   "winner_12": "Javid Hassan Baig",
+   "electors_12": 126820,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Javid Hassan Baig",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 13.4,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 4.1,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 81.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 11,
+   "name": "Gulmarg",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    14
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Kawarhama Tehsil; Kunzar Tehsil; Tangmarg Tehsil (Part); Tangmarg Tehsil excluding; Hajibal PC; Khaipora PC",
+   "party12": "JKNC",
+   "winner_12": "Pirzada Farooq Ahmed Shah",
+   "electors_12": 90597,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Pirzada Farooq Ahmed Shah",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 97.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 12,
+   "name": "Wagoora - Kreeri",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    12,
+    15
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2022, built from the former Sangrama, Pattan. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Kreeri Tehsil; Wagoora Tehsil (Part); Wagoora PC; Forest Block; Khoie Tehsil (Part); Khoie Tehsil excluding; Tarzoo PC; Tangmarg Tehsil (Part); Hajibal PC; Khaipora PC; Pattan Tehsil (Part); Wanigam Payeen PC; Wanigam Bala PC; Tilgam PC; Tapper Waripora PC; Humrey PC; DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR",
+   "party12": "INC",
+   "winner_12": "Irfan Hafiz Lone",
+   "electors_12": 72718,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Irfan Hafiz Lone",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 71.1,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 19.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 13,
+   "name": "Pattan",
+   "district": "Baramulla",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    14,
+    15
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gulmarg. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Singpora Tehsil; Pattan Tehsil (Part); Pattan Tehsil excluding; Wanigam Payeen PC; Wanigam Bala PC; Tilgam PC; Tapper Waripora PC; Humrey PC; Assembly Existing & Proposed Seats",
+   "party12": "JKNC",
+   "winner_12": "Javaid Riyaz",
+   "electors_12": 103574,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Javaid Riyaz",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 38.8,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 55.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 14,
+   "name": "Sonawari",
+   "district": "Bandipora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    10,
+    11,
+    17
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bandipora, Ganderbal. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Sonawari Tehsil; Sumbal Municipality; Ajas Tehsil; Hajin Tehsil (Part); Hajin Tehsil excluding; Shahgund PC; Naidkhai PC; Hajin Municipality; Bandipora Tehsil (Part); Garoora PC; Nadihal PC",
+   "party12": "JKNC",
+   "winner_12": "Hilal Akbar Lone",
+   "electors_12": 121336,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Hilal Akbar Lone",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 29.8,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 46.1,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 16.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 15,
+   "name": "Bandipora",
+   "district": "Bandipora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    10,
+    11
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sonawari. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Aloosa Tehsil; Bandipora Tehsil (Part); Bandipora Tehsil excluding; Garoora PC; Nadihal PC; Bandipora Municipality; Hajin Tehsil (Part); Shahgund PC; Naidkhai PC",
+   "party12": "INC",
+   "winner_12": "Nizam Uddin Bhat",
+   "electors_12": 117224,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Nizam Uddin Bhat",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 79.5,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 16.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 16,
+   "name": "Gurez(St) (St)",
+   "district": "Bandipora",
+   "type": "ST",
+   "status": "new",
+   "src": [
+    9
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Gurez.",
+   "extent": "Gurez Tehsil; Tulail Tehsil; Assembly Existing & Proposed Seats",
+   "party12": "JKNC",
+   "winner_12": "Nazir Ahmad Khan",
+   "electors_12": 22742,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Nazir Ahmad Khan",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 36.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 17,
+   "name": "Kangan(St) (St)",
+   "district": "Ganderbal",
+   "type": "ST",
+   "status": "new",
+   "src": [
+    16
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Kangan.",
+   "extent": "Kangan Tehsil; Gund Tehsil; Forest Block Kangan Gund; Lar Tehsil (Part); Watlar PC",
+   "party12": "JKNC",
+   "winner_12": "Mian Mehar Ali",
+   "electors_12": 78960,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Mian Mehar Ali",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "16": {
+     "pct": 93.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 18,
+   "name": "Ganderbal",
+   "district": "Ganderbal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    17
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tulmulla (Kheer Bhawani) Tehsil; Wakoora Tehsil; Ganderbal Tehsil; Lar Tehsil (Part); Lar Tehsil excluding; Watlar PC; Assembly Existing & Proposed Seats",
+   "party12": "JKNC",
+   "winner_12": "Omar Abdullah",
+   "electors_12": 129188,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Omar Abdullah",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 86.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 19,
+   "name": "Hazratbal",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    17,
+    18,
+    19,
+    20,
+    25
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ganderbal, Zadibal, Eidgah, Batmaloo. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "North SrinagarTehsil (Part); North SrinagarTehsil excluding; Harwan PC; Gupt Ganga PC; Shalimar PC; Nandpora PC; Eidgah Tehsil (Part); Buchpora PC; Umerhair PC; Owanta Bhawan PC; Baghat Shooru PC; Anchar PC",
+   "party12": "JKNC",
+   "winner_12": "Salman Sagar",
+   "electors_12": 113021,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Salman Sagar",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 20.1,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 22.8,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 13.1,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 14.4,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 19.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 20,
+   "name": "Khanyar",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    21,
+    22,
+    23,
+    25
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Habba Kadal, Amira Kadal, Batmaloo. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Khanyar Tehsil (Part); KhanyarTehsil excluding; Rainawari PC; Sangeen Darwaza PC; Abi Karpora PC; North Srinagar Tehsil (Part); Harwan PC; Gupt Ganga PC; Shalimar PC",
+   "party12": "JKNC",
+   "winner_12": "Ali Mohammad Sagar",
+   "electors_12": 91300,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Ali Mohammad Sagar",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "21": {
+     "pct": 30.6,
+     "basis": "measured"
+    },
+    "22": {
+     "pct": 13.1,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 35.1,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 12.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 21,
+   "name": "Habbakadal",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    23
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Amira Kadal. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "South Srinagar Tehsil (Part); South Srinagar Tehsil excluding; Sonwar PC; Maisuma PC; Shivpora PC; Kursoo Padshahi Bagh PC; Naursingh Garh PC; Barzulla PC",
+   "party12": "JKNC",
+   "winner_12": "Shamim Firdous",
+   "electors_12": 95759,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Shamim Firdous",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 100.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 22,
+   "name": "Lal Chowk",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    24
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2022, built from the former Sonawar. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Panthachowk Tehsil; South SrinagarTehsil (Part); Sonwar PC; Maisuma PC; Shivpora PC; Kursoo Padshahi Bagh PC; Naursingh Garh PC; Barzulla PC",
+   "party12": "JKNC",
+   "winner_12": "Sheikh Ahsan Ahmed",
+   "electors_12": 107573,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Sheikh Ahsan Ahmed",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "24": {
+     "pct": 66.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 23,
+   "name": "Channapora",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    28
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Beerwah.",
+   "extent": "Channapora Tehsil",
+   "party12": "JKNC",
+   "winner_12": "Mushtaq Guroo",
+   "electors_12": 85809,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Mushtaq Guroo",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 89.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 24,
+   "name": "Zadibal",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    22,
+    23,
+    25
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Habba Kadal, Amira Kadal, Batmaloo. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Eidgah Tehsil (Part); Zoonimar PC; North Srinagar Tehsil (Part); Nandpora PC; Khanyar Tehsil (Part); Rainawari PC; Sangeen Darwaza PC; Abi Karpora PC",
+   "party12": "JKNC",
+   "winner_12": "Tanvir Sadiq",
+   "electors_12": 113036,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Tanvir Sadiq",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 21.8,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 46.4,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 31.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 25,
+   "name": "Eidgah",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    23,
+    25
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Amira Kadal, Batmaloo. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Eidgah Tehsil (Part); EidgahTehsil excluding; Buchpora PC; Umerhair PC; Zoonimar PC; Owanta Bhawan PC; Baghat Shooru PC; Anchar PC",
+   "party12": "JKNC",
+   "winner_12": "Mubarik Gul",
+   "electors_12": 62080,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Mubarik Gul",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 49.3,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 44.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 26,
+   "name": "Central Shalteng",
+   "district": "Srinagar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    23,
+    27,
+    28
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2022, built from the former Amira Kadal, Budgam, Beerwah. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Central Shalteng Tehsil; DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR; Assembly Existing & Proposed Seats",
+   "party12": "INC",
+   "winner_12": "Tariq Hameed Karra",
+   "electors_12": 108147,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Tariq Hameed Karra",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 23.5,
+     "basis": "measured"
+    },
+    "27": {
+     "pct": 51.9,
+     "basis": "measured"
+    },
+    "28": {
+     "pct": 18.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 27,
+   "name": "Budgam",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    27,
+    28
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Beerwah.",
+   "extent": "Narbal Tehsil (Part); Narbal Tehsil excluding; Kawoosa Jager PC; Kawoosa Khalisa PC; Budgam Tehsil (Part); Budgam Tehsil excluding; Ichkoot PC; Gudsathoo PC",
+   "party12": "JKNC",
+   "winner_12": "Omar Abdullah",
+   "electors_12": 125855,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Omar Abdullah",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "27": {
+     "pct": 87.9,
+     "basis": "measured"
+    },
+    "28": {
+     "pct": 4.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 28,
+   "name": "Beerwah",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    28,
+    29
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Khan Sahib.",
+   "extent": "Magam Tehsil; Beerwah Tehsil; Narbal Tehsil (Part); Kawoosa Jager PC; Kawoosa Khalisa PC",
+   "party12": "JKNC",
+   "winner_12": "Shafi Ahmad Wani",
+   "electors_12": 98652,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Shafi Ahmad Wani",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 71.5,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 28.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 29,
+   "name": "Khansahib",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    28,
+    29
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Beerwah.",
+   "extent": "Khag Tehsil; Khansahib Tehsil (Part); Khansahib Tehsil excluding; Driygam PC",
+   "party12": "JKNC",
+   "winner_12": "Saif Ud Din Bhat",
+   "electors_12": 94416,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Saif Ud Din Bhat",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 7.5,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 90.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 30,
+   "name": "Chrar-I- Sharief",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    26,
+    29,
+    30
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chadoora, Khan Sahib.",
+   "extent": "Chrar-i-Sharief Tehsil; Khansahib Tehsil (Part); Driygam PC; Chadoora Tehsil (Part); Chadoora Tehsil excluding; Ropora Namtihal PC; Wathoora PC; Bugam Batapora PC; Dawletpora PC; Badipora PC; Yarikalan PC; Municipal Committee Chadoora; Budgam Tehsil (Part); Ichkoot PC; Gudsathoo PC",
+   "party12": "JKNC",
+   "winner_12": "Advocate Abdul Rahim Rather",
+   "electors_12": 104791,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Advocate Abdul Rahim Rather",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "29": {
+     "pct": 0.9,
+     "basis": "measured"
+    },
+    "30": {
+     "pct": 98.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 31,
+   "name": "Chadoora",
+   "district": "Budgam",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    26,
+    30
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chrar-I-Sharief.",
+   "extent": "B.K.Poora Tehsil; Chadoora Tehsil (Part); Ropora Namtihal PC; Wathoora PC; Bugam Batapora PC; Dawletpora PC; Badipora PC; Yarikalan PC; Municipal Committee Chadoora; Assembly Existing & Proposed Seats",
+   "party12": "JKNC",
+   "winner_12": "Ali Mohammad Dar",
+   "electors_12": 88853,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Ali Mohammad Dar",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "26": {
+     "pct": 71.7,
+     "basis": "measured"
+    },
+    "30": {
+     "pct": 17.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 32,
+   "name": "Pampore",
+   "district": "Pulwama",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    32,
+    33
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pulwama.",
+   "extent": "Pampore Tehsil; Kakapora Tehsil; Pampore Municipality; Khrew Muncipality; Pulwama Tehsil (Part); Parigam PC; Tumchi Nowpora PC",
+   "party12": "JKNC",
+   "winner_12": "Hasnain Masoodi",
+   "electors_12": 100428,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Hasnain Masoodi",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "32": {
+     "pct": 78.7,
+     "basis": "measured"
+    },
+    "33": {
+     "pct": 18.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 33,
+   "name": "Tral",
+   "district": "Pulwama",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    31,
+    32
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pampore.",
+   "extent": "Tral Tehsil; Aripal Tehsil; DELIMITED LANDSCAPE; OF UNION TERRITORY; OF16.75; JAMMU & KASHMIR; Tral Municipality; AwantiporaTehsil (Part); Awantipora PC; Noorpora PC; Midoora PC; Awantipora Municipality",
+   "party12": "JKPDP",
+   "winner_12": "Rafiq Ahmad Naik",
+   "electors_12": 98457,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Rafiq Ahmad Naik",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 93.3,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 5.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 34,
+   "name": "Pulwama",
+   "district": "Pulwama",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    31,
+    33,
+    34
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tral, Rajpora.",
+   "extent": "Pulwama Tehsil (Part); Pulwama Tehsil excluding; Kangan PC; Murran PC; Mitrigam PC; Karimabad PC; Bunoora PC; Wahibugh PC; Parigam PC; Tumchi Nowpora PC; Pulwama Municipality; AwantiporaTehsil (Part); Awantipora Tehsil excluding; Awantipora PC; Noorpora PC; Midoora PC",
+   "party12": "JKPDP",
+   "winner_12": "Waheed Ur Rehman Para",
+   "electors_12": 99758,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Waheed Ur Rehman Para",
+     "party": "JKPDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 19.0,
+     "basis": "measured"
+    },
+    "33": {
+     "pct": 45.4,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 20.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 35,
+   "name": "Rajpora",
+   "district": "Pulwama",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    33,
+    34
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pulwama.",
+   "extent": "Shahoora (Litter) Tehsil; Rajpora Tehsil; Pulwama Tehsil (Part); Kangan PC; Murran PC; Mitrigam PC; Karimabad PC; Bunoora PC; Wahibugh PC; Assembly Existing & Proposed Seats",
+   "party12": "JKNC",
+   "winner_12": "Ghulam Mohi Uddin Mir",
+   "electors_12": 109635,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Ghulam Mohi Uddin Mir",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 14.6,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 82.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 36,
+   "name": "Zainapora",
+   "district": "Shopian",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    35,
+    36
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Wachi, Shopian.",
+   "extent": "Zainapora Tehsil; Chitragam Tehsil; Barbugh Imamsahib Tehsil; Hermain Tehsil; Shopian Tehsil (Part); Dangerpora PC; Trenz PC; Kiloora Malikgund PC; Nadigam PC; Ganowpora Arsh PC; Dangam PC; Pratabpora PC; Bemnipora PC; Kaprin PC; Kanjiullar PC",
+   "party12": "JKNC",
+   "winner_12": "Showkat Hussain Ganie",
+   "electors_12": 108582,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Showkat Hussain Ganie",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "35": {
+     "pct": 87.0,
+     "basis": "measured"
+    },
+    "36": {
+     "pct": 10.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 37,
+   "name": "Shopian",
+   "district": "Shopian",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    35,
+    36
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Wachi.",
+   "extent": "Keller Tehsil; Keegam Tehsil; Shopian Tehsil (Part); Shopian Tehsil excluding; Dangerpora PC; Trenz PC; Kiloora Malikgund PC; Nadigam PC; Ganowpora Arsh PC; Dangam PC; Pratabpora PC; Bemnipora PC; Kaprin PC; Kanjiullar PC; DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR; Assembly Existing & Proposed Seats",
+   "party12": "IND",
+   "winner_12": "Shabir Ahmad Kullay",
+   "electors_12": 100615,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Shabir Ahmad Kullay",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "35": {
+     "pct": 3.1,
+     "basis": "measured"
+    },
+    "36": {
+     "pct": 94.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 38,
+   "name": "D. H. Pora",
+   "district": "Kulgam",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Noorabad.",
+   "extent": "D.H. Pora Tehsil; Pahloo Tehsil",
+   "party12": "JKNC",
+   "winner_12": "Sakeena Masood",
+   "electors_12": 99290,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Sakeena Masood",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "37": {
+     "pct": 93.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 39,
+   "name": "Kulgam",
+   "district": "Kulgam",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    38,
+    39,
+    41
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Hom Shali Bugh, Devsar.",
+   "extent": "Kulgam Tehsil; Yaripora Tehsil",
+   "party12": "CPI(M)",
+   "winner_12": "Mohamad Yousuf Tarigami",
+   "electors_12": 117862,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Mohamad Yousuf Tarigami",
+     "party": "CPI(M)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 71.9,
+     "basis": "measured"
+    },
+    "39": {
+     "pct": 14.2,
+     "basis": "measured"
+    },
+    "41": {
+     "pct": 4.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 40,
+   "name": "Devsar",
+   "district": "Kulgam",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    39,
+    41
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Hom Shali Bugh.",
+   "extent": "Qaimoh Tehsil; Frisal Tehsil; Devsar Tehsil; Assembly Existing & Proposed Seats",
+   "party12": "JKNC",
+   "winner_12": "Peerzada Feroze Ahamad",
+   "electors_12": 112835,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Peerzada Feroze Ahamad",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 32.6,
+     "basis": "measured"
+    },
+    "41": {
+     "pct": 40.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 41,
+   "name": "Dooru",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    42,
+    43
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kokernag.",
+   "extent": "Dooru Tehsil; Shahabad Bala Tehsil; Kokernag Tehsil (Part); Bahie PC; Ohi Bumdoora PC; Akingam PC; Sagam PC; Nagam PC",
+   "party12": "INC",
+   "winner_12": "Gulam Ahmad Mir",
+   "electors_12": 117320,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Gulam Ahmad Mir",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "42": {
+     "pct": 52.3,
+     "basis": "measured"
+    },
+    "43": {
+     "pct": 46.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 42,
+   "name": "Kokernag(St) (St)",
+   "district": "Anantnag",
+   "type": "ST",
+   "status": "renamed",
+   "src": [
+    43,
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Kokernag.",
+   "extent": "Larnoo Tehsil; Kokernag Tehsil (Part); Kokernag Tehsil excluding; Bahie PC; Ohi Bumdoora PC; Akingam PC; Sagam PC; Nagam PC; Shangus Tehsil (Part); Chaklipora PC; Chittergul PC; Uttrusoo PC",
+   "party12": "JKNC",
+   "winner_12": "Zafar Ali Khatana",
+   "electors_12": 91504,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Zafar Ali Khatana",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 78.2,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 19.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 43,
+   "name": "Anantnag West",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    40,
+    41,
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Anantnag, Devsar, Shangus.",
+   "extent": "Qazigund Tehsil; Anantnag Tehsil (Part); Khanabal PC; Ruhoo PC; Urhanhall PC; L.G. pora PC; Khandipahari PC; K.G. Raina PC; Nipora PC; Hurdischan PC; Kamad PC; Shaibabad; Imoh PC",
+   "party12": "JKNC",
+   "winner_12": "Abdul Majeed Bhat",
+   "electors_12": 126483,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Abdul Majeed Bhat",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 56.5,
+     "basis": "measured"
+    },
+    "41": {
+     "pct": 12.2,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 19.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 44,
+   "name": "Anantnag",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    40,
+    44,
+    45
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Shangus, Bijbehara.",
+   "extent": "Anantnag Tehsil (Part); Anantnag Tehsil excluding; Khanabal PC; Ruhoo PC; Urhanhall PC; L.G. pora PC; Khandipahari PC; K.G. Raina PC; Nipora PC; Hurdischan PC; Kamad PC; Shaibabad; Imoh PC",
+   "party12": "INC",
+   "winner_12": "Peerzada Mohammad Syed",
+   "electors_12": 61318,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Peerzada Mohammad Syed",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 37.1,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 46.6,
+     "basis": "measured"
+    },
+    "45": {
+     "pct": 16.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 45,
+   "name": "Srigufwara - Bijbehara",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    45
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Bijbehara.",
+   "extent": "Bijbehara Tehsil; Srigufwara Tehsil",
+   "party12": "JKNC",
+   "winner_12": "Bashir Ahmad Shah Veeri",
+   "electors_12": 102295,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Bashir Ahmad Shah Veeri",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "45": {
+     "pct": 76.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 46,
+   "name": "Shangus - Anantnag East",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Shangus.",
+   "extent": "Anantnag East Tehsil; Shangus Tehsil (Part); Shangus Tehsil excluding; Chaklipora PC; Chittergul PC; Uttrusoo PC",
+   "party12": "JKNC",
+   "winner_12": "Reyaz Ahmad Khan",
+   "electors_12": 101707,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Reyaz Ahmad Khan",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "44": {
+     "pct": 67.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 47,
+   "name": "Pahalgam",
+   "district": "Anantnag",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    46
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Pahalgam Tehsil; Sallar Tehsil; Assembly Existing & Proposed Seats",
+   "party12": "JKNC",
+   "winner_12": "Altaf Ahmad Wani",
+   "electors_12": 69696,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Altaf Ahmad Wani",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 99.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 48,
+   "name": "Inderwal",
+   "district": "Kishtwar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    51,
+    52
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kishtwar.",
+   "extent": "Bounjwah Teshil; Chhatroo Tehsil; Marwah Tehsil; Warwan Tehsil; Kishtwar Tehsil (Part); Keshwan PC; Mughalmaidan Tehsil (Part); Mughalmaidan Tehsil excluding; Mulchiter PC; Drabshalla Tehsil (Part); Balgran PC",
+   "party12": "IND",
+   "winner_12": "Payare Lal Sharma",
+   "electors_12": 64207,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Payare Lal Sharma",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 72.3,
+     "basis": "measured"
+    },
+    "52": {
+     "pct": 26.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 49,
+   "name": "Kishtwar",
+   "district": "Kishtwar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    51,
+    52
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Inderwal.",
+   "extent": "Dachhan Tehsil; Drabshalla Tehsil (Part); Drabshalla Tehsil excluding; Balgran PC; Kishtwar Tehsil (Part); Kishtwar Tehsil excluding; Dool PC; Pochhal PC; Keshwan PC; Mughalmaidan Tehsil (Part); Mulchiter PC",
+   "party12": "BJP",
+   "winner_12": "Shagun Parihar",
+   "electors_12": 75187,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Shagun Parihar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 80.1,
+     "basis": "measured"
+    },
+    "52": {
+     "pct": 19.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 50,
+   "name": "Padder - Nagseni",
+   "district": "Kishtwar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    51
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Kishtwar.",
+   "extent": "Atholi Teshil; Nagseni Teshil; Machail Teshil; Kishtwar Tehsil (Part); Dool PC; Pochhal PC; DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR; Assembly Existing & Proposed Seats",
+   "party12": "BJP",
+   "winner_12": "Sunil Kumar Sharma",
+   "electors_12": 40910,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Sunil Kumar Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 99.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 51,
+   "name": "Bhadarwah",
+   "district": "Doda",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    54
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Bhaderwah.",
+   "extent": "Bhadarwah Tehsil; Chiralla Tehsil; Bhella Tehsil; Bhalla Tehsil; Kahara Tehsil (Part); Joura PC; Bhalesa Tehsil (Part); Bhalesa Tehsil excluding; Chilly PC; Thathri Tehsil (Part); Thathri Tehsil excluding; Janglawar Partially PC",
+   "party12": "BJP",
+   "winner_12": "Daleep Singh",
+   "electors_12": 125983,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Daleep Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "54": {
+     "pct": 90.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 52,
+   "name": "Doda",
+   "district": "Doda",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    52,
+    53,
+    54
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Inderwal, Bhaderwah.",
+   "extent": "Chilly Pingal Tehsil; Gundna Tehsil; Phigsoo Tehsil; Mohalla Tehsil; Bharath Bagla Tehsil; Doda Tehsil (Part); Doda PC; Arnora PC; Dhar PC; Doda Municipality; Udhyanpur (Partially) PC; Dhara PC; Thathri Tehsil (Part); Janglawar (Partially) PC; Kahara Tehsil (Part); Kahara Tehsil excluding; Joura PC; Bhalesa Tehsil (Part); Chilly PC",
+   "party12": "AAP",
+   "winner_12": "Mehraj Malik",
+   "electors_12": 99026,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Mehraj Malik",
+     "party": "AAP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 23.7,
+     "basis": "measured"
+    },
+    "53": {
+     "pct": 64.8,
+     "basis": "measured"
+    },
+    "54": {
+     "pct": 7.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 53,
+   "name": "Doda West",
+   "district": "Doda",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    53,
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Doda, Ramban.",
+   "extent": "Marmat Tehsil; Assar Tehsil; KastigarhTehsil; Bhagwah Tehsil; Doda Tehsil (Part); Doda Tehsil excluding; Doda PC; Arnora PC; Dhar PC; Doda Municipality; Udhyanpur (Partially) PC; Dhara PC; Assembly Existing & Proposed Seats",
+   "party12": "BJP",
+   "winner_12": "Shakti Raj Parihar",
+   "electors_12": 88023,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Shakti Raj Parihar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 41.7,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 54.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 54,
+   "name": "Ramban",
+   "district": "Ramban",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    55,
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Banihal.",
+   "extent": "Batote Tehsil; Rajgarh Tehsil; Ukhral Tehsil (Part); Ukhral Tehsil excluding; Pogal PC; Ramban Tehsil (Part); Ramban Tehsil excluding; Somber- Harog PC",
+   "party12": "JKNC",
+   "winner_12": "Arjun Singh Raju",
+   "electors_12": 98541,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Arjun Singh Raju",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 81.9,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 14.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 55,
+   "name": "Banihal",
+   "district": "Ramban",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    55,
+    56,
+    59
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ramban, Gool Arnas.",
+   "extent": "Banihal Tehsil; Khari Tehsil; Ramsoo Tehsil; Gool Tehsil; Ukhral Tehsil (Part); Pogal PC; DELIMITED LANDSCAPE 658UNION TERRITORY; JAMMU & KASHMIR; Ramban Tehsil (Part); Somber- Harog PC",
+   "party12": "JKNC",
+   "winner_12": "Sajad Shaheen",
+   "electors_12": 126315,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Sajad Shaheen",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 25.4,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 62.3,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 12.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 56,
+   "name": "Gulabgarh(St) (St)",
+   "district": "Reasi",
+   "type": "ST",
+   "status": "renamed",
+   "src": [
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Gulab Garh.",
+   "extent": "MahoreTehsil; Chassana Tehsil; Thuroo Tehsil (Part); Thuroo Tehsil excluding; Kanthi PC",
+   "party12": "JKNC",
+   "winner_12": "Khurshied Ahmed",
+   "electors_12": 95570,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Khurshied Ahmed",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 86.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 57,
+   "name": "Reasi",
+   "district": "Reasi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    57,
+    58,
+    59
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gulab Garh, Gool Arnas.",
+   "extent": "Pouni Tehsil; Thakrakote Tehsil; Arnas Tehsil; Reasi Tehsil (Part); Reasi Tehsil excluding; Bhabber Brahmana PC; Bhaga Kotli PC; Kotli Bajalian PC; Thuroo Tehsil (Part); Kanthi PC",
+   "party12": "BJP",
+   "winner_12": "Kuldeep Raj Dubey",
+   "electors_12": 86246,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Kuldeep Raj Dubey",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 13.9,
+     "basis": "measured"
+    },
+    "58": {
+     "pct": 40.8,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 44.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 58,
+   "name": "Shri Mata Vaishno Devi",
+   "district": "Reasi",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    58
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Reasi.",
+   "extent": "Katra Tehsil; Bhomag Tehsil; Reasi Tehsil (Part); Bhabber Brahmana PC; Bhaga Kotli PC; Kotli Bajalian PC; DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR; Assembly Existing & Proposed Seats",
+   "party12": "BJP",
+   "winner_12": "Baldev Raj Sharma",
+   "electors_12": 56783,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Baldev Raj Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "58": {
+     "pct": 97.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 59,
+   "name": "Udhampur West",
+   "district": "Udhampur",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    58,
+    60,
+    61
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Reasi.",
+   "extent": "Moungri Tehsil; Panchari Tehsil; Udhampur Tehsil (Part); Sambal PC; Barrian PC; Jib PC; Rehmbal PC; Padanoo PC; Barolla PC; Hartarian PC; Muttal PC; Chak Rakhwalan PC; Mali PC; Bishal Jattan PC; Udhampur Municipal Council; Mansar PC; Krimchi PC; Tirshi PC; Debriah PC; Samundrani PC; Chakher PC; Sial Jattan PC; Kotli Jijan PC; Mangiote PC; Tope PC; Sangoor PC; Sansoo PC",
+   "party12": "BJP",
+   "winner_12": "Pawan Kumar Gupta",
+   "electors_12": 117010,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Pawan Kumar Gupta",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "58": {
+     "pct": 57.3,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 31.2,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 11.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 60,
+   "name": "Udhampur East",
+   "district": "Udhampur",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    60,
+    61,
+    62,
+    68
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Udhampur, Chenani, Ram Nagar, Samba.",
+   "extent": "Majalta Tehsil; Udhampur Tehsil (Part); Udhampur Tehsil excluding; Sambal PC; Barrian PC; Jib PC; Rehmbal PC; Padanoo PC; Barolla PC; Hartarian PC; Muttal PC; Chak Rakhwalan PC; Mali PC; Bishal Jattan PC; Udhampur Municipal Council; Mansar PC; Krimchi PC; Tirshi PC; Debriah PC; Samundrani PC; Chakher PC; Sial Jattan PC; Kotli Jijan PC; Mangiote PC; Tope PC; Sangoor PC; Sansoo PC; Bali PC; Manta PC; Ladha PC; Samroli PC; Chirdi PC; Jakhain PC; Ossu PC; Pakhlai PC; Omala PC; Laddan PC; Ramnagar Tehsil (Part); Kogarmarh PC",
+   "party12": "BJP",
+   "winner_12": "Ranbir Singh Pathania",
+   "electors_12": 102054,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Ranbir Singh Pathania",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "60": {
+     "pct": 26.4,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 6.5,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 64.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 61,
+   "name": "Chenani",
+   "district": "Udhampur",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    60,
+    61,
+    62
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Udhampur, Ram Nagar.",
+   "extent": "Chenani Tehsil; Latti Tehsil (Part); Pachound PC; Latti PC; Sira PC; Ramnagar Tehsil (Part); Ghordi PC; Nallah Ghouran PC; DELIMITED LANDSCAPE 245UNION TERRITORY; JAMMU & KASHMIR; Hartaryan PC; Dhandhal PC; Barmeen PC; Udhampur Tehsil (Part); Bali PC; Manta PC; Ladha PC; Samroli PC; Chirdi PC; Jakhain PC; Ossu PC; Pakhlai PC; Omala PC; Laddan PC; Kogarmarh PC",
+   "party12": "BJP",
+   "winner_12": "Balwant Singh Mankotia",
+   "electors_12": 110037,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Balwant Singh Mankotia",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "60": {
+     "pct": 15.6,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 66.5,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 14.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 62,
+   "name": "Ramnagar(Sc) (Sc)",
+   "district": "Udhampur",
+   "type": "SC",
+   "status": "renamed",
+   "src": [
+    61,
+    62
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Chenani.",
+   "extent": "Basantgarh Tehsil; RamnagarTehsil (Part); Ramnagar Tehsil excluding; Ghordi PC; Nallah Ghouran PC; Hartaryan PC; Dhandhal PC; Kogarmarh PC; Barmeen PC; Latti Tehsil (Part); Latti Tehsil excluding; Pachound PC; Latti PC; Sira PC; DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR; Assembly Existing & Proposed Seats",
+   "party12": "BJP",
+   "winner_12": "Sunil Bhardwaj",
+   "electors_12": 97662,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Sunil Bhardwaj",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "61": {
+     "pct": 5.1,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 93.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 63,
+   "name": "Bani",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    63
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Bani Tehsil; Lohai Malhar Tehsil",
+   "party12": "IND",
+   "winner_12": "Dr Rameshwar Singh",
+   "electors_12": 58179,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Dr Rameshwar Singh",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 91.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 64,
+   "name": "Billawar",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    64,
+    66
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Basohli.",
+   "extent": "Billawar Tehsil; Ramkot Tehsil",
+   "party12": "BJP",
+   "winner_12": "Satish Kumar Sharma",
+   "electors_12": 96211,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Satish Kumar Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 13.6,
+     "basis": "measured"
+    },
+    "66": {
+     "pct": 80.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 65,
+   "name": "Basohli",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Basohli Tehsil; Mahanpur Tehsil; Kathua Tehsil (Part); Basantpur PC; Thein PC",
+   "party12": "BJP",
+   "winner_12": "Darshan Kumar",
+   "electors_12": 70182,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Darshan Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 99.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 66,
+   "name": "Jasrota",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    64,
+    65,
+    66,
+    67
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Basohli, Kathua, Billawar, Hira Nagar.",
+   "extent": "Dinga Amb Tehsil; Kathua Tehsil (Part); Barwal PC; Bhurthain PC; Budhi PC; Chak Sakta PC; Forelain PC; Hatli PC; Juthana PC; Kathera PC; Logate PC; Nanan PC; Phalote PC; Tarharah PC; Tridwan PC; Marheen Tehsil (Part); Amala PC; Balhar PC; Bann PC; Chhan Rorian PC; Dhamal PC; Hamirpur PC; Jogial PC; Kishanpur Kandi PC; Muthi Hardo PC; Seswan PC",
+   "party12": "BJP",
+   "winner_12": "Rajiv Jasrotia",
+   "electors_12": 90066,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Rajiv Jasrotia",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 9.6,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 57.7,
+     "basis": "measured"
+    },
+    "66": {
+     "pct": 26.3,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 6.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 67,
+   "name": "Kathua(Sc) (Sc)",
+   "district": "Kathua",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    64,
+    65
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Basohli, Kathua.",
+   "extent": "Nagri Tehsil; Kathua Tehsil (Part); Kathua Tehsil excluding; Barwal PC; Bhurthain PC; Budhi PC; Chak Sakta PC; Forelain PC; Hatli PC; Juthana PC; Kathera PC; Logate PC; Nanan PC; Phalote PC; Tarharah PC; Tridwan PC; Basantpur PC; Thein PC",
+   "party12": "BJP",
+   "winner_12": "Dr. Bharat Bhushan",
+   "electors_12": 110873,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Dr. Bharat Bhushan",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 4.6,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 94.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 68,
+   "name": "Hiranagar",
+   "district": "Kathua",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    66,
+    67
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Billawar.",
+   "extent": "Hiranagar Tehsil; Marheen Tehsil (Part); Marheen Tehsil excluding; Amala PC; Balhar PC; Bann PC; Chhan Rorian PC; Dhamal PC; Hamirpur PC; Jogial PC; Kishanpur Kandi PC; Muthi Hardo PC; Seswan PC; Assembly Existing & Proposed Seats",
+   "party12": "BJP",
+   "winner_12": "Vijay Kumar",
+   "electors_12": 91832,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Vijay Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 13.3,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 85.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 69,
+   "name": "Ramgarh(Sc) (Sc)",
+   "district": "Samba",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    67,
+    68,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Hira Nagar, Samba, Vijay Pur.",
+   "extent": "Ramgarh Tehsil; Rajpura Tehsil; Samba Tehsil (Part); Katli PC; Ramnagar PC; Pangdour PC",
+   "party12": "BJP",
+   "winner_12": "Dr Devinder Kumar Manyal",
+   "electors_12": 92549,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Dr Devinder Kumar Manyal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "67": {
+     "pct": 29.2,
+     "basis": "measured"
+    },
+    "68": {
+     "pct": 19.9,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 48.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 70,
+   "name": "Samba",
+   "district": "Samba",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    67,
+    68,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Hira Nagar, Vijay Pur.",
+   "extent": "Ghagwal Tehsil; Samba Tehsil (Part); Samba Tehsil excluding; Katli PC; Ramnagar PC; Pangdour PC; Vijaypur Tehsil (Part); Dagore PC; Gurha Slathian PC",
+   "party12": "BJP",
+   "winner_12": "Surjeet Singh Slathia",
+   "electors_12": 95131,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Surjeet Singh Slathia",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "67": {
+     "pct": 16.3,
+     "basis": "measured"
+    },
+    "68": {
+     "pct": 66.5,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 8.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 71,
+   "name": "Vijaypur",
+   "district": "Samba",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    68,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Samba.",
+   "extent": "Bari Brahmna Tehsil; Vijaypur Tehsil (Part); Vijaypur Tehsil excluding; Dagore PC; Gurha Slathian PC; Assembly Existing & Proposed Seats",
+   "party12": "BJP",
+   "winner_12": "Chander Parkash",
+   "electors_12": 83312,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Chander Parkash",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "68": {
+     "pct": 44.5,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 52.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 72,
+   "name": "Bishnah(Sc) (Sc)",
+   "district": "Jammu",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    74,
+    75
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Bishnah, Ranbir Singh Pura.",
+   "extent": "Bishnah Tehsil; Arnia Tehsil; R.S. Pura Tehsil (Part); Maralian. PC",
+   "party12": "BJP",
+   "winner_12": "Rajeev Kumar",
+   "electors_12": 124516,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Rajeev Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "74": {
+     "pct": 95.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 73,
+   "name": "Suchetgarh(Sc) (Sc)",
+   "district": "Jammu",
+   "type": "SC",
+   "status": "renamed",
+   "src": [
+    75,
+    76
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Ranbir Singh Pura.",
+   "extent": "Suchetgarh Tehsil; R.S. Pura Tehsil (Part); R.S. Pura Tehsil excluding; Maralian. PC; Darsopur PC; R.S. Pura Khas PC; Municipal Commiittee RS Pura; Kotli Shah Daula PC",
+   "party12": "BJP",
+   "winner_12": "Gharu Ram",
+   "electors_12": 118022,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Gharu Ram",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "75": {
+     "pct": 25.1,
+     "basis": "measured"
+    },
+    "76": {
+     "pct": 72.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 74,
+   "name": "R. S. Pura- Jammu South",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    71,
+    75
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Gandhi Nagar, Ranbir Singh Pura.",
+   "extent": "Jammu South Tehsil (Part); Gadigarh PC; Satwari PC; Hakkal (Partly) PC; Khandwal (Partly) PC; Digiana PC; Jammu Municipal Corporation (Part); WARD NO.- 22; WARD NO.- 23; WARD NO.-55; WARD NO.-56; WARD NO.-57; WARD NO.-58; WARD NO.-73; Bahu Tehsil (Part); Chowadi PC; WARD NO.-68; WARD NO.-69; DELIMITED LANDSCAPE OF UNION TERRITORY OF JAMMU & KASHMIR; WARD NO.-70; R.S. Pura Tehsil (Part); Darsopur PC; R.S. Pura Khas PC; Municipal Commiittee RS Pura; Kotli Shah Daula PC",
+   "party12": "BJP",
+   "winner_12": "Dr. Narinder Singh Raina",
+   "electors_12": 131731,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Dr. Narinder Singh Raina",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "71": {
+     "pct": 53.9,
+     "basis": "measured"
+    },
+    "75": {
+     "pct": 23.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 75,
+   "name": "Bahu",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    69,
+    71,
+    72
+   ],
+   "lineage_basis": "geometric",
+   "note": "Created in 2022, built from the former Vijay Pur, Gandhi Nagar, Jammu East. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Bahu Tehsil (Part); Bahu PC; Sunjwan PC; Bahu (Partly) PC; Jammu Municipal Corporation; WARD NO.-20; WARD NO.-21; WARD NO.-42; WARD NO.-43; WARD NO.-44; WARD NO.-47; WARD NO.-48; WARD NO.-49; WARD NO.-50; WARD NO.-51; WARD NO.-52; WARD NO.-53; WARD NO.-54; WARD NO.-74; Jammu South Tehsil (Part); WARD NO.-45; WARD NO.-46; Jammu Cantt.",
+   "party12": "BJP",
+   "winner_12": "Vikram Randhawa",
+   "electors_12": 121428,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Vikram Randhawa",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "69": {
+     "pct": 57.2,
+     "basis": "measured"
+    },
+    "71": {
+     "pct": 19.8,
+     "basis": "measured"
+    },
+    "72": {
+     "pct": 10.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 76,
+   "name": "Jammu East",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    70,
+    72
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Nagrota. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Jammu Tehsil (Part); Bain Bajal PC; Aitham PC; Nagrota Tehsil (Part); Jagti PC; Jammu Municipal Corp. (Part); WARD NO.-01; WARD NO.-02; WARD NO.-03; WARD NO.-04; WARD NO.-05; WARD NO.-06; WARD NO.-07; WARD NO.-08; WARD NO.-09; WARD NO.-10; WARD NO.-11; WARD NO.-14; WARD NO.-15; WARD NO.-16; WARD NO.-17; WARD NO.-18; WARD NO.-19; WARD NO.-71",
+   "party12": "BJP",
+   "winner_12": "Yudhvir Sethi",
+   "electors_12": 107430,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Yudhvir Sethi",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "70": {
+     "pct": 76.5,
+     "basis": "measured"
+    },
+    "72": {
+     "pct": 9.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 77,
+   "name": "Nagrota",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    70,
+    78
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Raipur Domana.",
+   "extent": "Dansal Tehsil; Bhalwal Tehsil (Part); Bhalwal Tehsil excluding; Bhalwal (Partly) PC; Kote PC; Nagrota Tehsil (Part); NagrotaTehsil excluding; Jagti PC; Jammu Tehsil (Part); Surinsar PC; Sagoon PC; Pounthal PC",
+   "party12": "BJP",
+   "winner_12": "Devender Singh Rana",
+   "electors_12": 97603,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Devender Singh Rana",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "70": {
+     "pct": 68.1,
+     "basis": "measured"
+    },
+    "78": {
+     "pct": 28.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 78,
+   "name": "Jammu West",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    73,
+    77
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Marh. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Jammu Tehsil (Part); Jammu Municipal Corp.; WARD NO.-12; WARD NO.-13; WARD NO.-24; WARD NO.-25; WARD NO.-26; WARD NO.-27; WARD NO.-28; WARD NO.-29; WARD NO.-30; WARD NO.-31; WARD NO.-32; WARD NO.-33; WARD NO.-39; WARD NO.-40; WARD NO.-41; Jammu West Tehsil (Part); Mandal (Partly) PC; Gole PC",
+   "party12": "BJP",
+   "winner_12": "Arvind Gupta",
+   "electors_12": 106580,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Arvind Gupta",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "73": {
+     "pct": 55.2,
+     "basis": "measured"
+    },
+    "77": {
+     "pct": 33.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 79,
+   "name": "Jammu North",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    78
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Raipur Domana.",
+   "extent": "Jammu North Tehsil; Including JMC Ward No.,37, 38, 59 to 67; Jammu Tehsil (Part); WARD NO.-34; WARD NO.-35; WARD NO.-36; Bhalwal Tehsil (Part); Bhalwal (Partly) PC; Kote PC",
+   "party12": "BJP",
+   "winner_12": "Sham Lal Sharma",
+   "electors_12": 112896,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Sham Lal Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "78": {
+     "pct": 92.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 80,
+   "name": "Marh(Sc) (Sc)",
+   "district": "Jammu",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    77
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Marh.",
+   "extent": "Mandal Tehsil; Marh Tehsil including JMC; Ward No.,72, 75; Jammu West Tehsil (Part); Badhrore PC",
+   "party12": "BJP",
+   "winner_12": "Surinder Kumar",
+   "electors_12": 96054,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Surinder Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "77": {
+     "pct": 90.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 81,
+   "name": "Akhnoor(Sc) (Sc)",
+   "district": "Jammu",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    79,
+    80
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Akhnoor, Chhamb.",
+   "extent": "Akhnoor Tehsil; Pargwal Tehsil; Jourian Tehsil",
+   "party12": "BJP",
+   "winner_12": "Mohan Lal",
+   "electors_12": 98658,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Mohan Lal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "79": {
+     "pct": 81.5,
+     "basis": "measured"
+    },
+    "80": {
+     "pct": 17.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 82,
+   "name": "Chhamb",
+   "district": "Jammu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    79,
+    80
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Akhnoor.",
+   "extent": "Khour Tehsil; Kharah Balli Tehsil; Maira Mandrian Tehsil; Chowki Choura Tehsil; Assembly Existing & Proposed Seats",
+   "party12": "IND",
+   "winner_12": "Satish Sharma",
+   "electors_12": 110285,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Satish Sharma",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "79": {
+     "pct": 28.5,
+     "basis": "measured"
+    },
+    "80": {
+     "pct": 53.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 83,
+   "name": "Kalakote - Sunderbani",
+   "district": "Rajouri",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    81,
+    84
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Nowshera, Kala Kote.",
+   "extent": "Sunderbani Tehsil; Kalakote Tehsil; Taryath Tehsil; Siot Tehsil",
+   "party12": "BJP",
+   "winner_12": "Randhir Singh",
+   "electors_12": 99788,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Randhir Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "81": {
+     "pct": 26.8,
+     "basis": "measured"
+    },
+    "84": {
+     "pct": 72.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 84,
+   "name": "Nowshera",
+   "district": "Rajouri",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    81
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Qila Darhal Tehsil; Beri Pattan Tehsil; Nowshera Tehsil",
+   "party12": "JKNC",
+   "winner_12": "Surinder Kumar Choudhary",
+   "electors_12": 89255,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Surinder Kumar Choudhary",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "81": {
+     "pct": 63.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 85,
+   "name": "Rajouri(St) (St)",
+   "district": "Rajouri",
+   "type": "ST",
+   "status": "new",
+   "src": [
+    82,
+    83,
+    84
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Darhal, Rajouri, Kala Kote.",
+   "extent": "Rajouri Tehsil (Part); Rajouri Tehsil excluding; Sohna PC; Fatehpur PC",
+   "party12": "INC",
+   "winner_12": "Iftkar Ahmed",
+   "electors_12": 90791,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Iftkar Ahmed",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "82": {
+     "pct": 10.9,
+     "basis": "measured"
+    },
+    "83": {
+     "pct": 51.9,
+     "basis": "measured"
+    },
+    "84": {
+     "pct": 33.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 86,
+   "name": "Budhal(St) (St)",
+   "district": "Rajouri",
+   "type": "ST",
+   "status": "new",
+   "src": [
+    82
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Darhal.",
+   "extent": "Koteranka Tehsil; Khawas Tehsil",
+   "party12": "JKNC",
+   "winner_12": "Javaid Iqbal",
+   "electors_12": 96420,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Javaid Iqbal",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "82": {
+     "pct": 83.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 87,
+   "name": "Thannamandi(St) (St)",
+   "district": "Rajouri",
+   "type": "ST",
+   "status": "new",
+   "src": [
+    82,
+    83
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Darhal, Rajouri.",
+   "extent": "Thannamandi Tehsil; Darhal; DELIMITED LANDSCAPE OF UNION TERRITORY; OF JAMMU; Manjakote Tehsil; Rajouri Tehsil (Part); Sohna PC; Fatehpur PC; Rajouri Tehsil excluding; Koteranka Tehsil; Khawas Tehsil; Darhal Tehsil; Assembly Existing & Proposed Seats",
+   "party12": "IND",
+   "winner_12": "Muzaffar Iqbal Khan",
+   "electors_12": 124168,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Muzaffar Iqbal Khan",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "82": {
+     "pct": 23.1,
+     "basis": "measured"
+    },
+    "83": {
+     "pct": 71.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 88,
+   "name": "Surankote(St) (St)",
+   "district": "Poonch",
+   "type": "ST",
+   "status": "renamed",
+   "src": [
+    85,
+    87
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Surankote.",
+   "extent": "Surankote Tehsil; Haveli Tehsil (Part); Khaneter PC; Seri Khawaja PC; Shiendhara PC",
+   "party12": "IND",
+   "winner_12": "Choudhary Mohammed Akram",
+   "electors_12": 113956,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Choudhary Mohammed Akram",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "85": {
+     "pct": 99.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 89,
+   "name": "Poonch Haveli",
+   "district": "Poonch",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    85,
+    87
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Surankote.",
+   "extent": "Mandi Tehsil; Haveli Tehsil (Part); Haveli Tehsil excluding; Khaneter PC; Seri Khawaja PC; Shiendhara PC",
+   "party12": "JKNC",
+   "winner_12": "Ajaz Ahmed Jan",
+   "electors_12": 130102,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Ajaz Ahmed Jan",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "85": {
+     "pct": 2.1,
+     "basis": "measured"
+    },
+    "87": {
+     "pct": 96.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 90,
+   "name": "Mendhar(St) (St)",
+   "district": "Poonch",
+   "type": "ST",
+   "status": "new",
+   "src": [
+    86
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2022, built from the former Mendhar.",
+   "extent": "Balakote Tehsil; Mankote Tehsil; Mendhar Tehsil",
+   "party12": "JKNC",
+   "winner_12": "Javed Ahmed Rana",
+   "electors_12": 111252,
+   "elections": [
+    {
+     "year": 2024,
+     "winner": "Javed Ahmed Rana",
+     "party": "JKNC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "86": {
+     "pct": 73.7,
+     "basis": "measured"
+    }
+   }
+  }
+ ],
+ "party_overlay": {
+  "old": {
+   "JKPDP": 28,
+   "BJP": 25,
+   "JKNC": 15,
+   "INC": 9,
+   "JKPC": 2,
+   "IND": 2,
+   "JKPDF": 1,
+   "CPI(M)": 1
+  },
+  "new": {
+   "JKNC": 42,
+   "BJP": 29,
+   "IND": 7,
+   "INC": 6,
+   "JKPDP": 3,
+   "JKPC": 1,
+   "CPI(M)": 1,
+   "AAP": 1
+  },
+  "parties": [
+   "AAP",
+   "BJP",
+   "CPI(M)",
+   "INC",
+   "IND",
+   "JKNC",
+   "JKPC",
+   "JKPDF",
+   "JKPDP"
+  ]
+ },
+ "sources": [
+  "Jammu and Kashmir Reorganisation Act, 2019, Third Schedule: amendments to the Delimitation of Assembly Constituencies Order, 1995",
+  "Delimitation Commission for the Union Territory of Jammu and Kashmir, final order of 5 May 2022, made under the Delimitation Act, 2002 and Part V of the Jammu and Kashmir Reorganisation Act, 2019",
+  "Election Commission of India, statistical report on the 2014 general election to the Jammu and Kashmir Legislative Assembly",
+  "Election Commission of India, detailed results for the 2024 general election to the Jammu and Kashmir Legislative Assembly",
+  "Election Commission of India, constituency-level results, 1996–2024",
+  "Pre-2022 constituency geometry: third-party digitisation (skthewimp/india-constituency-maps)"
+ ],
+ "map_caveats": [
+  "This is the only state in the archive whose two maps are not the 1976 and 2008 delimitation orders. The 2008 order did not extend to Jammu and Kashmir, whose assembly constituencies were drawn under the state's own law until 2019. The comparison here is between the 1995 order as amended in 2019 and the 2022 order of the Delimitation Commission.",
+  "The pre-2022 map is shown with 83 seats. The 1995 order provided 87, of which four were in Ladakh: Nubra, Leh, Kargil and Zanskar. Ladakh became a separate union territory in 2019 and those seats ceased to form part of the Jammu and Kashmir assembly. They have been removed here so that the two maps cover the same ground, but no election was ever held on an 83-seat map: all four elections shown on this side, from 1996 to 2014, were contested across 87 seats. Seat numbers on the pre-2022 side are those used at those elections, which is why they run to 87 with four numbers absent.",
+  "Territory lineage is given for all seats in both orders, on two footings, and each seat record states which applies to it. For 73 of the 83 pre-2022 seats the link is derived from the text of the 2019 schedule and the 2022 order, which describe constituencies in the same vocabulary of tehsils and patwar circles. For the remaining ten the successor shown is the one holding the largest share of the old seat's area, inferred from the boundaries alone.",
+  "The two mapped layers come from different sources and have not been adjusted to fit one another. Their outlines agree to an intersection-over-union of 0.92, and testing showed no translation or scaling that improved on that, so the difference is taken to be digitisation rather than misregistration.",
+  "Reservation status is taken from the statutory text rather than from the constituency geometry, whose reservation field is empty for both layers. The 2019 schedule marks seven Scheduled Caste seats on the pre-2022 map; the 2022 order provides seven Scheduled Caste and nine Scheduled Tribe seats, the first time tribal seats have been reserved in the territory.",
+  "Territory percentages are measured from the mapped boundaries in every case, and are areal shares, not shares of the electorate.",
+  "Both maps cover only the territory under Indian administration, as the source digitisations do. Areas claimed but not administered are not shown, and no view is expressed here on the status of any boundary.",
+  "Both maps are grouped by the twenty districts of the 2022 order. The pre-2022 digitisation carried no district field, only parliamentary constituencies, so each pre-2022 seat is grouped by the district its territory mostly falls within."
+ ],
+ "footnotes": [
+  "The 1995 order was made by a commission under Justice K. K. Gupta while the state was under President's rule, using the 1981 census; no census was held in Jammu and Kashmir in 1991.",
+  "The 2022 order added seven seats, six in the Jammu division and one in the Kashmir division, taking the assembly from 83 effective seats to 90.",
+  "Reservation status reflects the category in force at the time of the relevant order, not any later reclassification."
+ ]
+}
