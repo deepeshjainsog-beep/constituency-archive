@@ -26962,7 +26962,8 @@
   "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
   "Election Commission of India, statistical report on the 2003 general election to the Madhya Pradesh Legislative Assembly",
   "Election Commission of India, statistical report on the 2008 general election to the Madhya Pradesh Legislative Assembly",
-  "Election Commission of India, constituency-level results, 1980–2023"
+  "Election Commission of India, constituency-level results, 1980–2023",
+  "Constituency geometry: third-party digitisation (skthewimp/india-constituency-maps)"
  ],
  "map_caveats": [
   "The pre-2008 boundaries published here have been georectified. The source digitisation was displaced by roughly six kilometres relative to the post-2008 layer, with no scale error. The correction was fitted on the outer boundary of the state, which is unchanged between the two orders, and raises the agreement between the two outlines from an intersection-over-union of 0.91 to 0.98. Tested against the constituencies that kept their names across the redraw, none of which was used to fit it, average overlap rises from forty-two to fifty-one per cent. Readers comparing these boundaries against the source digitisation should expect them to differ, by design.",
