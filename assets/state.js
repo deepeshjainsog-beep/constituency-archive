@@ -17,6 +17,10 @@
   /* ---- Party colours ---- */
   const PARTY = {
     SAD:   { full: "Shiromani Akali Dal",            c: "oklch(0.5 0.14 265)" },
+    AAP:   { full: "Aam Aadmi Party",                 c: "oklch(0.62 0.15 195)" },
+    "JD(S)": { full: "Janata Dal (Secular)",          c: "oklch(0.70 0.12 88)" },
+    "JD(U)": { full: "Janata Dal (United)",           c: "oklch(0.64 0.13 78)" },
+    LJP:   { full: "Lok Janshakti Party",             c: "oklch(0.60 0.14 330)" },
     BJP:   { full: "Bharatiya Janata Party",          c: "oklch(0.72 0.16 55)"  },
     INC:   { full: "Indian National Congress",        c: "oklch(0.66 0.11 230)" },
     BSP:   { full: "Bahujan Samaj Party",             c: "oklch(0.55 0.17 290)" },
