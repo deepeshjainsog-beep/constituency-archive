@@ -62,7 +62,8 @@
             "slug": "himachal-pradesh",
             "name": "Himachal Pradesh",
             "kind": "state",
-            "status": "coming-soon"
+            "status": "live",
+            "last_updated": "13 September 2026"
         },
         {
             "slug": "jammu-kashmir",
@@ -199,7 +200,8 @@
             "slug": "uttarakhand",
             "name": "Uttarakhand",
             "kind": "state",
-            "status": "coming-soon"
+            "status": "live",
+            "last_updated": "13 September 2026"
         },
         {
             "slug": "west-bengal",
