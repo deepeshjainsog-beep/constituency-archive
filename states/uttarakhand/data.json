@@ -1,0 +1,6532 @@
+{
+ "title": "Uttarakhand",
+ "name": "Uttarakhand",
+ "assembly": "Uttarakhand Legislative Assembly",
+ "slug": "uttarakhand",
+ "in_force": "2002–2007",
+ "pre_election_year": 2007,
+ "post_election_year": 2012,
+ "pre_election_label": "2007",
+ "post_election_label": "2012",
+ "pre_order_year": 2001,
+ "post_order_year": 2008,
+ "pre_order_label": "2001 delimitation",
+ "post_order_label": "2008 order",
+ "maps": {
+  "pre2008": "map-pre2008.svg",
+  "post2008": "map-post2008.svg",
+  "hero": "hero.jpg"
+ },
+ "intro": [
+  "Uttarakhand's assembly did not exist when the 1976 delimitation was made. The order gave the hill districts only twenty-two of undivided Uttar Pradesh's seats, and those twenty-two members formed the interim assembly when the state was created in November 2000. The seventy constituencies on the left were drawn for the new state by the Election Commission under the Uttar Pradesh Reorganisation Act, published in 2001, and contested twice, in 2002 and 2007, before the 2008 order replaced them.",
+  "The assembly map Uttarakhand used for its first two elections"
+ ],
+ "figures": [
+  {
+   "k": "Seats",
+   "v": "70 → 70"
+  },
+  {
+   "k": "Districts",
+   "v": "5 → 5"
+  },
+  {
+   "k": "SC-reserved",
+   "v": "12 → 13"
+  },
+  {
+   "k": "ST-reserved",
+   "v": "3 → 2"
+  }
+ ],
+ "stats": [
+  {
+   "k": "New seats (2008)",
+   "v": "18"
+  },
+  {
+   "k": "2007 result",
+   "v": "BJP 35 · INC 21 · BSP 8 · UKKD 3"
+  },
+  {
+   "k": "2012 result",
+   "v": "INC 32 · BJP 31 · IND 3 · BSP 3"
+  }
+ ],
+ "district_grid_old": [
+  {
+   "name": "Almora"
+  },
+  {
+   "name": "Garhwal"
+  },
+  {
+   "name": "Hardwar"
+  },
+  {
+   "name": "Nainital"
+  },
+  {
+   "name": "Tehri Garhwal"
+  }
+ ],
+ "district_grid_new": [
+  {
+   "name": "Almora"
+  },
+  {
+   "name": "Garhwal"
+  },
+  {
+   "name": "Hardwar"
+  },
+  {
+   "name": "Nainital-Udhamsingh Nag"
+  },
+  {
+   "name": "Tehri Garhwal"
+  }
+ ],
+ "constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Purola",
+   "district": "Tehri Garhwal",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    1,
+    2
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Yamunotri.",
+   "extent": "Tehsils: Barkot, Purola; Kanungo circles: Barkot, Gundiyatgaon, Naitwar, Naugaon, Purola, Rajgarhi, Thadiyar, Name LC No",
+   "party07": "INC",
+   "winner_07": "Rajesh Uraf Rajesh Juwantha",
+   "electors_07": 56403,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Malchander",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Rajesh Uraf Rajesh Juwantha",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 82.0,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 14.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 2,
+   "name": "Gangotri",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tehsils: Bhatwari, Dunda; Kanungo circles: Bhatwari, Joshiyara, Maneri, Dunda",
+   "party07": "BJP",
+   "winner_07": "Gopal Singh Rawat",
+   "electors_07": 72462,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Vijaypal Singh Sajwan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gopal Singh Rawat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 94.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 3,
+   "name": "Yamnotri",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    1,
+    2,
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Purola.",
+   "extent": "Tehsils: Barkot, Dunda, Purola; Kanungo circles: Barkot, Barnigard, Barethi, Dunda, Sunargaon, Naugaon",
+   "party07": "INC",
+   "winner_07": "Kedar Singh",
+   "electors_07": 65797,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Pritam Singh Pawar",
+     "party": "UKKD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kedar Singh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 15.8,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 67.6,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 13.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 4,
+   "name": "Pratapnagar",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    9,
+    12,
+    13
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ghanshali, Tehri.",
+   "extent": "Tehsils: Ghansali, Pratapnagar, Tehri; Kanungo circles: Dangi, Lambgaon, Pratapnagar",
+   "party07": "BJP",
+   "winner_07": "Vijay Singh (Guddu Panwar)",
+   "electors_07": 61362,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Phool Singh Bist",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Vijay Singh (Guddu Panwar)",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 9.0,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 79.8,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 8.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 5,
+   "name": "Tehri",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    10,
+    12,
+    13,
+    14
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Deoprayag, Pratapnagar, Dhanolti.",
+   "extent": "Tehsils: Deoprayag, Ghansali, Pratapnagar, Tehri; Kanungo circles: Jakhnidhar, Chamba, Dhanolti, Nainbag, Udaipur, Name LC No",
+   "party07": "INC",
+   "winner_07": "Kishor Upadhyay",
+   "electors_07": 76851,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Kishor Upadhyay",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kishor Upadhyay",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 9.7,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 22.2,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 65.5,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 0.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 6,
+   "name": "Ghansali",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    8,
+    9,
+    10,
+    12
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Rudraprayag.",
+   "extent": "Tehsils: Deoprayag, Ghansali, Pratapnagar; Kanungo circles: Chamiyala, Dangi",
+   "party07": "INC",
+   "winner_07": "Balbeer Singh Negi",
+   "electors_07": 77063,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Balvir Singh Negi",
+     "party": "NCP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Balbeer Singh Negi",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "8": {
+     "pct": 10.7,
+     "basis": "measured"
+    },
+    "9": {
+     "pct": 86.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 7,
+   "name": "Deoprayag",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    10
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tehsils: Deoprayag, Ghansali; Kanungo circles: Chandarbadni, Deoprayag, Kirtinagar, Jakhnidhar",
+   "party07": "UKKD",
+   "winner_07": "Diwakar Bhatt",
+   "electors_07": 68455,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Mantri Prasad Naithani",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Diwakar Bhatt",
+     "party": "UKKD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 83.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 8,
+   "name": "Narendranagar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    10,
+    11,
+    13
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Deoprayag, Tehri.",
+   "extent": "Tehsils: Deoprayag, Tehri; Kanungo circles: Deoprayag, Chaka, Narendranagar, Chamba, Name LC No",
+   "party07": "UKKD",
+   "winner_07": "Om Gopal",
+   "electors_07": 75978,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Subodh Uniyal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Om Gopal",
+     "party": "UKKD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 2.2,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 85.5,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 5.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 9,
+   "name": "Dhanolti",
+   "district": "Tehri Garhwal",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    12,
+    13,
+    14,
+    19
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pratapnagar, Tehri, Raipur.",
+   "extent": "Tehsils: Tehri; Kanungo circles: Chamba, Dhanolti, Nainbag, Udaipur, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Khajan Dass",
+   "electors_07": 62681,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Kaul Das",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Khajan Dass",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 2.7,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 2.7,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 86.5,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 1.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 10,
+   "name": "Chakrata",
+   "district": "Tehri Garhwal",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    15
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tehsils: Chakrata; Kanungo circles: Kawanu, Lakhamandal, Tuni",
+   "party07": "INC",
+   "winner_07": "Pritam Singh",
+   "electors_07": 67535,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Preetam Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Pritam Singh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "15": {
+     "pct": 89.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 11,
+   "name": "Vikasnagar",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    15,
+    16,
+    17
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chakrata, Sahaspur.",
+   "extent": "Tehsils: Chakrata, Vikasnagar; Kanungo circles: Kalsi, Vikasnagar",
+   "party07": "BJP",
+   "winner_07": "Munna Singh Chauhan",
+   "electors_07": 113670,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Nav Prabhat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Munna Singh Chauhan",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "15": {
+     "pct": 24.0,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 41.4,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 23.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 12,
+   "name": "Sahaspur",
+   "district": "Tehri Garhwal",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    17,
+    18,
+    21,
+    22
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Dharampur, Dehradun Cantt., Mussoorie.",
+   "extent": "Tehsils: Dehradun, Vikasnagar; Kanungo circles: Dehrakhas, Jhajhra, Vikasnagar",
+   "party07": "BJP",
+   "winner_07": "Rajkumar",
+   "electors_07": 112876,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Sadhu Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Rajkumar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 84.0,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 5.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 13,
+   "name": "Laxman Chowk",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    18
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Dharampur.",
+   "extent": "Kanungo circles: Dehrakhas, Nigam Dehradun), Dehradun NP Ward",
+   "party07": "INC",
+   "winner_07": "Dinesh Agarwal",
+   "electors_07": 132573,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Dinesh Agarwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Dinesh Agarwal",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "18": {
+     "pct": 85.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 14,
+   "name": "Dehradun",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    17,
+    18,
+    20,
+    21,
+    22
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Sahaspur, Dharampur, Rajpur Road, Dehradun Cantt., Mussoorie.",
+   "extent": "Tehsils: Dehradun; Kanungo circles: Dehrakhas, Bijapur Hathi Barkalan), Dehradun NP Ward, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Harbans Kapoor",
+   "electors_07": 82475,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Harbans Kapoor",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Harbans Kapoor",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 3.3,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 0.9,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 45.4,
+     "basis": "measured"
+    },
+    "21": {
+     "pct": 39.1,
+     "basis": "measured"
+    },
+    "22": {
+     "pct": 11.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 15,
+   "name": "Rajpur",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Dharampur.",
+   "extent": "Tehsils: Dehradun; Kanungo circles: Dehrakhas, Hathi Barkalan), Raipur, Dehradun NP Ward, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Ganesh Joshi",
+   "electors_07": 112062,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Hira Singh Bist",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ganesh Joshi",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "18": {
+     "pct": 6.2,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 32.2,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 28.6,
+     "basis": "measured"
+    },
+    "22": {
+     "pct": 32.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 16,
+   "name": "Mussoorie",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    17,
+    19,
+    20,
+    21,
+    22
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sahaspur, Raipur, Rajpur Road, Dehradun Cantt..",
+   "extent": "Tehsils: Dehradun; Kanungo circles: Nigam Dehradun), Dehradun), Raipur",
+   "party07": "INC",
+   "winner_07": "Jot Singh Gunsola",
+   "electors_07": 66991,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Jot Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Jot Singh Gunsola",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 13.4,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 2.3,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 1.2,
+     "basis": "measured"
+    },
+    "21": {
+     "pct": 0.9,
+     "basis": "measured"
+    },
+    "22": {
+     "pct": 80.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 17,
+   "name": "Rishikesh",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    19,
+    22,
+    23,
+    24
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Raipur, Mussoorie, Doiwala.",
+   "extent": "Tehsils: Dehradun, Rishikesh; Kanungo circles: Raipur, Rishikesh",
+   "party07": "BJP",
+   "winner_07": "Prem Chand Aggarwal",
+   "electors_07": 148889,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Shoor Beer Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Prem Chand Aggarwal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 4.2,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 51.6,
+     "basis": "measured"
+    },
+    "24": {
+     "pct": 42.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 18,
+   "name": "Doiwala",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    18,
+    19,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Dharampur, Raipur.",
+   "extent": "Tehsils: Dehradun; Kanungo circles: Dehrakhas, Nayanagar Kalalon wali, Raipur, Dehradun NP Ward",
+   "party07": "BJP",
+   "winner_07": "Trivendra Singh Rawat",
+   "electors_07": 171169,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Trivendra Singh Rawat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Trivendra Singh Rawat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "18": {
+     "pct": 2.6,
+     "basis": "measured"
+    },
+    "19": {
+     "pct": 8.1,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 86.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 19,
+   "name": "Bhagwanpur",
+   "district": "Hardwar",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    27,
+    28,
+    30
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jwalapur, Pirankaliyar.",
+   "extent": "Tehsils: Roorkee; Kanungo circles: Bhagwanpur, Budhawashaid, Roorkee",
+   "party07": "BSP",
+   "winner_07": "Surendra Rakesh",
+   "electors_07": 105366,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Chandrasekher",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Surendra Rakesh",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "27": {
+     "pct": 50.1,
+     "basis": "measured"
+    },
+    "28": {
+     "pct": 34.7,
+     "basis": "measured"
+    },
+    "30": {
+     "pct": 14.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 20,
+   "name": "Roorkee",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    29,
+    30,
+    31
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jhabrera, Pirankaliyar.",
+   "extent": "Tehsils: Roorkee; Kanungo circles: Roorkee",
+   "party07": "BJP",
+   "winner_07": "Suresh Chand Jain",
+   "electors_07": 112305,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Suresh Chand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Suresh Chand Jain",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "29": {
+     "pct": 9.1,
+     "basis": "measured"
+    },
+    "30": {
+     "pct": 51.1,
+     "basis": "measured"
+    },
+    "31": {
+     "pct": 37.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 21,
+   "name": "Iqbalpur",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    28,
+    29
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Bhagwanpur, Jhabrera.",
+   "extent": "Tehsils: Roorkee; Kanungo circles: Iqbalpur, Manglor",
+   "party07": "BSP",
+   "winner_07": "Ch.Yashveer Singh",
+   "electors_07": 107861,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Ch. Yashveer Singh",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ch.Yashveer Singh",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 49.3,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 43.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 22,
+   "name": "Manglor",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    29,
+    33
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Jhabrera.",
+   "extent": "Tehsils: Roorkee; Kanungo circles: Manglor",
+   "party07": "BSP",
+   "winner_07": "Qazi Md. Nizamuddin",
+   "electors_07": 98615,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Nizamuddin",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Qazi Md. Nizamuddin",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "29": {
+     "pct": 53.5,
+     "basis": "measured"
+    },
+    "33": {
+     "pct": 35.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 23,
+   "name": "Landhaur",
+   "district": "Hardwar",
+   "type": "SC",
+   "status": "abolished",
+   "dest": [
+    29,
+    30,
+    31,
+    32,
+    33
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Jhabrera, Pirankaliyar, Roorkee, Khanpur, Manglaur.",
+   "extent": "Tehsils: Roorkee; Kanungo circles: Manglor, Roorkee, Gadharona",
+   "party07": "BSP",
+   "winner_07": "Hari Das",
+   "electors_07": 111581,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Hari Das",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Hari Das",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "30": {
+     "pct": 20.7,
+     "basis": "measured"
+    },
+    "31": {
+     "pct": 5.6,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 24.3,
+     "basis": "measured"
+    },
+    "33": {
+     "pct": 31.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 24,
+   "name": "Laksar",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    32,
+    34
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Khanpur.",
+   "extent": "Tehsils: Laksar; Kanungo circles: Khanpur, Laksar",
+   "party07": "INC",
+   "winner_07": "Kuwar Pranav Singh Champion",
+   "electors_07": 101473,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Pranav Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kuwar Pranav Singh Champion",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "32": {
+     "pct": 29.0,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 54.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 25,
+   "name": "Bahadrabad",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    25,
+    26,
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Hardwar, B.H.E.L Ranipur, Jwalapur.",
+   "extent": "Tehsils: Hardwar; Kanungo circles: Jwalapur",
+   "party07": "BSP",
+   "winner_07": "Shahzad",
+   "electors_07": 129523,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Shahzad",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Shahzad",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 1.2,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 33.3,
+     "basis": "measured"
+    },
+    "27": {
+     "pct": 57.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 26,
+   "name": "Hardwar",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    25,
+    26
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new B.H.E.L Ranipur.",
+   "extent": "Tehsils: Hardwar",
+   "party07": "BJP",
+   "winner_07": "Madan Kaushik",
+   "electors_07": 147631,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Madan Kaushik",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Madan Kaushik",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 39.5,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 29.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 27,
+   "name": "Laldhang",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    25,
+    34,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Hardwar, Laksar, Hardwar Rural.",
+   "extent": "Tehsils: Hardwar, Laksar; Kanungo circles: Ramkhera, Ranimajra, Laksar",
+   "party07": "BSP",
+   "winner_07": "Haji Tasleem Ahmad",
+   "electors_07": 120905,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Tasleem Ahmad",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Haji Tasleem Ahmad",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 1.9,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 16.8,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 52.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 28,
+   "name": "Yamakeshwar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    36
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Yamkeshwar.",
+   "extent": "Tehsils: Kotdwar, Lansdowne; Kanungo circles: Dugadda, Heerakhal, Pokhal, Silogi",
+   "party07": "BJP",
+   "winner_07": "Vijay Barthwal",
+   "electors_07": 55907,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Vijay Barthwal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Vijay Barthwal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 96.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 29,
+   "name": "Kotdwar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    36,
+    41
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Yamkeshwar.",
+   "extent": "Tehsils: Kotdwar; Kanungo circles: Dugadda, Pokhal",
+   "party07": "BJP",
+   "winner_07": "Shailendra Singh Rawat",
+   "electors_07": 95762,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Surendra Singh Negi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Shailendra Singh Rawat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 14.1,
+     "basis": "measured"
+    },
+    "41": {
+     "pct": 67.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 30,
+   "name": "Dhumakot",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    40
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Lansdowne.",
+   "extent": "Tehsils: Dhumakot, Lansdowne; Kanungo circles: Dhumakot, Nainidanda, Rikhnikhal",
+   "party07": "INC",
+   "winner_07": "Tejpal Singh Rawat",
+   "electors_07": 57677,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Tejpal Singh Rawat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Tejpal Singh Rawat",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 98.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 31,
+   "name": "Bironkhal",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    38,
+    39,
+    40
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Srinagar, Chaubattakhal, Lansdowne.",
+   "extent": "Tehsils: Dhumakot, Lansdone, Thalisain; Kanungo circles: Dhumakot, Chobttakhal, Pokhra, Bironkhal",
+   "party07": "INC",
+   "winner_07": "Amrita Rawat",
+   "electors_07": 54391,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Amrita Rawat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Amrita Rawat",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 9.5,
+     "basis": "measured"
+    },
+    "39": {
+     "pct": 73.5,
+     "basis": "measured"
+    },
+    "40": {
+     "pct": 16.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 32,
+   "name": "Lansdowne",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    36,
+    39,
+    40
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Yamkeshwar, Chaubattakhal.",
+   "extent": "Kanungo circles: Ekeshwar, Kherasain, Lansdowne, Silogi",
+   "party07": "INC",
+   "winner_07": "Dr. Harak Singh Rawat",
+   "electors_07": 56793,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Dr. Harak Singh Rawat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Dr. Harak Singh Rawat",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 33.8,
+     "basis": "measured"
+    },
+    "39": {
+     "pct": 40.0,
+     "basis": "measured"
+    },
+    "40": {
+     "pct": 23.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 33,
+   "name": "Pauri",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tehsils: Lansdowne, Pauri; Kanungo circles: Chobttakhal, Agroda, Mundneshwar, Nahsain, Pauri",
+   "party07": "IND",
+   "winner_07": "Yashpal Benam",
+   "electors_07": 61939,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Narendra Singh Bhandri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Yashpal Benam",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "37": {
+     "pct": 88.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 34,
+   "name": "Srinagar",
+   "district": "Garhwal",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    37,
+    38
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pauri.",
+   "extent": "Tehsils: Pauri, Srinagar; Kanungo circles: Kot, Nahsain, Pauri, Srinagar",
+   "party07": "BJP",
+   "winner_07": "Brijmohan Kotwal",
+   "electors_07": 59416,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Sunderlal Mandrawal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Brijmohan Kotwal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "37": {
+     "pct": 57.6,
+     "basis": "measured"
+    },
+    "38": {
+     "pct": 24.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 35,
+   "name": "Thalisain",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    38,
+    39
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Srinagar, Chaubattakhal.",
+   "extent": "Tehsils: Pauri, Thalisain; Kanungo circles: Pavaon, Chakisain, Thalisain",
+   "party07": "BJP",
+   "winner_07": "Dr. Ramesh Pokhariyal Nishank",
+   "electors_07": 62470,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Ganesh Prasad Godiyal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Dr. Ramesh Pokhariyal Nishank",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 85.4,
+     "basis": "measured"
+    },
+    "39": {
+     "pct": 9.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 36,
+   "name": "Rudraprayag",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    7,
+    8
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kedarnath.",
+   "extent": "Tehsils: Rudraprayag; Kanungo circles: Barma, Bhardar, Rudraprayag, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Matbar Singh Kandari",
+   "electors_07": 80571,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Matbar Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Matbar Singh Kandari",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 23.0,
+     "basis": "measured"
+    },
+    "8": {
+     "pct": 75.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 37,
+   "name": "Kedarnath",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    7,
+    8
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rudraprayag.",
+   "extent": "Tehsils: Ukhimath; Kanungo circles: Choptajakhani, Rudraprayag, Guptkashi, Ukhimath",
+   "party07": "BJP",
+   "winner_07": "Asha",
+   "electors_07": 82894,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Asha Devi",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Asha",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 83.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 38,
+   "name": "Badrinath",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    4,
+    5
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tharali.",
+   "extent": "Tehsils: Chamoli, Joshimath; Kanungo circles: Chamoli, Nandprayag, Joshimath",
+   "party07": "BJP",
+   "winner_07": "Kedar Singh Fonia",
+   "electors_07": 63384,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Dr. Ansuya Prasad Maikhuri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kedar Singh Fonia",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 98.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 39,
+   "name": "Nandprayag",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    4,
+    5,
+    6
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Badrinath, Tharali, Karnprayag.",
+   "extent": "Tehsils: Chamoli, Karanprayag, Pokhari; Kanungo circles: Nandprayag, Adibadri, Karanprayag, Name LC No",
+   "party07": "IND",
+   "winner_07": "Rajendra Singh Bhandari",
+   "electors_07": 63518,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Mahendra Bhatt",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Rajendra Singh Bhandari",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 23.6,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 60.2,
+     "basis": "measured"
+    },
+    "6": {
+     "pct": 16.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 40,
+   "name": "Karanprayag",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    6
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Karnprayag.",
+   "extent": "Tehsils: Gairsen, Karanprayag; Kanungo circles: Gairsen, Adibadri, Karanprayag",
+   "party07": "BJP",
+   "winner_07": "Anil Nautiyal",
+   "electors_07": 73445,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Anil Nautiyal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Anil Nautiyal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 86.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 41,
+   "name": "Pindar",
+   "district": "Garhwal",
+   "type": "SC",
+   "status": "abolished",
+   "dest": [
+    5
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory became part of the new Tharali.",
+   "extent": "Tehsils: Karanprayag, Tharali; Kanungo circles: Dewal, Narayan Bagar, Tharali",
+   "party07": "BJP",
+   "winner_07": "Govind Lal",
+   "electors_07": 67484,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Govind Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Govind Lal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "5": {
+     "pct": 98.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 42,
+   "name": "Kapkot",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    46
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Kapkote.",
+   "extent": "Tehsils: Kapkot; Kanungo circles: Danpur, Kanda, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Bhagat Singh Koshyari",
+   "electors_07": 54272,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Bhagat Singh Koshyari",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Bhagat Singh Koshyari",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 93.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 43,
+   "name": "Kanda",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    46,
+    47
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Kapkote, Bageshwar.",
+   "extent": "Tehsils: Bageshwar; Kanungo circles: Bageshwar, Kafligair, Kanda",
+   "party07": "BJP",
+   "winner_07": "Balwant Singh Bhauryal",
+   "electors_07": 57018,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Ummed Singh Majila",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Balwant Singh Bhauryal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 46.2,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 45.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 44,
+   "name": "Bageshwar",
+   "district": "Almora",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    46,
+    47
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kapkote.",
+   "extent": "Kanungo circles: Bageshwar, Kausani",
+   "party07": "BJP",
+   "winner_07": "Chandan Ram Dass",
+   "electors_07": 63310,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Ram Prasad Tamta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Chandan Ram Dass",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 23.0,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 68.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 45,
+   "name": "Dwarahat",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    48,
+    50
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ranikhet.",
+   "extent": "Tehsils: Ranikhet; Kanungo circles: Chaukhuttia, Dwarahat, Jalali",
+   "party07": "UKKD",
+   "winner_07": "Pushpesh Tripathi",
+   "electors_07": 66459,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Bipin Chandra Tripathi",
+     "party": "UKKD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Pushpesh Tripathi",
+     "party": "UKKD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "48": {
+     "pct": 96.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 46,
+   "name": "Bhikiasain",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    49,
+    50
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Salt, Ranikhet.",
+   "extent": "Tehsils: Bhikiasain, Ranikhet; Kanungo circles: Bhikiasain, Manila, Syalde, Jalali",
+   "party07": "BJP",
+   "winner_07": "Surender Singh Jeena",
+   "electors_07": 58057,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Dr. Pratap Bisht",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Surender Singh Jeena",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "49": {
+     "pct": 49.4,
+     "basis": "measured"
+    },
+    "50": {
+     "pct": 25.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 47,
+   "name": "Salt",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    49,
+    50
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ranikhet.",
+   "extent": "Tehsils: Bhikiasain; Kanungo circles: Machhor, Manila, Salt",
+   "party07": "INC",
+   "winner_07": "Ranjeet Singh",
+   "electors_07": 60337,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Ranjeet Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ranjeet Singh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "49": {
+     "pct": 83.4,
+     "basis": "measured"
+    },
+    "50": {
+     "pct": 13.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 48,
+   "name": "Ranikhet",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    50
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tehsils: Ranikhet; Kanungo circles: Jalali, Ranikhet, Tarikhet",
+   "party07": "INC",
+   "winner_07": "Karan Mahara",
+   "electors_07": 60188,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Ajay Bhatt",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Karan Mahara",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "50": {
+     "pct": 70.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 49,
+   "name": "Someshwar",
+   "district": "Almora",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    51,
+    52
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Almora.",
+   "extent": "Tehsils: Almora, Ranikhet; Kanungo circles: Hawalbagh, Ranikhet",
+   "party07": "BJP",
+   "winner_07": "Ajay Tamta",
+   "electors_07": 57359,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Pardeep Tamta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ajay Tamta",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 85.6,
+     "basis": "measured"
+    },
+    "52": {
+     "pct": 8.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 50,
+   "name": "Almora",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    52,
+    53
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jageshwar.",
+   "extent": "Tehsils: Almora; Kanungo circles: Almora, Hawalbagh, Lamgarha, Panuwanaula",
+   "party07": "INC",
+   "winner_07": "Manoj Tewari",
+   "electors_07": 75104,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Kailash Sharma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Manoj Tewari",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 78.4,
+     "basis": "measured"
+    },
+    "53": {
+     "pct": 12.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 51,
+   "name": "Jageshwar",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    52,
+    53
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Almora.",
+   "extent": "Tehsils: Almora; Kanungo circles: Danya, Panuwanaula, Shahar Phatak",
+   "party07": "INC",
+   "winner_07": "Govind Singh",
+   "electors_07": 66091,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Govind Singh Kunjwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Govind Singh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 3.3,
+     "basis": "measured"
+    },
+    "53": {
+     "pct": 94.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 52,
+   "name": "Mukteshwar",
+   "district": "Nainital",
+   "type": "SC",
+   "status": "abolished",
+   "dest": [
+    57,
+    58,
+    60
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Bhimtal, Nainital, Kaladhungi.",
+   "extent": "Tehsils: Dhari, Haldwani, Koshiyan Kutoli, Nainital; Kanungo circles: Paharpani, Chilkiya, Betalghat, Pyura, Bagar, Ramgarh",
+   "party07": "INC",
+   "winner_07": "Yashpal Arya",
+   "electors_07": 70796,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Yashpal Arya",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Yashpal Arya",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 27.0,
+     "basis": "measured"
+    },
+    "58": {
+     "pct": 64.2,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 0.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 53,
+   "name": "Dhari",
+   "district": "Nainital",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    56,
+    57,
+    60,
+    65,
+    67
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Lalkuwa, Bhimtal, Kaladhungi, Gadarpur, Kichha.",
+   "extent": "Tehsils: Dhari, Haldwani; Kanungo circles: Chaugad, Paharpani, Kathgodam, Lalkua",
+   "party07": "BJP",
+   "winner_07": "Govind Singh Bisht",
+   "electors_07": 122988,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Harish Chandra Durgapal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Govind Singh Bisht",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "56": {
+     "pct": 45.1,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 31.5,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 11.1,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 2.0,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 3.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 54,
+   "name": "Haldwani",
+   "district": "Nainital",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    56,
+    59,
+    60
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Lalkuwa, Kaladhungi.",
+   "extent": "Tehsils: Haldwani; Kanungo circles: Haldwani, Kathgodam",
+   "party07": "BJP",
+   "winner_07": "Banshi Dhar Bhagat",
+   "electors_07": 161650,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Indira Hirdyesh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Banshi Dhar Bhagat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "56": {
+     "pct": 25.8,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 18.7,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 55.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 55,
+   "name": "Nainital",
+   "district": "Nainital",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    57,
+    58,
+    60
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bhimtal, Kaladhungi.",
+   "extent": "Tehsils: Haldwani, Nainital; Kanungo circles: Kaladhungi, Bagar, Bhimtal",
+   "party07": "BJP",
+   "winner_07": "Kharak Singh Bohara",
+   "electors_07": 84737,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Narayan Singh Jantiwal",
+     "party": "UKKD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kharak Singh Bohara",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 9.6,
+     "basis": "measured"
+    },
+    "58": {
+     "pct": 54.2,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 35.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 56,
+   "name": "Ramnagar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    60,
+    61,
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kaladhungi, Bajpur.",
+   "extent": "Tehsils: Haldwani; Kanungo circles: Bailparaw, Chilkiya, Kaladhungi, Ramnagar, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Diwan Singh",
+   "electors_07": 103996,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Yogember Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Diwan Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "60": {
+     "pct": 22.7,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 64.9,
+     "basis": "measured"
+    },
+    "64": {
+     "pct": 5.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 57,
+   "name": "Jaspur",
+   "district": "Nainital",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    62,
+    63,
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kashipur, Bajpur.",
+   "extent": "Tehsils: Kashipur; Kanungo circles: Jaspur, Kashipur, Kunda, Painga",
+   "party07": "INC",
+   "winner_07": "Dr. Shailendra Mohan Singhal",
+   "electors_07": 98342,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Dr. Shailendra Mohan Singhal",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Dr. Shailendra Mohan Singhal",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "62": {
+     "pct": 79.5,
+     "basis": "measured"
+    },
+    "63": {
+     "pct": 16.2,
+     "basis": "measured"
+    },
+    "64": {
+     "pct": 2.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 58,
+   "name": "Kashipur",
+   "district": "Nainital",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    63,
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bajpur.",
+   "extent": "Tehsils: Kashipur; Kanungo circles: Kashipur, Painga, Bajpur-I, Bajpur-II",
+   "party07": "BJP",
+   "winner_07": "Herbhajan Singh Cheema",
+   "electors_07": 136302,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Harbhajan Singh Cheema",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Herbhajan Singh Cheema",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 43.5,
+     "basis": "measured"
+    },
+    "64": {
+     "pct": 44.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 59,
+   "name": "Bajpur",
+   "district": "Nainital",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    64,
+    65
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gadarpur.",
+   "extent": "Tehsils: Kashipur; Kanungo circles: Bajpur-I, Bajpur-II",
+   "party07": "BJP",
+   "winner_07": "Arvind Pandey",
+   "electors_07": 97098,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Arvind Pandey",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Arvind Pandey",
+     "party": "BJP",
+     "status": "General election winner (deferred poll)"
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 61.4,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 34.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 60,
+   "name": "Pantnagar",
+   "district": "Nainital",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    65,
+    66,
+    67
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Gadarpur, Rudrapur, Kichha.",
+   "extent": "Tehsils: Kichha; Kanungo circles: Dineshpur, Gadarpur, Kichha, Rudrapur, Name LC No",
+   "party07": "BSP",
+   "winner_07": "Premanand Mahajan",
+   "electors_07": 119254,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Premchand Mahajan",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Premanand Mahajan",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "65": {
+     "pct": 30.6,
+     "basis": "measured"
+    },
+    "66": {
+     "pct": 39.4,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 24.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 61,
+   "name": "Rudrapur-Kichha",
+   "district": "Nainital",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    66,
+    67,
+    68
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Rudrapur, Kichha, Sitarganj.",
+   "extent": "Tehsils: Kichha; Kanungo circles: Kichha, Rudrapur",
+   "party07": "INC",
+   "winner_07": "Tilak Raj Behar",
+   "electors_07": 157292,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Tilak Raj Behad",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Tilak Raj Behar",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 2.8,
+     "basis": "measured"
+    },
+    "67": {
+     "pct": 77.7,
+     "basis": "measured"
+    },
+    "68": {
+     "pct": 8.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 62,
+   "name": "Sitarganj",
+   "district": "Nainital",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    68,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Nanak Matta.",
+   "extent": "Tehsils: Sitarganj; Kanungo circles: Nanakmatta, Sitarganj, Name LC No",
+   "party07": "BSP",
+   "winner_07": "Narayan Pal",
+   "electors_07": 109870,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Naryan Pal",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Narayan Pal",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "68": {
+     "pct": 71.9,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 23.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 63,
+   "name": "Khatima",
+   "district": "Nainital",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    69,
+    70
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Nanak Matta.",
+   "extent": "Tehsils: Khatima, Sitarganj; Kanungo circles: Bigarabag, Khatima, Nanakmatta, Name LC No",
+   "party07": "INC",
+   "winner_07": "Gopal Singh S/O-Karan Singh",
+   "electors_07": 132349,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Gopal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gopal Singh S/O-Karan Singh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "69": {
+     "pct": 22.1,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 69.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 64,
+   "name": "Champawat",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tehsils: Champawat; Kanungo circles: Amauari, Bhingrara, Champawat, Manch",
+   "party07": "BJP",
+   "winner_07": "Veena Maharana",
+   "electors_07": 84449,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Hamesh Kharkwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Veena Maharana",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 81.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 65,
+   "name": "Lohaghat",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    54
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Lohagat.",
+   "extent": "Tehsils: Champawat; Kanungo circles: Barakot, Devidhoora, Lohaghat, Manch, Pulla",
+   "party07": "INC",
+   "winner_07": "Mahendra Singh Mahra Mahun Bhai",
+   "electors_07": 74780,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Mahendra Singh Mahra (Mahoo Bhai)",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Mahendra Singh Mahra Mahun Bhai",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "54": {
+     "pct": 94.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 66,
+   "name": "Pithoragarh",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    43,
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Didihat.",
+   "extent": "Tehsils: Pithoragarh; Kanungo circles: Gurana, Munakote, Pithoragarh, Satsiling, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Prakash Pant",
+   "electors_07": 84277,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Prakash Pant",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Prakash Pant",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 9.9,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 85.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 67,
+   "name": "Gangolihat",
+   "district": "Almora",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    43,
+    45
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Didihat.",
+   "extent": "Tehsils: Didihat, Gangolihat; Kanungo circles: Berinag, Ganai, Gangolihat, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Joga Ram Tamta",
+   "electors_07": 63472,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Narayan Ram Arya",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Joga Ram Tamta",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "45": {
+     "pct": 83.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 68,
+   "name": "Didihat",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    42,
+    43,
+    45
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Dharchula, Gangolihat.",
+   "extent": "Tehsils: Didihat, Munsiari; Kanungo circles: Berinag, Didihat, Thal, Nachni, Name LC No",
+   "party07": "BJP",
+   "winner_07": "Vishan Singh Chufal",
+   "electors_07": 65148,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Bishan Singh Chuphal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Vishan Singh Chufal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "42": {
+     "pct": 36.6,
+     "basis": "measured"
+    },
+    "43": {
+     "pct": 34.2,
+     "basis": "measured"
+    },
+    "45": {
+     "pct": 19.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 69,
+   "name": "Kanalichhina",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "abolished",
+   "dest": [
+    43,
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Didihat, Pithoragarh.",
+   "extent": "Tehsils: Didihat, Pithoragarh; Kanungo circles: Askote, Kanalichhina, Muwani, Munakote, Satsiling, Name LC No",
+   "party07": "INC",
+   "winner_07": "Mayukh Singh",
+   "electors_07": 46435,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Kashi Singh Hairy",
+     "party": "UKKD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Mayukh Singh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 93.5,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 2.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 70,
+   "name": "Dharchula",
+   "district": "Almora",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    42
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tehsils: Dharchula, Munsiari; Kanungo circles: Dharchula, Khela, Munsiari",
+   "party07": "IND",
+   "winner_07": "Gagan Singh",
+   "electors_07": 54767,
+   "elections": [
+    {
+     "year": 2002,
+     "winner": "Gagan Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gagan Singh",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "42": {
+     "pct": 92.7,
+     "basis": "measured"
+    }
+   }
+  }
+ ],
+ "post2008_constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Purola",
+   "district": "Tehri Garhwal",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    1,
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Yamnotri.",
+   "extent": "1-Mori Tehsil; 2-Purola Tehsil; KCs 2-Naugaon, 3-Barnigad, PCs 39-Gandoli & 41-Gair (Banal) of 4-Rajgarhi KC of 3-Rajgarhi (Barkot) Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Malchand",
+   "electors_12": 58640,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Malchand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rajkumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Durgeshwar Lal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 85.7,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 6.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 2,
+   "name": "Yamunotri",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    1,
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Purola.",
+   "extent": "5-Chinyalisaur Tehsil; KC 1-Barkot, PCs 40-Gulari, 42-Rajgarhi, 43-Chaptari, 44-Gangtari & 45-Nagangaon of 4-Rajgarhi KC of 3- Rajgarhi (Barkot) Tehsil; PCs 50-Kalyani, 51-Jineth, 52-Genwala (Bhandarsyun), 53-Kurmola, 54-Jhunga of 1-Dunda KC & Barkot NA of 4-Dunda Tehsil.",
+   "party12": "UKDP",
+   "winner_12": "Pritam Singh Panwar",
+   "electors_12": 61863,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Pritam Singh Panwar",
+     "party": "UKDP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kedar Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sanjay Dobhal",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 32.7,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 62.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 3,
+   "name": "Gangotri",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    2,
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Yamnotri.",
+   "extent": "6-Bhatwari Tehsil; PCs 46-Barethi, 47-Matli, 48-Nakuri (Barsali), 49-Beerpur (Dunda) of 1-Dunda KC & KC 2-Bhatwari (Dhanari) of 4-Dunda Tehsil.",
+   "party12": "INC",
+   "winner_12": "Vijaipal Singh Sajwan",
+   "electors_12": 71433,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Vijaipal Singh Sajwan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Gopal Singh Rawat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Suresh Singh Chauhan",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "2": {
+     "pct": 94.1,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 3.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 4,
+   "name": "Badrinath",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    38,
+    39
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Nandprayag.",
+   "extent": "1-Joshimath Tehsil; KC Chamoli, 2A-Chamoli MB of 2-Chamoli Tehsil & 3-Pokhari Tehsil.",
+   "party12": "INC",
+   "winner_12": "Rajendra Singh Bhandri",
+   "electors_12": 85758,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Rajendra Singh Bhandri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Mahendra Bhatt",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Rajendra Singh Bhandari",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 90.7,
+     "basis": "measured"
+    },
+    "39": {
+     "pct": 3.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 5,
+   "name": "Tharali",
+   "district": "Garhwal",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    38,
+    39,
+    41
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Badrinath, Nandprayag, Pindar.",
+   "extent": "5-Tharali Tehsil; KC Nandprayag, Nandprayag NP & Forest Area of 2-Chamoli Tehsil.",
+   "party12": "INC",
+   "winner_12": "Dr Jeet Ram",
+   "electors_12": 90407,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Dr Jeet Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Magan Lal Shah",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Bhupal Ram Tamta",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "39": {
+     "pct": 27.1,
+     "basis": "measured"
+    },
+    "41": {
+     "pct": 66.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 6,
+   "name": "Karnprayag",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    39,
+    40
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Nandprayag.",
+   "extent": "4-Karnprayag Tehsil & 6-Gairsain Tehsil.",
+   "party12": "INC",
+   "winner_12": "Ansuya Prasad Maikhuri",
+   "electors_12": 83807,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ansuya Prasad Maikhuri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Surendra Singh Negi",
+     "party": "BJP",
+     "status": "General election winner (deferred poll)"
+    },
+    {
+     "year": 2022,
+     "winner": "Anil Nautiyal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 11.9,
+     "basis": "measured"
+    },
+    "40": {
+     "pct": 82.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 7,
+   "name": "Kedarnath",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    36,
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rudraprayag.",
+   "extent": "1-Ukhimath Tehsil & KC Chopta Jakhani of 2-Rudraprayag Tehsil.",
+   "party12": "INC",
+   "winner_12": "Shaila Rani Rawat",
+   "electors_12": 75489,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Shaila Rani Rawat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Manoj Rawat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Shaila Rani Rawat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 9.2,
+     "basis": "measured"
+    },
+    "37": {
+     "pct": 86.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 8,
+   "name": "Rudraprayag",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    6,
+    36,
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ghansali, Kedarnath.",
+   "extent": "KC Rudraprayag, Rudraprayag NP of 2-Rudraprayag Tehsil & Jakholi Tehsil.",
+   "party12": "INC",
+   "winner_12": "Harak Singh Rawat",
+   "electors_12": 85984,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harak Singh Rawat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Bharat Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Bharat Singh Chaudhary",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 22.3,
+     "basis": "measured"
+    },
+    "36": {
+     "pct": 60.5,
+     "basis": "measured"
+    },
+    "37": {
+     "pct": 0.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 9,
+   "name": "Ghanshali",
+   "district": "Tehri Garhwal",
+   "type": "SC",
+   "status": "renamed",
+   "src": [
+    4,
+    6
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Pratapnagar.",
+   "extent": "KC Chamiyala, PCs 4-Paukhal, 5-Pilkhi, 6-Thela, 7-Holta, 8- Muyalgaon, 9-Dhangi, 10-Maigadhar, 11-Akhori, 12-Dhaunikhal, 13-Pakh, 14-Kathur-Hindaw, 15-Chanji, 16-Pangriyana of Dangi KC & Bhilangna Range P-3 of 1-Ghanshali Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Bheem Lal Arya",
+   "electors_12": 77119,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Bheem Lal Arya",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Shakti Lal Shah",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Shakti Lal Shah",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 1.8,
+     "basis": "measured"
+    },
+    "6": {
+     "pct": 90.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 10,
+   "name": "Deoprayag",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tehri, Ghansali, Narendranagar.",
+   "extent": "KCs Kirtinagar, Chandrabadni, Deoprayag NA, PCs 37- Lalathpatoun, 38-Lalurikhal, 39-Birakot, 40-Hindolakhal, 41-Aamni, 42-Mahar & 43-Bhatkot of Deoprayag KC of 2-Deoprayag Tehsil; PCs 180-Paurikhal, 181 Gaumukh, 182-Raurdhar & 183-Jagdhar of Jakhnidhar KC of Jakhnidhar Tehsil.",
+   "party12": "IND",
+   "winner_12": "Mantri Prasad Naithani",
+   "electors_12": 71105,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Mantri Prasad Naithani",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Vinod Kandari",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Vinod Kandari",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "5": {
+     "pct": 6.2,
+     "basis": "measured"
+    },
+    "6": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "7": {
+     "pct": 89.1,
+     "basis": "measured"
+    },
+    "8": {
+     "pct": 2.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 11,
+   "name": "Narendranagar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    8
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "5-Narendranagar Tehsil; PCs 34-Kurn, 35-Baunth, 36-Bachelikhal, 44-Bharpur & 45-Dansara of Deoprayag KC of 2-Deoprayag Tehsil.",
+   "party12": "INC",
+   "winner_12": "Subodh Uniyal",
+   "electors_12": 75506,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Subodh Uniyal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Subodh Uniyal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Subodh Uniyal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "8": {
+     "pct": 94.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 12,
+   "name": "Pratapnagar",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    4,
+    5,
+    6,
+    9
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tehri, Ghansali, Dhanolti.",
+   "extent": "3-Pratapnagar Tehsil; PCs 106-Bhaldiyana, 107-Kandikhal, 108- Kafal Pani, 109-Pali, 110-Sirain & 111-Padiyar Gaon of Udaypur KC of Tehri Tehsil; PCs 1-Mandar, 2-Devtadhar & 3- Chandreshwarsain of Dangi KC of Ghansali Tehsil.",
+   "party12": "INC",
+   "winner_12": "Vikram Singh Negi",
+   "electors_12": 73031,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Vikram Singh Negi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Vijay Singh Panwar(Guddu Bhai)",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Vikram Singh Negi",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 60.8,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 20.6,
+     "basis": "measured"
+    },
+    "9": {
+     "pct": 6.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 13,
+   "name": "Tehri",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    4,
+    5,
+    8,
+    9
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pratapnagar, Narendranagar, Dhanolti.",
+   "extent": "KC Chamba, Tehri Nagar Palika & Chamba NA of 4-Tehri Tehsil; PCs 173-Nandgaon, 174-Gadoliya, 175-Jakhnidhar-Koti, 176- Nawakot, 177-Khandogi, 178-Anjanisain & 179-Garakot of Jakhnidhar KC of 7-Jakhnidhar Tehsil.",
+   "party12": "IND",
+   "winner_12": "Dinesh Dhanai",
+   "electors_12": 71981,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Dinesh Dhanai",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Dhan Singh Negi",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kishore Upadhyaya",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 7.8,
+     "basis": "measured"
+    },
+    "5": {
+     "pct": 70.8,
+     "basis": "measured"
+    },
+    "8": {
+     "pct": 12.6,
+     "basis": "measured"
+    },
+    "9": {
+     "pct": 7.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 14,
+   "name": "Dhanolti",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    5,
+    9
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tehri.",
+   "extent": "6-Dhanolti Tehsil; PCs 95-Katkhet, 96-Laluri, 97-Bayargaon, 98- Maindkhal, 99-Lawani, 100-Kandarkhal, 101-Chham, 102-Bangiyal, 103-Kailar, 104-Kamand, 105-Thauldhar of Udaipur-KC & Tehri Range of 4-Tehri Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Mahaveer Singh",
+   "electors_12": 67079,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Mahaveer Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pritam Singh Panwar",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Pritam Singh Panwar",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 97.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 15,
+   "name": "Chakrata",
+   "district": "Tehri Garhwal",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    10,
+    11
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Vikasnagar.",
+   "extent": "1-Chakrata Tehsil; 5-Kalsi Tehsil & 6-Tuni Tehsil.",
+   "party12": "INC",
+   "winner_12": "Pritam Singh",
+   "electors_12": 86876,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Pritam Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pritam Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Pritam Singh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 83.3,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 8.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 16,
+   "name": "Vikasnagar",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    11
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "PCs 1-Binhar East, 2-Binhar West, 3-Ambari, 4-Prithvipur, 5-Enfield Grant, 6-Dhakrani, 8-Fatehpur, 9-West Hopetown 2, 10-West Hopetown 1, 11-Kedarwala, 12-Rudrapur of Vikasnagar KC, 11- ABC-Vikasnagar NPP & Herverat Pur 'Nagarpanchayat’ of 2- Vikasnagar Tehsil.",
+   "party12": "INC",
+   "winner_12": "Nav Prabhat",
+   "electors_12": 93524,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Nav Prabhat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Munna Singh Chauhan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Munna Singh Chauhan",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "11": {
+     "pct": 78.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 17,
+   "name": "Sahaspur",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    11,
+    12,
+    14,
+    16
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Vikasnagar, Dehradun, Mussoorie.",
+   "extent": "KC Jhajra, PCs 7-Dharmawala, 13-Sorna, 24-Sahaspur & 25- Jassowala of Vikasnagar KC of 2-Vikasnagar Tehsil; PC 1-Arcedia Grant of Dehrakhas KC of 3-Dehradun Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Sahdev Singh Pundir",
+   "electors_12": 111900,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sahdev Singh Pundir",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sahdev Singh Pundir",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sahdev Singh Pundir",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "11": {
+     "pct": 21.4,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 69.9,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 5.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 18,
+   "name": "Dharampur",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    12,
+    13,
+    14,
+    15,
+    18
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Sahaspur, Laxman Chowk, Dehradun, Rajpur, Doiwala.",
+   "extent": "PCs 2-Sewla Kalan, 3-Majra, 4-Bharunwala Grant, 5-Dehrakhas, 6- Ajabpur Kalan, 9-Kanwali of Dehrakhas KC, Claiment Town Cantonment of Raipur KC, Ward Nos. 6, 7, 9, 10, 23, 28, 42, 43, 45 & 53 in Dehradun (M.Corp) of 3-Dehradun Tehsil.",
+   "party12": "INC",
+   "winner_12": "Dinesh Agarwal",
+   "electors_12": 120998,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Dinesh Agarwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Vinod Chamoli",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Vinod Chamoli",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 22.6,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 64.5,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 4.1,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 6.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 19,
+   "name": "Raipur",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    9,
+    15,
+    16,
+    17,
+    18
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Dhanolti.",
+   "extent": "PC 7-Aghoiwala of Dehrakhas KC, PCs 20-Gujrara Mansingh, 21- Danda Lakhaund, 22-Kandauli, 29-Dwara, 30-Raipur, 31-Mianwala of Raipur KC, Raipur (CT), Ward Nos. 13, 15, 20, 26, 29, 35, 36, 44 & 46 in Dehradun (M.Corp) of 3-Dehradun Tehsil.",
+   "party12": "INC",
+   "winner_12": "Umesh Sharma (Kau)",
+   "electors_12": 120008,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Umesh Sharma (Kau)",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Umesh Sharma Kau",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Umesh Sharma 'Kau'",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 16.4,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 28.5,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 6.0,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 24.9,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 24.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 20,
+   "name": "Rajpur Road",
+   "district": "Tehri Garhwal",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    14,
+    15,
+    16
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Dehradun, Rajpur, Mussoorie.",
+   "extent": "Ward Nos. 1 to 4, 8, 12, 16, 18, 21, 24, 30, 33, 34, 41, 48, 50, 52, (SC) 56 & 60 in Dehradun (M.Corp) of 3-Dehradun Tehsil.",
+   "party12": "INC",
+   "winner_12": "Rajkumar",
+   "electors_12": 98988,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Rajkumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Khajan Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Khajan Dass",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 24.0,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 65.0,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 8.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 21,
+   "name": "Dehradun Cantt.",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    12,
+    14,
+    15,
+    16
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Sahaspur, Dehradun, Rajpur, Mussoorie.",
+   "extent": "Ward Nos. 1, 2, 3 of Dehradun (CB), FRI and College Area, Ward Nos. 11, 14, 17, 25, 31, 37, 40, 47, 49, 51, 54, 55, 58 & 59 in Dehradun (M.Corp) of 3-Dehradun Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Harbans Kapoor",
+   "electors_12": 102402,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harbans Kapoor",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Shri Harbans Kapoor",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Savita Kapoor",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 3.5,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 69.8,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 20.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 22,
+   "name": "Mussoorie",
+   "district": "Tehri Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    12,
+    14,
+    15,
+    16,
+    17
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sahaspur, Dehradun, Rajpur, Rishikesh.",
+   "extent": "PCs 8-Karanpur Khas, 10-Kaulagarh, 11-Jakhan, 12-Garhi, 13- Rikhauli, 14-Johri, 15-Kayarkuli Bhatta of Dehrakhas KC, PCs 16- Chamasari, 17-Silla, 18-Sarona, 19-Chalang of Raipur KC, Mussoorie Nagarpalika Parisad, Ward Nos. 4 to 7 in Dehradun (CB), Ward Nos. 5, 19, 22, 27, 32, 38, 39 & 57 in Dehradun (M.Corp) & Landhaur Cantonment Board of 3-Dehradun Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Ganesh Joshi",
+   "electors_12": 102702,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ganesh Joshi",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Ganesh Joshi",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ganesh Joshi",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 0.9,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 0.9,
+     "basis": "measured"
+    },
+    "15": {
+     "pct": 10.6,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 77.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 23,
+   "name": "Doiwala",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    15,
+    17,
+    18
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rajpur, Rishikesh.",
+   "extent": "PCs 23-Badripur, 24-Doodhli, 25-Nakraunda, 26-Badasi Grant, 27- Markham Grant I, 28-Markham Grant II & 32-Nathuvawala of Raipur KC of 3-Dehradun Tehsil; PCs 3-Majri Grant, 5-Bhogpur, 6-Gadool, 7-Sungaon, 8-Barkot Maufi, 9-Ranipokhri Grant, 10-Ramnagar Danda, 11-Bhaniawala, 12-Sindhwal Gaon, 13-Jolly Grant of Rishikesh KC, Doiwala Nagarpanchayat, Ramgarh Range & Thano Forest Range of 4-Rishikesh Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Ramesh Pokhriyal Nishank",
+   "electors_12": 107015,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ramesh Pokhriyal Nishank",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Trivendra Singh Rawat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Brij Bhushan Gairola",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 49.0,
+     "basis": "measured"
+    },
+    "18": {
+     "pct": 41.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 24,
+   "name": "Rishikesh",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    17
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "PCs 1-Rishikesh, 2-Chhidderwala, 4-Raiwala of Rishikesh KC, Virbhadra (ITS), Pratitnagar (CT) - Ward No. 1 & Rishikesh Municipality of 4-Rishikesh Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Premchand Aggarwal",
+   "electors_12": 119646,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Premchand Aggarwal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Premchand Aggarwal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Premchand Aggarwal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 79.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 25,
+   "name": "Hardwar",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    25,
+    26,
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bahadrabad, Laldhang.",
+   "extent": "Ward Nos. 1 to 20 in Hardwar (MB) of 2-Hardwar Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Madan Kaushik",
+   "electors_12": 121669,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Madan Kaushik",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Madan Kaushik",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Madan Kaushik",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 38.0,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 19.1,
+     "basis": "measured"
+    },
+    "27": {
+     "pct": 42.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 26,
+   "name": "B.H.E.L Ranipur",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    25,
+    26
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Bahadrabad, Hardwar.",
+   "extent": "B.H.E.L Ranipur N.A.C, PCs 02-Ahmadpur Karach, 03-Jwalapur, 04-Bhadrabad, 09-Salempur Mahdod-I, 10-Salempur Mahdod-II, 11-Annekihetampur, 12-Aurangabad of Jwalapur KC, Ward Nos. 21 to 27, Gurukul Kangri (OG) - Ward No. 28 & Jwalapur Mahavidyala (OG) - Ward No. 29 in Hardwar (MB) of 2-Hardwar Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Adesh Chauhan",
+   "electors_12": 113343,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Adesh Chauhan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Adesh Chauhan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Adesh Chauhan",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 90.4,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 1.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 27,
+   "name": "Jwalapur",
+   "district": "Hardwar",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    19,
+    25
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Bhagwanpur, Bahadrabad.",
+   "extent": "PCs 01-Sekhupur Urf Kankhal, 05-Bodahedimohiudeenpur, 06- Atmalpur Bongla, 07-Rohalki Kishanpur, 08-Mirpur Mawajpur, 13- Garh, 14-Shivdaspur Urf Teliwala, 15-Kotamuradnagar, 16- Sohalpur Sikroda, 17-Daluwala, 18-Shadevpur Shawajpur, 19- Mukarpur, 20-Alawalpur, 21-Ahmadpur Grant & 22-Dadupur Govindpur of Jwalapur KC of 2-Hardwar Tehsil; PCs 01- Banjarewalagrant, 02-Nokara Grant, 03-Dolatpurhajratpur urf Budhwashaid, 04-Fatehullapur Urf Telpura, 05-Aurangjebpur. 06-Kheri Shikohpur, 07-Kheri Shikohpur J.M., 08-Sikroda-I, 10- Majahidpur Satiwala & 11-Ibrahimpur Masahi of Bhagwanpur KC of 1-Roorkee Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Chander Shakhar",
+   "electors_12": 90228,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Chander Shakhar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Suresh Rathor",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ravi Bahadur",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 28.6,
+     "basis": "measured"
+    },
+    "25": {
+     "pct": 60.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 28,
+   "name": "Bhagwanpur",
+   "district": "Hardwar",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    19,
+    21
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Iqbalpur.",
+   "extent": "PCs 09-Sikroda-II, 12-Habibpur Niwada, 13-Manak Majra, 14- (SC) Jalalpur Dada, 15-Hasanpur Madanpur, 16-Chhaparsher Afganpur, 17-Latifpur Khubbanpur, 21-Bhagwanpur, 22-Hallumajra of Bhagwanpur KC, Forest Area, PCs 09-Karondi, 18-Sikandarpur Bhaswal, 19-Sirchandi, 20-Khelpur Nasrulapur, 24-Ruhalki Dayalpur, 25-Kunja Bhadarpur, 26-Chudiyala Mohanpur, 27- Bhalsawagaj, 28-Bindukharak, 29-Bahedeki Saidabad & 30- Manakpur Aadampur of Iqbalpur KC of 1-Roorkee Tehsil.",
+   "party12": "BSP",
+   "winner_12": "Surendra Rakesh",
+   "electors_12": 98545,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Surendra Rakesh",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Mamta Rakesh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Mamta Rakesh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 47.9,
+     "basis": "measured"
+    },
+    "21": {
+     "pct": 42.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 29,
+   "name": "Jhabrera",
+   "district": "Hardwar",
+   "type": "SC",
+   "status": "new",
+   "src": [
+    20,
+    21,
+    22,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Roorkee, Iqbalpur, Manglor, Landhaur.",
+   "extent": "PCs 01-Delna, 02-Harjolijhoja, 03-Thanshipur, 04-Mahmudpur, 05- Paniyala Chandapur, 06-Iqbalpur Kamelpur, 07-Madhopur Hajratpur, 08-Nanhera Anantpur, 10-Saliyar Salhapur of Iqbalpur KC, PCs 15-Lakhnota, 16-Jhabrerikalan, 17-Sherpur Khelmau, 18- Kotwal Aalmpur, 19-Jhabrera, 20-Lathardevahun, 21-Thithki Kawadpur, 22-Kurdi, 23-Udalheri of Manglore KC & Jhabrera NAC of 1-Roorkee Tehsil.",
+   "party12": "BSP",
+   "winner_12": "Hari Dass",
+   "electors_12": 95231,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Hari Dass",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Desraj Karanwal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Virendra Kumar",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 2.3,
+     "basis": "measured"
+    },
+    "21": {
+     "pct": 50.0,
+     "basis": "measured"
+    },
+    "22": {
+     "pct": 45.2,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 0.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 30,
+   "name": "Pirankaliyar",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    19,
+    20,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Bhagwanpur, Roorkee, Landhaur.",
+   "extent": "PCs 11-Gumawala, 12-Imlikhera Dharampur, 13-Mohammadpur Panda, 14-Rampur, 17-Pirankaliyar, 18-Dhanori, 19-Dolatpur, 20- Badheri Rajputan, 21-Bhounri, 22-Margubpur Didaheri, 23-Danderi Khwajgipur, 24-Belra of Roorkee KC & PC 23-Dariyapur Dayalpur of Bhagwanpur KC of 1-Roorkee Tehsil.",
+   "party12": "INC",
+   "winner_12": "Furkan Ahmad",
+   "electors_12": 91933,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Furkan Ahmad",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Furkan Ahmad",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Furqan Ahmad",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 34.5,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 17.4,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 39.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 31,
+   "name": "Roorkee",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    20,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Landhaur.",
+   "extent": "PCs 15-Roorkee, 16-Malakpur Latifpur, 27-Bijholi of Roorkee KC, Roorkee Cantoment Board & Roorkee MB of 1-Roorkee Tehsil.",
+   "party12": "INC",
+   "winner_12": "Pardeep Batra",
+   "electors_12": 96239,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Pardeep Batra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pradeep Batra",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Pradip Batra",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 49.5,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 41.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 32,
+   "name": "Khanpur",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    23,
+    24
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Landhaur, Laksar.",
+   "extent": "PCs 24A-Rajpur Mustafabad Urf Gadharona, 25-Landhaura, 26- Shikarpur, 28-Dandera, 29-Jorasi, 25A-Toda Kalyanpur of Roorkee KC, Dandera CT, Mohanpur Mohammadpur CT, Landaura NAC of 1-Roorkee Tehsil & KC Khanpur of 3-Laksar Tehsil.",
+   "party12": "INC",
+   "winner_12": "Kunwar Pranav Singh Champion",
+   "electors_12": 111521,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Kunwar Pranav Singh Champion",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kunwar Parnav Singh Champion",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Umesh Kumar",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 20.9,
+     "basis": "measured"
+    },
+    "24": {
+     "pct": 27.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 33,
+   "name": "Manglaur",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    22,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Manglor.",
+   "extent": "PCs 01-Libbarheri, 02-Manglaur, 03-Bhagwanpur Chandanpur, 04- Banhera Tanda, 05-Mundlana, 06-Harjoli Jatt, 07-Kagwali, 08- Harchandpur, 09-Mohammadpur Jatt, 10-Kherajatt, 11-Kalyanpur Urf Narsan Kalan, 12-Nagala Salaru, 13-Tikola Kalan, 14-Nakibpur Urf Ghosipura of Manglaur KC & Manglaur MB of 1-Roorkee Tehsil.",
+   "party12": "BSP",
+   "winner_12": "Sarwat Kareem Ansari",
+   "electors_12": 91769,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sarwat Kareem Ansari",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Qazi Mohd Nizamuddin",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sarwat Karim Ansari",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 39.5,
+     "basis": "measured"
+    },
+    "23": {
+     "pct": 59.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 34,
+   "name": "Laksar",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    24,
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Laldhang.",
+   "extent": "KC Laksar & Laksar N.A.C. of 3-Laksar Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Sanjay Gupta",
+   "electors_12": 80150,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sanjay Gupta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sanjay Gupta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Muhammad Shahzad",
+     "party": "BSP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "24": {
+     "pct": 57.6,
+     "basis": "measured"
+    },
+    "27": {
+     "pct": 25.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 35,
+   "name": "Hardwar Rural",
+   "district": "Hardwar",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Laldhang.",
+   "extent": "KC Pherupur Ramkhera of 2-Hardwar Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Yatishvaranand",
+   "electors_12": 96902,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Yatishvaranand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Yatishwaranand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Anupama Rawat",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "27": {
+     "pct": 40.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 36,
+   "name": "Yamkeshwar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    28,
+    29,
+    32
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Yamakeshwar.",
+   "extent": "7-Yamkeshwar Tehsil; KC Silogi, PCs 41-Langur Palla-3, 42-Langur Palla-4 & 43-Seela-1 of Lansdowne KC of 5-Lansdowne Tehsil; KC Pokhal, PCs 77-Seela-1, 78-Seela-2, 79-Seela-3, 80-Seela-4, 81- Seela-5, 82-Langur Palla-1, 83-Langur Palla-2, 84-Langur Palla-3, 85-Langur Palla-4 of Dogadda KC & Dogadda MB of 6-Kotdwar Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Vijay Brathwal",
+   "electors_12": 78147,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Vijay Brathwal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Ritu Khanduri Bhushan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Renu Bisht",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 68.8,
+     "basis": "measured"
+    },
+    "29": {
+     "pct": 12.4,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 11.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 37,
+   "name": "Pauri",
+   "district": "Garhwal",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    33,
+    34
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Srinagar.",
+   "extent": "KCs Pauri, Kot, Nahsain, Mundneshwar, Agrora & Pauri NP of 2- Pauri Tehsil; PCs 232-Rawatsyun, 233-Bangarsyun & 234- Edwalsyun-1 of Srinagar KC of 1-Srinagar Tehsil.",
+   "party12": "INC",
+   "winner_12": "Sunder Lal Mandrawal",
+   "electors_12": 85182,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sunder Lal Mandrawal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Mukesh Singh Koli",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Raj Kumar Pori",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 55.0,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 41.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 38,
+   "name": "Srinagar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    31,
+    34,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bironkhal, Thalisain.",
+   "extent": "PCs 229-Katulsyun-1, 230-Katulsyun-2, 231-Katulsyun-3, 235- Chlansyun-1, 236-Chlansyun-2, 237-Chlansyun-3, 238-Chlansyun-4 of Srinagar KC & Srinagar MB of 1-Srinagar Tehsil; KCs Chakisain & Thalisain of 3-Thalisain Tehsil; PCs 164-Ghurdaursyun-1, 165- Ghurdaursyun-2, 166-Ghurdaursyun-3, 169-Bidolsyun, 170- Balikandarsyun-1, 171-Balikandarsyun-2, 172-Balikandarsyun-3 & 173-Balikandarsyun-4 of (#) Pabbo KC of 2-Pauri Tehsil.",
+   "party12": "INC",
+   "winner_12": "Ganesh Godiyal",
+   "electors_12": 92823,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ganesh Godiyal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Dr. Dhan Singh Rawat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr. Dhan Singh Rawat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 4.6,
+     "basis": "measured"
+    },
+    "34": {
+     "pct": 11.2,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 81.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 39,
+   "name": "Chaubattakhal",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    31,
+    32,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Bironkhal, Lansdowne, Thalisain.",
+   "extent": "(#) 8-Chaubattakhal Tehsil; 9-Satpuli Tehsil & KC Birokhal of 3- Thalisain Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Teerath Singh",
+   "electors_12": 86551,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Teerath Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Satpal Maharaj",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Satpal Maharaj",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 51.6,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 29.3,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 13.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 40,
+   "name": "Lansdowne",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    30,
+    31,
+    32
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Dhumakot, Bironkhal.",
+   "extent": "4-Dhumakot Tehsil; KC Rikhnikhal, PCs 38-Kaudiya-2, 39-Kaudiya- 3, 40-Kaudiya-4, 44-Talla Badalpur-1, 45-Talla Badalpur-2, 46-Talla Badalpur-3 of Lansdowne KC & Lansdowne Cantt. Board of 5- Lansdowne Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Daleep Singh Rawat",
+   "electors_12": 76445,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Daleep Singh Rawat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Daleep Singh Rawat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dilip Singh Rawat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "30": {
+     "pct": 67.8,
+     "basis": "measured"
+    },
+    "31": {
+     "pct": 6.4,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 9.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 41,
+   "name": "Kotdwar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    29
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "PCs 73-Sukhron, 74-Saneh, 75-Haldukhata, 76-Motadhak of Dogadda KC & Kotdwara MB of 6-Kotdwar Tehsil. (#) Remaining part of Pabbo KC in Chaubattakhal Tehsil.",
+   "party12": "INC",
+   "winner_12": "Surendra Singh Negi",
+   "electors_12": 87222,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Surendra Singh Negi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "(Dr) Harak Singh Rawat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ritu Khanduri Bhushan",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "29": {
+     "pct": 97.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 42,
+   "name": "Dharchula",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    68,
+    70
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Didihat.",
+   "extent": "1-Munsiyari Tehsil & 2-Dharchula Tehsil.",
+   "party12": "INC",
+   "winner_12": "Harish Dhami",
+   "electors_12": 72755,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harish Dhami",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Harish Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Harish Singh Dhami",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "68": {
+     "pct": 4.0,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 93.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 43,
+   "name": "Didihat",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    66,
+    67,
+    68,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Pithoragarh, Gangolihat, Kanalichhina.",
+   "extent": "KCs Didihat, Muwani, Kanalichhina & Askot of 3-Didihat Tehsil; PCs 10-Bisabazerh, 11-Totanoula, 13-Kharkdauli, 14-Marhmanley, 15- Banda of Satshilling KC, PCs 17-Munakot, 23-Gaurihat, 24- Mazrikanda, 25-Dauli of Munakot KC, Forest area & Didihat NP of 5-Pithoragarh Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Bishan Singh Chuphal",
+   "electors_12": 75458,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Bishan Singh Chuphal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Vishan Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Bishan Singh Chuphal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 6.3,
+     "basis": "measured"
+    },
+    "68": {
+     "pct": 33.1,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 58.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 44,
+   "name": "Pithoragarh",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    66,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kanalichhina.",
+   "extent": "KCs Pithoragarh, Gurna, PCs 18-Kotali, 19-Naghar, 20-Badari, 21- Marhsoun, 22-Qwetarh of Munakot KC, PCs 9-Jibi, 12-Nainisaini, 16-Satgal of Satshilling KC & Pithoragarh NP of 5-Pithoragarh Tehsil.",
+   "party12": "INC",
+   "winner_12": "Mayukh Singh",
+   "electors_12": 87580,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Mayukh Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Prakash Pant",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Mayukh Singh Mahar",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 91.4,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 2.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 45,
+   "name": "Gangolihat",
+   "district": "Almora",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    67,
+    68
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Didihat.",
+   "extent": "4-Gangolihat Tehsil; KC Thal and Berinag of 3-Berinag Tehsil.",
+   "party12": "INC",
+   "winner_12": "Narayanram Arya",
+   "electors_12": 88073,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Narayanram Arya",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Meena Gangola",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Fakir Ram Tamta",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "67": {
+     "pct": 70.0,
+     "basis": "measured"
+    },
+    "68": {
+     "pct": 19.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 46,
+   "name": "Kapkote",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    42,
+    43,
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Kapkot.",
+   "extent": "PCs 2-Aare, 8-Khunauli, 10-Ghinghartola, 11-Chaura, 14-Tuperh & 20-Vilkhet of Bageshwar KC of 1-Bageshwar Tehsil; 2-Kanda Tehsil & 3-Kapkote Tehsil.",
+   "party12": "INC",
+   "winner_12": "Lalit Farswan",
+   "electors_12": 85489,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Lalit Farswan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Balwant Singh Bhouriyal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Suresh Singh Gariya",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "42": {
+     "pct": 62.2,
+     "basis": "measured"
+    },
+    "43": {
+     "pct": 13.9,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 8.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 47,
+   "name": "Bageshwar",
+   "district": "Almora",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    43,
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kanda.",
+   "extent": "1-Garur Tehsil; KC Kafaligair, PCs 13-Talla Katayur, 15-Dug Bageshwar, 21-Rawaikhal of Bageshwar KC & Bageshwar Municipality Board of 2-Bageshwar Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Chandan Ram Dass",
+   "electors_12": 99035,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Chandan Ram Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Chandan Ram Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Chandan Ram Das",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 31.6,
+     "basis": "measured"
+    },
+    "44": {
+     "pct": 61.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 48,
+   "name": "Dwarahat",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    45
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "7-Dwarahat Tehsil & 5-Choukhuttiya Tehsil.",
+   "party12": "INC",
+   "winner_12": "Madan Singh Bisht",
+   "electors_12": 84170,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Madan Singh Bisht",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Mahesh Singh Negi",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Madan Singh Bisht",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "45": {
+     "pct": 72.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 49,
+   "name": "Salt",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    46,
+    47
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bhikiasain.",
+   "extent": "4-Salt Tehsil; KCs 3-Manila, 4-Syalde & PC 9-Rotapani of 1- Bhikiasain KC of 1-Bhikiyasain Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Surendra Singh Jeena",
+   "electors_12": 90303,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Surendra Singh Jeena",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Surender Singh Jeena",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Mahesh Singh Jeena",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 28.1,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 65.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 50,
+   "name": "Ranikhet",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    45,
+    46,
+    47,
+    48
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Dwarahat, Bhikiasain, Salt.",
+   "extent": "KC 2-Machor, PCs 1-Bhikiasain, 2-Dob, 3-Bauli, 4-Singoli, 5-Batula, 6-Binaoli, 7-Sanara & 8-Bangora of 1-Bhikiasain KC of 1- Bhikiyasain Tehsil; KCs 2-Tarikhet, 3-Jalali, PCs 1-Ranikhet Sadar, 2-Pantkotuli, 3-Karchuli of 1-Ranikhet KC & Ranikhet (CB) of 2- Ranikhet Tehsil. 51 Someshwar (SC) 6-Someshwar Tehsil; PCs 4-Chaukuni, 5-Dugaurha, 6-Pankhura, 7- Suri, 8-Garshari, 9-Shaharo, 10-Kunwali, 11-Naini, 12-Riyuni, 13- Malli Riyuni & 14-Dida of 1-Ranikhet KC of 2-Ranikhet Tehsil; PCs 3-Daulaghat, 4-Khauri, 5-Govindpur, 6-Katarmal, 7-Kwerali, 8- Kathpuriya & 9-Shitalakhet of 1-Hawalbagh KC of 3-Almora Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Ajay Bhatt",
+   "electors_12": 74031,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ajay Bhatt",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Karan Mahara",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Pramod Nainwal",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 24.6,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 17.9,
+     "basis": "measured"
+    },
+    "48": {
+     "pct": 53.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 51,
+   "name": "Someshwar",
+   "district": "Almora",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    49
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": null,
+   "party12": "BJP",
+   "winner_12": "Ajay Tamta",
+   "electors_12": 75643,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ajay Tamta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rekha Arya",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Rekha Arya",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "49": {
+     "pct": 77.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 52,
+   "name": "Almora",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    49,
+    50,
+    51
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Someshwar, Jageshwar.",
+   "extent": "KC 2-Almora, PCs 1-Linguta, 2-Trinaili, 3-Nyoli, 4-Palyoun of 3- Panuwanaula KC, PCs 1-Hawalbagh, 2-Pakhura, 10-Sainj, 11- Doba, 12-Khunt, 13-Dhamas, 14-Jyoli of 1-Hawalbagh KC, Almora MB & Almora CB of 3-Almora Tehsil.",
+   "party12": "INC",
+   "winner_12": "Manoj Tiwari",
+   "electors_12": 78503,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Manoj Tiwari",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Raghunath Singh Chauhan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Manoj Tiwari",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "49": {
+     "pct": 10.7,
+     "basis": "measured"
+    },
+    "50": {
+     "pct": 71.1,
+     "basis": "measured"
+    },
+    "51": {
+     "pct": 4.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 53,
+   "name": "Jageshwar",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    50,
+    51
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Almora.",
+   "extent": "8-Jainthi Tehsil; 9-Bhanoli Tehsil; KC 4-Lamgarha & PC 5-Toli of 3- Panuwanaula KC of 3-Almora Tehsil.",
+   "party12": "INC",
+   "winner_12": "Govind Singh Kunjwal",
+   "electors_12": 81998,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Govind Singh Kunjwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Govind Singh Kunjwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Mohan Singh Mahara",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "50": {
+     "pct": 7.6,
+     "basis": "measured"
+    },
+    "51": {
+     "pct": 83.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 54,
+   "name": "Lohagat",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    65
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Lohaghat.",
+   "extent": "3-Pati Tehsil; 4-Lohaghat Tehsil & 5-Barakot Sub Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Sri Puran Singh",
+   "electors_12": 93567,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sri Puran Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Puran Singh Fartyal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Khushal Singh Adhikari",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "65": {
+     "pct": 75.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 55,
+   "name": "Champawat",
+   "district": "Almora",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "1-Champawat Tehsil & 2-Sri Purnagiri Tehsil.",
+   "party12": "INC",
+   "winner_12": "Sri Hemesh Kharkwal",
+   "electors_12": 76311,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sri Hemesh Kharkwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kailash Chandra Gahtori",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kailash Chandra Gahtori",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "64": {
+     "pct": 96.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 56,
+   "name": "Lalkuwa",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    53,
+    54
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Dhari, Haldwani.",
+   "extent": "6-Lalkuwa Tehsil; KC Kathgodam & PC 60-Arjunpur of Lalkua KC of 5-Haldwani Tehsil.",
+   "party12": "IND",
+   "winner_12": "Harish Chandra Durgapal",
+   "electors_12": 90260,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harish Chandra Durgapal",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Naveen Chandra Dumka",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Mohan Singh Bisht",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 95.1,
+     "basis": "measured"
+    },
+    "54": {
+     "pct": 3.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 57,
+   "name": "Bhimtal",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    52,
+    53,
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Mukteshwar, Dhari, Nainital.",
+   "extent": "4-Dhari Tehsil; KC Ramgarh, PCs 26-Chanfi, 27- Pandegaon, 28- East Chhakhata, 29-Rausil, 54-Pinraon of Bhimtal KC & Bhimtal NP of 3-Nainital Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Dan Singh Bhandari",
+   "electors_12": 86901,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Dan Singh Bhandari",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Ram Singh Kaira",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ram Singh Kaira",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 24.7,
+     "basis": "measured"
+    },
+    "53": {
+     "pct": 69.2,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 5.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 58,
+   "name": "Nainital",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    52,
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Mukteshwar.",
+   "extent": "1-Betalghat Tehsil; 2-Koshiyan Kutoli Tehsil; PCs 24-Bhawali, 25- West Chhakhata of 3-Bhimtal KC, PCs 31-Khurpatal, 32-Mangoli, 33-Bagar, 34-Syat, 35-Tallakota, 36-Saurh, 37-Amgarhi of Bagar KC, Forest Area, Nainital MB, Nainital CB & Bhowali MB of Nainital Tehsil.",
+   "party12": "INC",
+   "winner_12": "Sarita Arya",
+   "electors_12": 94360,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sarita Arya",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sanjeev Arya",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sarita Arya",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 64.4,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 31.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 59,
+   "name": "Haldwani",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    54
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Ward Nos. 1 to 25, Dhamua Dhoga Bandobasti (OG) - Ward No. 26, Korta (Chanmari Mohalla.) (OG) - Ward No. 27, Byura (OG) - Ward No. 28, Bamori Malli (OG) - Ward No. 29, Bamori Talli Bandobasti, Amrawati Colony, Shakti Vihar, Bhatt Colony (OG) - Ward No. 30 & Bamori Talli Kham (OG) - Ward No. 31 in Haldwani- cum-Kathgodam (MB+OG) of 5-Haldwani Tehsil.",
+   "party12": "INC",
+   "winner_12": "Indira Hridyesh",
+   "electors_12": 114739,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Indira Hridyesh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Indira Hridayesh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sumit Hridayesh",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "54": {
+     "pct": 99.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 60,
+   "name": "Kaladhungi",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    52,
+    53,
+    54,
+    55,
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Mukteshwar, Dhari, Haldwani, Nainital, Ramnagar.",
+   "extent": "7-Kaladhungi Tehsil; PC 30-Choupara of Bagar KC of 3-Nainital Tehsil; PCs 63-Haldwani Khas, 66-Lamachaur, 67-Fatehpur, 68- Bhagwanpur, 69-Kamluwaganja, 71-Lohariyashal, 73-Dewalchaur, 74-KusumKhera of Haldwani KC, PCs 70-Chandnichauk, 75- Anandpur of Lalkua KC, Mukhani (Roopnagar, Basant Vihar Colony and Judges Farm) (OG) - Ward No. 32, Manpur Uttar (Palika Yatayat Nagar) (OG) - Ward No. 33, Haripur Sukha (Van Cancer Hospital) (OG) - Ward No. 34, Haldwani Talli (OG) - Ward No. 35, Gojajally Uttar (Shishu Bhartiya Vidya Mandir) (OG) - Ward No. 36, Kusum Khera (OG) - Ward No. 37, Bithoria No.1 (OG) - Ward No. 38 in Haldwani-cum-Kathgodam (MB+OG) & Forest Area of 5- Haldwani Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Banshidhar Bhagat",
+   "electors_12": 113325,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Banshidhar Bhagat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Bansidhar Bhagat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Banshidhar Bhagat",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 0.9,
+     "basis": "measured"
+    },
+    "53": {
+     "pct": 28.8,
+     "basis": "measured"
+    },
+    "54": {
+     "pct": 9.8,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 21.8,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 37.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 61,
+   "name": "Ramnagar",
+   "district": "Garhwal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "8-Ramnagar Tehsil.",
+   "party12": "INC",
+   "winner_12": "Amrita Rawat",
+   "electors_12": 90668,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Amrita Rawat",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Diwan Singh Bisht",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Diwan Singh Bisht",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "56": {
+     "pct": 97.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 62,
+   "name": "Jaspur",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "5-Jaspur Tehsil & KC 1-Kunda of 4-Kashipur Tehsil.",
+   "party12": "INC",
+   "winner_12": "Dr. Shailendra Mohan Singhal",
+   "electors_12": 98839,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Dr. Shailendra Mohan Singhal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Adesh Singh Chauhan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Adesh Singh Chauhan",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 76.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 63,
+   "name": "Kashipur",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    57,
+    58
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jaspur.",
+   "extent": "PCs 3-Painga, 6-Khokhratal, 7-Banskhera, 8-Basai of 2-Painga KC, PCs 10-Maheshpura, 11-Dhanori Patti, 12-Gopipura, 13-Gangapur Gonsai, 14-Manpur of 3 Kashipur KC, Kashipur MB & Ramnagar Forest Range of 4-Kashipur Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Harbhajan Singh Cheema",
+   "electors_12": 117999,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harbhajan Singh Cheema",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Harbhajan Singh Cheema",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Trilok Singh Cheema",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "57": {
+     "pct": 28.3,
+     "basis": "measured"
+    },
+    "58": {
+     "pct": 51.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 64,
+   "name": "Bajpur",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    56,
+    57,
+    58,
+    59
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ramnagar, Jaspur, Kashipur.",
+   "extent": "PCs 2-Rajpura Rani, 4-Barkhera Pandey, 5-Dabhura of 2-Painga KC, PCs 9-Dhakiya Kalan, 15-Partappur, 16-Kundeshwari of 3- Kashipur KC & Mahaua Kheraganj TAC of 4-Kashipur Tehsil; PCs 3-Maholi Jungle, 4-Hazira, 5-Barhaini, 6-Haripura, 7-Baria Daulat, 8-Bhajuwa Nagla of 1-Bajpur-I KC, PCs 12-Guljarpur, 13-Rampura Sakar, 14-Sultanpur, 15-Faridpur, 16-Vikrampur, 17-Jogipura, 18- Biraha, 20-Maheshpura, 21-Khusalpur, 22-Ratanpur, 23-Betkheri of 2-Bajpur-II KC, A-M.B. Bajpur, Sultanpur TAC & Banna Khera Forest Range of 6-Bajpur Tehsil.",
+   "party12": "INC",
+   "winner_12": "Yashpal Arya",
+   "electors_12": 109343,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Yashpal Arya",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Yashpal Arya",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Yashpal Arya",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "56": {
+     "pct": 20.9,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 1.5,
+     "basis": "measured"
+    },
+    "58": {
+     "pct": 22.0,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 49.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 65,
+   "name": "Gadarpur",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    53,
+    59,
+    60
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Dhari, Bajpur, Pantnagar.",
+   "extent": "PCs 1-Kelakheda, 2-Charkarpur, 9-Barwala, 10-Ganeshpur, 11- Badripur of 1-Bajpur-I KC, PC 19-Mudiyakala of 2-Bajpur-II KC & C- T.A.C. Kelakhera of 6-Bajpur Tehsil; KC 1-Gadarpur, PCs 8-Kulha, 9-Dhanpur Vijaypur, 13-Vijaynagar of 2-Dineshpur KC, Pipal Parao Forest Range, Dineshpur TAC & Gadarpur MB of 7-Gadarpur Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Arvind Pande",
+   "electors_12": 103062,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Arvind Pande",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Arvind Pandey",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Arvind Pandey",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 14.8,
+     "basis": "measured"
+    },
+    "59": {
+     "pct": 36.6,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 40.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 66,
+   "name": "Rudrapur",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    60,
+    61
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Pantnagar, Rudrapur-Kichha.",
+   "extent": "PCs 10-Barirai, 11-Mehtosh, 12-Chandayan & 14-Amarpur of 2- Dineshpur KC of 7-Gadarpur Tehsil; PCs 20-Rampura, 22-Danpur, 23-Matkota, 24-Kalyanpur of 2-Rudrapur KC, Tanda Forest Range & Rudrapur MB of 3-Kichha Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Raj Kumar Thukral",
+   "electors_12": 119500,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Raj Kumar Thukral",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rajkumar Thukral",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Shiv Arora",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "60": {
+     "pct": 87.3,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 2.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 67,
+   "name": "Kichha",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "new",
+   "src": [
+    53,
+    60,
+    61
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Dhari, Pantnagar, Rudrapur-Kichha.",
+   "extent": "PCs 4-Najimabad, 5-Bhanga, 6-Sirolikala, 7-Kichha, 8-Indrapur, 10- Jawharnagar, 11-Nagla of 1-Kichha KC, Dauli Forest Range, PCs 12-Chhinki, 13-Darau, 14-Kurauya, 15-Chukti, 16-Bhamorla, 17- Simla Pistaur, 18-Kanakpur, 19-Dewariya, 21-Phoolbagh of Rudrapur KC & Kichha MB of 3-Kichha Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Rajesh Shukla",
+   "electors_12": 95287,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Rajesh Shukla",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rajesh Shukla",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Tilak Raj Behar",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 24.6,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 30.7,
+     "basis": "measured"
+    },
+    "61": {
+     "pct": 37.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 68,
+   "name": "Sitarganj",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    61,
+    62
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rudrapur-Kichha.",
+   "extent": "PCs 1-Kunwarpur, 2-Tiliyapur, 3-Nakha, 4-Nakuliya, 5-Pindri, 6- Baruabagh, 9-Rampura, 10-Roodpur, 11-Nakatpura, 12-Sarkarha, 13-Sitarganj of 1-Sitarganj KC, Sitarganj MB & Shaktigarh TAC of 2- Sitarganj Tehsil; PCs l-Firozpur, 2-Bara, 3-Shahdora & 9-Kotkhra of 1-Kichha KC of 3-Kichha Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Kiran Chand Mandal",
+   "electors_12": 91480,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Kiran Chand Mandal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Saurabh Bahuguna",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Saurabh Bahuguna",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "61": {
+     "pct": 3.1,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 84.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 69,
+   "name": "Nanak Matta",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "ST",
+   "status": "new",
+   "src": [
+    62,
+    63
+   ],
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Sitarganj, Khatima.",
+   "extent": "KC 2-Nanak Matta, PCs 7-Bijati, 8-Mainajhundi of 1-Sitarganj KC, (ST) Barakoli Forest Range & Raikhal Forest Range of 2-Sitarganj Tehsil; PCs 1-Umarukhurd, 3-Gurkhera, 4-Jhankat, 5-Paheniya, 7- Naugwa Thaggu, 8-Mundali & 10-Phulliya of 1-Khatima KC of 1- Khatima Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Prem Singh",
+   "electors_12": 90386,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Prem Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Dr. Prem Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gopal Singh Rana",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "62": {
+     "pct": 30.5,
+     "basis": "measured"
+    },
+    "63": {
+     "pct": 49.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 70,
+   "name": "Khatima",
+   "district": "Nainital-Udhamsingh Nag",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    63
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "PCs 2-Sarpura, 6-Jarasu Partapur, 9-Bari Anjaniya, 11-Sisiya, 12- Majhola, 13-Nagla Tarai, 14-Jadopur, 15-Haldi, 16-Sunpahar of 1- Khatima KC, A-M.B. Khatima, 1-Jhankaiya Forest Range, 2-Mahof Forest Range, KC 2-Bigra Bag, Dogari Forest Range, Khatima Forest Range, Kilpura Forest Range & Lohiya Head Forest Range of 1-Khatima Tehsil.",
+   "party12": "BJP",
+   "winner_12": "Pushkar Singh Dhami",
+   "electors_12": 91104,
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Pushkar Singh Dhami",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pushkar Singh Dhami",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Bhuwan Chandra Kapri",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 88.1,
+     "basis": "measured"
+    }
+   }
+  }
+ ],
+ "party_overlay": {
+  "old": {
+   "BJP": 35,
+   "INC": 21,
+   "BSP": 8,
+   "UKKD": 3,
+   "IND": 3
+  },
+  "new": {
+   "INC": 32,
+   "BJP": 31,
+   "IND": 3,
+   "BSP": 3,
+   "UKDP": 1
+  },
+  "parties": [
+   "BJP",
+   "BSP",
+   "INC",
+   "IND",
+   "UKDP",
+   "UKKD"
+  ]
+ },
+ "sources": [
+  "Election Commission of India, delimitation of assembly constituencies in Uttaranchal, Final Statement II, 2001, made under section 10 of the Uttar Pradesh Reorganisation Act, 2000",
+  "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008, Schedule XXIX",
+  "Election Commission of India, constituency-level results and elector counts, 2002–2026",
+  "Constituency geometry: third-party digitisation (skthewimp/india-constituency-maps)"
+ ],
+ "map_caveats": [
+  "This is one of a small number of states in the archive whose pre-2008 map is not the 1976 order. Uttarakhand's seventy constituencies were delimited by the Election Commission in 2001 for the newly created state, under section 10 of the Uttar Pradesh Reorganisation Act, 2000, which amended the 1976 order through its Second Schedule.",
+  "The pre-2008 extents are given as the tehsils and kanungo circles each constituency was built from, summarised from the Commission's Final Statement II, which lists them down to individual land circles.",
+  "The two mapped layers are already in register with one another and have not been adjusted. Their outlines agree to an intersection-over-union of 0.97 as supplied.",
+  "Reservation status is taken from the Election Commission's records rather than from the constituency geometry, whose post-2008 reservation field reports one Scheduled Tribe seat where there are two.",
+  "Territory lineage is given on two footings, and each seat record states which applies to it. For 70 of the 70 pre-2008 seats the link is derived from the text of the two orders, which describe constituencies in the same vocabulary of tehsils, kanungo circles and patwar circles. For the remainder the successor shown is the one holding the largest share of the old seat's area, inferred from the boundaries alone.",
+  "Territory percentages are measured from the mapped boundaries in every case, and are areal shares, not shares of the electorate."
+ ],
+ "footnotes": [
+  "Uttarakhand was created on 9 November 2000 from the hill districts of Uttar Pradesh. Its interim assembly comprised the twenty-two members elected from those districts to the Uttar Pradesh assembly of 1996; the seventy-seat map was first contested in 2002.",
+  "Reservation status reflects the category in force at the time of the relevant order, not any later reclassification."
+ ]
+}
