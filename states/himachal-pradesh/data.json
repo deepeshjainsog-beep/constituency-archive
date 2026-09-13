@@ -8092,8 +8092,7 @@
  "sources": [
   "Delimitation of Parliamentary and Assembly Constituencies Order, 1976, Himachal Pradesh schedule",
   "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
-  "Election Commission of India, constituency-level results and elector counts, 1982–2026",
-  "Constituency geometry: third-party digitisation (skthewimp/india-constituency-maps)"
+  "Election Commission of India, constituency-level results and elector counts, 1982–2026"
  ],
  "map_caveats": [
   "The pre-2008 boundaries have been georectified. The source digitisation of the 1976-order map was displaced relative to the 2008-order map; the correction was fitted on the outer boundary of the state, which is unchanged between the two orders, and raises the agreement between the two outlines from an intersection-over-union of 0.95 to 0.97.",
