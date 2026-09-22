@@ -50063,8 +50063,7 @@
  "sources": [
   "Election Commission of India, statistical reports on Uttar Pradesh assembly elections, 1980–2022",
   "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
-  "Elections.in, constituency-level winner records, 1980–2022",
-  "Post-2008 constituency geometry: third-party digitisation (skthewimp/india-constituency-maps)"
+  "Elections.in, constituency-level winner records, 1980–2022"
  ],
  "map_caveats": [
   "Territory lineage is given for all 403 seats in both orders, but on two different footings, and each seat record states which applies to it.",
