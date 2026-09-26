@@ -30,13 +30,15 @@
             "slug": "bihar",
             "name": "Bihar",
             "kind": "state",
-            "status": "coming-soon"
+            "status": "live",
+            "last_updated": "25 September 2026"
         },
         {
             "slug": "chhattisgarh",
             "name": "Chhattisgarh",
             "kind": "state",
-            "status": "coming-soon"
+            "status": "live",
+            "last_updated": "25 September 2026"
         },
         {
             "slug": "goa",
@@ -76,8 +78,9 @@
             "slug": "jharkhand",
             "name": "Jharkhand",
             "kind": "state",
-            "status": "coming-soon",
-            "note": "Excluded from the 2002-Act exercise by the Delimitation (Amendment) Act, 2008."
+            "status": "live",
+            "note": "Excluded from the 2002-Act exercise by the Delimitation (Amendment) Act, 2008.",
+            "last_updated": "25 September 2026"
         },
         {
             "slug": "karnataka",
@@ -97,7 +100,8 @@
             "slug": "madhya-pradesh",
             "name": "Madhya Pradesh",
             "kind": "state",
-            "status": "live"
+            "status": "live",
+            "last_updated": "25 September 2026"
         },
         {
             "slug": "maharashtra",
@@ -142,7 +146,8 @@
             "slug": "odisha",
             "name": "Odisha",
             "kind": "state",
-            "status": "coming-soon"
+            "status": "live",
+            "last_updated": "25 September 2026"
         },
         {
             "slug": "puducherry",
