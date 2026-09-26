@@ -1,0 +1,7432 @@
+{
+ "title": "Jharkhand",
+ "name": "Jharkhand",
+ "assembly": "Jharkhand Legislative Assembly",
+ "slug": "jharkhand",
+ "in_force": "2005–2005",
+ "pre_election_year": 2005,
+ "post_election_year": 2009,
+ "pre_election_label": "2005",
+ "post_election_label": "2009",
+ "pre_order_year": 1976,
+ "post_order_year": 2008,
+ "pre_order_label": "1976 order",
+ "post_order_label": "2008 order",
+ "maps": {
+  "pre2008": "map-pre2008.svg",
+  "post2008": "map-post2008.svg",
+  "hero": "hero.jpg"
+ },
+ "intro": [
+  "Jharkhand was carved out of Bihar on 15 November 2000, taking eighty-one of that state's assembly seats. Those eighty-one had been drawn by the 1976 order for an undivided Bihar, scattered across the Santhal Parganas in the north-east and Chota Nagpur in the south, and they were contested once as Jharkhand's own, in 2005, before the 2008 order redrew them.",
+  "The assembly map Jharkhand used for a single election"
+ ],
+ "figures": [
+  {
+   "k": "Seats",
+   "v": "81 → 81"
+  },
+  {
+   "k": "Districts",
+   "v": "14 → 14"
+  },
+  {
+   "k": "SC-reserved",
+   "v": "9 → 9"
+  },
+  {
+   "k": "ST-reserved",
+   "v": "28 → 28"
+  }
+ ],
+ "stats": [
+  {
+   "k": "New seats (2008)",
+   "v": "0"
+  },
+  {
+   "k": "2005 result",
+   "v": "BJP 30 · JMM 17 · INC 9 · RJD 7"
+  },
+  {
+   "k": "2009 result",
+   "v": "BJP 18 · JMM 18 · INC 14 · JVM 11"
+  }
+ ],
+ "district_grid_old": [
+  {
+   "name": "Chatra"
+  },
+  {
+   "name": "Dhanbad"
+  },
+  {
+   "name": "Dumka"
+  },
+  {
+   "name": "Giridih"
+  },
+  {
+   "name": "Godda"
+  },
+  {
+   "name": "Hazaribagh"
+  },
+  {
+   "name": "Jamshedpur"
+  },
+  {
+   "name": "Khunti"
+  },
+  {
+   "name": "Kodarma"
+  },
+  {
+   "name": "Lohardaga"
+  },
+  {
+   "name": "Palamu"
+  },
+  {
+   "name": "Rajmahal"
+  },
+  {
+   "name": "Ranchi"
+  },
+  {
+   "name": "Singhbhum"
+  }
+ ],
+ "district_grid_new": [
+  {
+   "name": "Chatra"
+  },
+  {
+   "name": "Dhanbad"
+  },
+  {
+   "name": "Dumka"
+  },
+  {
+   "name": "Giridih"
+  },
+  {
+   "name": "Godda"
+  },
+  {
+   "name": "Hazaribagh"
+  },
+  {
+   "name": "Jamshedpur"
+  },
+  {
+   "name": "Khunti"
+  },
+  {
+   "name": "Kodarma"
+  },
+  {
+   "name": "Lohardaga"
+  },
+  {
+   "name": "Palamu"
+  },
+  {
+   "name": "Rajmahal"
+  },
+  {
+   "name": "Ranchi"
+  },
+  {
+   "name": "Singhbhum"
+  }
+ ],
+ "constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Rajmahal",
+   "district": "Rajmahal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    1,
+    2
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Borio.",
+   "extent": "Rajmahal and Sahibganj police stations in Raj- mahal sub-division.",
+   "party07": "INC",
+   "winner_07": "THOMAS HANSDA",
+   "electors_07": 225100,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "THOMAS HANSDA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 86.7,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 5.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 2,
+   "name": "Borio",
+   "district": "Rajmahal",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    2,
+    3,
+    17
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barhait, Godda.",
+   "extent": "Borio and Taljhari police stations in Rajmahal sub-division; and Boarijor police station (excluding G. Ps. Rajabhita, Kero, Kairasol, Bara Telo and Barapipra) in Godda sub-division.",
+   "party07": "BJP",
+   "winner_07": "TALA MARANDI",
+   "electors_07": 192282,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "TALA MARANDI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "2": {
+     "pct": 91.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 3,
+   "name": "Barhait",
+   "district": "Rajmahal",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    2,
+    3,
+    17
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Borio, Godda.",
+   "extent": "Barhait and Ranga police stations in Rajmahal sub-division; and Sundarpahari police station and G.Ps. Rajabhita, Kero, Kairasol, Bara Telo and Barapipra in Boarijar police station in Godda sub-division.",
+   "party07": "JMM",
+   "winner_07": "THOMAS SOREN",
+   "electors_07": 162489,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "THOMAS SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "2": {
+     "pct": 5.6,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 91.1,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 1.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 4,
+   "name": "Litipara",
+   "district": "Rajmahal",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    4
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Litipara, Amrapara and Hiranpur police stations in Pakaur sub-division; and Gopikandar police station in Dumka Sadar sub-division.",
+   "party07": "JMM",
+   "winner_07": "SUSHILA HANSDAK",
+   "electors_07": 152751,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SUSHILA HANSDAK",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 89.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 5,
+   "name": "Pakaur",
+   "district": "Rajmahal",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    5
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Pakhur.",
+   "extent": "Pakaur police station in Pakaur sub-division; and Barharwa police station in Rajmahal sub-division.",
+   "party07": "INC",
+   "winner_07": "ALAMGIR ALAM",
+   "electors_07": 220945,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "ALAMGIR ALAM",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "5": {
+     "pct": 86.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 6,
+   "name": "Maheshpur",
+   "district": "Rajmahal",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    6
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Maheshpur and Pakuria police stations. in Pakaur sub-division.",
+   "party07": "JMM",
+   "winner_07": "SUPHAL MARANDI",
+   "electors_07": 172991,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SUPHAL MARANDI",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 92.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 7,
+   "name": "Sikaripars",
+   "district": "Dumka",
+   "type": "ST",
+   "status": "renamed",
+   "dest": [
+    7
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Shikaripara.",
+   "extent": "Sikaripara, Raneshwar and Kathikundi police stations in £)umka Sadar sub-division.",
+   "party07": "JMM",
+   "winner_07": "NALIN SOREN",
+   "electors_07": 173000,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "NALIN SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 94.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 8,
+   "name": "Nala",
+   "district": "Dumka",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    8,
+    9
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jamtara.",
+   "extent": "Nala and Kundahit police stations in Jamtara sub- division.",
+   "party07": "JMM",
+   "winner_07": "RABINDRA NATH MAHATO",
+   "electors_07": 179650,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RABINDRA NATH MAHATO",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "8": {
+     "pct": 95.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 9,
+   "name": "Jamtara",
+   "district": "Dumka",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    8,
+    9,
+    13,
+    14
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Nala, Madhupur, Sarath.",
+   "extent": "Jamtara police station (excluding G. Ps. Karma- tanr, Sahajpur, Pindari, Lakhanpur, Rataniya, Rampurbhitra and Kajra) and Narayanpur police station in Jamtara sub- division. 156. Sarath.—Sarath and Palojori police stations in Deoghar sub- division; and G. Ps. Karmatanr, Sahajpur, Pindari, Lakhan- pur, Rataniya, Rampurbhitra and Kajra in Jamtara police station in Jamtara sub-division. Serial no., name and extent of constituency 157. Madhupur.—Madhupur and Karon police stations and G.Ps. Kusmil, Chanddih, Pathra and Basbariya in Jasidih police station in Deoghar sub-division. 358. Deoghar (SC).—Deoghar town and Mohanpur police stations and Jasidih police station (excluding G. Ps. Kusmil, Chanddih, Pathra and Basbariya) in Deoghar sub-division. I 59« Jarmundi.—Jarmundi police station in Dumka Sadar sub- division; and Sarawan police station in Deoghar sub-division.",
+   "party07": "BJP",
+   "winner_07": "BISHNU PRASAD BHAIYA",
+   "electors_07": 210012,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "BISHNU PRASAD BHAIYA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 94.9,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 1.8,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 1.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 10,
+   "name": "Dumka",
+   "district": "Dumka",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    10,
+    11
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jama.",
+   "extent": "Dumka Town, Dumka Muffassil and Masalia police stations in Dumka Sadar sub-division. 361. Jama (ST).—Jama and Ramgarh police stations in Dumka Sadar sub-division. X62. Poreyahat.—Poreyahat police station and G. Ps. Burhikura, Dammajhilua, Sandmara, Nonbatta, Makhni, Pathra and Pun- siya in Godda police station in Godda sub-division; and Saraiyahat police station in Dumka Sadar sub-division. 363. Godda.—Godda police station (excluding G. Ps. Burhikura, Dammajhilua, Sandmara, Nonbatta, Makhni, Pathra and Punsiya) and Pathargama police station in Godda sub-division. 164. Mahagama.—Mahagama and Meherma police stations in Godda sub-division. 165. Pirpainti.—Pirpainti police station and Colgong police station (excluding Colgong municipality and G. Ps. Kodwar, Janidih, Ghogha, Pakkisarai, Amapur, Ekchari, Bholsar, Bikrampur-Dhanaura, Channo, Saur-Mahagwan, Lachh- mipur, Babhania, Mahesha Munda and Sobhnathpur) in Bhagalpur Sadar sub-division. Serial no., name and extent of constituen y 166. Colgong.—Colgong municipality and G. Ps. Kodwar, Ja- nidih, Ghogha, Pakkisarai, Amapur, Ekchari, Bholsar, Bikrampur-Dhanaura, Channo, Saur-Mahagwan, Lachh- mipur-Babhania, Mahesh Munda and Sobhnathpur in Colgong police station; Sabour police station (excluding G. Ps. Sabour, Fatehpur, Bahadurpur, Sardho, Rajandipur, Kurudih Sarath, Korha, Lodipur, Khutaha and village 240- Ustu); and Sonhaula police station in Bhagalpur Sadar sub- division. •267. Nathnagar.—Nathnagar police station (excluding such areas as are included in Bhagalpur municipality), Jagdishpur police station and G. Ps. Sabour, Fatehpur, Bahadurpur, Sardho, Rajandipur, Kurudih, Sarath, Korha, Lodipur, Khjtaha and Village 240-Ustu in Sabour police station in Bhagalpur Sadar sub-division. 168. Bhagalpur.—Bhagalpur municipality in Bhagalpur Sadar sub-division. 169. Gopalpur.—Gopalpur police station and Naugachhia police station (excluding G. Ps. Chorhar, Tulsipur, Kharik Bazar, Dhrubganj, Gotkharik, Telghi, Mirjafri, Shankarpur Nanhkar and Akidatpur in Naugachhia sub-division. :17c Bihpur.—Bihpur police station and G. Ps. Chorhar, Tulsi- pur, Kharik Bazar, Dhrubganj, Gotkharik, Telghi, Mir- jafri, Shankarpur Nanhkar and Akidatpur in Naugachhia police station in Naugachhia sub-division. Tiji. Sultanganj.—Sultanganj and Shahkund police stations in Bhagalpur Sadar sub-division. H72. Amarpur.—Amarpur police station and Shambhuganj police station (excluding G. Ps. Karanja-Maldih, Bishunpur, Pakaria, Parmanandpur, Nijhri Bhatsila, Basbita, Bhalua and Bela) in Banka sub-division. 173. Dhuraiya(SC)—^DhuraiyaandRajaun police stations in Banka sub-division. Serial no., name ard extent of constituency 174. Banka.—Banka police station in Banka sub-division. 175. Belhar.—Belhar police station and G. Ps. Karanja, Maldih, Bishunpur, Pakaria, Parmanandpur, Nijhri Bhatsila, Basbita, Bhalua and Bela in Shambhuganj police station and G. Ps. Phulidumar, Bithla, Suia Bathan, Kasba Woshila, Tetaria, Tona Pathar, Katsakra and Phulhara in Katoria police station in Banka sub-division. 176. Katoria.-—Katoria police station (excluding G. Ps. Phulidu- mar, Bithua, Suia Bathan, Kasba Woshila, Tetaria, Tona Pathar, Katsakra and Phulhara) and Baunsi police station in Banka sub-division. 177. Chakai.—Chakai, Chandramandih and Sono police stations in Jamui sub-division. 178. Jhajha.—Jhajha police station and G. Ps. Mallehpur, Kolhua Numar, Katauna, Darha, Gidhaur Patsanda, Maura, Ratan- pur and Guguldih in Lakshmipur police station in Jamui sub- division. 179. Tarapur.—Tarapur and Sangrampur police stations in Monghyr Sadar sub-division. 180. Kharagpur.—Kharagpur police station in Monghyr Sadar sub-division; and Lakshmipur police station (excluding G. Ps. Mallehpur, Kolhua Numar, Katauna, Darha, Gidhaur Patsanda, Maura, Ratanpur and Guguldih) in Jamui sub- division. 181. Parbatta.—Parbatta police station and G. Ps. Ithari, Sirnia, Pasraha, Fatehpur, Rampur, Malia, Ratan, Gogri, Mirganj, Jamalpur Gaon, Khatha, Sondiha, Sher Chakla, Jamalpur Bazar and village 318—Muskipur in Gogri police station in Khagaria sub-division. Serial no., name and extent of constituency 182. Chautham.—Gogri police station (excluding G. Ps. Ithari, Sirnia, Pasraha, Fatehpur, Rampur, Malia, Ratan, Gogri, Mirganj, Jamalpur Gaon, Khatha, Sondhia, Sher Chakla, Jamalpur Bazar and village 318—Muskipur), Beldaur police station and Chautham police station (excluding G. Ps. Amani, Saidpur, Khutia, Chukti, Thatha, Balha Khirnia, Dhutauli ivialpa, Rohiar Bangalwa, Pipra, Garhia and Nir- pur) in Khagaria sub-division. 183. Khagaria.—G. Ps. Amani, Saidpur, Khutia, Chukti, Thatha, Balha, Khirnia, Dhutauli Malpa, Rohiar Bangalwa, Pipra, Garhia and Nirpur in Chautham police station and Khagaria police station (excluding G. Ps. Bhela Simari, Olapur Gan- gaur, Tetrabad Chainpura, Jalkaura, Labhagaon Sobhani, Dhusmari Bishanpur, Ranishakarpura and Bhagwan Chak) in Khagaria sub-division. 184. Alauli (SC).—G.Ps. Bhela Simari, Olapur Gangaur, Tetrabad Chainpura, Jalkaura, Labhagaon Sobhani, Dhusmari Bi- shanpur, Ranishakarpura and Bhagwan Chak in Khagaria police station and Alauli police station in Khagaria sub- division. 185. Monghyr.—Monghyr municipality, G. Ps. Tikarampur, Mahuli Shankarpur, Sitalpur, Kataria Sujawalpur, Hasanpur, Mai-Dariapur, Nawagarhi, Charaon, Maheshpur, Manikpur, Lachhmipur Taufir, Taufir, Kutlupur, Jakarnagar, Jamin- digri, Kutlupur, Bengali, Janki Nagar, Kishanpur, Harnathpur, Indrukh (I), Indrukh (II), Bank-Harpur, Ram Nagar and villages 141—Sitalpur, 199— Sahilchak, 419— Herodiara and 420— Farda in Monghyr Mufassil police station in Monghyr Sadar sub-division. Serial no., name and extent of constituency",
+   "party07": "IND",
+   "winner_07": "STEPHEN MARANDI",
+   "electors_07": 195067,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "STEPHEN MARANDI",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 94.4,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 3.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 11,
+   "name": "Jama",
+   "district": "Dumka",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    11
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Jamalpur municipality and Monghyr Mufassil police station (excluding Monghyr municipality and G.Ps. Tikarampur, Mihuli Shankarpur, Sitalpur, Kataria, Sujawalpur, Hasanpur, Mai Dariapur, Nawagarhi, Charaon, Maheshpur, Manekpur, Lachhmipur Taufir, Taujir, Kutlupur, Jakarnagar, Jamindigri, Kutulpur, Bengali, Janki Nagar, Kishanpur, Harnathpur, Indrukh (I), Indrukh (II), Bank Harpur, Ramnagar and villages 141—Sitalpur, 199—Sahil Chak, 419—Herodiara and 420—Farda) in Monghyr Sadar sub-division. 187. Surajgarha.—Surajgarha police station and G. Ps. Reota, Rampur, Mananpur, Sangrampur, Titaichak, Bannubagicha, Pacham, Singhchak and Mahesh Leta in Lakhisarai police station in Lakhisarai sub-division.",
+   "party07": "BJP",
+   "winner_07": "SUNIL SOREN",
+   "electors_07": 166017,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SUNIL SOREN",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "11": {
+     "pct": 94.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 12,
+   "name": "Jarmundi",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    12,
+    13
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Madhupur.",
+   "extent": "Jamui and Khaira police stations in Jamui sub- division. 189. Sikandra (SC).—Sikandra police station and G. Ps. Matasi, Pirhinda, Ghoghsa, Halsi, Konag, Nand Nawan, Tetarhat, Nongarh Satsanda, Gerua Pursanda and Shiv Shona in Halsi police station in Jamui sub-division. 190. Lakhisarai.—Lakhisarai police station (excluding G. Ps. Reota, Rampur, Mananpur, Sangrampur, Titaichak, Bannubagicha, Pacham, Singhchak and Mahesh Leta) and Barahiya police station in Lakhisarai sub-division. -.191. JSheikhpura.—Sheikhpura (N) Urban and G. Ps. Pachna, Kunda, Hathiawan, Kaithwan, Gagari, Abgil and Katari and Villages 222—Maninda and 229—Hansauri in Sheikhpura police station and Ariari police station in Lakhisarai sub- division; and Halsi police station (excluding G. Ps. Matasi, Pirhinda, Ghoghsa, Halsi, Konag, Nand Nawan, Tetarhat, Nongarh Satsanda, Gerua Pursanda and Shiv Shona) in Jamui sub-division. Serial no., name and extent of constituency 192. Barbigha(SC).—Barbigha police station and Sheikhpura police station (excluding Sheikhpura (N) Urban and G. Ps. Pachna,Kunda,Hathiawan, Kaithwan, Gagari, Abgil and Katari and Villages 222—Maninda and 229—Hansauri) in Lakhisarai sub-division. 193. Asthawan.—Asthawan and Sarmera police stations in Biharsharif sub-division. 194. Bihar.—Biharsharif municipality and Biharsharif police station (excluding G. Ps. Pawa, Nepura-Beraunti, Hargawan and Tetrawan) in Biharsharif sub-division. 195. Rajgir (SC).—Giriak police station, Rajgir NAC, and G. Ps. Nanan, Chandimau, Karianna-Bindi Dih, Kul-Fatehpur, Darhera-Bhadari, Nepura-Gorawan, Mahuri, Ghustama- Surumpur, Siwan, Nai Pokhar, Sithaura and Silao Union Board in Silao police station and G. Ps. Pawa, Nepura- Beraunti, Hargawan and Tetrawan in Biharsharif police station in Biharsharif sub-division. 196. Nalanda.—Noorsarai police station, and Silao police station (excluding Rajgir NAC and G. Ps. Nanan, Chandimau, Karianna-Bindi Dih, Kul-Fatehpur, Darhera-Bhadari, Nepura-Gorawan, Mahuri, Ghustama-Surumpur, Siwan, Nai Pokhar, Sithaura, and Silao Union Board) in Biharsharif sub- division. 197. Islampur.—Islampur police station and Ekangar Sarai police station (excluding G. Ps. Lodipur Mandachh, Makhdumpur Parthu, Ekangar Sarai Lodipur-Chamhera, Dhurgaon- Madanpur, Bazidpur-Khirauti Dumri, Alawan and Sinawan) in Hilsa sub-division. 198. Hilsa.—Hilsa Notified Area Committee, Hilsa police station and G. Ps. Lodipur Mandachh, Makhdumpur, Parthu, Ekangar Sarai, Lodipur Chamhera, Dhurgaon Madanpur, Bazidpur Khirauti Dumri, Alawan and Sinawan in Ekangar Sarai police station in Hilsa sub-division. Serial no., name and extent of constituency 199. Cbandi.—Chandi police station in Hilsa sub-division. 200. Harnaut.—Rahui and Harnaut police stations in Biharsharif sub-division. 201. Mokameh.—Mokameh police station and G. Ps. Saksohara, Andauli-Darweshpura, Baruane, Darwe Bhadaur, Bakawan, Khushal Chak, Khajurar, Ajgara, Sarhan^ and Kondi in Barh police station in Barh sub-division. 202. Barh.—Barh police station (excluding G. Ps. Saksohara, Andauli-Darweshpura, Baruane, Darwe Bhadaur, Bakawan, Khushal Chak, Khajurar, Ajgara, Sarhan and Kondi) in Barh sub-division. 203. Bakhtiarpur.—Bakhtiarpur police station in Barh sub-division; Khusropur Notified Area Committee, and G. Ps. Nimi Salarpur, Mohiuddinpur Kashmiriya, Kaimpur Hasanpur, Malpur Chaunra, Netar Kohawan Erai Benipur, Mosimpur, Baikatpur, Hardas Bigha, Singriawan, Shahjahanpur, Dania- wan, Chhoti Nawada, and villages 23-Raipura, 24—Warispur, 25-Neyazipur, 26-Gauri Panda, 27—Bankipur Machhariawan, 28-Dost-Mohammadpur 117-Nasirpur-Bulwa, 119—Kasimpur, 120—Mominpur; 127—Raipur Balua, 137.—Rasulpur and 143'—Sheikhpura in Fatwa police station in Patna City sub-division. 204. Fatwa (SC).—Fatwa police station (excluding Khusropur Notified Area Committee and G.Ps. Nimi Salarpur, Mohiu- ddinpur Kashmiriya, Kaimpur Hasanpur, Malpur Chaunra, Netar Kohawan Erai Benipur, Mosimpur Baikatpur, Hardas Bigha, Singriawan, Shahjahanpur, Daniwan, Chhoti Nawada, and villages 23—Raipura, 24—Warispur, 25—Neyazipur, 26-Gauri Panda, 27-Bankipur Machhariawan, 28-Dost Moha- mmadpur, 117-Nasirpur Bulwa, 119-Kasimpur, 120—Momin- pur, 127—Raipur Balua, 137—Rasulpur and 143*—Sheikh- pura) in Patna City sub-division; Punpun police station and G. Ps. Patharhat, Hulas Chakbir, Sonmai, Satparsa and Baurihi-Gobindpur and village 3—-Nanauri in Masaurhi police station in Patna Sadar sub-division. Ill Serial no., name and extent of constituency 205. Masaurhi.—Masaurhi police station (excluding G. Ps. Patharhat, Hulas Chakbir, Sonmai, Satparsa and Baurihi-Gobindpur and village 3-Nanauri) in Patna Sadar sub-division. .206. Patna West.—Ward Nos. 1 to 11 in Patna Municipal Corpo- ration, PatHputra Housing Construction Co-operative Society Ltd. and Patna (A) Rural in Digha and Gardanibagh police stations in Patna Sadar sub-division. 207. Patna Central.—Ward Nos. 12 to 19 in Patna Municipal Cor- poration in Patna Sadar Sub-division; and Ward Nos. 20 to 24 in Patna Municipal Corporation in Patna City sub-division. 208. Patna East.—Ward Nos. 25 to 37 in Patna Muncipal Corpora- tion and Patna (B) Rural, Alamganj, Malsalami and Chowk police stations in Patna City sub-division. 209. Dinapur.—Dinapur-cum-Khagaul police station in Dinapur sub-division of Patna district; and G. P. Akilpur in Digwara police station in Chapra Sadar sub-division of Saran district. 210. Maner.—Maner police station and Bihta (U) and G. Ps. Anandpur, Katesar, Neura, Lachhmanpur, Neuri-Purainia, Daulatpur-Semri, Parsotimpur-Painathi, Painal, Sadisopur, Bihta, Srirampur Bishambharpur-Bishunpura and Rambag in Bihta police station in Dinapur sub-division. 211. Phulwari (SC).—Phulwari police station in Patna Sadar sub- division and Naubatpur police station (excluding G. Ps. Nau- diha, Nawahi, Gonwan, Ajwan-Chara, Karai-Raunjan, Kora- wan, Adla-Sarasat, Tarwan-Bichhedi, Chainpur- Dariapur, Kopa-Chechaul, Naubatpur and village No. 148/394-Chak- Chichaul) in Dinapur sub-division. 212. Bikram.—Bikram police station (excluding G. Ps. Kab, Ra- jipur, Dulhin Bazar-Silhauari-Belhauri, Anikhan Bhimanichak, Sadabeh Dorwan, Lala-Bhadsara, Ular Sorampur, Achhua, Bharathpura, Sihi Soniawan and Narhi-Pirhi); Bihta police station [excluding Bihta (v) and G. Ps. Anandpur, Katesar, Neura, Lachhmanpur, Neuri-Purainia, Daulatpur-Semri, Serial no., name and extent of constituency Parsotimpur Painathi, Painal, Sadisopur, Bihta, Srirampur Bishambharpur-Bishunpura and Rambag] and G. Ps. Naudiha, Nawahi, Gonwan, Ajwan-Chara, Karai-Raunian Korawan,Adla-Sarasat, Taiwan-Bichhedi, Chainpur-Dariapur* Kopa Chechaul, Naubatpur and village No. 14811394-Chak- Chechaul in Naubatpur police station in Dinapur sub-division. 213. Paliganj.—Paliganj police station and G.Ps. Kab, Rajipur, Dulhin Bazar-Silhauri-Belhauri, Ainkhan Bhimanichak, Sadabeh Darwan, Lala-Bhadsara, Ular Sorampur, Achhua, Bharathpura, Sihi, Soaiawan and Narhi-Pirhi in Bikram police station in Dinapur sub-division. 214. Sandesh.—Udwantnagar and Sandesb police stations, and G. Ps. Ratnarh, Agiaon, Bargaon, Kurmi Chak and Chilhar in Sahar police station in Arrah Sadar sub-division. 215. Barhara.—Barhara and Koilwar police stations in Arrah Sadar sub-division. 216. Arrah.—Arrah municipality and Arrah Muffasil police station in Arrah Sadar sub-division.",
+   "party07": "IND",
+   "winner_07": "HARI NARAYAN RAY",
+   "electors_07": 179564,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "HARI NARAYAN RAY",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 93.7,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 0.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 13,
+   "name": "Madhupur",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    13,
+    14
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sarath.",
+   "extent": "Shahpur and Behea police stations in Arrah Sadar sub-division. 218. Brahmpur.—Brahmpur police station (excluding G. Ps. Bhad- war, Bararbi, Ekrasi, Kiratsagar-Jogia, Pokharhan, Baruhan, Raghunathpur, Kant-Bharkhar and Kaithi Dharauli), Simri police station and G. Ps. Rohiyasowan, Chhatanwar, Purana Bhojpur, Noaon, Chilhari and Naya Bhojpur in Dumraon police station in Buxar sub-division. 219. Buxar.—Buxar police station (excluding G. Ps. Kamarpur) Panrepatti, Chausa, Karhansi, Banarpur and Chunni-Pauni* and Itarhi police station in Buxar sub-division. 220. Rajpur (SC).—Rajpur police station and G. Ps. Kamarpur, Panrepatti, Chausa, Karhansi, Banarpur and Chunni-Pauni in Buxar police station in Buxar sub-division. Serial no., name and extent of constituency 221. Dumraon.—Dutnraon police station (excluding G. Ps. Rohiya- sowan, Chhatanwar, Purana Bhojpur Noaon, Chilhari and Naya Bhojpur) and Nawanagar police station in Buxar sub- division. 222. Jagdishpur.—Jagdishpur police station in Arrah Sadar sub- division; and G. Ps. Bhadwar, Bararhi, Ekrasi, Kiratsagar- Jogia, Pokharhan, Baruhan, Raghunathpur, Kant-Bharkhar and Kaithi Dbarauli in Brabmpur police station in Buxar sub-division. 223. Piro.—Piro police station in Arrah Sadar sub- division. 224. Sahar (SC).—Tarari police station and Sahar police station. (excluding G. Ps. Ratnarh, Agiaon, Bargaon, Kurmi Chak and Chilhar) in Arrah Sadar sub-division. 225. Karakat.—G. Ps. Burhwal, Danwar, Kurur, Dhawanibad- Gamhariya, Bensagar, Motha, Munji, Karakat, Jaishree, Changhari-Itahariya, Amratha, Kaiup-Itwa; Kirhi, Amona, Parsar, Deodhanhar, Karma Dahiarj, Gorari, Sonbarsa, Sakla and Niranjanpur in Bikramganj police station and Nasriganj police station (excluding G. Ps. Tarawan Dhobdiha, Panruri Sohgi, Sarawan Biseni, Balgawan Habbupur and Kusmhara Biseni) in Sasaram sub-division. 226. Bikramganj.—Bikramganj police station (excluding G. Ps. Burhwal, Danwar, Kurur, Dhawanibad-Gsmhariya, Bensagar, Motha, Munji, Karakat, Jaishree, Changhari-Itshariya, Amratha, Karup-Itwa, Kirhi, Amona, Parsar, Decdhanhar, Karma Dahiari, Gorari, Sonbarsa, Sakla and Nirajan- pur) and Dawath police station in Sasaram sub-division. 227. Dinara.—Dinara police station and G. Ps. Latra, Koohas, Nado-Semari, Sahuarsemadiha, Sasta-Sgnwandehri, BarEhri, Shivpursareya, Leheri Deharia and Akorhi-Laruikhakhra in Karghar police station in SEsarnn sub-division. 228. Ramgarh.—Ramgaih police station; Durgawati police station (excluding G. Ps. Dhanichha Cheria, Kurari, Chhawan,Kham- daura, Machkhia, Karanpura, Janarjanpur, Kulhariya and Khajura) and G. Ps. Barhupur, Bamhaur Khas, Jigina, Dandwas, Kulharia and Panserwa in Mohania police station- in Bhabhua sub-division. Serial no., name and extent of constituency 229. Mohania (SC).—Mohania police station (excluding G. Ps. Barhupur, Barnhaur Khas, Jigina, Dandwas, Kalharia and Panserwa), Kudra police station and G. Ps. Bithwar, Ruppur, Ratwar and Dihra in Bhabhua police station in Bhabhua sub-division; and G. Ps. Salas Dighata, Kathrain Bahuara, Sajandehra Kharhans, Bhokhari Bisodehri, Bhagwanpur Baksara and Torni Bahri in Karghar police station in Sasaram sub-division. 230. Bhabhua.—Bhabhua police station (excluding G. Ps. Bithwar, Ruppur, Ratwar and Dihra) and Adhaura police station in Bhabhua sub-division. 231. Chainpur.—Chainpur and Chand police stations and G. Ps. Dhanichha Cheria, Kurari, Chhawan, Khamdoura, Machkhia, Karanpura, Janarjanpur, Kulhariya and Khajura in Durgwati police station in Bhabhua sub-division.",
+   "party07": "BJP",
+   "winner_07": "RAJ PALIWAR",
+   "electors_07": 237299,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RAJ PALIWAR",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "13": {
+     "pct": 94.1,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 0.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 14,
+   "name": "Sarath",
+   "district": "Dumka",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    14
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Rohtas police station, Sasaram municipality and G. Ps. Sikaria, Karserua, Darigawan, Bhadokhara, Sewahi Belarhi, Tilauthu, Jaraha, Chanpura and Hurkai in Sasararn police station in Sasaram sub-division. 233. Chenari (SC).—Chenari and Sheosagar police station and Karghar police station (excluding G. Ps. Latra, Kochas, Nado Semri, Sahuar-Samdiha, Satasa-Sawandehri Barahri Salas-Dighata, Katharain-Bahuara, Shivpur-Sareya, Laheii Debaria, Akorhi-Larui-Khakhra, Sajandehra-Kharhana Bhokhari-Bisodehri, Bhagwanpur Baksara and Torni-Baheri) in Sasaram sub-division. 234. Nokha.—Nokha police station and Sasarampoli.ee station (ex- cluding Sasaram municipality and G. Ps. Sikaria, Karserua, Darigawan, Bhadokhara, Sewahi Belarhi, Tilauthu, Jaraha, Chanpura and Hurka) in Sssaram sub-division.",
+   "party07": "RJD",
+   "winner_07": "UDAY SHANKAR SINGH",
+   "electors_07": 212216,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "UDAY SHANKAR SINGH",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "14": {
+     "pct": 93.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 15,
+   "name": "Deoghar",
+   "district": "Godda",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    15
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Dehri police station and G. Ps. Tatawan Dhobdiha, Panruri Sohgi, Sarawan Biseni, Balgawan Habbupur and Kusmhara Biseni in Nasriganj police station in Sasaram sub- division. Serial no., nanse and extent of constituency 236. Nabinagar.—Nabinagar police station and Barun police station [excluding G. Ps. Kachanpur, Siris, Tengra, Khaira, Urdina, Itahat-Biseni and Dudhar (Sundarganj)] in Aurangaba'. sub-division. 237. Deo (SC).—Kutumba police station and G. Ps. Pawai, Bijauli, Ramabandh, Kunda, Khakhra, Bahuara, Kataia, Bishunpurj Belsara, Deo, Erki-Chandpur, Berhani, Berhna, Dhibra, Baluganj, Karman Dulare, Pachokhar, Banua Khaira, Eraura and Ketaki in Aurangabad police station in Aurangabad sub-division. 238. Aurangabad.—Aurangabad police station (excluding G. Ps. Pawai, Bijauli, Ramabandh, Kunda, Khakhra, Bahuara, Kataia, Bishunpur, Belsara, Deo, Erki-Chandpur, Berhani, Berhna, Dhibra, Baluganj, Karman Dulare, Pachokhar, Banua Khaira, Eraura and Ketaki) and G. Ps. Kachanpur, Siris, Tengra, Khaira, Urdina, Itahat Biseni and Dudhar (Sundarganj) in Barun Police station and Madanpur police station (excluding G. Ps. Pipraura, Uchauli, Chein-Nawada, Mahuawan, Salaiya, Pirthu, Khiriawan, Beri, Pirwan and Jogri) in Aurangabad sub-division. 239. Rafiganj.—Rafiganj police station and G.Ps. Pipraura, Uchauli, Chein-Nawada, Mahuawan, Salaiya, Pirthu, Khiriawan, Beri, Pirwan and Jogri in Madanpur police station in Aurangabad sub-division. 240. Obra.—Daudnagar and Obra police stations in Aurangabad sub-division.",
+   "party07": "JD(U)",
+   "winner_07": "KAMESHWAR NATH DAS",
+   "electors_07": 284246,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "KAMESHWAR NATH DAS",
+     "party": "JD(U)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "15": {
+     "pct": 93.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 16,
+   "name": "Poraiyahat",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    16,
+    17
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Poreyahat.",
+   "extent": "Poreyahat police station and G. Ps. Burhikura, Dammajhilua, Sandmara, Nonbatta, Makhni, Pathra and Pun- siya in Godda police station in Godda sub-division; and Saraiyahat police station in Dumka Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "PRADEEP YADAV",
+   "electors_07": 221773,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "PRADEEP YADAV",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "16": {
+     "pct": 93.5,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 2.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 17,
+   "name": "Godda",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    17
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Goh and Haspura police stations in Aurangabad sub- division. 242. Arwal.—Arwal police station and G. Ps. Bambhai, Rampur Chae, Real, Belkhara and Chauhar in Karpi police station in Jahanabad sub-division. 1 E.C.— 9 Serial no., name and extent cf constituency. 243. Kurtha.—Karpi police station (excluding G. Ps. Bambhai, Rampur Chae, Keal, Belkhaie and Chauhar) and Kurtha police station (excluding G. Ps. Patiawan, Lari, Pandaul, Jhunatbi,Dhanadihri,Kaswan,Noawan, Kundla, Shakurabad and Sikandarpar) in Jahanabad sub-division. 244. Makhdumpur.—Makhdumpur police station and G.Ps. Junathi,. Dhanadihri, Kaswan, Noawan, Patiawan, Lari, Pandaul, Ku- ndla, Shakurabad and Sikandarpur in Kurtha police station in Jahanabad sub-division.",
+   "party07": "BJP",
+   "winner_07": "MANOHAR KUMAR",
+   "electors_07": 239166,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "MANOHAR KUMAR",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "17": {
+     "pct": 81.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 18,
+   "name": "Mahagama",
+   "district": "Rajmahal",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    18
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Jahanabad police station in Jahanabad sub-division* 246. Ghosi.—Ghosi police station in Jahanabad sub-division; and Khizir Sarai police station (excluding G. Ps. Rauniyan, Tetarpur, Benaul, Mai,Paehlakh,Nagariawan and Maksudpur) in Gaya Sadar sub-division. 247. Belaganj.—Belaganj police station, G. Ps. Rauniyan, Tetar- pur, Benaul, Mai, Pachlakh, Nagariwan and Maksudpur in Khizir Sarai police station and G. Ps. Khanetu, Patehpur, Sawasin, Mahamanna-Gaharpur, Bhori, Pura,Law Pachamahla> Makhpa, Ark Dhebariya and Malhya in Tikari police station in Gaya Sadar sub-division. 248. Konch.—Konch police station and Tikari police station (excluding G. Ps. Khanetu, Fatehpur, Sawasin, Mahamanna- Gaharpur, Bhori, Pura, Law Pachmabala, Makhpa, Ark Dhebariya and Malhya) in Gaya Sadar sub-division. 249. Gaya Mufassil.—Gaya Mufassil police staion (excluding Gaya municipality) and G. Ps. Majhiawan, Bagahi, Bhairopur, Rajahari, Kasthi'a, Azmatganj, Lachhuman Bigha, Rajpur Karhatta, Solara, Kosdihra and Punakalan in Paraiya police station in Gaya Sadar sub-division. 250. Gaya Town.—Gaya municipality in Gaya Sadar sub-division. 251. Imamganj (SC).—Dumaria and Imamganj police stations and G. Ps. Tilaiya, Juri-Goitha, Bankey-Bazar, Parsawan Khurd, Sagdiha and Barheta in Amas police station in Gaya Sadar sub-division. Serial no., name and extent of constituency 252. Gurua.—Gurua police station, Amas police station (excluding G. Ps. Tilaiya, Juri-Goitha, Bankey-Bazar, Parsawan Khurd, Sagdiha and Barheta) and Paraiya police station (excluding G. Ps. Majhiawan, Bagahi, Bhairopur Rajahari, Kasthua, Azmatganj, Lachhuman Bigha, Rajpur Karhatta, Solara, Kosdihra and Punakalan) in Gaya Sadar sub-division. 253. Bodh Gaya(SC).—Bodh Gaya police station and Sherghati police station (excluding G. Ps. Kesapi, Khushabija, Amarut and Ghoraghat) in Gaya Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "ASHOK KUMAR",
+   "electors_07": 242063,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "ASHOK KUMAR",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "18": {
+     "pct": 91.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 19,
+   "name": "Kodarma",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    19
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Kodarma and Satgawan police stations in Kodarma sub-division.",
+   "party07": "RJD",
+   "winner_07": "ANNAPURNA DEVI",
+   "electors_07": 248912,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "ANNAPURNA DEVI",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 95.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 20,
+   "name": "Barkatha",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    19,
+    20
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kodarma.",
+   "extent": "Barachatti police station and G. Ps. Kesapi, Kushabija, Amarut and Ghoraghat in Sherghati police station in Gaya Sadar sub-division. 255. Fatehpur (SC).—Fatehpur police station and Wazirganj police station (excluding G. Ps. Punama, Amethi, Bichha, Kurkihar, Jamuawan, Dakhinganwa, Pale, Sakardas Nawada, Karjara and Kolhana) in Gaya Sadar sub-division. 256. Atri.—Atri police station and G. Ps. Punama, Amethi, Bichha, Kurkihar, Jamuawan, Dakhinganwa, Pale, Sakardas Nawada, Karijara and Kolhana in Wazirganj police station in Gaya Sadar sub-division. 257. Nawada.—Nawada police station and Akbarpur police station (excluding G. Ps. Akbarpur, Fatehpur, Dadpur, Baksanda, Khuila and Budhua) in Nawada sub-division. 258. Rajauli (SC).—Rajauli and Sirdalla police stations and G. Ps. Akbarpur, Fatehpur, Dadpur, Baksanda, Kuh ila and Budhua in Akbarpur police station in Nawada sub-division 259. Gobindpur.—Gobindpur and Kawakole police stations and G. Ps. Budhauli, Kabala and Marwa in Pakri Barawan police station in Nawada sub-division. Serial no., name and extent of constituency 260. Warsaliganj.—Warsaliganj police station and Pakri Barawan police station (excluding G. Ps. Budhauli, Kabala and Marwa) in Nawada sub-division. 261. Hisua.—Hisua and Narhat police stations in Nawada sub- division. 262. Kodarnia.—Kodarma and Satgawan police stations in Kodarma sub-division.",
+   "party07": "BJP",
+   "winner_07": "CHITRANJAN YADAV",
+   "electors_07": 237637,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "CHITRANJAN YADAV",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 1.5,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 95.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 21,
+   "name": "Barhi",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    20,
+    21,
+    26,
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barkatha, Simaria, Chatra.",
+   "extent": "Barhi police station in Hazaribagh Sadar sub-division; and Chauparan police station in Kodarma sub-division. 264. Chatra.—Chatra, Pratappur and Hunterganj police stations in Chatra sub-division. 265. Simaria (SC).—Simaria, Itkhori and Tandwa police stations in Chatra sub-division.",
+   "party07": "INC",
+   "winner_07": "MANOJ KUMAR YADAV",
+   "electors_07": 202742,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "MANOJ KUMAR YADAV",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 0.5,
+     "basis": "measured"
+    },
+    "21": {
+     "pct": 97.5,
+     "basis": "measured"
+    },
+    "26": {
+     "pct": 0.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 22,
+   "name": "Barkagaon",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    22,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ramgarh.",
+   "extent": "Barkagaon police station and G.Ps.Terpa, Patratu, Koto, Palani, Haphua, Hariharpur Gegda, Deoria, Bargama, Pali, Salgo, Sanki, Jabo, Chaingara, Chikor, Lapanga, Ghutua, Barkakana, and Sidhwar-Kalan in Ramgarh police station in Hazaribagh Sadar Sub-division.",
+   "party07": "BJP",
+   "winner_07": "LOK NATH MAHTO",
+   "electors_07": 275221,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "LOK NATH MAHTO",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 96.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 23,
+   "name": "Ramgarh",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    22,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barkagaon.",
+   "extent": "Ramgarh police station (excluding G. Ps. Terpa, Patratu, Koto, Palani, Haphua, Hariharpur, Gegda, Deoria, Bargama, Pali, Salgo, Sanki, Jabo, Chaingara, Chikor, Lapanga, Ghutua, Barkakana and Sidhwar-Kalan) and Gola police station in Hazaribagh Sadar sub-division.",
+   "party07": "AJSU",
+   "winner_07": "CHANDRA PRAKASH",
+   "electors_07": 234487,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "CHANDRA PRAKASH",
+     "party": "AJSU",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 94.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 24,
+   "name": "Mandu",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    24
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Mandhu.",
+   "extent": "Mandu and Bishungarh police stations in Hazaribagh Sadar sub-division.",
+   "party07": "JD(U)",
+   "winner_07": "KHIRU MAHTO",
+   "electors_07": 291800,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "KHIRU MAHTO",
+     "party": "JD(U)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "24": {
+     "pct": 96.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 25,
+   "name": "Hazaribagh",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    20,
+    25
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barkatha.",
+   "extent": "Hazaribagh police station in Hazaribagh Sadar sub-division. Barkatha.—Barkatha and Jainagar police stations in Kodarma sub-division; and Ichak police station in Hazaribagh Sadar sub- division. Serial no., name and extent of constituency",
+   "party07": "INC",
+   "winner_07": "SAURABH NARAYAN SINGH",
+   "electors_07": 270397,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SAURABH NARAYAN SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 98.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 26,
+   "name": "Simaria",
+   "district": "Hazaribagh",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    26
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Simaria, Itkhori and Tandwa police stations in Chatra sub-division.",
+   "party07": "BJP",
+   "winner_07": "UPENDRA NATH DAS",
+   "electors_07": 235995,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "UPENDRA NATH DAS",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "26": {
+     "pct": 93.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 27,
+   "name": "Chatra",
+   "district": "Chatra",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Chatra, Pratappur and Hunterganj police stations in Chatra sub-division.",
+   "party07": "BJP",
+   "winner_07": "SATYANAND BHOKTA",
+   "electors_07": 258832,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SATYANAND BHOKTA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "27": {
+     "pct": 98.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 28,
+   "name": "Dhanwar",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    28
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Dhanwar and Gawan police stations in Giridih Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "RAVINDRA KUMAR RAI",
+   "electors_07": 225924,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RAVINDRA KUMAR RAI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 96.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 29,
+   "name": "Bagodar",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    29
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Bagodar and Birni police stations in Giridih Sadar sub-division.",
+   "party07": "CPI(ML)(L)",
+   "winner_07": "BINOD KR. SINGH",
+   "electors_07": 240882,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "BINOD KR. SINGH",
+     "party": "CPI(ML)(L)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "29": {
+     "pct": 97.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 30,
+   "name": "Jamua",
+   "district": "Kodarma",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    30
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Jamua and Deori police stations in Giridih Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "KEDAR HAZRA",
+   "electors_07": 226691,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "KEDAR HAZRA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "30": {
+     "pct": 94.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 31,
+   "name": "Gandey",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    31,
+    32
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Giridih.",
+   "extent": "Gandey and Bengabad police stations and G. Ps. Leda, Semaria, Badgunda, Palmo, Sathibad, Senadoni, Dhanaidih, Guro, Jitpur, Telodih, Ranidih and Karharbari in Giridih Mufassil police station in Giridih Sadar sub- division.",
+   "party07": "JMM",
+   "winner_07": "SALKHAN SOREN",
+   "electors_07": 198602,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SALKHAN SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 95.7,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 1.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 32,
+   "name": "Giridih",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    31,
+    32
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gandey.",
+   "extent": "Giridih Town Police Station and Giridih Mufassil police station (excluding G. Ps. Leda, Semaria, Badgunda, Palmo, Sathibad Senadoni, Dhanaidih, Guro, Jitpur, Telodih, Ranidih and Karharbari) and Pirtanr police station in Giridih Sadar sub-division.",
+   "party07": "JMM",
+   "winner_07": "MUNNA LAL",
+   "electors_07": 207962,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "MUNNA LAL",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 94.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 33,
+   "name": "Dumri",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    33
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Dumri police station in Giridih Sadar sub-division; and Nawadih police station in Bermo sub-division.",
+   "party07": "JMM",
+   "winner_07": "JAGARNATH MAHTO",
+   "electors_07": 206716,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "JAGARNATH MAHTO",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 96.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 34,
+   "name": "Gomia",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "renamed",
+   "dest": [
+    34,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Gomiya.",
+   "extent": "Gomia police station and Petarbar police station (excluding G. Ps. Champi, Rohar, Chando, Pichhri, Angwali and Chalkari) in Bermo sub-division.",
+   "party07": "BJP",
+   "winner_07": "CHHATTU RAM MAHTO",
+   "electors_07": 212505,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "CHHATTU RAM MAHTO",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "34": {
+     "pct": 97.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 35,
+   "name": "Bermo",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    34,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gomiya.",
+   "extent": "Jaridih and Bermo police stations and G. Ps. Champi, Rohar, Chando, Pichhri, Angwali and Chalkari in Petarbar police station in Bermo sub-division.",
+   "party07": "BJP",
+   "winner_07": "YOGESHWAR MAHTO",
+   "electors_07": 253307,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "YOGESHWAR MAHTO",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "34": {
+     "pct": 1.0,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 97.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 36,
+   "name": "Bokaro",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    36,
+    37,
+    43
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chandankyari, Baghmara.",
+   "extent": "Chas police station (excluding G. Ps. Bijulia, Alkusa, Buribinor, Khamarbendi, Dudhigajar, Kura Dabartupara, Jai- tara, Pundru and Sardaha) in Baghmara sub-division. 28 0 . Tundi.—Tundi police station in Dhanbad Sadar sub-division; Topchanchi police station and G. Ps. Dharkiro, Daludih, Raj- ganj, Bagdaha, Dhawachita, Nagri Kalan and Ramkanalichan- dur in Katras police station in Baghmara sub-division. Serial no., name and extent of constituency 281. Baghmara.—Baghmara police station and Katras police station (excluding G. Ps. Dharkiro, Dalu.dih, Rajganj, Bagdaha, Dhawachita, Nagri Kalan ar d Ramkanalichardux) in Baghmara sub-division; and Jogta police station in Dhanbad Sadar sub- division.",
+   "party07": "INC",
+   "winner_07": "MD.IZRAIL ANSARI",
+   "electors_07": 464418,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "MD.IZRAIL ANSARI",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 97.3,
+     "basis": "measured"
+    },
+    "37": {
+     "pct": 1.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 37,
+   "name": "Chandankiyari",
+   "district": "Dhanbad",
+   "type": "SC",
+   "status": "renamed",
+   "dest": [
+    36,
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Bokaro.",
+   "extent": "Chandankiyari police station and G. Ps: Bijulia, Alkusa, Buribinor, Khamarbendi, Dhudhigajar, Kura, Dabartupara, Jaitara, Pudru and Sard ah a in Chas police station in Baghmara sub-division.",
+   "party07": "JMM",
+   "winner_07": "HARU RAJWAR",
+   "electors_07": 194752,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "HARU RAJWAR",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "37": {
+     "pct": 96.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 38,
+   "name": "Sindri",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    38
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Sindri, Baliapur and Gobindpur police stations in Dhanbad Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "RAJ KISHORE MAHATO",
+   "electors_07": 264099,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RAJ KISHORE MAHATO",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 96.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 39,
+   "name": "Nirsa",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    39
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Nirsa and Chirkunda police stations in Dhanbad Sadar sub-division.",
+   "party07": "AIFB",
+   "winner_07": "APARNA SENGUPTA",
+   "electors_07": 266248,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "APARNA SENGUPTA",
+     "party": "AIFB",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 96.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 40,
+   "name": "Dhanbad",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    40
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Dhanbad, Putki and Kenduadih police stations in Dhanbad Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "PASHUPATI NATH SINGH",
+   "electors_07": 376039,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "PASHUPATI NATH SINGH",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 91.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 41,
+   "name": "Jharia",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    37,
+    41
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chandankyari.",
+   "extent": "Jharia and Jorapokhar police stations in Dhanbad Sadar sub-division. 286. Chandankiyari (SC).—Chandankiyari police station and G. Ps: Bijulia, Alkusa, Buribinor, Khamarbendi, Dhudhigajar, Kura, Dabartupara, Jaitara, Pudru and Sard ah a in Chas police",
+   "party07": "BJP",
+   "winner_07": "KUNTI DEVI",
+   "electors_07": 284225,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "KUNTI DEVI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "37": {
+     "pct": 27.3,
+     "basis": "measured"
+    },
+    "41": {
+     "pct": 69.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 42,
+   "name": "Tundi",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    42,
+    43
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Baghmara.",
+   "extent": "Tundi police station in Dhanbad Sadar sub-division; Topchanchi police station and G. Ps. Dharkiro, Daludih, Raj- ganj, Bagdaha, Dhawachita, Nagri Kalan and Ramkanalichan- dur in Katras police station in Baghmara sub-division. Serial no., name and extent of constituency",
+   "party07": "JMM",
+   "winner_07": "MATHURA PRASAD",
+   "electors_07": 225687,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "MATHURA PRASAD",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "42": {
+     "pct": 95.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 43,
+   "name": "Baghmara",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    43
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "division.",
+   "party07": "JD(U)",
+   "winner_07": "JALESHWAR MAHATO",
+   "electors_07": 251924,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "JALESHWAR MAHATO",
+     "party": "JD(U)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 94.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 44,
+   "name": "Baharagora",
+   "district": "Jamshedpur",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Baharagora and Chakulia police stations in Dhal- bhum sub-division.",
+   "party07": "BJP",
+   "winner_07": "DINESH KU. SARANGI",
+   "electors_07": 185629,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "DINESH KU. SARANGI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "44": {
+     "pct": 91.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 45,
+   "name": "Ghatsila",
+   "district": "Jamshedpur",
+   "type": "ST",
+   "status": "renamed",
+   "dest": [
+    45,
+    46
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Ghatshila.",
+   "extent": "Ghatsila police station and Musabani police station (excluding G. Ps. Palasbani, Asta Koyali, Nunia, Kumarasol, Barakanjiya, Bomaro Bangoriya and Darr.udih) in Dhalbhum sub-division.",
+   "party07": "INC",
+   "winner_07": "PRADEEP KUMAR",
+   "electors_07": 200566,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "PRADEEP KUMAR",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "45": {
+     "pct": 92.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 46,
+   "name": "Potka",
+   "district": "Jamshedpur",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    45,
+    46,
+    47
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ghatshila, Jugashlai.",
+   "extent": "Potka police station, G. Ps. Palasbani, Asta Koyali, Nunia, Kumarasol, Barakanjiya, Bomaro Bangoriya and Damudih in Musabani police station, Bagbera Town and G.Ps. Karandih-Purihasa, Hargarghutu, Bagbera and village 1167—Kitadih in Jugsalai police station in Dhalbhum, sub- division. Serial no., name and extent of constituency",
+   "party07": "JMM",
+   "winner_07": "AMULYA SARDAR",
+   "electors_07": 227267,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "AMULYA SARDAR",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "45": {
+     "pct": 5.8,
+     "basis": "measured"
+    },
+    "46": {
+     "pct": 92.4,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 0.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 47,
+   "name": "Jugsalai",
+   "district": "Jamshedpur",
+   "type": "SC",
+   "status": "renamed",
+   "dest": [
+    46,
+    47
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Potka.",
+   "extent": "Jugsalai police station (excluding Bagbera Town and G.Ps. Karandih-Purihasa, Hargarghutu, Bagbera and village (1167) Kitadih); Golmuri and. Patamda police stations in Dhalbhum sub-division.",
+   "party07": "JMM",
+   "winner_07": "DULAL BHUIYAN",
+   "electors_07": 248132,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "DULAL BHUIYAN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 1.5,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 88.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 48,
+   "name": "Jamshedpur East",
+   "district": "Jamshedpur",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    47,
+    48
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jugashlai.",
+   "extent": "Census wards 20 and 23 to 40 in Jamshed- pur Notified Area Comtnittee in Dhalbhum sub-division.",
+   "party07": "BJP",
+   "winner_07": "RAGHUBAR DAS",
+   "electors_07": 274948,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RAGHUBAR DAS",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "47": {
+     "pct": 29.6,
+     "basis": "measured"
+    },
+    "48": {
+     "pct": 64.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 49,
+   "name": "Jamshedpur West",
+   "district": "Singhbhum",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    47,
+    48,
+    49
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jugashlai, Jamshedpur East.",
+   "extent": "Jamshedpur Notified Area Committee (excluding census wards 20 and 23 to 40) in Dhalbhum sub-division.",
+   "party07": "BJP",
+   "winner_07": "SARYU ROY",
+   "electors_07": 305950,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SARYU ROY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "47": {
+     "pct": 13.9,
+     "basis": "measured"
+    },
+    "48": {
+     "pct": 25.1,
+     "basis": "measured"
+    },
+    "49": {
+     "pct": 55.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 50,
+   "name": "Ichagarh",
+   "district": "Ranchi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    50
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Ichagarh, Chandil and Nimdih police stations in Seraikella sub-division.",
+   "party07": "JMM",
+   "winner_07": "SUDHIR MAHTO",
+   "electors_07": 191611,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SUDHIR MAHTO",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "50": {
+     "pct": 92.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 51,
+   "name": "Seraikella",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "renamed",
+   "dest": [
+    49,
+    51,
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Jamshedpur West.",
+   "extent": "Seraikella municipality and G.Ps. Govindpur, Pandra, Manik Bazar, Tangrani, Pathanmara, Jordiha, Gurgudia and Badakakda in Seraikella police station, Rajnagar police station (excluding village 98-Dighi) and Aditya- pur police station in Seraikella sub-division.",
+   "party07": "JMM",
+   "winner_07": "CHAMPAI SOREN",
+   "electors_07": 232129,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "CHAMPAI SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "49": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "51": {
+     "pct": 89.8,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 1.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 52,
+   "name": "Chaibasa",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    52,
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kharasawan.",
+   "extent": "Chaibasa Sadar and Jhinkpani police stations and Chaibasa Mufassil police station (excluding G. Ps. Bhoya, Keadchalam, Domra-Parnia, Lota, Thakuragutu, Dopai- Gamhariya, Sarda, Matkamhatu Khuntpani, Chiru and Rajabasa) in Chaibasa Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "PUTKAR HEMBROM",
+   "electors_07": 155917,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "PUTKAR HEMBROM",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 90.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 53,
+   "name": "Majhgaon",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "renamed",
+   "dest": [
+    53
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Majhganon.",
+   "extent": "Mujhgaon and Manjhari police stations in Chaibasa Sadar sub-division.",
+   "party07": "JMM",
+   "winner_07": "NIRAL PURTY",
+   "electors_07": 138565,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "NIRAL PURTY",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 87.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 54,
+   "name": "Jaganathpur",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    54
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Naomundi and Gua police stations and G.Ps. Kurtabera, Urkiya, Makaramda, Thalkobad (Part I) and Chhotanagra (Part I) in Manoharpur police station in Chaibasa Sadar sub-division.",
+   "party07": "IND",
+   "winner_07": "MADHU KODAH",
+   "electors_07": 130744,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "MADHU KODAH",
+     "party": "IND",
+     "status": null
+    }
+   ],
+   "shares": {
+    "54": {
+     "pct": 91.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 55,
+   "name": "Manoharpur",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    54,
+    55,
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jaganathpur, Chakradharpur.",
+   "extent": "Manoharpur police station [excluding G.Ps. Kurtabera, Urkiya, Makaramda, Thalkobad (Part I) and Chhotanagra (Part I)] and G.Ps. Beralumin, Joioda, Seren- gda, Orenga, Jhilrua, Goilkera, Kuira, Kadamd'iha, Dalai- kela, Sonua-Jorapokhar, Porahat, Sogoisai, Gudri Jarakel, Asantaliya, Dalki-Gobindpur, Bhalurangi, Harimara, Tunian Serial no., name and extent of constituency Gajpur, Bandu, Poronger, Koloeda, Kulda, Bari, Lonjo, Bera Kayam, Mamail, Piring, Komrora, Komrora-Dariyo, Dura- Jante and Banskata in Chakradharpur police station in Chaibasa Sadar sub-division.",
+   "party07": "UGDP",
+   "winner_07": "JOBA MAJHI",
+   "electors_07": 150580,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "JOBA MAJHI",
+     "party": "UGDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "54": {
+     "pct": 9.1,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 88.4,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 1.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 56,
+   "name": "Chakradharpur",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    55,
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Manoharpur.",
+   "extent": "Chakradharpur police station (excluding G.Ps. Beralumin, Jojoda, Serengda, Orenga, Jhilrua, Goilkera, Kuira, Kadamdiha, Dalaikela, Sonua-Jorapokhar, Porahat, Sogoisai, Gudri Jarakel, Asantaliya, Dalki-Gobindpur, Bhalu- rangi, Harimara, Tunian-Gajpur, Bandu, Poronger, Koloeda, Kulda, Bari, Lonjo, Bera Kayam, Mamail, Piring, Komrora, Komrora-Dariyo, Dura Jante and Banskata) in Chaibasa Sadar sub-division.",
+   "party07": "JMM",
+   "winner_07": "SUKHRAM ORAON",
+   "electors_07": 145234,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SUKHRAM ORAON",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 1.7,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 91.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 57,
+   "name": "Kharasawan",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    51,
+    52,
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Saraikella, Chaibasa.",
+   "extent": "Kharsawan and Kuchai police stations and Seraikella police station (excluding Seraikella municipality and G.Ps. Govindpur, Para, Manik Bazar, Tangrani, Pathan- mara, Jordiha Gurugudia and Badakakda) and village 98— DighHn Rajnagar police station in Seraikella sub-division; and G.Ps. Bhoya Keadchalam, Domra-Parnia, Lota, Tha- kurgutu, Dopai-Gamhariya, Sarda, Matkamhatu-Khuntpani, Chiru and Rajabasa in Chaibasa Mufassil police station in Chaibasa Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "ARJUN MUNDA",
+   "electors_07": 164155,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "ARJUN MUNDA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 5.0,
+     "basis": "measured"
+    },
+    "52": {
+     "pct": 2.2,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 90.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 58,
+   "name": "Tamar",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    58
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tamar, Erki and Bundu police stations in Khunti sub-division.",
+   "party07": "JD(U)",
+   "winner_07": "RAMESH SINGH MUNDA",
+   "electors_07": 164740,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RAMESH SINGH MUNDA",
+     "party": "JD(U)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "58": {
+     "pct": 92.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 59,
+   "name": "Tokpa",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "renamed",
+   "dest": [
+    59,
+    60
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Torpa.",
+   "extent": "Torpa and Rania police stations and G.Ps. Gumru, Gobindpur, Tilmj, Lapa, Jariagarh, Urikel and Hutub in Karra police station in Khunti sub-division; and Bano police station in Simdega sub-division.",
+   "party07": "BJP",
+   "winner_07": "KOCHE MUNDA",
+   "electors_07": 138394,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "KOCHE MUNDA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 89.9,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 2.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 60,
+   "name": "Khunti",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    59,
+    60
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Torpa.",
+   "extent": "Khunti and Murhu police stations and Karra police station (excluding G. Ps. Gumru, Gobindpur, Tilmi> Lapa, Jariagarh, Urikel and Hutub) in Khunti sub-division.",
+   "party07": "BJP",
+   "winner_07": "NILKANTH SINGH MUNDA",
+   "electors_07": 152237,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "NILKANTH SINGH MUNDA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 1.8,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 91.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 61,
+   "name": "Silli",
+   "district": "Ranchi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    61
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Silli police station, G.Ps. Barwadag, Tati, Jonha, Kashi- dih, Merha, Ambajharia and Kontatoli in Angara police station in Ranchi Sadar sub-division; and Sonahatu police station in Khunti sub-division.",
+   "party07": "AJSU",
+   "winner_07": "SUDESH KUMAR MAHTO",
+   "electors_07": 164490,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SUDESH KUMAR MAHTO",
+     "party": "AJSU",
+     "status": null
+    }
+   ],
+   "shares": {
+    "61": {
+     "pct": 93.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 62,
+   "name": "Khijri",
+   "district": "Ranchi",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    61,
+    62
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Silli.",
+   "extent": "Ormanjhi, Namkum and Hatia police stations and Angara police station (excluding G. Ps. Barwadag, Tati, Jonha, Kashidih, Merha, Ambajharia and Kontatoli) in Ranchi Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "KARIA MUNDA",
+   "electors_07": 253476,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "KARIA MUNDA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "61": {
+     "pct": 1.7,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 93.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 63,
+   "name": "Ranchi",
+   "district": "Ranchi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    63,
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Hatia.",
+   "extent": "Ranchi municipality in Ranchi Kotwali police station in Ranchi Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "CHANDRESHWAR PRASAD",
+   "electors_07": 285034,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "CHANDRESHWAR PRASAD",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 70.2,
+     "basis": "measured"
+    },
+    "64": {
+     "pct": 26.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 64,
+   "name": "Hatia",
+   "district": "Ranchi",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    62,
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Khijri.",
+   "extent": "Jaganathpur, Ratu and Doranda police stations and Ranchi Kotwali police station (excluding Ranchi municipality) in Ranchi Sadar sub-division.",
+   "party07": "INC",
+   "winner_07": "GOPAL S.N. SHAHDEO",
+   "electors_07": 326166,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "GOPAL S.N. SHAHDEO",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "62": {
+     "pct": 8.2,
+     "basis": "measured"
+    },
+    "64": {
+     "pct": 86.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 65,
+   "name": "Kanke",
+   "district": "Ranchi",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    63,
+    65
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ranchi.",
+   "extent": "Kanke, Ranchi Sadar, Burmu and Khelari police stations in Ranchi Sadar sub-division.",
+   "party07": "BJP",
+   "winner_07": "RAM CHANDER BAITHA",
+   "electors_07": 298108,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RAM CHANDER BAITHA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 92.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 66,
+   "name": "Mandar",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    66
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Bero, Mandar and Lapung police stations in Ranchi Sadar sub-division.",
+   "party07": "UGDP",
+   "winner_07": "BANDHU TIRKEY",
+   "electors_07": 243932,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "BANDHU TIRKEY",
+     "party": "UGDP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 90.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 67,
+   "name": "Sisai",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    67,
+    70,
+    71
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Simdega, Kolebira.",
+   "extent": "Sisai, Kamdara and Basia police stations in Gumla sub-division. 311. Kolebira (ST).—Kolebira, Thethaitangar and Bolba police stations in Simdega sub-division.",
+   "party07": "BJP",
+   "winner_07": "SRI SAMIR ORAON",
+   "electors_07": 188104,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SRI SAMIR ORAON",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "67": {
+     "pct": 91.9,
+     "basis": "measured"
+    },
+    "71": {
+     "pct": 1.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 68,
+   "name": "Gumla",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    68,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bishunpur.",
+   "extent": "Gumla municipality, G. Ps. Hurhuria, Ghatagaon, Asani, Chandali, Telgaon, Pugu, Bangaru, Karaundi, Dumardih and Murkunda in Gumla police station and Raidih, Chainpur and Dumri police stations in Gumla sub-division.",
+   "party07": "JMM",
+   "winner_07": "BHUSHAN TIRKEY",
+   "electors_07": 179636,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "BHUSHAN TIRKEY",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "68": {
+     "pct": 89.9,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 0.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 69,
+   "name": "Bishunpur",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    68,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gumla.",
+   "extent": "Bishunpur and Ghaghra police stations and Gumla police station (excluding Gumla municipality and G.Ps. Hurhuria, Ghatagaon, Asani, Chandali, Telgaon, Pugu, Bangaru, Karaundi, Dumardih and Murkunda) in Gumla sub-division; and Senha police station in Lohardaga sub-division.",
+   "party07": "BJP",
+   "winner_07": "CHANDRESH ORAON",
+   "electors_07": 190207,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "CHANDRESH ORAON",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "68": {
+     "pct": 5.9,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 90.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 70,
+   "name": "Simdega",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    68,
+    70,
+    71
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gumla, Kolebira.",
+   "extent": "Simdega and Kurdeg police stations in Simdega sub-division; and Palkot police station in Gumla sub-division. 313. Gumla (ST).—Gumla municipality, G. Ps. Hurhuria, Ghatagaon, Asani, Chandali, Telgaon, Pugu, Bangaru, Karaundi, Dumardih and Murkunda in Gumla police station and Raidih, Chainpur and Dumri police stations in Gumla sub-division. 314. Bishunpur (ST).—Bishunpur and Ghaghra police stations and Gumla police station (excluding Gumla municipality and G.Ps. Hurhuria, Ghatagaon, Asani, Chandali, Telgaon, Pugu, Bangaru, Karaundi, Dumardih and Murkunda) in Gumla sub-division; and Senha police station in Lohardaga sub-division.",
+   "party07": "INC",
+   "winner_07": "NEIL TIRKEY",
+   "electors_07": 179358,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "NEIL TIRKEY",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "70": {
+     "pct": 86.1,
+     "basis": "measured"
+    },
+    "71": {
+     "pct": 12.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 71,
+   "name": "Kolebira",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    71
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Kolebira, Thethaitangar and Bolba police stations in Simdega sub-division.",
+   "party07": "JKP",
+   "winner_07": "ENOS EKKA",
+   "electors_07": 161495,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "ENOS EKKA",
+     "party": "JKP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "71": {
+     "pct": 90.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 72,
+   "name": "Lohardaga",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    72
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Lohardaga, Kuru and Kisko police stations in Lohardaga sub-division.",
+   "party07": "INC",
+   "winner_07": "SUKHDEO BHAGAT",
+   "electors_07": 182022,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "SUKHDEO BHAGAT",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "72": {
+     "pct": 92.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 73,
+   "name": "Manika",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "dest": [
+    73,
+    74
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Latehar.",
+   "extent": "Latehar police station [excluding Latehar (N. A. C.) and G.Ps. Pochra, Luti, Kaima, Kura, Bishunpur, Mungar, Nindir, Laharpur and Zalim], Barwadih, Garoo and Mahuadanr police stations in Latehar sub-division.",
+   "party07": "RJD",
+   "winner_07": "RAMCHANDRA SINGH",
+   "electors_07": 163871,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RAMCHANDRA SINGH",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "73": {
+     "pct": 92.8,
+     "basis": "measured"
+    },
+    "74": {
+     "pct": 0.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 74,
+   "name": "Latehar",
+   "district": "Chatra",
+   "type": "SC",
+   "status": "continuing",
+   "dest": [
+    73,
+    74
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Manika.",
+   "extent": "Latehar (N. A. C.), G.Ps. Pochra, Luti, Kaima, Kura, Bishunpur, Mungar, Nindir, Laharpur and Zalim in Latehar police station, Chandwa and Balumath police stations in Latehar sub-division. 317. Manika (ST).—Latehar police station [excluding Latehar (N. A. C.) and G.Ps. Pochra, Luti, Kaima, Kura, Bishunpur, Mungar, Nindir, Laharpur and Zalim], Barwadih, Garoo and Mahuadanr police stations in Latehar sub-division.",
+   "party07": "RJD",
+   "winner_07": "PRAKASH RAM",
+   "electors_07": 179062,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "PRAKASH RAM",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "73": {
+     "pct": 1.1,
+     "basis": "measured"
+    },
+    "74": {
+     "pct": 94.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 75,
+   "name": "Panki",
+   "district": "Chatra",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    75
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Panki, Lesliganj and Manatu police stations in Palamau Sadar sub-division.",
+   "party07": "RJD",
+   "winner_07": "BIDESH SINGH",
+   "electors_07": 191080,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "BIDESH SINGH",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "75": {
+     "pct": 92.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 76,
+   "name": "Daltonganj",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    76,
+    77,
+    80,
+    81
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bishrampur, Garhwa, Bhawanathpur.",
+   "extent": "Daltonganj and Chainpur police stations in Palamau Sadar sub-division; and Bhandaria police station in Garhwa sub-division. 320. Garhwa.—Garhwa police station (excluding G.Ps. Jarhi, Balekhar, Raro, Sonehara and Dandai) and Ranka police station in Garhwa sub-division. 321. Bhawanathpur.—Bhawanathpur and Nagar Untari police stations and G.Ps. Jarhi, Balekhar, Raro, Sonehara and Dandai in Garhwa police station in Garhwa sub-division.",
+   "party07": "JD(U)",
+   "winner_07": "INDAR SINGH NAMDHARI",
+   "electors_07": 249929,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "INDAR SINGH NAMDHARI",
+     "party": "JD(U)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "76": {
+     "pct": 90.7,
+     "basis": "measured"
+    },
+    "80": {
+     "pct": 3.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 77,
+   "name": "Bishrampur",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    76,
+    77
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Daltonganj.",
+   "extent": "Bishrampur police station in Palamau Sadar sub-division; and Majhiaon police station in Garhwa sub-division.",
+   "party07": "RJD",
+   "winner_07": "RAMCHANDRA",
+   "electors_07": 231535,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RAMCHANDRA",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "76": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "77": {
+     "pct": 91.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 78,
+   "name": "Chhatarpur",
+   "district": "Palamu",
+   "type": "SC",
+   "status": "renamed",
+   "dest": [
+    78
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Chattarpur.",
+   "extent": "Chhatarpur and Patan police stations in Palamau Sadar sub-division.",
+   "party07": "JD(U)",
+   "winner_07": "RADHA KRISHNA KISHORE",
+   "electors_07": 186955,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "RADHA KRISHNA KISHORE",
+     "party": "JD(U)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "78": {
+     "pct": 93.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 79,
+   "name": "Hussainabad",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    79
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Hussainabad and Hariharganj police stations in Palamau Sadar sub-division.",
+   "party07": "NCP",
+   "winner_07": "KAMLESH KR. SINGH",
+   "electors_07": 203556,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "KAMLESH KR. SINGH",
+     "party": "NCP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "79": {
+     "pct": 94.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 80,
+   "name": "Garhwa",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    76,
+    80,
+    81
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Daltonganj, Bhawanathpur.",
+   "extent": "Garhwa police station (excluding G.Ps. Jarhi, Balekhar, Raro, Sonehara and Dandai) and Ranka police station in Garhwa sub-division.",
+   "party07": "RJD",
+   "winner_07": "GIRI NATH SINGH",
+   "electors_07": 234629,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "GIRI NATH SINGH",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "76": {
+     "pct": 2.9,
+     "basis": "measured"
+    },
+    "80": {
+     "pct": 92.6,
+     "basis": "measured"
+    },
+    "81": {
+     "pct": 0.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 81,
+   "name": "Bhawanathpur",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "dest": [
+    80,
+    81
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Garhwa.",
+   "extent": "Bhawanathpur and Nagar Untari police stations and G.Ps. Jarhi, Balekhar, Raro, Sonehara and Dandai in Garhwa police station in Garhwa sub-division.",
+   "party07": "AIFB",
+   "winner_07": "BHANU PRATAP SAHI",
+   "electors_07": 244124,
+   "elections": [
+    {
+     "year": 2005,
+     "label": "2005",
+     "winner": "BHANU PRATAP SAHI",
+     "party": "AIFB",
+     "status": null
+    }
+   ],
+   "shares": {
+    "80": {
+     "pct": 3.3,
+     "basis": "measured"
+    },
+    "81": {
+     "pct": 93.2,
+     "basis": "measured"
+    }
+   }
+  }
+ ],
+ "post2008_constituencies": [
+  {
+   "ac_no": 1,
+   "name": "Rajmahal",
+   "district": "Rajmahal",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    1
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Rajmahal and Sahebganj Police Stations in Rajmahal sub-division.",
+   "party12": "BJP",
+   "winner_12": "ARUN MANDAL",
+   "electors_12": 233547,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "ARUN MANDAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "ANANT KUMAR OJHA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Anant Kumar Ojha",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 MD. TAJUDDIN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 80.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 2,
+   "name": "Borio",
+   "district": "Rajmahal",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    1,
+    2,
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Rajmahal, Barhait.",
+   "extent": "Borio and Taljhari Police Stations in Rajmahal sub-division; and Boarijor Police Station (excluding G.Ps. Rajabhita, Kero, Kairasol, Bara Telo and Barapipra) in Godda sub-division.",
+   "party12": "JMM",
+   "winner_12": "LOBIN HEMBRAM",
+   "electors_12": 203182,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "LOBIN HEMBRAM",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "TALA MARANDI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Lobin Hembrom",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 DHANANJAY SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "1": {
+     "pct": 2.3,
+     "basis": "measured"
+    },
+    "2": {
+     "pct": 92.6,
+     "basis": "measured"
+    },
+    "3": {
+     "pct": 5.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 3,
+   "name": "Barhait",
+   "district": "Rajmahal",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    2,
+    3
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Borio.",
+   "extent": "Barhait and Ranga Police Stations in Rajmahal sub-division; and Sundarpahari Police Station and G.Ps. Rajabhita, Kero, Kairasol, Bara Telo and Barapipra in Boarijar Police station in Godda sub- division.",
+   "party12": "JMM",
+   "winner_12": "HEMLAL MURMU",
+   "electors_12": 167515,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "HEMLAL MURMU",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "HEMANT SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "HEMANT SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 HEMANT SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 89.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 4,
+   "name": "Litipara",
+   "district": "Rajmahal",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    4
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Litipara, Amrapara and Hiranpur Police Stations in Pakaur sub- division; and Gopikandar Police Station in Dumka Sadar sub- division.",
+   "party12": "JMM",
+   "winner_12": "SIMON MARANDI",
+   "electors_12": 153589,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SIMON MARANDI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "DR. ANIL MURMU",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Dinesh William Marandi",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 HEMLAL MURMU",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "4": {
+     "pct": 93.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 5,
+   "name": "Pakhur",
+   "district": "Rajmahal",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    5
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Pakaur.",
+   "extent": "Pakaur Police Station in Pakaur sub-division; and Barharwa Police Station in Rajmahal sub-division.",
+   "party12": "JMM",
+   "winner_12": "AQUIL AKHTAR",
+   "electors_12": 232903,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "AQUIL AKHTAR",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "ALAMGIR ALAM",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "ALAMGIR ALAM",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 NISAT ALAM",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "5": {
+     "pct": 86.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 6,
+   "name": "Maheshpur",
+   "district": "Rajmahal",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    6
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Maheshpur and Pakuria Police Stations in Pakaur sub-division.",
+   "party12": "JVM",
+   "winner_12": "MISTRI SOREN",
+   "electors_12": 174460,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "MISTRI SOREN",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "STEPHEN MARANDI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "STEPHEN MARANDI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 STEPHEN MARANDI",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "6": {
+     "pct": 94.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 7,
+   "name": "Shikaripara",
+   "district": "Dumka",
+   "type": "ST",
+   "status": "renamed",
+   "src": [
+    7
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Sikaripars.",
+   "extent": "Sikaripara, Raneshwar and Kathikund Police Stations in Dumka Sadar sub-division.",
+   "party12": "JMM",
+   "winner_12": "NALIN SOREN",
+   "electors_12": 168335,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "NALIN SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "NALIN SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "NALIN SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 ALOK KUMAR SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "7": {
+     "pct": 93.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 8,
+   "name": "Nala",
+   "district": "Dumka",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    8,
+    9
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jamtara.",
+   "extent": "Nala and Kundahit Police Stations in Jamtara sub-division.",
+   "party12": "BJP",
+   "winner_12": "SATYANAND JHA",
+   "electors_12": 182885,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SATYANAND JHA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RABINDRA NATH MAHTO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "RABINDRA NATH MAHATO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RABINDRA NATH MAHATO",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "8": {
+     "pct": 96.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 9,
+   "name": "Jamtara",
+   "district": "Dumka",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    8,
+    9
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Nala.",
+   "extent": "Jamtara Police Station (excluding G.Ps. Karmatanr, Sahajpur, Pindari, Lakhanpur, Rataniya, Rampurbhitra and Kajra) and Narayanpur Police Station in Jamtara sub-division.",
+   "party12": "JMM",
+   "winner_12": "BISHNU PRASAD BHAIYA",
+   "electors_12": 216606,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "BISHNU PRASAD BHAIYA",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "IRFAN ANSARI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "IRFAN ANSARI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 IRFAN ANSARI",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 96.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 10,
+   "name": "Dumka",
+   "district": "Dumka",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    10
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Dumka Town, Dumka Muffassil and Masalia Police Stations in Dumka Sadar sub-division.",
+   "party12": "JMM",
+   "winner_12": "HEMANT SOREN",
+   "electors_12": 194533,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "HEMANT SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "LOIS MARANDI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "HEMANT SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 BASANT SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 94.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 11,
+   "name": "Jama",
+   "district": "Dumka",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    10,
+    11
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Dumka. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Jama and Ramgarh Police Stations in Dumka Sadar sub-division.",
+   "party12": "JMM",
+   "winner_12": "SITA SOREN",
+   "electors_12": 162923,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SITA SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "SITA MURMU ALIAS SITA SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SITA MURMU",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 LOIS MARANDI",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "10": {
+     "pct": 3.5,
+     "basis": "measured"
+    },
+    "11": {
+     "pct": 94.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 12,
+   "name": "Jarmundi",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    12
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Jarmundi Police Station in Dumka Sadar sub-division; and Sarawan Police Station in Deoghar sub-division.",
+   "party12": "IND",
+   "winner_12": "HARINARAYAN RAY",
+   "electors_12": 178901,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "HARINARAYAN RAY",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "BADAL",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "BADAL",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 DEVENDRA KUNWAR",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "12": {
+     "pct": 94.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 13,
+   "name": "Madhupur",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    9,
+    12,
+    13
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jamtara, Jarmundi.",
+   "extent": "Madhupur and Karon Police Stations and G.Ps. Kusmil, Chanddih, Pathra and Basbariya in Jasidih Police Station in Deoghar sub- division.",
+   "party12": "JMM",
+   "winner_12": "HUSSAIN ANSARI",
+   "electors_12": 242870,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "HUSSAIN ANSARI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAJ PALIWAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Haji Hussain Ansari",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 HAFIZUL HASSAN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 1.6,
+     "basis": "measured"
+    },
+    "12": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 95.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 14,
+   "name": "Sarath",
+   "district": "Dumka",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    9,
+    13,
+    14
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jamtara, Madhupur. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Sarath and Palojori Police Stations in Deoghar sub-division; and G.Ps. Karmatanr, Shahajpur, Pindari, Lakhanpur, Rataniya, Rampurbhitra and Kajra in Jamtara Police Station in Jamtara sub- division.",
+   "party12": "JMM",
+   "winner_12": "SASANK SHEKHAR BHOKTA",
+   "electors_12": 211723,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SASANK SHEKHAR BHOKTA",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RANDHIR KUMAR SINGH",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Randhir Kumar Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 UDAY SHANKAR SINGH",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "9": {
+     "pct": 1.3,
+     "basis": "measured"
+    },
+    "13": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "14": {
+     "pct": 94.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 15,
+   "name": "Deoghar",
+   "district": "Godda",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    15
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Deoghar town and Mohanpur Police Stations and Jasidih Police Station (excluding G.Ps. Kusmil, Chanddih, Pathra and Basbariya) in Deoghar sub-division.",
+   "party12": "RJD",
+   "winner_12": "SURESH PASWAN",
+   "electors_12": 288569,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SURESH PASWAN",
+     "party": "RJD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "NARAYAN DAS",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "NARAYAN DAS",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SURESH PASWAN",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "15": {
+     "pct": 93.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 16,
+   "name": "Poreyahat",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    16
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Poraiyahat.",
+   "extent": "Poreyahat Police Station and G.Ps. Burhikura, Dammajhilua, Sandmara, Nonbatta, Makhni, Pathra and Punsiya in Godda Police Station in Godda sub-division; and Saraiyahat Police Station in Dumka Sadar sub-division..",
+   "party12": "JVM",
+   "winner_12": "PRADIP YADAV",
+   "electors_12": 219806,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "PRADIP YADAV",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "PRADIP YADAV",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "PRADEEP YADAV",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 PRADEEP YADAV",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "16": {
+     "pct": 94.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 17,
+   "name": "Godda",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    2,
+    3,
+    16,
+    17
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Borio, Barhait, Poraiyahat. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Godda Police Station (excluding G.Ps. Burhikura, Dammajhilua, Sandmara, Nonbatta, Makhni, Pathra and Punsiya) and Pathargama Police Station in Godda sub-division.",
+   "party12": "RJD",
+   "winner_12": "SANJAY PRASAD YADAV",
+   "electors_12": 240715,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SANJAY PRASAD YADAV",
+     "party": "RJD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAGHU NANDAN MANDAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Amit Kumar Mandal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SANJAY PRASAD YADAV",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "3": {
+     "pct": 2.7,
+     "basis": "measured"
+    },
+    "16": {
+     "pct": 4.6,
+     "basis": "measured"
+    },
+    "17": {
+     "pct": 91.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 18,
+   "name": "Mahagama",
+   "district": "Godda",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    18
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name with revised boundaries. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Mahagama and Meherma Police Stations in Godda sub-division.",
+   "party12": "INC",
+   "winner_12": "RAJESH RANJAN",
+   "electors_12": 245415,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "RAJESH RANJAN",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "ASHOK KUMAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Deepika Pandey Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 DEEPIKA PANDEY SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "18": {
+     "pct": 83.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 19,
+   "name": "Kodarma",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    19,
+    20
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barkatha.",
+   "extent": "Kodarma and Sargawan Police Stations in Kodarma sub-division.",
+   "party12": "RJD",
+   "winner_12": "ANNAPURNA DEVI",
+   "electors_12": 247183,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "ANNAPURNA DEVI",
+     "party": "RJD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "DR. NEERA YADAV",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Dr. Neera Yadav",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 DR. NEERA YADAV",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "19": {
+     "pct": 96.5,
+     "basis": "measured"
+    },
+    "20": {
+     "pct": 1.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 20,
+   "name": "Barkatha",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    20,
+    21,
+    25
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barhi, Hazaribagh.",
+   "extent": "Barkatha and Jainagar Police Stations in Kodarma sub-division; and Ichak Police Stations in Kodarma sub-division; and Ichak Police Station in Hazaribagh Sadar sub-division",
+   "party12": "BJP",
+   "winner_12": "AMIT KUMAR YADAV",
+   "electors_12": 235729,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "AMIT KUMAR YADAV",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "JANKI PRASAD YADAV",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "AMIT KUMAR YADAV S/O-CHITRANJAN YADAV",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 AMIT KUMAR YADAV",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "20": {
+     "pct": 97.7,
+     "basis": "measured"
+    },
+    "21": {
+     "pct": 0.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 21,
+   "name": "Barhi",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    21
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Barhi Police Station in Hazaribagh Sadar sub-division; and Chauparan Police Station in Kodarma sub-division.",
+   "party12": "BJP",
+   "winner_12": "UMASHANKAR AKELA",
+   "electors_12": 207089,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "UMASHANKAR AKELA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "MANOJ KUMAR YADAV",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Umashankar Akela",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 MANOJ KUMAR YADAV",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "21": {
+     "pct": 97.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 22,
+   "name": "Barkagaon",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    22,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ramgarh.",
+   "extent": "Barkagaon Police Station and G.Ps. Terpa, Patratu, Koto, Palani, Hapuhua, Harijarpu Gegda, Deoria, Bargama, Pali, Salgo, Sanki, Jabo, Chaingara, Chikor, Lapanga, Ghutua, Barkakana and Sidhwar-Kalan in Ramgarh Police Station in Hazaribagh Sadar sub- division.",
+   "party12": "INC",
+   "winner_12": "YOGENDRA SAW",
+   "electors_12": 273225,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "YOGENDRA SAW",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "NIRMALA DEVI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "AMBA PRASAD",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 ROSHAN LAL CHOUDHARY",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "22": {
+     "pct": 96.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 23,
+   "name": "Ramgarh",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    22,
+    23
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barkagaon.",
+   "extent": "Ramgarh Police Station (excluding G.Ps. Terpa, Patratu, Koto, Palani, Hapuhua, Harikarpur, Gegda, Deoria, Bargama, Pali, Salgo, Sanki, Jabo, Chaingari, Chikor, Lapanga, Ghutua, Barkakana and Sidhwar-Kalan) and Gola Police Station in Hazaribagh Sadar sub- division.",
+   "party12": "AJSUP",
+   "winner_12": "CHANDRA PRAKASH CHOUDHARY",
+   "electors_12": 231188,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "CHANDRA PRAKASH CHOUDHARY",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "CHANDRA PRAKASH CHOUDHARY",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "MAMTA DEVI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 MAMTA DEVI",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "23": {
+     "pct": 96.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 24,
+   "name": "Mandhu",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    24
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Mandu.",
+   "extent": "Mandu and Bishnugarh Police Stations in Hazaribagh Sadar sub- division.",
+   "party12": "JMM",
+   "winner_12": "TEKLAL MAHTO",
+   "electors_12": 293563,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "TEKLAL MAHTO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "JAI PRAKASH BHAI PATEL",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Jai Prakash Bhai Patel",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 NIRMAL MAHTO",
+     "party": "AJSUP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "24": {
+     "pct": 98.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 25,
+   "name": "Hazaribagh",
+   "district": "Hazaribagh",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    25
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Hazaribagh Police Station in Hazaribagh Sadar sub-division.",
+   "party12": "INC",
+   "winner_12": "SAURABH NARAIN SINGH",
+   "electors_12": 273592,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SAURABH NARAIN SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "MANISH JAISWAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Manish Jaiswal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 PRADIP PRASAD",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "25": {
+     "pct": 94.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 26,
+   "name": "Simaria",
+   "district": "Chatra",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    21,
+    26
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barhi.",
+   "extent": "Simaria, Ithkori and Tandwa Police Stations in Chatra sub-division.",
+   "party12": "JVM",
+   "winner_12": "JAI PRAKASH SINGH BHOGTA",
+   "electors_12": 245001,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "JAI PRAKASH SINGH BHOGTA",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "GANESH GANJHU",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Kishun Kumar Das",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 KUMAR UJJWAL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "26": {
+     "pct": 97.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 27,
+   "name": "Chatra",
+   "district": "Chatra",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    21,
+    27
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barhi.",
+   "extent": "Chatra, Pratappur and Hunterganj Police Stations in Chatra sub- division.",
+   "party12": "RJD",
+   "winner_12": "JANARDAN PASWAN",
+   "electors_12": 266597,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "JANARDAN PASWAN",
+     "party": "RJD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "JAY PRAKASH SINGH BHOGTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SATYANAND BHOKTA",
+     "party": "RJD",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 JANARDHAN PASWAN",
+     "party": "LJPRV",
+     "status": null
+    }
+   ],
+   "shares": {
+    "27": {
+     "pct": 98.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 28,
+   "name": "Dhanwar",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    28
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Dhanwar and Gawan Police Stations.in Giridih Sadar sub-division.",
+   "party12": "JVM",
+   "winner_12": "NIZAMUDDIN ANSARI",
+   "electors_12": 236726,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "NIZAMUDDIN ANSARI",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAJ KUMAR YADAW",
+     "party": "CPI(ML)(L)",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "BABULAL MARANDI",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 BABU LAL MARANDI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "28": {
+     "pct": 93.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 29,
+   "name": "Bagodar",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    29
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Bagodar and Birni Police Station in Giridih Sadar sub-division.",
+   "party12": "CPI(ML)(L)",
+   "winner_12": "VINOD KUMAR SINGH",
+   "electors_12": 249264,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "VINOD KUMAR SINGH",
+     "party": "CPI(ML)(L)",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "NAGENDRA MAHTO",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "VINOD KUMAR SINGH",
+     "party": "CPI(ML)(L)",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 NAGENDRA MAHTO",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "29": {
+     "pct": 95.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 30,
+   "name": "Jamua",
+   "district": "Kodarma",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    30
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Jamua and Deori Police Stations in Giridih Sadar sub-division.",
+   "party12": "JVM",
+   "winner_12": "CHANDRIKA MAHTHA",
+   "electors_12": 228323,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "CHANDRIKA MAHTHA",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "KEDAR HAZRA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "KEDAR HAZRA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 MANJU KUMARI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "30": {
+     "pct": 94.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 31,
+   "name": "Gandey",
+   "district": "Kodarma",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    31,
+    32
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Giridih.",
+   "extent": "Gandey and Bengabad Police Stations and G.Ps. Leda, Semaria, Badgunda, Palmo, Sathibad, Senadoni, Dhanaidih, Guro, Jitpur, Telodih, Ranidih and Karharbari in Giridih Mufassil Police Station in Giridih Sadar sub-division.",
+   "party12": "INC",
+   "winner_12": "SARFRAZ AHMAD",
+   "electors_12": 199596,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SARFRAZ AHMAD",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "JAI PRAKASH VERMA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "DR SARFRAZ AHMAD",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 KALPANA MURMU SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 96.3,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 0.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 32,
+   "name": "Giridih",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    31,
+    32
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gandey.",
+   "extent": "Giridih Town Police Station and Giridih Mufassil Police Station (excluding G.Ps. Leda, Semaria, Badgunda, Palmo, Sathibad Senadoni, Dhanaidih, Guro, Jitpur, Telodih, Ranidih and Karharbari) and Pirtanr Police Station in Giridih Sadar sub-division.",
+   "party12": "JVM",
+   "winner_12": "NIRBHAY KUMAR SHAHABADI",
+   "electors_12": 205538,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "NIRBHAY KUMAR SHAHABADI",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "NIRBHAY KUMAR SHAHABADI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SUDIVYA KUMAR",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SUDIVYA KUMAR",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "31": {
+     "pct": 2.1,
+     "basis": "measured"
+    },
+    "32": {
+     "pct": 94.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 33,
+   "name": "Dumri",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    33
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Dumri Police Station in Giridih Sadar sub-division; and Nawadih Police Station in Bermo sub-division.",
+   "party12": "JMM",
+   "winner_12": "JAGARNATH MAHTO",
+   "electors_12": 206919,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "JAGARNATH MAHTO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "JAGARNATH MAHTO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "JAGARNATH MAHTO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 JAIRAM KUMAR MAHATO",
+     "party": "JLKM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "33": {
+     "pct": 96.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 34,
+   "name": "Gomiya",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "renamed",
+   "src": [
+    34,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Gomia.",
+   "extent": "Gomia Police Station and Petarbar Police Station (excluding G.Ps. Champi, Rohar, Chando, Pichhri, Angwali and Chalkari) in Bermo sub-division.",
+   "party12": "INC",
+   "winner_12": "MADHAV LAL SINGH",
+   "electors_12": 212454,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "MADHAV LAL SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "YOGENDRA PRASAD",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Lambodar Mahto",
+     "party": "AJSU Party",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 YOGENDRA PRASAD",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "34": {
+     "pct": 97.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 35,
+   "name": "Bermo",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    34,
+    35
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gomia.",
+   "extent": "Jaridih and Bermo Police Stations and G.Ps. Champi, Rohar, Chando, Pichhri, Angwali and Chalkari in Petarbar Police Station in Bermo sub-division.",
+   "party12": "INC",
+   "winner_12": "RAJENDRA PRASAD SINGH",
+   "electors_12": 234875,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "RAJENDRA PRASAD SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "YOGESHWAR MAHTO",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Rajendra Pd. Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 KUMAR JAIMANGAL (ANUP SINGH)",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "34": {
+     "pct": 0.7,
+     "basis": "measured"
+    },
+    "35": {
+     "pct": 97.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 36,
+   "name": "Bokaro",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    36,
+    37
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chandankiyari.",
+   "extent": "Chas Police Station (excluding G.Ps. Bijulia, Alkusa, Buribinor, Khamarbendi, Dudhigajar, Kura Dabartupara, Jaitara, Pundru and Sardaha) in Baghmara sub-division.",
+   "party12": "JVM",
+   "winner_12": "SAMRESH SINGH",
+   "electors_12": 444370,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SAMRESH SINGH",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "BIRANCHI NARAYAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Biranchi Narayan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SHWETTAA SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 98.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 37,
+   "name": "Chandankyari",
+   "district": "Dhanbad",
+   "type": "SC",
+   "status": "renamed",
+   "src": [
+    36,
+    37,
+    41
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Bokaro.",
+   "extent": "Chandankiyari Police Station and G.Ps. Bijulia, Alkusa, Buribinor, (SC) Khamarbendi, Dudhigajar, Kura Dabartupara, Jaitara, Pundru and Sardaha in Chas Police Station in Baghmara sub-division.",
+   "party12": "AJSUP",
+   "winner_12": "UMAKANT RAJAK",
+   "electors_12": 185706,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "UMAKANT RAJAK",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "AMAR KUMAR BAURI",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "AMAR KUMAR BAURI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 UMA KANT RAJAK",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "36": {
+     "pct": 0.6,
+     "basis": "measured"
+    },
+    "37": {
+     "pct": 92.8,
+     "basis": "measured"
+    },
+    "41": {
+     "pct": 4.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 38,
+   "name": "Sindri",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    38
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Sindri, Baliapur and Gobindpur Police Station in Dhanbad Sadar sub-division.",
+   "party12": "JVM",
+   "winner_12": "PHUL CHAND MANDAL",
+   "electors_12": 256466,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "PHUL CHAND MANDAL",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "FULCHAND MANDAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "INDRAJIT MAHATO",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 CHANDRADEO MAHATO",
+     "party": "CPI(ML)(L)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "38": {
+     "pct": 96.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 39,
+   "name": "Nirsa",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    39
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Nirsa and Chirkunda Police Stations in Dhanbad Sadar sub- division.",
+   "party12": "MCO",
+   "winner_12": "ARUP CHATTERJEE",
+   "electors_12": 273338,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "ARUP CHATTERJEE",
+     "party": "MCO",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "ARUP CHATTERJEE",
+     "party": "MCO",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "APARNA SENGUPTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 ARUP CHATTERJEE",
+     "party": "CPI(ML)(L)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "39": {
+     "pct": 97.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 40,
+   "name": "Dhanbad",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    40
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Dhanbad, Putki and Kenduadih Police Stations in Dhanbad Sadar sub-division.",
+   "party12": "INC",
+   "winner_12": "MANAN MALLICK",
+   "electors_12": 371634,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "MANAN MALLICK",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAJ SINHA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "RAJ SINHA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RAJ SINHA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "40": {
+     "pct": 94.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 41,
+   "name": "Jharia",
+   "district": "Dhanbad",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    41
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Jharia and Jorapokhar Police Stations in Dhanbad Sadar sub- division.",
+   "party12": "BJP",
+   "winner_12": "KUNTI DEVI",
+   "electors_12": 276086,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "KUNTI DEVI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "SANJEEV SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "PURNIMA NIRAJ SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RAGINI SINGH",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "41": {
+     "pct": 98.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 42,
+   "name": "Tundi",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    42
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tundi Police Station in Dhanbad Sadar sub-division; Topchanchi Police Station and G.Ps. Dharkiro, Daludih, Rajganj, Bagdaha, Dhawachita, Nagri Kalan and Ramkanalichandur in Katras Police Station in Baghmara sub-division.",
+   "party12": "JMM",
+   "winner_12": "MATHURA PRASAD MAHATO",
+   "electors_12": 234548,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "MATHURA PRASAD MAHATO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAJ KISHORE MAHATO",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "MATHURA PRASAD MAHATO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 MATHURA PRASAD MAHATO",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "42": {
+     "pct": 96.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 43,
+   "name": "Baghmara",
+   "district": "Giridih",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    36,
+    42,
+    43
+   ],
+   "lineage_basis": "geometric",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bokaro, Tundi. This is inferred from boundary overlap, not stated in the order text.",
+   "extent": "Baghmara Police Station and Katras Police Station (excluding G.Ps. Dharkiro, Daludih, Rajganj Bagdaha, Dhawachita, Nagri Kalan and Ramkanalichandur) in Baghmara sub-division; and Jogta Police Station in Dhanbad Sadar sub-division.",
+   "party12": "JVM",
+   "winner_12": "DULU MAHATO",
+   "electors_12": 250496,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "DULU MAHATO",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "DULU MAHATO",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "DULU MAHATO",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SHATRUGHAN MAHTO",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "43": {
+     "pct": 94.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 44,
+   "name": "Baharagora",
+   "district": "Jamshedpur",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    44
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Bharagora and Chakulia Police Stations in Dhalbhum sub-division.",
+   "party12": "JMM",
+   "winner_12": "BIDYUT BARAN MAHATO",
+   "electors_12": 180792,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "BIDYUT BARAN MAHATO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "KUNAL SHARANGI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SAMIR Kr. MOHANTY",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SAMIR KUMAR MOHANTY",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "44": {
+     "pct": 92.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 45,
+   "name": "Ghatshila",
+   "district": "Jamshedpur",
+   "type": "ST",
+   "status": "renamed",
+   "src": [
+    45,
+    46
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Ghatsila.",
+   "extent": "Ghatsila Police Station and Musabnai Police Station (excluding G.Ps. Palasbani, Asta Koyali, Nunia, Kumarasol, Barakanjiya, Bomaro Bangoriya and Damudih) in Dhalbhum sub-division.",
+   "party12": "JMM",
+   "winner_12": "RAMDAS SOREN",
+   "electors_12": 198121,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "RAMDAS SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "LAKSHMAN TUDU",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Ramdas Soren",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RAM DAS SOREN",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "45": {
+     "pct": 93.0,
+     "basis": "measured"
+    },
+    "46": {
+     "pct": 5.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 46,
+   "name": "Potka",
+   "district": "Jamshedpur",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    45,
+    46,
+    47
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ghatsila, Jugsalai.",
+   "extent": "Potka Police Station, G.Ps. Palasbani, Asta Koyali, Nunia, Kumarasol, Barakanjiya, Bomaro Bangoriya and Damudih in Musabnai Police Station. Bagbera town and G.Ps. Karandih – Purihasa, Hargarghutu, Bagbera and village 1167-Kitadih in Jugsalai Police Station in Dhalbhum sub-division.",
+   "party12": "BJP",
+   "winner_12": "MENAKA SARDAR",
+   "electors_12": 225909,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "MENAKA SARDAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "MENAKA SARDAR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Sanjib Sardar",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SANJIB SARDAR",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 89.5,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 1.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 47,
+   "name": "Jugashlai",
+   "district": "Jamshedpur",
+   "type": "SC",
+   "status": "renamed",
+   "src": [
+    46,
+    47,
+    48,
+    49
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Potka.",
+   "extent": "Jugsalai Police Station (excluding Bagbera town and G.Ps. Karandih-Purihasa, Hargarghutu, Bagbera and village 1167-Kitadih) Golmuri and Patamda Police Station in Dhalbhum sub-division.",
+   "party12": "AJSUP",
+   "winner_12": "RAM CHANDRA SAHIS",
+   "electors_12": 249247,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "RAM CHANDRA SAHIS",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAM CHANDRA SAHIS",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "MANGAL KALINDI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 MANGAL KALINDI",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "46": {
+     "pct": 0.7,
+     "basis": "measured"
+    },
+    "47": {
+     "pct": 90.8,
+     "basis": "measured"
+    },
+    "48": {
+     "pct": 1.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 48,
+   "name": "Jamshedpur East",
+   "district": "Jamshedpur",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    48,
+    49
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Jamshedpur West.",
+   "extent": "Census wards 20 and 23 to 40 in Jamshdepur Notified Area East Committee in Dhalbhum sub-division.",
+   "party12": "BJP",
+   "winner_12": "RAGHUBAR DAS",
+   "electors_12": 247387,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "RAGHUBAR DAS",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAGHUBAR DAS",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Saryu Roy",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 PURNIMA SAHU",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "48": {
+     "pct": 80.5,
+     "basis": "measured"
+    },
+    "49": {
+     "pct": 17.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 49,
+   "name": "Jamshedpur West",
+   "district": "Jamshedpur",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    49,
+    51
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Seraikella.",
+   "extent": "Jamshedpur Notified Area Committee (excluding census wards 20 West and 23 to 40) in Dhalbhum sub-division.",
+   "party12": "INC",
+   "winner_12": "BANNA GUPTA",
+   "electors_12": 291414,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "BANNA GUPTA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "SARYU ROY",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Banna Gupta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SARYU ROY",
+     "party": "JD(U)",
+     "status": null
+    }
+   ],
+   "shares": {
+    "49": {
+     "pct": 58.5,
+     "basis": "measured"
+    },
+    "51": {
+     "pct": 32.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 50,
+   "name": "Ichagarh",
+   "district": "Ranchi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    50
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Ichagarh, Chandil and Nimdih Police Stations in Seraikella sub- division.",
+   "party12": "JVM",
+   "winner_12": "ARVIND KUMAR SINGH",
+   "electors_12": 188130,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "ARVIND KUMAR SINGH",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "SADHU CHARAN MAHATO",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SABITA MAHATO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SABITA MAHATO",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "50": {
+     "pct": 91.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 51,
+   "name": "Saraikella",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "renamed",
+   "src": [
+    51,
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Seraikella.",
+   "extent": "Seraikella municipality and G.Ps. Govindpur, Pandra, Manik Bazar, Tangrani, Pathanmara, Jordiha, Gurgudia and Badakakda in Seraikella Police Station, Rajnagar Police Station (excluding village 98-Dighi) and Adityapur Police Station in Seraikella sub-division.",
+   "party12": "JMM",
+   "winner_12": "CHAMPAI SOREN",
+   "electors_12": 226773,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "CHAMPAI SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "CHAMPAI SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "CHAMPAI SOREN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 CHAMPAI SOREN",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 89.5,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 6.1,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 52,
+   "name": "Chaibasa",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    52,
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kharasawan.",
+   "extent": "Chaibasa Sadar and Jhinkpani Police Stations and Chaibasa Mufassil Police Station (exluding G.Ps. Bhoya, Keadchalam, Domra-Parnia, Lota, Thakuragutu, Dopai-Gamhariya, Sarda, Makamhatu, Khuntpani, Chiru and Rajabasa) in Chaibasa Sadar sub-division.",
+   "party12": "JMM",
+   "winner_12": "DEEPAK BIRUA",
+   "electors_12": 156988,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "DEEPAK BIRUA",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "DEEPAK BIRUA",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "DEEPAK BIRUA",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 DEEPAK BIRUA",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "52": {
+     "pct": 90.7,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 1.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 53,
+   "name": "Majhganon",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "renamed",
+   "src": [
+    53
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Majhgaon.",
+   "extent": "Majhgaon and Manjhari Police Stations in Chaibasa Sadar sub- division.",
+   "party12": "BJP",
+   "winner_12": "BARKUWAR GAGRAI",
+   "electors_12": 143692,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "BARKUWAR GAGRAI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "NIRAL PURTY",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "NIRAL PURTY",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 NIRAL PURTY",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "53": {
+     "pct": 87.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 54,
+   "name": "Jaganathpur",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    54,
+    55
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Manoharpur.",
+   "extent": "Naomundi and Gua Police Stations and G.Ps. Kurtabera, Urkiya, (ST) Makaramda, Thalkobad (Part I) and Chhotanagra (Part I) in Manoharpur Police Station in Chaibasa Sadar sub-division.",
+   "party12": "JBSP",
+   "winner_12": "GEETA KORA",
+   "electors_12": 136974,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "GEETA KORA",
+     "party": "JBSP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "GEETA KORA",
+     "party": "JBSP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SONA RAM SINKU",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SONA RAM SINKU",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "54": {
+     "pct": 88.2,
+     "basis": "measured"
+    },
+    "55": {
+     "pct": 6.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 55,
+   "name": "Manoharpur",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    55,
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Chakradharpur.",
+   "extent": "Manoharpur Police Station (excluding G.Ps. Kurtabera, Urkiya, (ST) Makaramda, Thalkobad (Part I) and Chhotanagra (Part I) and G.Ps. Beralumin, Jojoda, Serengda, Orenga, Jhilrua, Goilkera, Kuira, Kadamdiha, Dalaikela, Sonua-Jorapokhar, Porahat, Sogoisai, Gudri Jarakel, Asantaliya, Dalki-Gobindpur, Bhalurangj, Harimara, Tunian Gajpur, Bandu, Poronger, Koloeda, Kulda, Bari, Lonjo, Bera Kayam, Mamail, Piring, Komrora, Komrora-Dairyo, Dura-Jante and Banskata and Chakradharpur Police Station in Chaibasa Sadar sub-division.",
+   "party12": "BJP",
+   "winner_12": "GURU CHARAN NAYAK",
+   "electors_12": 154936,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "GURU CHARAN NAYAK",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "JOBA MANJHI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "JOBA MAJHI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 JAGAT MAJHI",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 85.1,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 2.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 56,
+   "name": "Chakradharpur",
+   "district": "Singhbhum",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    55,
+    56
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Manoharpur.",
+   "extent": "Chakradharpur Police Station (excluding G.Ps. Beralumin, Jojoda, (ST) Serengda, Orenga, Jhilrua, Goilkera, Kuira, Kadamdiha, Dalaikela, Sonua-Jorapokhar, Porahat, Sogoisai,Gudri Jarakel, Asantaliya, Dalki-Gobindpur, Bhalurangj, Harimara, Tunian Gajpur, Bandu, Poronger, Koloeda, Kulda, Bari, Lonjo, Bera Kayam, Mamail, Piring, Komrora, Komrora-Dariyo, Dura-Jante and Banskata) in Chaibasa Sadar sub-division.",
+   "party12": "BJP",
+   "winner_12": "LAXMAN GILUWA",
+   "electors_12": 146002,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "LAXMAN GILUWA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "SHASHIBHUSHAN SAMAD",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SUKHRAM ORAON",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SUKHRAM ORAON",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "55": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "56": {
+     "pct": 92.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 57,
+   "name": "Kharasawan",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    51,
+    52,
+    57
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Seraikella, Chaibasa.",
+   "extent": "Kharsawan and Kuchai Police Stations and Seraikella Police (ST) Station (excluding Seraikella municipality and G.Ps. Govindpur, Para, Manik Bazar, Tangrani, Pathanmara, Jordiha Gurugudia and Badakakda) and village 98-Dighi in Rajnagar Police Station in Seraikella sub-division; and G.Ps. Bhoya Keadchalam, Domra- Parnia, Lota, Thakurgutu, Dopai-Gamhariya, Sarda, Matkamhatu- Khuntpani, Chiru and Rajabasa in Chaibasa Mufassil Police Station in Chaibasa Sadar sub-division.",
+   "party12": "BJP",
+   "winner_12": "MANGAL SINGH SOY",
+   "electors_12": 154453,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "MANGAL SINGH SOY",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "DASHRATH GAGRAI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "DASHRATH GAGRAI",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 DASHRATH GAGRAI",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "51": {
+     "pct": 1.1,
+     "basis": "measured"
+    },
+    "57": {
+     "pct": 90.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 58,
+   "name": "Tamar",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    58
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Tamar, Erki and Bundu Police Stations in Khunti sub-divisions.",
+   "party12": "JD(U)",
+   "winner_12": "GOPAL KRISHNA PATAR",
+   "electors_12": 165315,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "GOPAL KRISHNA PATAR",
+     "party": "JD(U)",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "VIKASH KUMAR MUNDA",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "VIKAS KUMAR MUNDA",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 VIKAS KUMAR MUNDA",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "58": {
+     "pct": 93.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 59,
+   "name": "Torpa",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "renamed",
+   "src": [
+    59,
+    60
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Tokpa.",
+   "extent": "Torpa and Rania Police Stations and G.Ps. Gumru, Gobindpur, Tilmi, Lapa, Jariagarh, Urikel and Hutub and Karra Police Station in Khunti sub-division; and Bano Police Station in Simdega sub- divison.",
+   "party12": "JMM",
+   "winner_12": "PAULUS SURIN",
+   "electors_12": 141953,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "PAULUS SURIN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "PAULUS SURIN",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "KOCHE MUNDA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SUDEEP GUDHIYA",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 90.5,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 1.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 60,
+   "name": "Khunti",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    59,
+    60
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Tokpa.",
+   "extent": "Khunti and Murhu Police Stations and Karra Police Station (excluding G.Ps. Gumru, Gobindpur, Tilmi, Lapa, Jariagarh, Urikel and Hutub) in Khunti sub-division.",
+   "party12": "BJP",
+   "winner_12": "NILKANTH SINGH MUNDA",
+   "electors_12": 166586,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "NILKANTH SINGH MUNDA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "NILKANTH SINGH MUNDA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "NILKANTH SINGH MUNDA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RAM SURYA MUNDA",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "59": {
+     "pct": 2.6,
+     "basis": "measured"
+    },
+    "60": {
+     "pct": 92.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 61,
+   "name": "Silli",
+   "district": "Ranchi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    61,
+    62
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Khijri.",
+   "extent": "Silli Police Station, GPs. Barwadag, Tati, Jonha, Kashidih, Merha, Ambajharia and Kontatoli and Angara Police Station in Ranchi Sadar sub-division; and Sonahatu Police Station in Khunti sub- division.",
+   "party12": "AJSUP",
+   "winner_12": "SUDESH KUMAR MAHTO",
+   "electors_12": 167840,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SUDESH KUMAR MAHTO",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "AMIT KUMAR",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SUDESH KUMAR MAHTO",
+     "party": "AJSU Party",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 AMIT KUMAR",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "61": {
+     "pct": 96.4,
+     "basis": "measured"
+    },
+    "62": {
+     "pct": 1.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 62,
+   "name": "Khijri",
+   "district": "Ranchi",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    62,
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Hatia.",
+   "extent": "Ormanjhi, Mamkum and Hatia Police Stations and Angara Police Station (excluding G.Ps. Barwadag, Tati, Jonha, Kashidih, Merha, Ambajharia and Kontatoli) in Ranchi Sadar sub-division.",
+   "party12": "INC",
+   "winner_12": "SAWNA LAKRA",
+   "electors_12": 274642,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SAWNA LAKRA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAMKUMAR PAHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Rajesh Kachhap",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RAJESH KACHHAP",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "62": {
+     "pct": 94.9,
+     "basis": "measured"
+    },
+    "64": {
+     "pct": 1.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 63,
+   "name": "Ranchi",
+   "district": "Ranchi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    63,
+    65
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kanke.",
+   "extent": "Ranchi municipality in Ranchi Kotwali Police Station in Ranchi Sadar sub-division.",
+   "party12": "BJP",
+   "winner_12": "CHANDRESHWAR PRASAD SINGH",
+   "electors_12": 353461,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "CHANDRESHWAR PRASAD SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "CHANDRESHWAR PRASAD SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Chandreshwar Prasad Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 CHANDRESHWAR PRASAD SINGH",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 72.3,
+     "basis": "measured"
+    },
+    "65": {
+     "pct": 27.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 64,
+   "name": "Hatia",
+   "district": "Ranchi",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    63,
+    64
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Ranchi.",
+   "extent": "Jaganathpur, Ratu and Doranda Police Stations and Ranchi Kotwali Police Station (excluding Ranchi municipality) in Ranchi Sadar sub- division.",
+   "party12": "INC",
+   "winner_12": "GOPAL S.N.SHAHDEO",
+   "electors_12": 380866,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "GOPAL S.N.SHAHDEO",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "NAVIN JAISWAL",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "NAVIN JAISWAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 NAVIN JAISWAL",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "63": {
+     "pct": 3.2,
+     "basis": "measured"
+    },
+    "64": {
+     "pct": 87.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 65,
+   "name": "Kanke",
+   "district": "Ranchi",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    65
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Kanke, Ranchi Sadar, Burmu and Khelari Police Stations in Ranchi Sadar sub-division.",
+   "party12": "BJP",
+   "winner_12": "RAMCHANDRA BAITHA",
+   "electors_12": 331582,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "RAMCHANDRA BAITHA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "DR. JITU CHARAN RAM",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "SAMMARI LAL",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SURESH KUMAR BAITHA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "65": {
+     "pct": 95.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 66,
+   "name": "Mandar",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    66
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Bero, Mandar and Lapung Police Stations in Ranchi Sadar sub- division.",
+   "party12": "JHJAM",
+   "winner_12": "BANDHU TIRKEY",
+   "electors_12": 255065,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "BANDHU TIRKEY",
+     "party": "JHJAM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "GANGOTRI KUJUR",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "BANDHU TIRKEY",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SHILPI NEHA TIRKEY",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "66": {
+     "pct": 94.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 67,
+   "name": "Sisai",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    67
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Sisai, Kamdara and Basia Police Stations in Gumla sub-division.",
+   "party12": "INC",
+   "winner_12": "GEETA SHREE ORAON",
+   "electors_12": 183053,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "GEETA SHREE ORAON",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "DINESH ORAON",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "JIGA SUSARAN HORO",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 JIGA SUSARAN HORO",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "67": {
+     "pct": 91.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 68,
+   "name": "Gumla",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    68,
+    69,
+    70
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bishunpur, Simdega.",
+   "extent": "Gumla Municipality G.Ps. Hurhuria, Ghatagaon, Asani, Chandali, Telgaon, Pugu, Bangaru, Karaundi, Dumardih and Murkunda in Gumla Police Station and Raidih, Chainpur and Dumri Police Stations in Gumla sub-division.",
+   "party12": "BJP",
+   "winner_12": "KAMLESH ORAON",
+   "electors_12": 177355,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "KAMLESH ORAON",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "SHIVSHANKAR ORAON",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "BHUSHAN TIRKEY",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 BHUSHAN TIRKEY",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "68": {
+     "pct": 90.8,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 4.9,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 69,
+   "name": "Bishunpur",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    68,
+    69
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Gumla.",
+   "extent": "Bishunpur and Ghaghra Police Stations and Gumla Police Station (ST) (excluding Gumla municipality and G.Ps. Hurhuria, Ghatagaon, Asani, Chandali, Telgaon, Pugu, Bangaru, Karaundi, Dumardih and Murkunda) in Gumla sub-division; and Senha Police Station Lohardaga sub-division.",
+   "party12": "RAKAP",
+   "winner_12": "CHAMRA LINDA",
+   "electors_12": 186306,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "CHAMRA LINDA",
+     "party": "RAKAP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "CHAMRA LINDA",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "CHAMRA LINDA",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 CHAMRA LINDA",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "68": {
+     "pct": 1.0,
+     "basis": "measured"
+    },
+    "69": {
+     "pct": 90.3,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 70,
+   "name": "Simdega",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    67,
+    70
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sisai.",
+   "extent": "Simdega and Kurdeg Police Stations in Simdega sub-division; and Palkot Police Station in Gumla sub-division.",
+   "party12": "BJP",
+   "winner_12": "VIMLA PRADHAN",
+   "electors_12": 178863,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "VIMLA PRADHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "VIMLA PRADHAN",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "BHUSHAN BARA",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 BHUSHAN BARA",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "70": {
+     "pct": 87.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 71,
+   "name": "Kolebira",
+   "district": "Khunti",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    67,
+    70,
+    71
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Sisai, Simdega.",
+   "extent": "Kolebira, Thethaitangar and Bolba Police Stations in Simdega sub- division.",
+   "party12": "JKP",
+   "winner_12": "ANOSH EKKA",
+   "electors_12": 158862,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "ANOSH EKKA",
+     "party": "JKP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "ANOSH EKKA",
+     "party": "JKP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "NAMAN BIXAL KONGARI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 NAMAN BIXAL KONGARI",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "67": {
+     "pct": 0.9,
+     "basis": "measured"
+    },
+    "70": {
+     "pct": 11.2,
+     "basis": "measured"
+    },
+    "71": {
+     "pct": 87.6,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 72,
+   "name": "Lohardaga",
+   "district": "Lohardaga",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    72
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Lohardaga, Kuru and Kisko Police Station in Lohardaga sub- (ST) division.",
+   "party12": "AJSUP",
+   "winner_12": "KAMAL KISHOR BHAGAT",
+   "electors_12": 197610,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "KAMAL KISHOR BHAGAT",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "KAMAL KISHORE BHAGAT",
+     "party": "AJSUP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "RAMESHWAR ORAON",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RAMESHWAR ORAON",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "72": {
+     "pct": 91.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 73,
+   "name": "Manika",
+   "district": "Chatra",
+   "type": "ST",
+   "status": "continuing",
+   "src": [
+    73,
+    74
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Latehar.",
+   "extent": "Latehar Police Station (excluding Latehar (N.A.C.) and G.Ps. Pochra, Luti, Kaima, Kura, Bishnupur, Mungar, Nindir, Laharpur and Zalim), Barwadih, Garoo and Mahuadanr Police Stations in Latehar sub-division.",
+   "party12": "BJP",
+   "winner_12": "HARIKRISHNA SINGH",
+   "electors_12": 152558,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "HARIKRISHNA SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "HARIKRISHN SINGH",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "RAMCHANDRA SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RAMCHANDRA SINGH",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "73": {
+     "pct": 93.9,
+     "basis": "measured"
+    },
+    "74": {
+     "pct": 0.8,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 74,
+   "name": "Latehar",
+   "district": "Chatra",
+   "type": "SC",
+   "status": "continuing",
+   "src": [
+    73,
+    74
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Manika.",
+   "extent": "Latehar (N.A.C.), G.Ps. Pochra, Luti, Kaima, Kura, Bishunpur, Mungar, Nindir, Laharpur and Zalim in Latehar Police Station, Chandwa and Balumath Police Station in Latehar sub-division.",
+   "party12": "BJP",
+   "winner_12": "BAIDYANATH RAM",
+   "electors_12": 171628,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "BAIDYANATH RAM",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "PRAKASH RAM",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "BAIDYANATH RAM",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 PRAKASH RAM",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "73": {
+     "pct": 0.8,
+     "basis": "measured"
+    },
+    "74": {
+     "pct": 95.7,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 75,
+   "name": "Panki",
+   "district": "Chatra",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    75
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Panki, Lesliganj and Manatu Police Station in Palamu Sadar sub- division.",
+   "party12": "IND",
+   "winner_12": "BIDESH SINGH",
+   "electors_12": 189543,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "BIDESH SINGH",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "BIDESH SINGH",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "KUSHWAHA SHASHI BHUSHAN MEHTA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 KUSHWAHA SHASHI BHUSHAN MEHTA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "75": {
+     "pct": 97.0,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 76,
+   "name": "Daltonganj",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    76,
+    77,
+    80
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Bishrampur, Garhwa.",
+   "extent": "Daltonganj and Chainpur Police Station in Palamu Sadar sub- division; and Bhandaria Police Station in Garhwa sub-division.",
+   "party12": "INC",
+   "winner_12": "KRISHNA NAND TRIPATHI",
+   "electors_12": 267909,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "KRISHNA NAND TRIPATHI",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "ALOK KR. CHAURASIYA",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "ALOK KUMAR CHAURASIYA",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 ALOK KUMAR CHAURASIYA",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "76": {
+     "pct": 93.7,
+     "basis": "measured"
+    },
+    "80": {
+     "pct": 2.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 77,
+   "name": "Bishrampur",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    76,
+    77
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Daltonganj.",
+   "extent": "Bishrampur Police Station in Palamu Sadar sub-division; and Majhiaon Police Station in Garhwa sub-division.",
+   "party12": "INC",
+   "winner_12": "CHANDRASHEKHAR DUBEY",
+   "electors_12": 245853,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "CHANDRASHEKHAR DUBEY",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RAM CHANDRA CHANDRAVANSHI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "RAMCHANDRA CHANDRAVANSHI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 NARESH PRASAD SINGH",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "77": {
+     "pct": 95.2,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 78,
+   "name": "Chattarpur",
+   "district": "Palamu",
+   "type": "SC",
+   "status": "renamed",
+   "src": [
+    78
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity; the name was modernised to Chhatarpur.",
+   "extent": "Chhatarpur and Patan Police Station in Palamu Sadar sub-division. (SC)",
+   "party12": "JD(U)",
+   "winner_12": "SUDHA CHOUDHARY",
+   "electors_12": 223682,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SUDHA CHOUDHARY",
+     "party": "JD(U)",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "RADHA KRISHNA KISHORE",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "PUSHPA DEVI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 RADHA KRISHANA KISHORE",
+     "party": "INC",
+     "status": null
+    }
+   ],
+   "shares": {
+    "78": {
+     "pct": 95.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 79,
+   "name": "Hussainabad",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    79
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name with revised boundaries.",
+   "extent": "Hussainabad and Hariharganj Police Station in Palamau Sadar sub- division.",
+   "party12": "RJD",
+   "winner_12": "SANJAY KUMAR SINGH YADAV",
+   "electors_12": 213029,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SANJAY KUMAR SINGH YADAV",
+     "party": "RJD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "KUSHWAHA SHIVPUJAN MEHTA",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Kamlesh Kumar Singh",
+     "party": "NCP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SANJAY KUMAR SINGH YADAV",
+     "party": "RJD",
+     "status": null
+    }
+   ],
+   "shares": {
+    "79": {
+     "pct": 95.4,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 80,
+   "name": "Garhwa",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    76,
+    80,
+    81
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Daltonganj, Bhawanathpur.",
+   "extent": "Garhwa Police Station (excluding G.Ps. Jarhi Balekhar, Raro, Sonehara and Dandai) and Ranka Police Station in Garhwa sub- division.",
+   "party12": "JVM",
+   "winner_12": "SATYENDRA NATH TIWARI",
+   "electors_12": 249060,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "SATYENDRA NATH TIWARI",
+     "party": "JVM",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "SATYENDRA NATH TIWARI",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "MITHILESH KUMAR THAKUR",
+     "party": "JMM",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 SATYENDRA NATH TIWARI",
+     "party": "BJP",
+     "status": null
+    }
+   ],
+   "shares": {
+    "76": {
+     "pct": 4.6,
+     "basis": "measured"
+    },
+    "80": {
+     "pct": 91.7,
+     "basis": "measured"
+    },
+    "81": {
+     "pct": 3.5,
+     "basis": "measured"
+    }
+   }
+  },
+  {
+   "ac_no": 81,
+   "name": "Bhawanathpur",
+   "district": "Palamu",
+   "type": "GEN",
+   "status": "continuing",
+   "src": [
+    76,
+    80,
+    81
+   ],
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Daltonganj, Garhwa.",
+   "extent": "Bhawanathpur and Nagar Untari Police Station and G.Ps. Jarhi, Balekhar, Raro, Sonehara and Dandai in Garhwa Police Station in Garhwa sub-division”.",
+   "party12": "INC",
+   "winner_12": "ANANT PRATAP DEO",
+   "electors_12": 254216,
+   "elections": [
+    {
+     "year": 2009,
+     "label": "2009",
+     "winner": "ANANT PRATAP DEO",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "label": "2014",
+     "winner": "BHANU PRATAP SHAHI",
+     "party": "NSAM",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "label": "2019",
+     "winner": "Bhanu Pratap Shahi",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "label": "2024",
+     "winner": "1 ANANT PRATAP DEO",
+     "party": "JMM",
+     "status": null
+    }
+   ],
+   "shares": {
+    "80": {
+     "pct": 0.9,
+     "basis": "measured"
+    },
+    "81": {
+     "pct": 93.7,
+     "basis": "measured"
+    }
+   }
+  }
+ ],
+ "party_overlay": {
+  "old": {
+   "BJP": 30,
+   "JMM": 17,
+   "INC": 9,
+   "RJD": 7,
+   "JD(U)": 6,
+   "IND": 3,
+   "AJSU": 2,
+   "AIFB": 2,
+   "UGDP": 2,
+   "CPI(ML)(L)": 1,
+   "JKP": 1,
+   "NCP": 1
+  },
+  "new": {
+   "BJP": 18,
+   "JMM": 18,
+   "INC": 14,
+   "JVM": 11,
+   "RJD": 5,
+   "AJSUP": 5,
+   "IND": 2,
+   "JD(U)": 2,
+   "CPI(ML)(L)": 1,
+   "MCO": 1,
+   "JBSP": 1,
+   "JHJAM": 1,
+   "RAKAP": 1,
+   "JKP": 1
+  },
+  "parties": [
+   "AIFB",
+   "AJSU",
+   "AJSUP",
+   "BJP",
+   "CPI(ML)(L)",
+   "INC",
+   "IND",
+   "JBSP",
+   "JD(U)",
+   "JHJAM",
+   "JKP",
+   "JMM",
+   "JVM",
+   "MCO",
+   "NCP",
+   "RAKAP",
+   "RJD",
+   "UGDP"
+  ]
+ },
+ "sources": [
+  "Delimitation of Parliamentary and Assembly Constituencies Order, 1976",
+  "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008",
+  "Election Commission of India, constituency-level results and statistical reports"
+ ],
+ "map_caveats": [
+  "The pre-2008 boundaries have been georectified. The source digitisation of the 1976-order map was displaced relative to the 2008-order map; the correction was fitted on the outer boundary of the state and raises the agreement between the two outlines from an intersection-over-union of 0.95 to 0.97.",
+  "Territory lineage is given on two footings, and each seat record states which applies to it. For 75 of the 81 pre-2008 seats the link is derived from the text of the 1976 and 2008 orders. For the remainder the successor shown is the one holding the largest share of the old seat's area, inferred from the boundaries alone.",
+  "Territory percentages are measured from the mapped boundaries in every case, and are areal shares, not shares of the electorate.",
+  "The reservation status of the post-2008 seats is taken from the constituency geometry, the source that carries it for this state."
+ ],
+ "footnotes": [
+  "Jharkhand was created on 15 November 2000 from eighteen southern districts of Bihar. Its eighty-one constituencies were those of the 1976 order for the undivided state; no fresh delimitation accompanied the separation.",
+  "Reservation status reflects the category in force at the time of the relevant order, not any later reclassification."
+ ]
+}
