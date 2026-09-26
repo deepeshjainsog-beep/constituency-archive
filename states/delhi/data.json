@@ -7401,8 +7401,7 @@
  "sources": [
   "Election Commission of India, Order of 22 September 1992 delimiting the seventy assembly constituencies of the National Capital Territory of Delhi, published in the Gazette of India Extraordinary, Part II Section 3(iii), No. 69",
   "Election Commission of India, Delimitation of Parliamentary and Assembly Constituencies Order, 2008, Schedule XXXI",
-  "Election Commission of India, statistical reports on Delhi assembly elections, 1993–2025",
-  "Constituency geometry: third-party digitisation (skthewimp/india-constituency-maps)"
+  "Election Commission of India, statistical reports on Delhi assembly elections, 1993–2025"
  ],
  "map_caveats": [
   "The pre-2008 boundaries published here have been georectified. The source digitisation was displaced by roughly five kilometres and was about two and a half per cent too large relative to the post-2008 layer, which would have made any comparison between the two maps meaningless. The correction was fitted on the outer boundary of the National Capital Territory, which is fixed in law and identical under both orders, and was then tested against the constituencies that kept their names across the redraw, none of which was used to fit it: their average overlap rises from four per cent to fifty-five per cent, and the number with no overlap at all falls from thirty-four to one. The two outlines agree to an intersection-over-union of 0.95 after correction. Readers comparing these boundaries against the source digitisation should expect them to differ, by design.",
