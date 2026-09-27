@@ -2708,7 +2708,7 @@
      "basis": "measured"
     },
     "41": {
-     "pct": 11.0,
+     "pct": 5.0,
      "basis": "measured"
     }
    }
@@ -2783,7 +2783,7 @@
      "basis": "measured"
     },
     "41": {
-     "pct": 3.8,
+     "pct": 2.5,
      "basis": "measured"
     }
    }
@@ -4569,7 +4569,7 @@
      "basis": "measured"
     },
     "74": {
-     "pct": 23.3,
+     "pct": 25.4,
      "basis": "measured"
     },
     "75": {
@@ -6100,10 +6100,11 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    111
+    111,
+    112
    ],
-   "lineage_basis": "geometric",
-   "note": "Direct continuity of the name, with part of its territory going to the new Balaghat. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Balaghat.",
    "extent": "Waraseoni RIC in Waraseoni tahsil.",
    "party07": "INC",
    "winner_07": "Pradeep Amrit Lal Jaiswal (Gudda)",
@@ -6150,6 +6151,10 @@
     "111": {
      "pct": 78.4,
      "basis": "measured"
+    },
+    "112": {
+     "pct": 70.8,
+     "basis": "measured"
     }
    }
   },
@@ -6160,10 +6165,11 @@
    "type": "GEN",
    "status": "abolished",
    "dest": [
-    111
+    111,
+    112
    ],
-   "lineage_basis": "geometric",
-   "note": "Name vanished. Its territory became part of the new Balaghat. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Name vanished. Its territory was divided among the new Balaghat, Waraseoni.",
    "extent": "Khairalanjee RIC and P.C. 22 in Katangi RIC in Waraseoni tahsil.",
    "party07": "BJP",
    "winner_07": "Bodh Singh Bhagat",
@@ -6210,6 +6216,10 @@
     "111": {
      "pct": 78.1,
      "basis": "measured"
+    },
+    "112": {
+     "pct": 36.2,
+     "basis": "measured"
     }
    }
   },
@@ -6220,12 +6230,11 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    112,
     113,
     114
    ],
    "lineage_basis": "geometric",
-   "note": "Direct continuity of the name, with part of its territory going to the new Waraseoni, Barghat. This is inferred from boundary overlap, not stated in the order text.",
+   "note": "Direct continuity of the name, with part of its territory going to the new Barghat. This is inferred from boundary overlap, not stated in the order text.",
    "extent": "Katangi RIC (excluding P. C. 22) in Waraseoni tahsil and the forest villages in the area.",
    "party07": "BJP",
    "winner_07": "K.D Deshmukh",
@@ -6287,10 +6296,11 @@
    "status": "continuing",
    "dest": [
     110,
-    111
+    111,
+    112
    ],
    "lineage_basis": "text",
-   "note": "Direct continuity of the name, with part of its territory going to the new Paraswada.",
+   "note": "Direct continuity of the name, with part of its territory going to the new Paraswada, Waraseoni.",
    "extent": "Balaghat town and P.Cs. 13/1, 13/2 and 19 in Balaghat-I RIC in Balaghat tahsil; and Lalbarra RIC in Waraseoni tahsil and the forest villages in the area.",
    "party07": "BJP",
    "winner_07": "Gauri Shankar Chaturbhuj Bisen",
@@ -6340,6 +6350,10 @@
     },
     "111": {
      "pct": 54.5,
+     "basis": "measured"
+    },
+    "112": {
+     "pct": 9.4,
      "basis": "measured"
     }
    }
@@ -7272,7 +7286,7 @@
      "basis": "measured"
     },
     "98": {
-     "pct": 18.2,
+     "pct": 11.1,
      "basis": "measured"
     },
     "99": {
@@ -8354,10 +8368,11 @@
    "dest": [
     122,
     125,
-    126
+    126,
+    127
    ],
    "lineage_basis": "text",
-   "note": "Name vanished. Its territory was divided among the new Junnardeo, Sausar, Chhindwara.",
+   "note": "Name vanished. Its territory was divided among the new Junnardeo, Sausar, Chhindwara, Parasiya.",
    "extent": "Jarnai and Saori RICs in Chhindwara tahsil and the forest villages in the area.",
    "party07": "BJP",
    "winner_07": "Ram Das Uikey",
@@ -8411,6 +8426,10 @@
     },
     "126": {
      "pct": 10.3,
+     "basis": "measured"
+    },
+    "127": {
+     "pct": 22.3,
      "basis": "measured"
     }
    }
@@ -8487,10 +8506,11 @@
    "type": "SC",
    "status": "abolished",
    "dest": [
-    126
+    126,
+    127
    ],
    "lineage_basis": "text",
-   "note": "Name vanished. Its territory became part of the new Chhindwara.",
+   "note": "Name vanished. Its territory was divided among the new Chhindwara, Parasiya.",
    "extent": "Parasia RIC in Chhindwara tahsil and the forest villages in the area.",
    "party07": "BJP",
    "winner_07": "Tarachand Bawaria",
@@ -8536,6 +8556,10 @@
    "shares": {
     "126": {
      "pct": 65.0,
+     "basis": "measured"
+    },
+    "127": {
+     "pct": 66.8,
      "basis": "measured"
     }
    }
@@ -8605,7 +8629,7 @@
      "basis": "measured"
     },
     "127": {
-     "pct": 6.0,
+     "pct": 11.5,
      "basis": "measured"
     }
    }
@@ -9919,16 +9943,17 @@
    "type": "GEN",
    "status": "continuing",
    "dest": [
-    143,
     144,
     148,
+    149,
     150,
+    152,
     153,
     154,
     155
    ],
-   "lineage_basis": "geometric",
-   "note": "Direct continuity of the name, with part of its territory going to the new Silwani, Vidisha, Shamshabad, Bhopal Uttar, Bhopal Madhya, Huzur. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Vidisha, Shamshabad, Berasia, Bhopal Uttar, Bhopal Dakshina-Pashchim, Bhopal Madhya, Huzur.",
    "extent": "Anandnagar RIC, Bhopal RIC (excluding P.C . 41) and Bairagarh RIC (excluding P.Cs. 24,26 and 27) in Huzur tahsil and the forest villages in the area.",
    "party07": "BJP",
    "winner_07": "Babulal Gour",
@@ -9972,10 +9997,6 @@
     }
    ],
    "shares": {
-    "143": {
-     "pct": 27.4,
-     "basis": "measured"
-    },
     "144": {
      "pct": 15.1,
      "basis": "measured"
@@ -9984,8 +10005,16 @@
      "pct": 26.4,
      "basis": "measured"
     },
+    "149": {
+     "pct": 20.3,
+     "basis": "measured"
+    },
     "150": {
-     "pct": 0.9,
+     "pct": 1.7,
+     "basis": "measured"
+    },
+    "152": {
+     "pct": 5.8,
      "basis": "measured"
     },
     "153": {
@@ -10010,10 +10039,12 @@
    "status": "abolished",
    "dest": [
     148,
+    149,
+    150,
     151
    ],
    "lineage_basis": "text",
-   "note": "Name vanished. Its territory was divided among the new Shamshabad, Narela.",
+   "note": "Name vanished. Its territory was divided among the new Shamshabad, Berasia, Bhopal Uttar, Narela.",
    "extent": "Wards 22 to 39 in Bhopal town and P. C. 41 in Bhopal RIC in Huzur tahsil. Serial no., name and extent of constituency",
    "party07": "BJP",
    "winner_07": "Uma Shankar Gupta",
@@ -10061,6 +10092,14 @@
      "pct": 59.6,
      "basis": "measured"
     },
+    "149": {
+     "pct": 21.2,
+     "basis": "measured"
+    },
+    "150": {
+     "pct": 33.4,
+     "basis": "measured"
+    },
     "151": {
      "pct": 17.1,
      "basis": "measured"
@@ -10076,10 +10115,11 @@
    "dest": [
     143,
     151,
+    152,
     154
    ],
    "lineage_basis": "geometric",
-   "note": "Name vanished. Its territory was divided among the new Silwani, Narela, Govindpura. This is inferred from boundary overlap, not stated in the order text.",
+   "note": "Name vanished. Its territory was divided among the new Silwani, Narela, Bhopal Dakshina-Pashchim, Govindpura. This is inferred from boundary overlap, not stated in the order text.",
    "extent": "Bhopal Town (excluding wards 22 to 39).",
    "party07": "INC",
    "winner_07": "Arif Aqueel",
@@ -10129,6 +10169,10 @@
     },
     "151": {
      "pct": 39.2,
+     "basis": "measured"
+    },
+    "152": {
+     "pct": 23.0,
      "basis": "measured"
     },
     "154": {
@@ -10203,7 +10247,7 @@
      "basis": "measured"
     },
     "149": {
-     "pct": 5.0,
+     "pct": 91.2,
      "basis": "measured"
     },
     "161": {
@@ -10415,11 +10459,10 @@
    "status": "continuing",
    "dest": [
     140,
-    143,
-    152
+    143
    ],
    "lineage_basis": "geometric",
-   "note": "Direct continuity of the name, with part of its territory going to the new Udaipura, Silwani, Bhopal Dakshina-Pashchim. This is inferred from boundary overlap, not stated in the order text.",
+   "note": "Direct continuity of the name, with part of its territory going to the new Udaipura, Silwani. This is inferred from boundary overlap, not stated in the order text.",
    "extent": "Goharganj tahsil; and Bareli tthsil (excluding Bareli and Maheshwar RICs) and the forest villages in the area.",
    "party07": "INC",
    "winner_07": "Rajesh Patel",
@@ -10469,10 +10512,6 @@
     },
     "143": {
      "pct": 57.9,
-     "basis": "measured"
-    },
-    "152": {
-     "pct": 1.9,
      "basis": "measured"
     }
    }
@@ -11833,7 +11872,7 @@
      "basis": "measured"
     },
     "216": {
-     "pct": 14.5,
+     "pct": 7.6,
      "basis": "measured"
     },
     "217": {
@@ -14651,7 +14690,7 @@
      "basis": "measured"
     },
     "220": {
-     "pct": 17.0,
+     "pct": 8.2,
      "basis": "measured"
     }
    }
@@ -17533,11 +17572,11 @@
    ],
    "shares": {
     "38": {
-     "pct": 71.9,
+     "pct": 64.1,
      "basis": "measured"
     },
     "39": {
-     "pct": 28.0,
+     "pct": 35.9,
      "basis": "measured"
     }
    }
@@ -19317,7 +19356,7 @@
    ],
    "shares": {
     "66": {
-     "pct": 100.0,
+     "pct": 99.0,
      "basis": "measured"
     }
    }
@@ -21323,8 +21362,8 @@
     93,
     94
    ],
-   "lineage_basis": "geometric",
-   "note": "Direct continuity of the name, with part of its territory going to the new Kirnapur, Waraseoni, Khairlanjee, Paraswada. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Kirnapur, Waraseoni, Khairlanjee, Paraswada.",
    "extent": "1).12. Kumhari and 14. Bharweli Patwari Circles of Balaghat R.I.Circle of Balaghat Tehsil 2). Balaghat (M+OG) - MUN and 3). Lalbarra Tehsil.",
    "party12": "BJP",
    "winner_12": "Gauri Shankar Chaturbhuj Bisen",
@@ -21385,10 +21424,12 @@
    "type": "GEN",
    "status": "continuing",
    "src": [
-    92
+    90,
+    91,
+    93
    ],
-   "lineage_basis": "geometric",
-   "note": "Direct continuity of the name, with part of its territory going to the new Katangi. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Khairlanjee, Balaghat.",
    "extent": "1). Waraseoni Tehsil, 2). Arambha R. I. Circle of Khairlanji Tehsil, 3).10.Khairlanji, 11. Khari, 12. Khursipar and 13. Kharkhari Patwari Circles of Khairlanji-R.I.Circle of Khairlanji Tehsil.",
    "party12": "INC",
    "winner_12": "Pradeep Amritlal Jaiswal (Gudda)",
@@ -21419,7 +21460,20 @@
      "status": null
     }
    ],
-   "shares": null
+   "shares": {
+    "90": {
+     "pct": 49.3,
+     "basis": "measured"
+    },
+    "91": {
+     "pct": 35.4,
+     "basis": "measured"
+    },
+    "93": {
+     "pct": 15.2,
+     "basis": "measured"
+    }
+   }
   },
   {
    "ac_no": 113,
@@ -22211,10 +22265,12 @@
    "type": "SC",
    "status": "new",
    "src": [
+    124,
+    126,
     127
    ],
    "lineage_basis": "text",
-   "note": "Created in 2008, built from the former Damua.",
+   "note": "Created in 2008, built from the former Jamai, Parasia, Damua.",
    "extent": "Parasia Tehsil.",
    "party12": "BJP",
    "winner_12": "Tarachand Bawaria",
@@ -22246,8 +22302,16 @@
     }
    ],
    "shares": {
+    "124": {
+     "pct": 23.2,
+     "basis": "measured"
+    },
+    "126": {
+     "pct": 40.5,
+     "basis": "measured"
+    },
     "127": {
-     "pct": 100.0,
+     "pct": 36.3,
      "basis": "measured"
     }
    }
@@ -23081,14 +23145,13 @@
    "status": "new",
    "src": [
     42,
-    148,
     150,
     153,
     154,
     155
    ],
    "lineage_basis": "geometric",
-   "note": "Created in 2008, built from the former Deori, Govindpura, Bhopal North, Udaipura, Bareli, Bhojpur. This is inferred from boundary overlap, not stated in the order text.",
+   "note": "Created in 2008, built from the former Deori, Bhopal North, Udaipura, Bareli, Bhojpur. This is inferred from boundary overlap, not stated in the order text.",
    "extent": "1). Begamganj Tehsil and 2). Silwani Tehsil.",
    "party12": "BJSH",
    "winner_12": "Devendra Patel",
@@ -23124,10 +23187,6 @@
      "pct": 7.8,
      "basis": "measured"
     },
-    "148": {
-     "pct": 7.1,
-     "basis": "measured"
-    },
     "153": {
      "pct": 24.7,
      "basis": "measured"
@@ -23151,8 +23210,8 @@
    "src": [
     148
    ],
-   "lineage_basis": "geometric",
-   "note": "Direct continuity of the name, with part of its territory going to the new Govindpura. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Govindpura.",
    "extent": "1).Vidisha and Work Load R. I. Circles of Vidisha Tehsil, 2). Vidisha (MUN)-MUN and 3). Gulabganj R. I. Circle of Gyaraspur Tehsil.",
    "party12": "BJP",
    "winner_12": "Raghavji",
@@ -23366,8 +23425,8 @@
     151,
     159
    ],
-   "lineage_basis": "geometric",
-   "note": "Direct continuity of the name, with part of its territory going to the new Govindpura, Bhopal South, Berasia. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Direct continuity of the name, with part of its territory going to the new Govindpura, Bhopal South, Berasia.",
    "extent": "1). Nateran Tehsil and 2), Pipalkheda R. I. Circle of Vidisha Tehsil.",
    "party12": "BJP",
    "winner_12": "Surya Prakash Meena",
@@ -23424,10 +23483,12 @@
    "type": "SC",
    "status": "continuing",
    "src": [
+    148,
+    149,
     151
    ],
    "lineage_basis": "text",
-   "note": "Direct continuity of the name with revised boundaries.",
+   "note": "Direct continuity of the name, with part of its territory going to the new Govindpura, Bhopal South.",
    "extent": "1). Berasia Tehsil and 2). Intkhedi R. I. Circle of Huzur Tehsil.",
    "party12": "BJP",
    "winner_12": "Brahmanand Ratnakar",
@@ -23459,8 +23520,16 @@
     }
    ],
    "shares": {
+    "148": {
+     "pct": 15.6,
+     "basis": "measured"
+    },
+    "149": {
+     "pct": 1.0,
+     "basis": "measured"
+    },
     "151": {
-     "pct": 93.0,
+     "pct": 78.8,
      "basis": "measured"
     }
    }
@@ -23472,10 +23541,11 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    148
+    148,
+    149
    ],
-   "lineage_basis": "geometric",
-   "note": "Created in 2008, built from the former Govindpura. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Govindpura, Bhopal South.",
    "extent": "Uttar Ward Nos.5 to 18 and 22 of Bhopal (M Corp.+ OG) of Huzur Tehsil.",
    "party12": "INC",
    "winner_12": "Arifaqueel",
@@ -23508,7 +23578,11 @@
    ],
    "shares": {
     "148": {
-     "pct": 86.9,
+     "pct": 39.9,
+     "basis": "measured"
+    },
+    "149": {
+     "pct": 49.8,
      "basis": "measured"
     }
    }
@@ -23573,10 +23647,11 @@
    "type": "GEN",
    "status": "new",
    "src": [
-    155
+    148,
+    150
    ],
    "lineage_basis": "geometric",
-   "note": "Created in 2008, built from the former Bhojpur. This is inferred from boundary overlap, not stated in the order text.",
+   "note": "Created in 2008, built from the former Govindpura, Bhopal North. This is inferred from boundary overlap, not stated in the order text.",
    "extent": "Ward Nos.26 to 35 and 48 to 49 of Bhopal (M Corp.+ OG) of Dakshin- Paschim Huzur Tehsil.",
    "party12": "BJP",
    "winner_12": "Umashanker Gupta",
@@ -23608,8 +23683,12 @@
     }
    ],
    "shares": {
-    "155": {
-     "pct": 100.0,
+    "148": {
+     "pct": 85.6,
+     "basis": "measured"
+    },
+    "150": {
+     "pct": 14.4,
      "basis": "measured"
     }
    }
@@ -23623,8 +23702,8 @@
    "src": [
     148
    ],
-   "lineage_basis": "geometric",
-   "note": "Created in 2008, built from the former Govindpura. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Govindpura.",
    "extent": "Madhya Ward Nos. 19 to 21, 23 to 25, 36 to 38, 43 to 45, 47 and 50 to 52 of Bhopal (M Corp+OG) of Huzur Tehsil.",
    "party12": "BJP",
    "winner_12": "Dhruv Narayan Singh",
@@ -23724,8 +23803,8 @@
    "src": [
     148
    ],
-   "lineage_basis": "geometric",
-   "note": "Created in 2008, built from the former Govindpura. This is inferred from boundary overlap, not stated in the order text.",
+   "lineage_basis": "text",
+   "note": "Created in 2008, built from the former Govindpura.",
    "extent": "1). Ratibad, Phanda Kalan and Bilkhiria Kalan R. I. Circles of Huzur Tehsil and 2). Ward Nos.1 to 4 of Bhopal (M Corp.+OG) of Huzur Tehsil.",
    "party12": "BJP",
    "winner_12": "Jeetendra Daga (Mannu)",
@@ -27192,7 +27271,7 @@
    ],
    "shares": {
     "219": {
-     "pct": 97.8,
+     "pct": 95.0,
      "basis": "measured"
     }
    }
@@ -27766,8 +27845,7 @@
   "The reservation status of the post-2008 seats is taken from the Election Commission's own records rather than from the constituency geometry, whose reservation field reports two Scheduled Caste seats and no Scheduled Tribe seats for a state that has thirty-five and forty-seven respectively.",
   "Territory percentages are measured from the mapped boundaries in every case, and are areal shares, not shares of the electorate.",
   "Two pre-2008 seats were tagged in the source digitisation with parliamentary constituencies in Uttar Pradesh and Rajasthan. They have been reassigned to the Madhya Pradesh constituency whose boundary they share most.",
-  "The mapped boundary of the post-2008 Waraseoni constituency is defective in the source digitisation: its polygon has almost no area, and the ground that should belong to it appears instead within the neighbouring Barghat. Territory percentages that would depend on that polygon are therefore not published, and the boundaries shown for Waraseoni, Katangi and Barghat in Balaghat district should not be relied on. The lineage links for those seats are still shown, since they do not depend on the defective area.",
-  "Two post-2008 polygons are misplaced in the source digitisation. The boundary shown for Bhopal Dakshina-Pashchim lies well south of the city and adjoins Silwani in Raisen, and the one shown for Huzur lies to its west; neither touches the rest of Bhopal. The Bhopal inset therefore shows the four city seats whose boundaries are sound, and territory percentages involving these two seats should not be relied on."
+  "A small number of post-2008 constituencies were drawn as placeholder shapes in the primary digitisation. Their boundaries have been replaced with the corresponding polygons from a second open digitisation, and each affected seat record names that source."
  ],
  "footnotes": [
   "Madhya Pradesh was divided on 1 November 2000, when Chhattisgarh was formed from sixteen eastern districts. The 1976 order's assembly constituencies numbered 87 to 176 passed to the new state; those numbered 177 to 320 became seats 87 to 230 of the reduced Madhya Pradesh.",
