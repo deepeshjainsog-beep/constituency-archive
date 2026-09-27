@@ -1547,7 +1547,7 @@
      "basis": "measured"
     },
     "51": {
-     "pct": 8.2,
+     "pct": 7.9,
      "basis": "measured"
     }
    }
@@ -8457,7 +8457,8 @@
   "The pre-2008 boundaries have been georectified. The source digitisation of the 1976-order map was displaced relative to the 2008-order map; the correction was fitted on the outer boundary of the state and raises the agreement between the two outlines from an intersection-over-union of 0.93 to 0.98.",
   "Territory lineage is given on two footings, and each seat record states which applies to it. For 74 of the 90 pre-2008 seats the link is derived from the text of the 1976 and 2008 orders. For the remainder the successor shown is the one holding the largest share of the old seat's area, inferred from the boundaries alone.",
   "Territory percentages are measured from the mapped boundaries in every case, and are areal shares, not shares of the electorate.",
-  "The 2023 results were corrected against the Election Commission's published constituency-wise result. Thirty-eight rows in the compiled source carried a losing candidate or a ballot symbol in place of the winner."
+  "The 2023 results were corrected against the Election Commission's published constituency-wise result. Thirty-eight rows in the compiled source carried a losing candidate or a ballot symbol in place of the winner.",
+  "A small number of post-2008 constituencies were drawn as placeholder shapes in the primary digitisation. Their boundaries have been replaced with the corresponding polygons from a second open digitisation, and each affected seat record names that source."
  ],
  "footnotes": [
   "Chhattisgarh was created on 1 November 2000 from sixteen eastern districts of Madhya Pradesh. Its ninety constituencies were those of the 1976 order for the undivided state; no fresh delimitation accompanied the separation.",
