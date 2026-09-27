@@ -2270,7 +2270,7 @@
    ],
    "shares": {
     "63": {
-     "pct": 70.2,
+     "pct": 72.2,
      "basis": "measured"
     },
     "64": {
@@ -6356,11 +6356,11 @@
    ],
    "shares": {
     "63": {
-     "pct": 72.3,
+     "pct": 72.9,
      "basis": "measured"
     },
     "65": {
-     "pct": 27.7,
+     "pct": 27.1,
      "basis": "measured"
     }
    }
@@ -7423,7 +7423,8 @@
   "The pre-2008 boundaries have been georectified. The source digitisation of the 1976-order map was displaced relative to the 2008-order map; the correction was fitted on the outer boundary of the state and raises the agreement between the two outlines from an intersection-over-union of 0.95 to 0.97.",
   "Territory lineage is given on two footings, and each seat record states which applies to it. For 75 of the 81 pre-2008 seats the link is derived from the text of the 1976 and 2008 orders. For the remainder the successor shown is the one holding the largest share of the old seat's area, inferred from the boundaries alone.",
   "Territory percentages are measured from the mapped boundaries in every case, and are areal shares, not shares of the electorate.",
-  "The reservation status of the post-2008 seats is taken from the constituency geometry, the source that carries it for this state."
+  "The reservation status of the post-2008 seats is taken from the constituency geometry, the source that carries it for this state.",
+  "A small number of post-2008 constituencies were drawn as placeholder shapes in the primary digitisation. Their boundaries have been replaced with the corresponding polygons from a second open digitisation, and each affected seat record names that source."
  ],
  "footnotes": [
   "Jharkhand was created on 15 November 2000 from eighteen southern districts of Bihar. Its eighty-one constituencies were those of the 1976 order for the undivided state; no fresh delimitation accompanied the separation.",
