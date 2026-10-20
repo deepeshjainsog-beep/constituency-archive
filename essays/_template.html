@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Essay template &middot; Boundaries</title>
+  <meta name="description" content="Template for a Boundaries essay.">
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="44fb1463-bfb2-4df5-adab-01e2e75f5865"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%231c1a16'/%3E%3Ctext x='16' y='25' text-anchor='middle' font-family='Georgia,serif' font-size='20' fill='%23faf8f5'%3EB%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/styles.css">
+  <script src="../assets/theme.js"></script>
+  <meta name="theme-color" content="#faf8f5">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <nav class="masthead">
+    <div class="wrap">
+      <a href="../index.html" class="masthead__mark">
+        <span class="logo-b">B</span>
+        <span style="letter-spacing:-0.01em">Boundaries</span>
+      </a>
+      <span class="masthead__links">
+        <a href="../index.html#register">Register</a>
+        <a href="../essays.html">Essays</a>
+        <a href="../limitations.html">Limitations</a>
+        <a href="../index.html#about">About</a>
+        <button data-theme-toggle="1" class="theme-toggle" type="button" aria-pressed="false"><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path class="theme-toggle__sun" d="M8 3.2a4.8 4.8 0 100 9.6 4.8 4.8 0 000-9.6zm0 1.4a3.4 3.4 0 110 6.8 3.4 3.4 0 010-6.8z"/><path class="theme-toggle__moon" d="M13.3 10.2A5.6 5.6 0 016.1 3a5.9 5.9 0 107.2 7.2z"/></svg></button>
+      </span>
+    </div>
+  </nav>
+
+  <!-- ========================================================================
+       ESSAY TEMPLATE
+       Copy this file to essays/<slug>.html, fill it in, then add one entry to
+       essays/manifest.json. Delete any block you do not need.
+
+       Every class used here is in assets/styles.css. Nothing else is required.
+       ===================================================================== -->
+  <main class="wrap" id="main">
+    <article class="essay">
+      <!-- add class="essay essay--mono-title" above for a typewritten title -->
+
+      <header class="essay__head">
+        <div class="essay__kicker">
+          <a href="../essays.html">[Essays]</a>
+          <span class="sep">&middot;</span>
+          <span>Section name</span>
+        </div>
+
+        <h1 class="essay__title">The title of the essay</h1>
+
+        <p class="essay__standfirst">
+          One or two sentences that say what the piece argues. Not a summary of
+          the subject: a statement of the claim.
+        </p>
+
+        <div class="essay__meta">
+          <span class="by">Author Name</span>
+          <span class="dot">&middot;</span>
+          <span>1 November 2026</span>
+          <span class="dot">&middot;</span>
+          <span>8 min</span>
+        </div>
+      </header>
+
+      <!-- Lead image. Drop the whole <figure> if there isn't one.
+           class="wide" lets it break past the text column. -->
+      <figure class="essay__lead wide">
+        <img src="media/example.jpg" alt="Describe the image for a reader who cannot see it.">
+        <figcaption>Caption. Source or credit goes here.</figcaption>
+      </figure>
+
+      <div class="essay__body">
+
+        <!-- class="dropcap" on the first paragraph only, and only if you want one -->
+        <p class="dropcap">
+          The opening paragraph.
+        </p>
+
+        <p>An ordinary paragraph, with <a href="#">a link</a>, some
+        <em>emphasis</em> and a <strong>stressed phrase</strong>.</p>
+
+        <h2>a section head, lowercase</h2>
+
+        <p>Text under the section head.</p>
+
+        <h3>A SUB-HEAD</h3>
+
+        <p>Text with a note marker.<sup class="fn"><a href="#n1" id="r1">1</a></sup></p>
+
+        <!-- a quotation from a source -->
+        <blockquote>
+          <p>The quoted passage.</p>
+          <cite>Where it is from</cite>
+        </blockquote>
+
+        <!-- a line lifted out of the argument -->
+        <blockquote class="pullquote">
+          A sentence from the piece, set large.
+        </blockquote>
+
+        <!-- an aside, set apart from the argument -->
+        <div class="aside">
+          <span class="label">A note on method</span>
+          <p>Something the reader may want but the argument does not need.</p>
+        </div>
+
+        <!-- an image inside the text column: drop the "wide" class -->
+        <figure>
+          <img src="media/example-2.jpg" alt="Description.">
+          <figcaption>Caption.</figcaption>
+        </figure>
+
+        <ul>
+          <li>A list item.</li>
+          <li>Another.</li>
+        </ul>
+
+        <!-- a break between movements -->
+        <hr>
+
+        <p>The closing paragraph.</p>
+
+      </div>
+
+      <section class="essay__notes">
+        <h2>Notes</h2>
+        <ol>
+          <li id="n1">The note. <a href="#r1">&#8617;</a></li>
+        </ol>
+      </section>
+
+      <footer class="essay__author">
+        <!-- optional portrait: <img src="media/author.jpg" alt=""> -->
+        <div>
+          <span class="label">Written by</span>
+          <div class="name">Author Name</div>
+          <p class="bio">
+            Two lines on who the author is and what they work on.
+          </p>
+        </div>
+      </footer>
+
+      <div class="essay__cite">
+        <span class="label">Cite this essay</span>
+        Author Name, &lsquo;Title&rsquo;, 1 November 2026.
+        boundaries.in/essays/slug.html
+      </div>
+
+      <div class="essay__foot">
+        <a href="../essays.html">&larr; All essays</a>
+        <a href="../index.html#register">The register &rarr;</a>
+      </div>
+
+    </article>
+  </main>
+
+  <footer class="colophon">
+    <div class="wrap">
+      <span>Boundaries</span>
+      <span>An open reference &middot; updated state by state</span>
+    </div>
+  </footer>
+</body>
+</html>
