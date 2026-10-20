@@ -129,6 +129,39 @@
     AITC:  { full: "All India Trinamool Congress",    c: "oklch(0.6 0.14 220)"  },
     RSP:   { full: "Revolutionary Socialist Party",   c: "oklch(0.52 0.15 30)"  },
     GNLF:  { full: "Gorkha National Liberation Front", c: "oklch(0.58 0.10 90)" },
+
+    /* ---- north-eastern states ---- */
+    SDF:        { full: "Sikkim Democratic Front", c: "oklch(0.56 0.14 150)" },
+    SKM:        { full: "Sikkim Krantikari Morcha", c: "oklch(0.60 0.15 25)" },
+    SSP:        { full: "Sikkim Sangram Parishad", c: "oklch(0.58 0.12 95)" },
+    SJP:        { full: "Sikkim Janata Parishad", c: "oklch(0.64 0.11 115)" },
+    SCR:        { full: "Sikkim Congress (Revolutionary)", c: "oklch(0.54 0.13 10)" },
+    SPC:        { full: "Sikkim Prajatantra Congress", c: "oklch(0.62 0.10 300)" },
+    MNF:        { full: "Mizo National Front", c: "oklch(0.52 0.15 255)" },
+    MPC:        { full: "Mizoram People's Conference", c: "oklch(0.66 0.13 85)" },
+    ZPM:        { full: "Zoram People's Movement", c: "oklch(0.60 0.16 320)" },
+    ZNP:        { full: "Zoram Nationalist Party", c: "oklch(0.56 0.11 275)" },
+    HPC:        { full: "Hmar People's Convention", c: "oklch(0.58 0.10 215)" },
+    MDF:        { full: "Maraland Democratic Front", c: "oklch(0.62 0.09 185)" },
+    UDP:        { full: "United Democratic Party", c: "oklch(0.56 0.14 240)" },
+    NPP:        { full: "National People's Party", c: "oklch(0.64 0.14 55)" },
+    HPU:        { full: "Hill People's Union", c: "oklch(0.60 0.12 165)" },
+    AHL:        { full: "All Party Hill Leaders Conference", c: "oklch(0.54 0.12 135)" },
+    "AHL(AM)":  { full: "All Party Hill Leaders Conference (Armison Marak)", c: "oklch(0.60 0.10 125)" },
+    HSPDP:      { full: "Hill State People's Democratic Party", c: "oklch(0.58 0.15 305)" },
+    PDIC:       { full: "Public Demands Implementation Convention", c: "oklch(0.62 0.11 270)" },
+    MDP:        { full: "Meghalaya Democratic Party", c: "oklch(0.66 0.10 200)" },
+    PDM:        { full: "People's Democratic Movement", c: "oklch(0.64 0.10 230)" },
+    MPPP:       { full: "Meghalaya Progressive People's Party", c: "oklch(0.60 0.11 105)" },
+    KHNAM:      { full: "Khun Hynniewtrep National Awakening Movement", c: "oklch(0.56 0.13 350)" },
+    GNC:        { full: "Garo National Council", c: "oklch(0.62 0.12 145)" },
+    VPP:        { full: "Voice of the People Party", c: "oklch(0.54 0.14 285)" },
+    NESDP:      { full: "North East Social Democratic Party", c: "oklch(0.64 0.08 175)" },
+    TUJS:       { full: "Tripura Upajati Juba Samiti", c: "oklch(0.58 0.13 75)" },
+    INPT:       { full: "Indigenous Nationalist Party of Twipra", c: "oklch(0.60 0.12 40)" },
+    IPFT:       { full: "Indigenous People's Front of Tripura", c: "oklch(0.64 0.13 60)" },
+    TMP:        { full: "TIPRA Motha Party", c: "oklch(0.52 0.16 300)" },
+    "JD(B)":    { full: "Janata Dal (B)", c: "oklch(0.62 0.12 115)" },
   };
   function partyOf(code) {
     if (!code) return null;
@@ -1453,7 +1486,7 @@
       "<a href=\"index.html\" class=\"masthead__mark\"><span class=\"logo-b\" style=\"font-size:18px;font-family:Georgia,serif\">B</span><span style=\"letter-spacing:-0.01em\">Boundaries</span></a>" +
       searchBarHTML() +
       "<span class=\"masthead__links\">" +
-      "<a href=\"#p1\">Plate I</a><a href=\"#p2\">Plate II</a><a href=\"#p3\">Plate III</a><a href=\"#p4\">Plate IV</a><a href=\"#sources\">Sources</a><a href=\"limitations.html\">Limitations</a>" +
+      "<a href=\"#p1\">Plate I</a><a href=\"#p2\">Plate II</a><a href=\"#p3\">Plate III</a><a href=\"#p4\">Plate IV</a><a href=\"#sources\">Sources</a><a href=\"essays.html\">Essays</a><a href=\"limitations.html\">Limitations</a>" +
       "</span>" +
       "<button data-theme-toggle=\"1\" class=\"theme-toggle\" type=\"button\" aria-pressed=\"false\">" +
       "<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\" focusable=\"false\">" +
