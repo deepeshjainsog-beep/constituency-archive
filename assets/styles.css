@@ -1774,3 +1774,475 @@ svg.plate-north {
     backdrop-filter: none !important;
   }
 }
+
+/* ============================================================================
+   ESSAYS
+   Long-form reading. The furniture stays in the monospace the rest of the
+   archive uses; the prose moves to a real text serif, because Inter at 16.5px
+   is a UI face doing a job it was not drawn for, and DM Serif Display is a
+   display face that should never carry a paragraph.
+   ========================================================================== */
+
+:root {
+  --text-serif: 'EB Garamond', Garamond, Georgia, serif;
+  --essay-measure: 41rem;         /* ~656px; rem, not em, so a
+                                     small-type child keeps the
+                                     same column as the prose */
+}
+
+.essay {
+  max-width: var(--essay-measure);
+  margin: 0 auto;
+  padding: 64px 0 40px;
+}
+.essay > * { max-width: var(--essay-measure); margin-left: auto; margin-right: auto; }
+
+/* ---- head ---------------------------------------------------------------- */
+
+.essay__kicker {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: baseline;
+}
+.essay__kicker a { color: inherit; }
+.essay__kicker a:hover { color: var(--ink); }
+.essay__kicker .sep { color: var(--ink-25); }
+
+.essay__title {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(32px, 5.2vw, 50px);
+  line-height: 1.08;
+  letter-spacing: -0.021em;
+  color: var(--ink);
+  margin: 0 0 22px;
+  text-wrap: balance;
+}
+/* an alternative title treatment, closer to a typewritten masthead */
+.essay--mono-title .essay__title {
+  font-family: var(--mono);
+  font-size: clamp(22px, 2.9vw, 30px);
+  letter-spacing: 0.035em;
+  line-height: 1.34;
+}
+
+.essay__standfirst {
+  font-family: var(--text-serif);
+  font-size: 22px;
+  line-height: 1.52;
+  color: var(--ink-70);
+  margin: 0 0 30px;
+  text-wrap: pretty;
+}
+
+.essay__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 14px;
+  font-family: var(--mono);
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  color: var(--ink-45);
+  padding-bottom: 22px;
+  border-bottom: var(--border);
+}
+.essay__meta .by { color: var(--ink); }
+.essay__meta .dot { color: var(--ink-25); }
+
+/* ---- lead image ---------------------------------------------------------- */
+
+.essay__lead, .essay figure { margin: 34px auto; }
+.essay figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 78vh;
+  object-fit: contain;
+  border-radius: var(--r);
+  border: var(--border);
+  background: var(--surface);
+}
+.essay .wide figcaption { max-width: var(--essay-measure); }
+.essay figcaption {
+  font-family: var(--mono);
+  font-size: 11px;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+  color: var(--ink-45);
+  margin-top: 10px;
+  padding-left: 13px;
+  border-left: 1.5px solid var(--ink-18);
+}
+/* a figure that may break the measure */
+.essay .wide {
+  max-width: min(980px, 92vw);
+  width: min(980px, 92vw);
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+/* ---- body ---------------------------------------------------------------- */
+
+.essay__body {
+  font-family: var(--text-serif);
+  font-size: 19.5px;
+  line-height: 1.68;
+  color: var(--ink-85);
+  font-feature-settings: 'onum' 1, 'kern' 1, 'liga' 1;
+}
+.essay__body p { margin: 0 0 1.05em; text-wrap: pretty; }
+.essay__body > p:first-of-type { margin-top: 30px; }
+
+.essay__body a {
+  color: inherit;
+  border-bottom: 0.75px solid var(--teal-mid);
+  text-decoration: none;
+}
+.essay__body a:hover { border-bottom-color: var(--teal); color: var(--teal); }
+
+.essay__body em  { font-style: italic; }
+.essay__body strong { font-weight: 600; }
+
+/* the opening letter, set only where the author asks for it */
+.essay__body .dropcap::first-letter {
+  float: left;
+  font-family: var(--text-serif);
+  font-size: 4.05em;
+  line-height: 0.82;
+  padding: 0.06em 0.09em 0 0;
+  color: var(--ink);
+}
+
+/* section heads: lowercase monospace, the archive's own voice */
+.essay__body h2 {
+  font-family: var(--mono);
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.085em;
+  text-transform: lowercase;
+  color: var(--ink);
+  margin: 2.4em 0 0.9em;
+  padding-top: 1.5em;
+  border-top: var(--border);
+}
+.essay__body h2:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+.essay__body h3 {
+  font-family: var(--mono);
+  font-weight: 500;
+  font-size: 11.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-45);
+  margin: 2em 0 0.7em;
+}
+
+.essay__body ul, .essay__body ol { margin: 0 0 1.05em; padding-left: 1.3em; }
+.essay__body li { margin-bottom: 0.4em; }
+.essay__body li::marker { color: var(--ink-45); }
+
+/* a quotation set in the flow */
+.essay__body blockquote {
+  margin: 1.7em 0;
+  padding-left: 22px;
+  border-left: 1.5px solid var(--ink-18);
+  color: var(--ink-70);
+  font-size: 18.5px;
+}
+.essay__body blockquote p:last-child { margin-bottom: 0; }
+.essay__body blockquote cite {
+  display: block;
+  margin-top: 0.6em;
+  font-family: var(--mono);
+  font-style: normal;
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  color: var(--ink-45);
+}
+
+/* a line lifted out of the argument */
+.essay__body .pullquote {
+  border: 0;
+  padding: 0;
+  margin: 1.9em 0;
+  font-family: var(--text-serif);
+  font-style: italic;
+  font-size: 27px;
+  line-height: 1.34;
+  letter-spacing: -0.012em;
+  color: var(--ink);
+  text-wrap: balance;
+}
+.essay__body .pullquote::before {
+  content: '';
+  display: block;
+  width: 36px;
+  height: 1.5px;
+  background: var(--teal);
+  margin-bottom: 0.6em;
+}
+
+/* a short aside, set apart from the argument */
+.essay__body .aside {
+  margin: 1.8em 0;
+  padding: 20px 22px;
+  background: var(--surface);
+  border: var(--border);
+  border-radius: var(--r);
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--ink-70);
+}
+.essay__body .aside p:last-child { margin-bottom: 0; }
+.essay__body .aside .label {
+  display: block;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-45);
+  margin-bottom: 8px;
+}
+
+/* a plain rule between movements */
+.essay__body hr {
+  border: 0;
+  margin: 2.2em auto;
+  width: 54px;
+  height: 1.5px;
+  background: var(--ink-18);
+}
+
+/* ---- notes --------------------------------------------------------------- */
+
+.essay__body sup.fn {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  line-height: 0;
+  vertical-align: super;
+}
+.essay__body sup.fn a { border-bottom: 0; color: var(--teal); padding: 0 1px; }
+
+.essay__notes {
+  margin-top: 54px;
+  padding-top: 26px;
+  border-top: var(--border);
+}
+.essay__notes h2 {
+  font-family: var(--mono);
+  font-weight: 500;
+  font-size: 11.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-45);
+  margin: 0 0 16px;
+}
+.essay__notes ol {
+  font-family: var(--text-serif);
+  font-size: 15.5px;
+  line-height: 1.62;
+  color: var(--ink-70);
+  padding-left: 1.4em;
+  margin: 0;
+}
+.essay__notes li { margin-bottom: 0.65em; }
+.essay__notes li::marker { font-family: var(--mono); font-size: 11px; color: var(--ink-45); }
+.essay__notes a { border-bottom: 0.75px solid var(--teal-mid); }
+
+/* ---- author -------------------------------------------------------------- */
+
+.essay__author {
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: var(--border);
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+}
+.essay__author img {
+  width: 54px; height: 54px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: var(--border);
+  flex: none;
+}
+.essay__author .label {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-45);
+  display: block;
+  margin-bottom: 6px;
+}
+.essay__author .name {
+  font-family: var(--mono);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  color: var(--ink);
+  margin-bottom: 7px;
+}
+.essay__author .bio {
+  font-family: var(--text-serif);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink-70);
+  margin: 0;
+}
+
+/* ---- citation + foot ----------------------------------------------------- */
+
+.essay__cite {
+  margin-top: 34px;
+  padding: 18px 20px;
+  background: var(--surface);
+  border: var(--border);
+  border-radius: var(--r);
+  font-family: var(--mono);
+  font-size: 11.5px;
+  line-height: 1.7;
+  color: var(--ink-70);
+}
+.essay__cite .label {
+  display: block;
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-45);
+  margin-bottom: 7px;
+}
+
+.essay__foot {
+  margin-top: 40px;
+  padding-top: 22px;
+  border-top: var(--border);
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-family: var(--mono);
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  color: var(--ink-45);
+}
+.essay__foot a { color: var(--ink-70); }
+.essay__foot a:hover { color: var(--ink); }
+
+/* ============================================================================
+   ESSAY INDEX
+   ========================================================================== */
+
+.essay-list { border-top: var(--border); margin-top: 34px; }
+
+.essay-row {
+  display: grid;
+  grid-template-columns: 148px 1fr;
+  gap: 26px;
+  align-items: start;
+  padding: 26px 0;
+  border-bottom: var(--border);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.14s ease;
+}
+.essay-row:hover { background: var(--ink-06); }
+.essay-row__thumb {
+  width: 148px; aspect-ratio: 4 / 3;
+  border-radius: var(--r);
+  border: var(--border);
+  object-fit: cover;
+  background: var(--surface);
+  display: block;
+}
+.essay-row__no-thumb {
+  width: 148px; aspect-ratio: 4 / 3;
+  border-radius: var(--r);
+  border: var(--border);
+  background: var(--surface);
+  display: grid; place-items: center;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  color: var(--ink-25);
+}
+.essay-row__meta {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-45);
+  margin-bottom: 9px;
+  display: flex; flex-wrap: wrap; gap: 9px;
+}
+.essay-row__meta .tag { color: var(--teal); }
+.essay-row__meta .dot { color: var(--ink-25); }
+.essay-row__title {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 1.17;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin: 0 0 8px;
+}
+.essay-row:hover .essay-row__title { color: var(--teal); }
+.essay-row__dek {
+  font-family: var(--text-serif);
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--ink-70);
+  margin: 0;
+}
+
+.essay-empty {
+  padding: 40px 0 10px;
+  font-family: var(--text-serif);
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--ink-70);
+}
+
+@media (max-width: 680px) {
+  .essay { padding-top: 40px; }
+  .essay__standfirst { font-size: 19.5px; }
+  .essay__body { font-size: 18.5px; }
+  .essay__body .pullquote { font-size: 23px; }
+  .essay .wide { max-width: 100%; width: 100%; margin-left: 0; transform: none; }
+  .essay-row { grid-template-columns: 1fr; gap: 14px; }
+  .essay-row__thumb, .essay-row__no-thumb { width: 100%; max-width: 280px; }
+  .essay__author { gap: 14px; }
+}
+
+@media print {
+  .essay { max-width: none; padding: 0; }
+  .essay__body { font-size: 11pt; line-height: 1.5; color: #000; }
+  .essay__title { font-size: 24pt; }
+  .essay__body h2 { break-after: avoid; }
+  .essay figure, .essay__body blockquote, .essay__notes li { break-inside: avoid; }
+  .essay .wide { max-width: 100%; width: 100%; margin-left: 0; transform: none; }
+  .essay__foot, .essay__cite { display: none; }
+}
+
+/* The archive's other prose pages (Limitations, Submission guidelines, and
+   the Essays index) now read in the same serif as the essays, so the voice
+   does not change between a page about the record and a page of writing. */
+.reading__lede {
+  font-family: var(--text-serif);
+  font-size: 21px;
+  line-height: 1.56;
+}
+.reading__body p,
+.reading__body li {
+  font-family: var(--text-serif);
+  font-size: 18.5px;
+  line-height: 1.66;
+}
+.reading__body .submit-card p { font-size: 17.5px; }
