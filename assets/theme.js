@@ -67,4 +67,24 @@
         '</svg></button>';
     }
   };
+
+  /* ---- reader sign-in ---------------------------------------------------
+     theme.js is the one script every page already loads, so the sign-in
+     prompt is pulled in from here. That keeps the prompt on every page,
+     present and future, without touching each page's markup.
+     The policy pages are excluded: a modal over the privacy policy is the
+     last thing a reader, or a Google reviewer, should meet. */
+  (function () {
+    var p = location.pathname.replace(/\/+$/, "");
+    if (/\/(privacy|terms)\.html$/i.test(p)) return;
+    if (document.querySelector('script[src*="auth.js"]')) return;
+    /* essays sit one directory down, so resolve against wherever theme.js
+       itself was loaded from rather than against the current page */
+    var self = document.querySelector('script[src*="theme.js"]');
+    var base = self ? self.getAttribute("src").replace(/theme\.js.*$/, "") : "assets/";
+    var s = document.createElement("script");
+    s.src = base + "auth.js";
+    s.defer = true;
+    (document.head || document.documentElement).appendChild(s);
+  })();
 })();
