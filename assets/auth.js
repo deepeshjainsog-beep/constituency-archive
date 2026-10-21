@@ -1,14 +1,14 @@
 /* ============================================================================
    Boundaries — reader sign-in
 
-   Shows a centred prompt thirty seconds into a visit, on every page. Signing
-   in with Google records the reader's name and email to a Google Sheet.
+   Thirty seconds into a visit every page raises a required sign-in. Signing
+   in with Google is free and records the reader's name and email to a Google
+   Sheet. There is no way past the card except to sign in.
 
-   This is a soft prompt. The page behind it stays in the document, so a
-   reader who dismisses it loses nothing and a search engine indexes the page
-   as before. On a static site that is the only honest kind of gate: there is
-   no server here to verify a token against, so anything stronger would be a
-   curtain pretending to be a door.
+   The gate is enforced in the browser, which is all a static site can do:
+   there is no server here to verify a token against. It stops the ordinary
+   reader, not a determined one. Search-engine crawlers are exempt, or the
+   archive would fall out of the index entirely.
 
    TWO VALUES TO FILL IN BELOW. Both are free. See essays/SIGN-IN-SETUP.md.
    ========================================================================== */
@@ -24,9 +24,7 @@
   var SHEET_URL = "https://script.google.com/macros/s/AKfycbyf6EaSCNxHU9aVejxiG_0CEN9Yxx22lvgUVPzat_HZIGkLwNOI76z7k4Vw7Hcw6jz5UA/exec";
 
   var DELAY_MS      = 30000;   // how long before the prompt appears
-  var SNOOZE_DAYS   = 14;      // how long "Not now" lasts
   var KEY_USER      = "boundaries.reader";
-  var KEY_SNOOZE    = "boundaries.snooze";
 
   /* ---- storage, which can throw in a private window ---------------------- */
 
@@ -34,16 +32,11 @@
   function set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
 
   function signedIn() { return !!get(KEY_USER); }
-  function snoozed() {
-    var t = parseInt(get(KEY_SNOOZE) || "0", 10);
-    return t && Date.now() < t;
-  }
-
   /* ---- do not prompt at all in these cases ------------------------------- */
 
   function skip() {
     if (!CLIENT_ID || CLIENT_ID.indexOf("PASTE_") === 0) return true;  // not set up
-    if (signedIn() || snoozed()) return true;
+    if (signedIn()) return true;
     if (navigator.webdriver) return true;                              // automation
     if (/bot|crawl|spider|slurp|bingpreview|lighthouse/i.test(navigator.userAgent)) return true;
     return false;
@@ -79,12 +72,12 @@
     wrap.innerHTML =
       '<div class="bd-auth__card">' +
         '<div class="bd-auth__eyebrow">Boundaries</div>' +
-        '<h2 class="bd-auth__h" id="bd-auth-h">Keep reading the archive</h2>' +
-        '<p class="bd-auth__p">Boundaries is free and stays free. Signing in lets ' +
-          'us know who the archive is for, and lets us tell you when a new state ' +
-          'or a new essay is published.</p>' +
+        '<h2 class="bd-auth__h" id="bd-auth-h">Sign in to keep reading</h2>' +
+        '<p class="bd-auth__p">Boundaries is free and stays free. There is no ' +
+          'charge and no password. Signing in lets us know who the archive is ' +
+          'for, and lets us tell you when a new state or a new essay is ' +
+          'published.</p>' +
         '<div class="bd-auth__btn" id="bd-auth-btn"></div>' +
-        '<button type="button" class="bd-auth__skip" id="bd-auth-skip">Not now</button>' +
         '<p class="bd-auth__fine">We record your name and email address, nothing else. ' +
           'No password is created and nothing is shared.</p>' +
       '</div>';
@@ -92,8 +85,6 @@
     document.body.classList.add("bd-auth-open");
 
     lastFocus = document.activeElement;
-    document.getElementById("bd-auth-skip").addEventListener("click", dismiss);
-    wrap.addEventListener("mousedown", function (e) { if (e.target === wrap) dismiss(); });
     document.addEventListener("keydown", onKey, true);
     requestAnimationFrame(function () { wrap.classList.add("is-in"); });
 
@@ -114,12 +105,15 @@
 
   function fallback() {
     var b = document.getElementById("bd-auth-btn");
-    if (b) b.innerHTML = '<p class="bd-auth__err">Google sign-in could not load. ' +
-      'Please carry on reading.</p>';
+    /* if Google itself is unreachable the gate would lock out every reader,
+       which is worse than letting them through; stand down instead */
+    if (b) b.innerHTML = '<p class="bd-auth__err">Google sign-in could not be ' +
+      'reached. Carrying on without it.</p>';
+    setTimeout(close, 2600);
   }
 
   function onKey(e) {
-    if (e.key === "Escape") { dismiss(); return; }
+    /* Escape deliberately does nothing: the card is the gate */
     if (e.key !== "Tab") return;
     var w = document.getElementById("bd-auth");
     if (!w) return;
@@ -136,11 +130,6 @@
     document.body.classList.remove("bd-auth-open");
     document.removeEventListener("keydown", onKey, true);
     if (lastFocus && lastFocus.focus) lastFocus.focus();
-  }
-
-  function dismiss() {
-    set(KEY_SNOOZE, String(Date.now() + SNOOZE_DAYS * 864e5));
-    close();
   }
 
   /* ---- Google Identity Services, loaded only when the prompt opens ------- */
