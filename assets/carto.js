@@ -49,7 +49,7 @@
   var ASSETS = self ? self.getAttribute("src").replace(/carto\.js.*$/, "") : "assets/";
   var ROOT = ASSETS.replace(/assets\/$/, "");
   var SLUG = new URLSearchParams(location.search).get("state");
-  var IS_HOME = !!document.getElementById("india-map-wrap");
+  /* set in start(): this script is injected dynamically, so it can run      before the body has been parsed */   var IS_HOME = false;
 
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
