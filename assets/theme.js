@@ -18,7 +18,7 @@
   function apply(theme) {
     document.documentElement.setAttribute("data-theme", theme);
     var m = document.querySelector('meta[name="theme-color"]');
-    if (m) m.setAttribute("content", theme === "dark" ? "#14130f" : "#faf8f5");
+    if (m) m.setAttribute("content", theme === "dark" ? "#15140f" : "#f4eedc");
     document.querySelectorAll("[data-theme-toggle]").forEach(function (b) {
       b.setAttribute("aria-pressed", theme === "dark" ? "true" : "false");
       b.setAttribute("aria-label", theme === "dark" ? "Switch to light" : "Switch to dark");
