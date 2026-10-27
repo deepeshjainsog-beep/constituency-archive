@@ -2268,7 +2268,7 @@ svg.plate-north {
                 currentColor 14px 16px, transparent 16px 20px);
 }
 [data-theme="dark"] {
-  --bg:       #15140f;
+  --amend:    #e08a76;   --bg:       #15140f;
   --surface:  #1e1c16;
   --surface2: #27241c;
 }
