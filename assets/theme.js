@@ -68,6 +68,17 @@
     }
   };
 
+  /* ---- cartographic layer: sheet margins, ticker, logo favicon ----------
+     loaded from here for the same reason as the sign-in below. */
+  (function () {
+    if (document.querySelector('script[src*="carto.js"]')) return;
+    var self = document.querySelector('script[src*="theme.js"]');
+    var base = self ? self.getAttribute("src").replace(/theme\.js.*$/, "") : "assets/";
+    var s = document.createElement("script");
+    s.src = base + "carto.js";
+    s.defer = true;
+    (document.head || document.documentElement).appendChild(s);
+  })();
   /* ---- reader sign-in ---------------------------------------------------
      theme.js is the one script every page already loads, so the sign-in
      prompt is pulled in from here. That keeps the prompt on every page,
