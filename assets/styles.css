@@ -3,7 +3,7 @@
    Warm cream · deep charcoal · teal accent · Inter + DM Serif + JetBrains Mono
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Xanh+Mono:ital@1&family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
   --bg:       #faf8f5;
@@ -2260,7 +2260,7 @@ svg.plate-north {
   --bg:       #f4eedc;
   --surface:  #ece5cf;
   --surface2: #e2d9bf;
-  --serif:    'Cutive Mono', 'Courier New', ui-monospace, monospace;
+  --serif:    'Special Elite', 'Courier New', ui-monospace, monospace;   --amend:    #a8322a;
   /* the boundary line: dash, gap, dot, gap. Drawn in currentColor so it
      follows whatever colour the element sets. */
   --boundary: repeating-linear-gradient(90deg,
