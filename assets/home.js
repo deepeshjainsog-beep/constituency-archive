@@ -29,7 +29,7 @@
   if (!grid) return;
   const frag = document.createDocumentFragment();
   states.forEach(function (s, i) {
-    const serial = "S-" + String(i + 1).padStart(2, "0");
+    const serial = "Sheet " + String(i + 1).padStart(2, "0");
     const isLive = s.status === "live";
     const el = document.createElement(isLive ? "a" : "div");
     el.className = "state-card" + (isLive ? " is-live" : " is-soon");
