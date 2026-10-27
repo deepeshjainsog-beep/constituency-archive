@@ -10,7 +10,7 @@
    reader, not a determined one. Search-engine crawlers are exempt, or the
    archive would fall out of the index entirely.
 
-   TWO VALUES TO FILL IN BELOW. Both are free. See essays/SIGN-IN-SETUP.md.
+   TWO VALUES TO FILL IN BELOW. Both are free. See "Sign-in" in README.md.
    ========================================================================== */
 (function () {
   "use strict";
