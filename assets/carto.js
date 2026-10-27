@@ -214,7 +214,7 @@
     margins("Boundaries · " + t, coord("india") + " · India");
   }
 
-  function start() {
+  function start() {     IS_HOME = !!document.getElementById("india-map-wrap");
     favicon();
     if (!IS_HOME && !SLUG) { otherPage(); return; }
     getJSON(ROOT + "states/manifest.json").then(function (m) {
