@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Boundaries mark: Adampur (Punjab). Teal is the 2008 seat, the light line the 1976 seat it replaced. -->
+  <rect width="64" height="64" rx="10" fill="#1c1a16"/>
+  <path d="M22.8 8.1L32.8 7.3L37.3 19.6L52.4 34.9L45.0 50.3L36.9 48.8L39.9 52.7L35.1 52.4L37.5 57.5L31.5 56.1L33.3 41.9L24.2 35.6L22.1 28.7L27.3 26.3L24.7 21.2L31.0 15.8L30.2 13.0L23.0 16.9Z" fill="#3d9c92"/>
+  <path d="M31.0 16.3L49.6 39.3L41.7 54.1L37.5 52.1L22.5 45.1L23.7 34.1L11.1 19.6L19.7 17.4L20.1 10.2L29.0 11.0Z" fill="none" stroke="#f4eedc" stroke-width="3" stroke-linejoin="round"/>
+</svg>
