@@ -69,11 +69,16 @@ function applyHero(m) {
   if (hp.title) {
     const h1 = document.querySelector('.hero-title');
     if (h1) {
-      const italic = (hp.title_italic_word || 'retired').toLowerCase();
-      h1.innerHTML = hp.title.split(' ').map((w,i,arr) =>
-        '<span class="w' + (w.toLowerCase().includes(italic) ? ' it' : '') + '">' +
-        w + (i < arr.length-1 ? '\u00a0' : '') + '</span>'
-      ).join('');
+            const italic = (hp.title_italic_word || 'retired').toLowerCase();
+      /* the italic word is set as a gazette correction: a struck typed word
+         with the amendment written above it. "" in the manifest turns it off. */
+      const struck = hp.title_struck_word === undefined ? 'redrew' : hp.title_struck_word;
+      h1.innerHTML = hp.title.split(' ').map((w,i,arr) => {
+        const sp = i < arr.length-1 ? '\u00a0' : '';
+        if (!w.toLowerCase().includes(italic)) return '<span class="w">' + w + sp + '</span>';
+        if (!struck) return '<span class="w it">' + w + sp + '</span>';
+        return '<span class="w it amend"><s>' + struck + '</s><span class="amend__now">' + w + '</span>' + sp + '</span>';
+      }).join('');
     }
   }
 }
