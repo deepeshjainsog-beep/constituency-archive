@@ -746,7 +746,7 @@ footer.colophon .wrap {
   color: var(--ink-45);
 }
 
-/* ---- skip link ------------------------------------------------ */
+footer.colophon a { color: inherit; } footer.colophon a:hover { color: var(--ink); }  /* ---- skip link ------------------------------------------------ */
 
 .skip {
   position: absolute;
