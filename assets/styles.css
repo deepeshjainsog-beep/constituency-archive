@@ -2246,3 +2246,285 @@ svg.plate-north {
   line-height: 1.66;
 }
 .reading__body .submit-card p { font-size: 17.5px; }
+
+
+/* ============================================================
+   v3 — the cartographic layer
+   Buff survey paper, a typewriter display face, and the dash-dot
+   boundary line of Survey of India sheets as the site's own mark.
+   Everything here overrides what comes before; carto.js supplies
+   the pieces that need data (ticker, sheet numbers, coordinates).
+   ============================================================ */
+
+:root {
+  --bg:       #f4eedc;
+  --surface:  #ece5cf;
+  --surface2: #e2d9bf;
+  --serif:    'Cutive Mono', 'Courier New', ui-monospace, monospace;
+  /* the boundary line: dash, gap, dot, gap. Drawn in currentColor so it
+     follows whatever colour the element sets. */
+  --boundary: repeating-linear-gradient(90deg,
+                currentColor 0 10px, transparent 10px 14px,
+                currentColor 14px 16px, transparent 16px 20px);
+}
+[data-theme="dark"] {
+  --bg:       #15140f;
+  --surface:  #1e1c16;
+  --surface2: #27241c;
+}
+
+.masthead { background: rgba(244, 238, 220, 0.9); border-bottom: none; }
+[data-theme="dark"] .masthead { background: rgba(21, 20, 15, 0.9); }
+
+/* ---- the boundary line ---------------------------------------- */
+
+.masthead::after,
+footer.colophon::before,
+.section__head::after,
+.bline {
+  content: '';
+  display: block;
+  height: 1.5px;
+  color: var(--ink-35);
+  background: var(--boundary);
+}
+.masthead::after { position: absolute; left: 0; right: 0; bottom: 0; }
+footer.colophon { border-top: none; position: relative; }
+footer.colophon::before { position: absolute; left: 0; right: 0; top: 0; }
+.section__head { border-bottom: none; position: relative; }
+.section__head::after { position: absolute; left: 0; right: 0; bottom: 0; }
+
+.hero__eyebrow::before,
+.reading__eyebrow::before {
+  width: 36px;
+  height: 1.5px;
+  color: currentColor;
+  background: var(--boundary);
+}
+
+/* links draw the line in on hover rather than underlining */
+.masthead__links a,
+footer.colophon a,
+.reading__body a,
+.seat-ticker a {
+  text-decoration: none !important;
+  background: var(--boundary) left bottom / 0 1.5px no-repeat;
+  transition: background-size 0.28s ease, color 100ms;
+}
+.masthead__links a:hover,
+footer.colophon a:hover,
+.reading__body a:hover,
+.seat-ticker a:hover { background-size: 100% 1.5px; }
+.masthead__links a { border-radius: 0; padding: 5px 2px; margin: 0 8px; }
+.masthead__links a:hover { background-color: transparent; }
+.reading__body a { padding-bottom: 2px; }
+
+/* ---- display face --------------------------------------------- */
+
+body .hero-title,
+.reading h1,
+.state-hero__h1,
+.section__head h2 {
+  font-family: var(--serif);
+  letter-spacing: -0.035em;
+}
+body .hero-title { font-size: clamp(34px, 4.7vw, 58px); line-height: 1.08; }
+.state-card .name,
+.figures .v,
+.sheet__title .t1 { letter-spacing: -0.03em; }
+
+/* ---- the mark ---------------------------------------------------
+   Adampur, Punjab: the 2008 seat in teal under the line of the 1976
+   seat it replaced. The B square underneath stays in the markup. */
+.masthead__mark .logo-b {
+  font-size: 0 !important;
+  color: transparent !important;
+  background: url("logo-mark.svg") center / cover no-repeat !important;
+  border-radius: 7px !important;
+}
+.masthead__mark .logo-b::before,
+.masthead__mark .logo-b::after { display: none; }
+.masthead__mark > span:last-child {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 19px;
+  letter-spacing: -0.04em;
+  padding-bottom: 3px;
+  color: var(--ink);
+  background: var(--boundary) left bottom / 100% 1.5px no-repeat;
+}
+
+/* ---- constituency numbers in the navigation -------------------- */
+
+.masthead__links a::before {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--teal);
+  margin-right: 6px;
+  position: relative;
+  top: -1px;
+}
+.masthead__links a[href$="#register"]::before   { content: "AC\00b7 01"; }
+.masthead__links a[href="essays.html"]::before  { content: "AC\00b7 02"; }
+.masthead__links a[href="limitations.html"]::before { content: "AC\00b7 03"; }
+.masthead__links a[href$="#about"]::before      { content: "AC\00b7 04"; }
+@media (max-width: 720px) {
+  .masthead__links a::before { display: none; }
+  .masthead__links a { margin: 0 5px; }
+}
+
+/* ---- the register as a sheet index ------------------------------ */
+
+.state-card { border-radius: 2px; }
+.state-card .serial { letter-spacing: 0.06em; text-transform: uppercase; }
+.section__head .plate {
+  background: transparent;
+  border: 0.75px solid currentColor;
+  border-radius: 2px;
+}
+
+/* ---- the map-sheet frame ----------------------------------------
+   Graticule behind the heroes, tick rulers in the page margins, and
+   the sheet number and coordinates printed along them. */
+
+.hero-grid,
+.state-hero { position: relative; isolation: isolate; }
+.hero-grid::before,
+.state-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0 -28px;
+  z-index: -1;
+  pointer-events: none;
+  background-image:
+    linear-gradient(var(--ink-06) 0.75px, transparent 0.75px),
+    linear-gradient(90deg, var(--ink-06) 0.75px, transparent 0.75px);
+  background-size: 56px 56px;
+  background-position: -0.5px -0.5px;
+  -webkit-mask-image: radial-gradient(ellipse at 60% 50%, #000 55%, transparent 100%);
+          mask-image: radial-gradient(ellipse at 60% 50%, #000 55%, transparent 100%);
+}
+@media (max-width: 600px) {
+  .hero-grid::before,
+  .state-hero::before { inset: 0 -16px; }
+}
+
+.sheet-ruler,
+.sheet-margin { display: none; }
+@media (min-width: 1320px) {
+  .sheet-ruler {
+    display: block;
+    position: fixed;
+    top: 76px;
+    bottom: 24px;
+    width: 11px;
+    z-index: 1;
+    pointer-events: none;
+    background:
+      repeating-linear-gradient(180deg, var(--ink-35) 0 0.75px, transparent 0.75px 100px) 0 0 / 11px 100% no-repeat,
+      repeating-linear-gradient(180deg, var(--ink-25) 0 0.75px, transparent 0.75px 20px) 0 0 / 5px 100% no-repeat;
+  }
+  .sheet-ruler--l { left: 22px; border-left: 0.75px solid var(--ink-18); }
+  .sheet-ruler--r { right: 22px; border-right: 0.75px solid var(--ink-18); transform: scaleX(-1); }
+  .sheet-margin {
+    display: block;
+    position: fixed;
+    top: 50%;
+    z-index: 1;
+    pointer-events: none;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    color: var(--ink-45);
+  }
+  .sheet-margin--l { left: 46px; transform: translate(-50%, -50%) rotate(-90deg); }
+  .sheet-margin--r { right: 46px; transform: translate(50%, -50%) rotate(90deg); }
+}
+@media print { .sheet-ruler, .sheet-margin { display: none !important; } }
+
+/* coordinates readout under the homepage map */
+.coord-read {
+  margin-top: 10px;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--ink-60);
+  min-height: 1.6em;
+}
+.coord-read b { font-weight: 500; color: var(--ink); }
+
+/* ---- retired-seats ticker ------------------------------------- */
+
+.seat-ticker {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  margin: 8px 0 0;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  color: var(--ink-70);
+  overflow: hidden;
+}
+.seat-ticker::before,
+.seat-ticker::after {
+  content: '';
+  position: absolute;
+  left: 0; right: 0;
+  height: 1.5px;
+  color: var(--ink-35);
+  background: var(--boundary);
+}
+.seat-ticker::before { top: 0; }
+.seat-ticker::after { bottom: 0; }
+.seat-ticker__label {
+  flex: none;
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  background: var(--ink);
+  color: var(--bg);
+  font-size: 10.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.seat-ticker__view {
+  flex: 1;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 40px, #000 calc(100% - 40px), transparent);
+          mask-image: linear-gradient(90deg, transparent, #000 40px, #000 calc(100% - 40px), transparent);
+}
+.seat-ticker__track {
+  display: flex;
+  width: max-content;
+  padding: 13px 0;
+  animation: seat-ticker var(--ticker-dur, 90s) linear infinite;
+}
+.seat-ticker:hover .seat-ticker__track { animation-play-state: paused; }
+.seat-ticker__item { display: inline-flex; align-items: baseline; gap: 8px; white-space: nowrap; }
+.seat-ticker__item a { color: var(--ink); font-weight: 500; }
+.seat-ticker__item .fate { color: var(--teal); }
+.seat-ticker__sep {
+  display: inline-block;
+  width: 40px;
+  height: 1.5px;
+  margin: 0 18px;
+  align-self: center;
+  color: var(--ink-25);
+  background: var(--boundary);
+}
+@keyframes seat-ticker { to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) {
+  .seat-ticker__track { animation: none; }
+  .seat-ticker__view { overflow-x: auto; }
+}
+@media (max-width: 600px) {
+  .seat-ticker__label { padding: 0 10px; font-size: 9.5px; }
+}
+@media print { .seat-ticker { display: none; } }
