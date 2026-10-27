@@ -1495,7 +1495,7 @@
       "</svg></button>" +
       "</div></nav>" + inner +
       "<footer class=\"colophon\"><div class=\"wrap\">" +
-      "<span>Boundaries</span><span>" + esc((data && data.assembly) || "") + " \u00b7 A Cartographic Record</span>" +
+      "<span>Boundaries \u00b7 <a href=\"privacy.html\">Privacy</a> \u00b7 <a href=\"terms.html\">Terms</a></span><span>" + esc((data && data.assembly) || "") + " \u00b7 A Cartographic Record</span>" +
       "</div></footer>";
   }
 
