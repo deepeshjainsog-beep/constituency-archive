@@ -2367,8 +2367,8 @@ body .hero-title { font-size: clamp(32px, 4.4vw, 54px); line-height: 1.32; }  /*
   top: -1px;
 }
 .masthead__links a[href$="#register"]::before   { content: "AC\00b7 01"; }
-.masthead__links a[href="essays.html"]::before  { content: "AC\00b7 02"; }
-.masthead__links a[href="limitations.html"]::before { content: "AC\00b7 03"; }
+.masthead__links a[href$="essays.html"]::before  { content: "AC\00b7 02"; }
+.masthead__links a[href$="limitations.html"]::before { content: "AC\00b7 03"; }
 .masthead__links a[href$="#about"]::before      { content: "AC\00b7 04"; }
 @media (max-width: 720px) {
   .masthead__links a::before { display: none; }
