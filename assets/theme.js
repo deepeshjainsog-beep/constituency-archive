@@ -88,6 +88,8 @@
   (function () {
     var p = location.pathname.replace(/\/+$/, "");
     if (/\/(privacy|terms)\.html$/i.test(p)) return;
+         /* a local preview has no Google sign-in set up for it */
+    if (/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname)) return;
     if (document.querySelector('script[src*="auth.js"]')) return;
     /* essays sit one directory down, so resolve against wherever theme.js
        itself was loaded from rather than against the current page */
