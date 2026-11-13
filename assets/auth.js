@@ -23,7 +23,7 @@
   var CLIENT_ID = "296016950970-uitflaa3art0nsdga9hc6rm69c72c7t5.apps.googleusercontent.com";
   var SHEET_URL = "https://script.google.com/macros/s/AKfycbyf6EaSCNxHU9aVejxiG_0CEN9Yxx22lvgUVPzat_HZIGkLwNOI76z7k4Vw7Hcw6jz5UA/exec";
 
-  var DELAY_MS      = 30000;   // how long before the prompt appears
+    var DELAY_MS      = 30000;   // how long before the prompt appears
   var KEY_USER      = "boundaries.reader";
 
   /* ---- storage, which can throw in a private window ---------------------- */
