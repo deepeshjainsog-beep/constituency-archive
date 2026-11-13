@@ -1,3 +1,16 @@
 {
-  "essays": []
+  "essays": [
+    {
+      "slug": "pawar-baramati",
+      "url": "essays/pawar-baramati.html",
+      "title": "How Sharad Pawar redrew the map for his daughter",
+      "dek": "This is the story of three letters, one plan, and the map that made Pawar country.",
+      "author": "A final-year undergraduate",
+      "date": "2026-11-12",
+      "section": "Delimitation",
+      "reading_time": "16 min",
+      "image": "essays/media/pawar-cover.jpg",
+      "status": "published"
+    }
+  ]
 }
