@@ -242,7 +242,51 @@
      "pct": 22.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Lachhman Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Lachhman Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Kanti Parkash Bhalla",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Purush Bhan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Chander Mohan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Chander Mohan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Chander Mohan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 2,
@@ -263,7 +307,51 @@
      "pct": 86.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Lal Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Lal Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Jagpal SIngh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Surjeet Kumar",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Raj Kumar",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Pawan Kumar",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ram Kishan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 3,
@@ -284,7 +372,51 @@
      "pct": 59.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bhag Mal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Bhagmal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Bhag Mal",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Sher Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ramji Lal",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Balwant Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Balwant Singh",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 4,
@@ -310,7 +442,51 @@
      "pct": 15.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kanhaiyalal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Roshan Lal",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Mohhamad Aslm Khan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Mohamad Aslam Khan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Akram Khan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Kanwar Pal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Arjan Singh",
+     "party": "BSP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 5,
@@ -331,7 +507,51 @@
      "pct": 38.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kamla Devi",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Rajesh Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Kamla Verma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Rajesh Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Kamla Verma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dr. Jai Parkash Shrama",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dr Krishna Pandit",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 6,
@@ -352,7 +572,51 @@
      "pct": 3.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Brij Mohan",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Om Prakash",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Brij Mohan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Om Prakash Sharma",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Subhash Chand",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dr. Bishan Lal Saini",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Subhash Chand",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 7,
@@ -373,7 +637,51 @@
      "pct": 82.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sher Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Phool Chand",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Suraj Bhan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Phool Chand Mullana",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Rishal Singh",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Risal Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Phool Chand Mullana",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 8,
@@ -394,7 +702,51 @@
      "pct": 75.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sushma Swaraj",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Ram Dass Dhamija",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Sushma Swaraj",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Brij Anand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Anil",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Anil Vij",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Devender Kumar Bansal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 9,
@@ -415,7 +767,51 @@
      "pct": 53.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Shiv Prashad",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Shiv Prasad",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Shiv parsad",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Sumer Chand Bhatt",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Faqir Chand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Veena",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Venod Kumar Sharma",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 10,
@@ -442,7 +838,51 @@
      "pct": 3.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sumer Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Nirmal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Harmindra Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Nirmal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Nirmal Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Jasbir Mallour",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Nirmal Singh Mohra",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 11,
@@ -463,7 +903,51 @@
      "pct": 93.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Des Raj",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Lachhman",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Lachhman Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Janki Devi",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Bhim Sen",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Bhim Sain",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Rakesh Kumar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 12,
@@ -484,7 +968,51 @@
      "pct": 64.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Shiv Ram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Chanda Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Jai Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Jai Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Jai Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dharm Pal",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Jai Singh Rana",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 13,
@@ -505,7 +1033,51 @@
      "pct": 41.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ram Lal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Shanti Devi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Lachhman Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Jai Parkash",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Shashipal Mehta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Jai Parkash",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Sumita Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 14,
@@ -536,7 +1108,51 @@
      "pct": 34.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Prem Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Sujan Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Risal Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Raj Kumar S/o Dass Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Nafe Singh",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Naphe Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Meena Rani",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 15,
@@ -557,7 +1173,51 @@
      "pct": 62.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ram Pal Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Ved Pal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Piru Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ram Pal Singh S/o Basant Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ramesh S/O Sulekh Chand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ramesh Rana",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Rekha Rana",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 16,
@@ -578,7 +1238,51 @@
      "pct": 65.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jogi Ram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Manphool Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Man Phool Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Krishan Lal",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Krishan Lal",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Krishan Lal",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Raj Rani Poonam",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 17,
@@ -604,7 +1308,51 @@
      "pct": 85.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Fateh Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Fateh Chand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Bal Bir Pal Shah",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Balbir Paul Sahah",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Om Parkash",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Balbir Pal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Balbir Pal Shah",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 18,
@@ -625,7 +1373,51 @@
      "pct": 81.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mool Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Katar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Sachdev",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Hari Singh",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Kartar Singh Bhadana",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Kartar Singh Bhadana",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Bhart Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 19,
@@ -651,7 +1443,51 @@
      "pct": 28.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Satbir",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Prasani Devi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Satbir S/o Gaje Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Satbir Singh Kadyan",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Bijender",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Satbir Singh Kadiyan",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Parsanni Devi",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 20,
@@ -672,7 +1508,51 @@
      "pct": 82.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Surinder Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Tara Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Harnam Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Kharaiti Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Kapoor Chand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Kapoor Chand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Kharaiti Lal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 21,
@@ -698,7 +1578,51 @@
      "pct": 32.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Lehri Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Ram Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Rattan Lal Kataria",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Lehri Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Banta Ram",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Banta Ram",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ishwar Singh Palaka",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 22,
@@ -724,7 +1648,51 @@
      "pct": 47.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Devinder Sharma",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Sahab Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Gurdial Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ram Parkash",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ashok Kumar",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ashok Kumar",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ramesh Kumar Gupta",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 23,
@@ -745,7 +1713,51 @@
      "pct": 69.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Tara Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Piara Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Balbir Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Jaswinder Singh",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Jasvinder Singh Sandhu",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Jaswinder Singh Sandhu",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Harmohinder Singh Chattha",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 24,
@@ -766,7 +1778,51 @@
      "pct": 85.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ishwar",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Dilu Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Buta Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Amar Singh",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Dillu Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Amar Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dillu Ram",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 25,
@@ -787,7 +1843,51 @@
      "pct": 29.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Raghunath",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Roshan Lal",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Surinder Kumat",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Surender Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Charan Dass",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Lila Ram",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Shamsher Singh Surjewala",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 26,
@@ -808,7 +1908,51 @@
      "pct": 95.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Agnivesh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Ishwar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Makhan Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ishwar S/o Sind Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Narendra Sharma",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Tejvir",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dinesh Kaushik",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 27,
@@ -834,7 +1978,51 @@
      "pct": 53.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jagjit Singh Pohlu",
+     "party": "VHP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Nar Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Nar Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Tejrndra Pal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ram Pal",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ram Pal Majra",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Tejender Pal Singh",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 28,
@@ -860,7 +2048,51 @@
      "pct": 44.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sant Kumar",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Bananti Devi",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Om Parkahs Bhardwaj",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Balwant Singh",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Balwant Singh",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Balwant Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Naresh Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 29,
@@ -881,7 +2113,51 @@
      "pct": 85.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Hari Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Hari Chand",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Sri Kishan",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Krishan Murti",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Shri Krishan",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Bhupinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Shri Krishan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 30,
@@ -902,7 +2178,51 @@
      "pct": 10.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mangal Sein",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Mangal Sain",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Mangal Sain",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Subhash Chander",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Shri Kishan Dass",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Shadi Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Shadi Lal Batra",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 31,
@@ -923,7 +2243,51 @@
      "pct": 74.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Har Sarup",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Devi Lal",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Devi Lal",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Anand Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Balbir",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Balbir",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Anand Singh Dangi",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 32,
@@ -944,7 +2308,51 @@
      "pct": 58.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jai Narain",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Kartar Devi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "jai Narian",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Kartar Devi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Kartar Devi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Sarita",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Kartar Devi",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 33,
@@ -965,7 +2373,51 @@
      "pct": 86.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ran Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Om Parkash",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Raghuvir SIngh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Om Parkash",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Virender Pal",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dr. Raguvir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dr. Raghuvir Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 34,
@@ -991,7 +2443,51 @@
      "pct": 0.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ram Narain",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Hukam Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Ram Narain",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Zile Singh",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Dharmavir",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Anita",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Anita Yadav",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 35,
@@ -1012,7 +2508,51 @@
      "pct": 11.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mange Ram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Banarsi Dass",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Medhavi",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Daryao Singh",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ram Parkash Dahiya",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Daryab Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Hari Ram",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 36,
@@ -1033,7 +2573,51 @@
      "pct": 48.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Hardwari Lal",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Dhirpal Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Dhir Pal SIngh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Dhirpal Singh",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Dhir Pal Singh",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dheer Pal Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Naresh Kumar",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 37,
@@ -1054,7 +2638,51 @@
      "pct": 66.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mehar Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Mange Ram S/o Daryao Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Mange Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Suraj Mal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Nafe Singh S/O Umrao Singh",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Nafe Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Rajinder Singh S/O Suraj Mal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 38,
@@ -1075,7 +2703,51 @@
      "pct": 95.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bhalle Ram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Bhale Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Kirpa Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ramesh Kumar",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ramesh Kumar",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ramesh Kumar Khatak",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ramphal",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 39,
@@ -1096,7 +2768,51 @@
      "pct": 38.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ganga Ram",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Kitab Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Kishan Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Kitab Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Jagbir Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ram Kuwar",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dharam Pal Singh Malik",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 40,
@@ -1118,7 +2834,51 @@
      "pct": 81.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Shanti Devi",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Rajinder Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Ved Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Shanti Devi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ramesh Chander",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Jitender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Jitender Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 41,
@@ -1139,7 +2899,51 @@
      "pct": 18.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Devi Dass",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Devi Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Devi Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Sham Dass",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Dev Raj Dewan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dev Raj Deewan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Anil Thakar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 42,
@@ -1160,7 +2964,51 @@
      "pct": 69.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Rizaqram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Jaswant Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Maha Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Jaipal",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Suraj Mal",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Suraj Mal",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ramesh Chander",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 43,
@@ -1183,7 +3031,51 @@
      "pct": 74.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Om Prakash",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Bhim Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Mahendra",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Hukam Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Krishana Gahlawat",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Padam Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Sukhbir Singh",
+     "party": "NCP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 44,
@@ -1204,7 +3096,51 @@
      "pct": 65.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Prit Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Jogi Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Banarasi",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Bharath Singh",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ram Bhaj",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Deena Ram",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Geeta",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 45,
@@ -1225,7 +3161,51 @@
      "pct": 84.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Shamsher Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Shamsher Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Tek Chand",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Shamsher Singh S/o Ganga Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Randeep Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Om Parkash Chautala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Randeep Singh Surjewala",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 46,
@@ -1246,7 +3226,51 @@
      "pct": 91.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Birender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Birender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Desh Raj",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Virendar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Birender Singh",
+     "party": "AIIC(T)",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Bhag Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Birender Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 47,
@@ -1277,7 +3301,51 @@
      "pct": 26.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gulzar Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Daya Nand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Durga Dutt",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ram Kumar Katwal",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Satvinder Singh",
+     "party": "AIIC(T)",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ram Kumar",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Satvinder Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 48,
@@ -1298,7 +3366,51 @@
      "pct": 67.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mange Ram",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Brij Mohan",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Parma nand",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Mange Ram Gupta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Brij Mohan",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Mange Ram Gupta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Mange Ram Gupta",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 49,
@@ -1319,7 +3431,51 @@
      "pct": 96.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Zile Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Kulbir Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Kulbir Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Suraj Bhan",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Satya Narain Lathar",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Sher Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Sher Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 50,
@@ -1340,7 +3496,51 @@
      "pct": 98.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ram Krishan",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Kundan Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Sardul Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Bachan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ramphal S/O Jodha Ram",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ram Phal",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Bachan Singh Arya",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 51,
@@ -1366,7 +3566,51 @@
      "pct": 0.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Deep Chand Bhatia",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "A. C. Chaudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Kundal Lal Bhatia S/0 Arjun Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "A. C. Chaudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Chander",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Chander Bhatia",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "A C. Chaudhry",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 52,
@@ -1397,7 +3641,51 @@
      "pct": 18.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gajraj Nagar",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Mahendra Pratap Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "CH. Mahinder Pratap Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Mahender Pratap Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Krishan Pal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Krishan Pal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Mahender Pratap",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 53,
@@ -1424,7 +3712,51 @@
      "pct": 47.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Rajinder Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Sharda Rani",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Yogesh Chand Sharma",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Rajinder Singh Bisla",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Anand Kumar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Rajinder Singh Bisla",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Sharda Rathore",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 54,
@@ -1450,7 +3782,51 @@
      "pct": 17.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mool Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Kalyan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Subhash Chand",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Karan Singh Dalal",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Karan Singh Dalal",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Karan Singh Dalal",
+     "party": "RPI",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Karan Singh Dalal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 55,
@@ -1476,7 +3852,51 @@
      "pct": 33.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gaya Lal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Gir Raj Kishore",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Udaibhan",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ram Rattan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Jagdish Nayar",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Udai Bhan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Udai Bhan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 56,
@@ -1497,7 +3917,51 @@
      "pct": 29.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Aditya Vesh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Azmat Khan",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Bhagwan Shai",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ajmat Khan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Harsh Kumar",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Bhagwan Sahai Rawat",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Harsh Kumar",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 57,
@@ -1523,7 +3987,51 @@
      "pct": 33.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Shakrulla",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Shakrulla",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Ajmat Khan",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Shakrulla Khan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Azad",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Mohmmad Ilyas",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Azad",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 58,
@@ -1549,7 +4057,51 @@
      "pct": 5.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sardar Khan",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Rahim Khan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Khurshid Ahmad",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Mohammad Iliyas",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Khurshid Ahmad S/O Kabir Ahmad",
+     "party": "AIIC(T)",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Hamid Hussain",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Habib-Ur-Rehman",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 59,
@@ -1575,7 +4127,51 @@
      "pct": 34.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Khurshed Ahmed",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Kabir Ahmad",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Tayab Hussain",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Zakir Hussain",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Suraj Pal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Zakir Hussain",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Sahida",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 60,
@@ -1596,7 +4192,51 @@
      "pct": 53.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Vijay Pal Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Vijay Vir Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Dharam Pal",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Dharam Pal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Narbir Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dharam Paul",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Sukhbir Singh",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 61,
@@ -1622,7 +4262,51 @@
      "pct": 63.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Pratap Singh Thakran",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Dharam Bir",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Sita Ram Singhla",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Dharambir S/o Pannu Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Dharambir",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Gopi Chand",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dharambir",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 62,
@@ -1643,7 +4327,51 @@
      "pct": 75.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Narain Singh",
+     "party": "VHP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Mohan Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Shiv lal",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Mohan Lal",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Narayan Singh S/O Bichha Ram",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ram Bir Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Bhupinder",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 63,
@@ -1664,7 +4392,51 @@
      "pct": 81.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ran Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Chandra Wati",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Ran Singh S/o Sheokaran",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Attar Singh S/o Lok Ram",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Nripender",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ranbir Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dharambir",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 64,
@@ -1685,7 +4457,51 @@
      "pct": 74.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Hukam Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Hukam Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Hukam Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Daharampal Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Satpal Sangwan",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Jagjit",
+     "party": "NCP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Nirpender",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 65,
@@ -1712,7 +4528,51 @@
      "pct": 0.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Tek Ram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Balbir Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Vasudev",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Chhatter Singh Chauhan",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Chhater Singh Chauhan",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Shashi Ranjan Panwar",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ranbir Singh Mahendra",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 66,
@@ -1733,7 +4593,51 @@
      "pct": 62.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bir Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Sagar Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Banarsi Dass Gupta",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ram Bhajan",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ram Bhajan",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Bansi Lal",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dr. Shiv Shanker Bhardwaj",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 67,
@@ -1754,7 +4658,51 @@
      "pct": 86.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sunder Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Surender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Dharam Vir",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Bansi Lal",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Bansi Lal",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dharambir",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Surender Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 68,
@@ -1775,7 +4723,51 @@
      "pct": 78.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Hira Nand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Hira Nand",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Hira Nand Arya",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Chandrawati",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Somvir Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Bahadur Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Somvir Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 69,
@@ -1796,7 +4788,51 @@
      "pct": 39.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jagan Nath",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Amar Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Jagan Nath",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Amar Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Jagan Nath S/O Gur Dayal",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ramkishan",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ramkishan Fauji",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 70,
@@ -1817,7 +4853,51 @@
      "pct": 11.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jai Narain",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Inder Singh Nain",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Surender",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Jogender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Relu Ram",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Jai Prakash",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Randhir",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 71,
@@ -1838,7 +4918,51 @@
      "pct": 83.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Virender Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Virender Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Virender Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Verender Singh",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Jaswant Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ram Bhagat S/o Dhan Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ram Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 72,
@@ -1859,7 +4983,51 @@
      "pct": 53.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Baldev Tayal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Amir Chand",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Pardeep kumar Chaudhary",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Amir Chand",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Attar Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Subhash Chand",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Amir Chand",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 73,
@@ -1885,7 +5053,51 @@
      "pct": 16.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Devi Lal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Sampat Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Sampat Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Sampat Singh",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Mani Ram Godara",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Sampat Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Kulvir Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 74,
@@ -1911,7 +5123,51 @@
      "pct": 9.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Balwant Rai Tayal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Om Parkash Mahajan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Hari Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Om Parkash Jindal",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Om Parkash Mahajan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Om Parkash Jindal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Om Prakash Jindal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 75,
@@ -1942,7 +5198,51 @@
      "pct": 18.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kanwal Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Kanwal Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Atma Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Chhatarpal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Kanwal Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Puran Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Prof. Chhattar Pal Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 76,
@@ -1963,7 +5263,51 @@
      "pct": 79.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Karam Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Harpal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Harpal singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Harpal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Vinod Kumar",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Nishan Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Paramvir Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 77,
@@ -1984,7 +5328,51 @@
      "pct": 78.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Peer Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Neki Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Atama singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Pir Chand",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ram Sarup Rama",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Jarnail Singh s/o Hakam Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Gian Chand",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 78,
@@ -2005,7 +5393,51 @@
      "pct": 31.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Harphul Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Gobind Rai",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Balbir singh Choudhary",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Lila Krishan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Harminder Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Lila Kishan",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dura Ram",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 79,
@@ -2026,7 +5458,51 @@
      "pct": 45.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bhajan Lal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Bhajan Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Jasma Devi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Bhajan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Bhajan Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Bhajan Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Bhajan Lal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 80,
@@ -2052,7 +5528,51 @@
      "pct": 14.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jagdish Kumar",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Bahadur SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Vidya Beniwal",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Mani Ram",
+     "party": "JP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Vidya Devi",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Vidya Devi",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Bharat Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 81,
@@ -2078,7 +5598,51 @@
      "pct": 59.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bhagi Ram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Bhagi Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Bhagi Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Mani Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Bhagi Ram",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Bhagi Ram",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dr. Sushil Kumar Indora",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 82,
@@ -2099,7 +5663,51 @@
      "pct": 22.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Shankar Lal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Lachhman Das Arora",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Hazar Chand",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Lachhman Dass",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ganeshi Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Lachhman Dass Arora",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Lachhman Dass Arora",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 83,
@@ -2125,7 +5733,51 @@
      "pct": 48.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sukhdev Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Jagdish Mehra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Ranjit Singh S\\o Devi Lal",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Jagdish Mehra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Om Parkash S/O Devi Lal",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Om Prakash Chautala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Om Prakash Chautala",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 84,
@@ -2146,7 +5798,51 @@
      "pct": 81.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mani Ram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Goverdhan Dass Chouhan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Mani Ram",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Santosh Chauhan Sarwan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Mani Ram",
+     "party": "SAP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dr.Sita Ram",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dr.Sita Ram",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 85,
@@ -2167,7 +5863,51 @@
      "pct": 72.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Shakuntala",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Shakuntla",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Muni Lal",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Shakuntla Bhagwaria",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Jaswant Singh",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dr. Muni Lal Ranga",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Shakuntla Bhagwaria",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 86,
@@ -2193,7 +5933,51 @@
      "pct": 3.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ram Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Ram Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Raghu Yadav",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ajay Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ajay Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Ajay Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Ajay Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 87,
@@ -2215,7 +5999,51 @@
      "pct": 46.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Inderjeet Singh",
+     "party": "VHP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Inderjeet Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Narbir Singh",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Rao Inderjeet Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Jagdish Yadav",
+     "party": "HVP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Inderjit Singh s/o Birender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Yadavendra Singh Alias Baljit Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 88,
@@ -2236,7 +6064,51 @@
      "pct": 91.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dali Singh",
+     "party": "VHP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Ram Bilas",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Ram Bilas",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Ram Bilash",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Ram Bilas",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Dan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Dan Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 89,
@@ -2262,7 +6134,51 @@
      "pct": 7.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Birender Singh",
+     "party": "VHP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Nihal Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Laxmi Narain",
+     "party": "LKD",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Bamshi Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Narender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Narender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Naresh Yadav",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 90,
@@ -2288,7 +6204,51 @@
      "pct": 62.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ayodhya Prashad",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1982,
+     "winner": "Phusa Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1987,
+     "winner": "Kailash chand Sharma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1991,
+     "winner": "Phusa Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1996,
+     "winner": "Kailash Chand",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2000,
+     "winner": "Moola Ram",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2005,
+     "winner": "Radhey Shyam",
+     "party": "IND",
+     "status": null
+    }
+   ]
   }
  ],
  "post2008_constituencies": [
@@ -2312,7 +6272,33 @@
      "pct": 84.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Pardeep Chaudhary",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Latika Sharma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Pardeep Chaudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Shakti Rani Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 2,
@@ -2335,7 +6321,33 @@
      "pct": 85.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Devender Kumar Bansal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Gian Chand Gupta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Gian Chand Gupta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Chander Mohan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 3,
@@ -2362,7 +6374,33 @@
      "pct": 1.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ram Kishan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Nayab Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Shalley",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Shalley Chaudhary",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 4,
@@ -2384,7 +6422,33 @@
      "pct": 53.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Anil Vij",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Anil Vij",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Anil Vij",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Anil Vij",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 5,
@@ -2411,7 +6475,33 @@
      "pct": 64.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Venod Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Aseem Goel",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Aseem Goel Naneola",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Nirmal Singh Mohra",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 6,
@@ -2433,7 +6523,33 @@
      "pct": 68.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Rajbir Singh Barara",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Santosh Chauhan Sarwan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Varun Chaudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Pooja",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 7,
@@ -2460,7 +6576,33 @@
      "pct": 14.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Rajpal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Balwant Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Renu Bala",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Renu Bala",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 8,
@@ -2487,7 +6629,33 @@
      "pct": 2.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Akram Khan",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kanwar Pal S/O Chandan Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Kanwar Pal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Akram Khan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 9,
@@ -2509,7 +6677,33 @@
      "pct": 59.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dilbagh Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ghanshyam Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ghanshyam Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Ghanshyam Dass",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 10,
@@ -2531,7 +6725,33 @@
      "pct": 53.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dr.Bishan Lal Saini",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Shyam Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Bishan Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Shyam Singh Rana",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 11,
@@ -2558,7 +6778,33 @@
      "pct": 52.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Sher Singh Barshami",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dr. Pawan Saini",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Mewa Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Nayab Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 12,
@@ -2580,7 +6826,33 @@
      "pct": 65.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Anil Dhantori",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Krishan Kumar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ram Karan",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Ram Karan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 13,
@@ -2602,7 +6874,33 @@
      "pct": 65.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ashok Kumar Arora",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Subhash Sudha",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Subhash Sudha",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Ashok Kumar Arora",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 14,
@@ -2624,7 +6922,33 @@
      "pct": 73.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Harmohinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Jaswinder Singh Sandhu",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Sandeep Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Mandeep Chatha",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 15,
@@ -2646,7 +6970,33 @@
      "pct": 86.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Phool Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kulwant Ram Bazigar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ishwar Singh",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Devender Hans",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 16,
@@ -2678,7 +7028,33 @@
      "pct": 11.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Rampal Majra",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bhai Jai Parkash (J.P.)",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Kamlesh Dhanda",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Vikas Saharan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 17,
@@ -2700,7 +7076,33 @@
      "pct": 59.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Randeep Singh Surjewala",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Randeep Singh Surjewala",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Leela Ram",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Aditya Surjewala",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 18,
@@ -2727,7 +7129,33 @@
      "pct": 23.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Sultan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dinesh Kaushik",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Randhir Singh Gollen",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Satpal Jamba",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 19,
@@ -2754,7 +7182,33 @@
      "pct": 50.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Mamu Ram",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bhagwan Dass Kabir Panthi",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Dharam Pal Gonder",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Bhagwan Dass",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 20,
@@ -2776,7 +7230,33 @@
      "pct": 68.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ashok Kashyap",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Karan Dev Kamboj",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ram Kumar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Ram Kumar Kashyap",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 21,
@@ -2803,7 +7283,33 @@
      "pct": 29.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Sumita Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Manohar Lal Khattar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Manohar Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Jagmohan Anand",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 22,
@@ -2825,7 +7331,33 @@
      "pct": 87.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Narender Sangwan",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Harvinder Kalyan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Harvinder Kalyan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Harvinder Kalyan",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 23,
@@ -2852,7 +7384,33 @@
      "pct": 62.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Pt. Zile Ram Chochra",
+     "party": "HJCBL",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bakhshish Singh Virk",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Shamsher Singh Gogi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Yoginder Singh Rana",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 24,
@@ -2879,7 +7437,33 @@
      "pct": 55.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Om Prakash Jain",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mahipal Dhanda",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Mahipal Dhanda",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Mahipal Dhanda",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 25,
@@ -2901,7 +7485,33 @@
      "pct": 84.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Balbir Pal Shah",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Rohita Rewri",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Parmod Kumar Vij",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Parmod Kumar Vij",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 26,
@@ -2923,7 +7533,33 @@
      "pct": 73.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Krishan Lal Panwar",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Krishan Lal Panwar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Balbir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Krishan Lal Panwar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 27,
@@ -2945,7 +7581,33 @@
      "pct": 89.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dharm Singh",
+     "party": "HJCBL",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ravinder Machhrouli",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Dharam Singh Chhoker",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Manmohan Bhadana",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 28,
@@ -2967,7 +7629,33 @@
      "pct": 90.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Kuldeep Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kuldip Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Nirmal Rani",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Devender Kadyan",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 29,
@@ -2990,7 +7678,33 @@
      "pct": 92.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Jai Tirath",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Jai Tirath",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Mohan Lal Badoli",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Krishna Gahlawat",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 30,
@@ -3017,7 +7731,33 @@
      "pct": 74.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Jaiveer",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Jaiveer Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Jaiveer Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Pawan Kharkhoda",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 31,
@@ -3041,7 +7781,33 @@
      "pct": 78.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Kavita Jain",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kavita Jain",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Surender Panwar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Nikhil Madaan",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 32,
@@ -3063,7 +7829,33 @@
      "pct": 45.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Jagbir Singh Malik",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Jagbir Singh Malik",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Jagbir Singh Malik",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Arvind Kumar Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 33,
@@ -3085,7 +7877,33 @@
      "pct": 58.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Sri Krishan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Sri Krishan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "SRI Krishan Hooda",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Induraj Singh Narwal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 34,
@@ -3107,7 +7925,33 @@
      "pct": 78.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Parminder Singh Dhull",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Parminder Singh Dhull",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Amarjeet Dhanda",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Vinesh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 35,
@@ -3134,7 +7978,33 @@
      "pct": 71.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Kali Ram Patwari",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Jasbir Deswal",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Subhash Gangoli",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Ram Kumar Gautam",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 36,
@@ -3161,7 +8031,33 @@
      "pct": 95.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dr. Hari Chand Middha",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dr. Hari Chand Middha",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Dr. Krishan Lal Middha",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Dr Krishan Lal Middha",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 37,
@@ -3183,7 +8079,33 @@
      "pct": 58.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Om Parkash Chautala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Prem Lata",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Dushyant Chautala",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Devender Chatar Bhuj Attri",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 38,
@@ -3205,7 +8127,33 @@
      "pct": 84.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Pirthi Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Pirthi Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ram Niwas",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Krishan Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 39,
@@ -3227,7 +8175,33 @@
      "pct": 64.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Paramvir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Subhash Barala",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Devender Singh Babli",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Paramvir Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 40,
@@ -3254,7 +8228,33 @@
      "pct": 27.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Prahlad Singh Gillan Khera",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Balwan Singh Daulatpuria",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Dura Ram",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Balwan Singh Doulatpuria",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 41,
@@ -3276,7 +8276,33 @@
      "pct": 60.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Gian Chand",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Prof. Ravinder Baliala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Lakshman Napa",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Jarnail Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 42,
@@ -3303,7 +8329,33 @@
      "pct": 48.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Charanjeet Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Balkaur Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Shishpal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Shishpal Keharwala",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 43,
@@ -3325,7 +8377,33 @@
      "pct": 57.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ajay Singh Chautala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Naina Singh Chautala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Amit Sihag",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Aditya Devilal",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 44,
@@ -3352,7 +8430,33 @@
      "pct": 9.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Krishan Lal S/O Ram Chand",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ram Chand Kamboj",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ranjit Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Arjun Chautala",
+     "party": "INLD",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 45,
@@ -3379,7 +8483,33 @@
      "pct": 26.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Gopal Kanda",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Makhan Lal Singla",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Gopal Kanda",
+     "party": "HLP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Gokul Setia",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 46,
@@ -3401,7 +8531,33 @@
      "pct": 38.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Om Parkash Chautala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abhay Singh Chautala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Abhay Singh Chautala",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Bharat Singh Beniwal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 47,
@@ -3428,7 +8584,33 @@
      "pct": 46.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Kuldeep Bishnoi",
+     "party": "HJCBL",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kuldeep Bishnoi",
+     "party": "HJCBL",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Kuldeep Bishnoi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Chander Parkash S/O Arjun Lal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 48,
@@ -3450,7 +8632,33 @@
      "pct": 14.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Naresh Selwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Anoop Dhanak",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Anoop Dhanak",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Naresh Selwal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 49,
@@ -3472,7 +8680,33 @@
      "pct": 60.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Saroj",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Captain Abhimanyu",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ram Kumar Gautam",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Jassi Petwar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 50,
@@ -3504,7 +8738,33 @@
      "pct": 37.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Vinod Bhayana",
+     "party": "HJCBL",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Renuka Bishnoi",
+     "party": "HJCBL",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Vinod Bhayana",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Vinod Bhayana",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 51,
@@ -3531,7 +8791,33 @@
      "pct": 59.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ram Niwas Ghorela",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ved Narang",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Jogi Ram Sihag",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Ranbir Gangwa",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 52,
@@ -3553,7 +8839,33 @@
      "pct": 100.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Savitri Jindal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dr.Kamal Gupta S/O Manphool Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Dr. Kamal Gupta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Savitri Jindal",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 53,
@@ -3576,7 +8888,33 @@
      "pct": 4.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Sampat Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ranbir Gangwa",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ranbir Gangwa",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Randhir Panihar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 54,
@@ -3598,7 +8936,33 @@
      "pct": 73.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dharam Pal",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Om Parkash Barwa",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Jai Parkash Dalal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Rajbir Fartia",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 55,
@@ -3620,7 +8984,33 @@
      "pct": 92.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Raghbir Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Sukhvinder",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Naina Singh",
+     "party": "JJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Umed Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 56,
@@ -3642,7 +9032,33 @@
      "pct": 52.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Satpal",
+     "party": "HJCBL",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Rajdeep",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Sombir",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Sunil Satpal Sangwan",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 57,
@@ -3669,7 +9085,33 @@
      "pct": 56.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ghansyam Saraf",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ghanshyam Saraf",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Ghanshyam Saraf",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Ghanshyam Saraf",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 58,
@@ -3691,7 +9133,33 @@
      "pct": 90.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Kiran Choudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kiran Choudhry",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Kiran Choudhry",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Shruti Choudhry",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 59,
@@ -3713,7 +9181,33 @@
      "pct": 43.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ram Kishan Fouji S/O Dharampal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bishamber Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Bishamber Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Kapoor Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 60,
@@ -3735,7 +9229,33 @@
      "pct": 65.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Anand Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Anand Singh Dangi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Balraj Kundu",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Balram Dangi",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 61,
@@ -3762,7 +9282,33 @@
      "pct": 57.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Bhupinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bhupinder Singh Hooda",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Bhupinder Singh Hooda",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Bhupinder Singh Hooda",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 62,
@@ -3784,7 +9330,33 @@
      "pct": 53.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Bharat Bhushan Batra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Manish Kumar Grover",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Bharat Bhushan Batra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Bharat Bhushan Batra",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 63,
@@ -3806,7 +9378,33 @@
      "pct": 58.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Shakuntla",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Shakuntla Khatak",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Shakuntla Khatak",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Shakuntla Khatak",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 64,
@@ -3828,7 +9426,33 @@
      "pct": 92.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Rajinder Singh Joon",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Naresh Kaushik",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Rajinder Singh Joon",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Rajesh Joon",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 65,
@@ -3850,7 +9474,33 @@
      "pct": 25.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Naresh Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Om Parkash Dhankar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Kuldeep Vats",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Kuldeep Vats",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 66,
@@ -3877,7 +9527,33 @@
      "pct": 15.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Geeta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Geeta Bhukkal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Geeta Bhukkal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Geeta Bhukkal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 67,
@@ -3904,7 +9580,33 @@
      "pct": 0.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dr. Raghubir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dr.Raghuvir Singh Kadian",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Dr. Raghuvir Singh Kadian",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Raghuvir Singh Kadian",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 68,
@@ -3926,7 +9628,33 @@
      "pct": 45.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Anita Yadav",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Santosh Yadav",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Sitaram",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Arti Singh Rao",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 69,
@@ -3948,7 +9676,33 @@
      "pct": 35.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Ram Bilash Sharma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Rao Dan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Kanwar Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 70,
@@ -3970,7 +9724,33 @@
      "pct": 46.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Narender Singh",
+     "party": "HJCBL",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Om Prakash",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Om Prakash Yadav",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Om Prakash Yadav",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 71,
@@ -3997,7 +9777,33 @@
      "pct": 67.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Bahadur Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Abhe Singh Yadav",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Dr. Abhe Singh Yadav",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Manju Choudhary",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 72,
@@ -4019,7 +9825,33 @@
      "pct": 64.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Rameshwar Dayal",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Dr. Banwari Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "DR. Banwari Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Dr. Krishan Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 73,
@@ -4046,7 +9878,33 @@
      "pct": 53.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Yaduvender Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bikram Singh Thekedar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Laxman Singh Yadav",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Anil Yadav",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 74,
@@ -4073,7 +9931,33 @@
      "pct": 0.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ajay Singh S/O Abhey Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Randhir Singh Kapriwas",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Chiranjeev Rao",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Laxman Singh Yadav",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 75,
@@ -4095,7 +9979,33 @@
      "pct": 74.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Ganga Ram",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Bimla Chaudhary",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Satya Parkash",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Bimla Chaudhary",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 76,
@@ -4117,7 +10027,33 @@
      "pct": 47.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dharam Pal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Narbir Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Rakesh Daultabad",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Rao Narbir Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 77,
@@ -4139,7 +10075,33 @@
      "pct": 96.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Sukhbeer",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Umesh Aggarwal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Sudhir Singla",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Mukesh Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 78,
@@ -4166,7 +10128,33 @@
      "pct": 54.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Dharambir",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Tejpal Tawar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Sanjay Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Tejpal Tanwar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 79,
@@ -4193,7 +10181,33 @@
      "pct": 37.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Aftab Ahmed",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Zakir Hussain",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Aftab Ahmed",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Aftab Ahmed",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 80,
@@ -4215,7 +10229,33 @@
      "pct": 55.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Naseem Ahmed",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Naseem Ahmed",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Mamman Khan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Mamman Khan",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 81,
@@ -4242,7 +10282,33 @@
      "pct": 6.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Mohammed Ilyas",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Rahish Khan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Mohd Ilyas",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Mohammad Ilyas",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 82,
@@ -4264,7 +10330,33 @@
      "pct": 15.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Jaleb Khan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Kehar Singh",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Praveen Dagar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Mohd Israil",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 83,
@@ -4286,7 +10378,33 @@
      "pct": 36.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Jagdish Nayar",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Udai Bhan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Jagdish Nayar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Harinder Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 84,
@@ -4313,7 +10431,33 @@
      "pct": 32.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Subhash Choudhary",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Karan Singh Dalal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Deepak Mangla",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Gaurav Gautam",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 85,
@@ -4340,7 +10484,33 @@
      "pct": 16.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Raghubir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Tek Chand Sharma",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Nayan Pal Rawat",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Raghubir Tewatia",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 86,
@@ -4363,7 +10533,33 @@
      "pct": 72.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Pt. Shiv Charan Lal Sharma",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Nagender Bhadana",
+     "party": "INLD",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Neeraj Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Satish Kumar Phagna",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 87,
@@ -4385,7 +10581,33 @@
      "pct": 65.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Mahender Partap Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Seema Trikha",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Seema Trikha",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Dhanesh Adlakha",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 88,
@@ -4401,7 +10623,33 @@
    "sc_note": "",
    "party12": "INC",
    "winner_12": "Sharda Rathore",
-   "electors_12": 129275
+   "electors_12": 129275,
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Sharda Rathore",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Mool Chand Sharma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Mool Chand Sharma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Mool Chand Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 89,
@@ -4423,7 +10671,33 @@
      "pct": 2.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Anand Kaushik",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Vipul Goel",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Narender Gupta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Vipul Goel",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "ac_no": 90,
@@ -4450,7 +10724,33 @@
      "pct": 26.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2009,
+     "winner": "Krishan Pal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2014,
+     "winner": "Lalit Nagar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2019,
+     "winner": "Rajesh Nagar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2024,
+     "winner": "Rajesh Nagar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   }
  ],
  "sources": [
@@ -4458,7 +10758,8 @@
   "District-wise comparison of Haryana Assembly Constituencies Before and After the 2008 Delimitation",
   "ECI Statistical Reports, 2005 & 2009 Haryana Assembly elections",
   "ECI constituency polygons (2008)",
-  "Pre-delimitation all-India assembly-constituency shapefile"
+  "Pre-delimitation all-India assembly-constituency shapefile",
+  "IndiaVotes (indiavotes.com), constituency-level winner records, 1977–2024"
  ],
  "map_caveats": [
   "Plate I draws the actual 1976-order boundaries from the pre-delimitation all-India assembly-constituency shapefile — all 90 Haryana seats present.",
