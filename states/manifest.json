@@ -24,7 +24,7 @@
             "kind": "state",
             "status": "live",
             "note": "Delimitation under the 2002 Act was deferred here in 2008.",
-            "last_updated": "18 August 2026"
+            "last_updated": "26 November 2026"
         },
         {
             "slug": "bihar",
@@ -51,14 +51,14 @@
             "name": "Gujarat",
             "kind": "state",
             "status": "live",
-            "last_updated": "18 August 2026"
+            "last_updated": "26 November 2026"
         },
         {
             "slug": "haryana",
             "name": "Haryana",
             "kind": "state",
             "status": "live",
-            "last_updated": "18 August 2026"
+            "last_updated": "26 November 2026"
         },
         {
             "slug": "himachal-pradesh",
@@ -87,14 +87,14 @@
             "name": "Karnataka",
             "kind": "state",
             "status": "live",
-            "last_updated": "18 August 2026"
+            "last_updated": "26 November 2026"
         },
         {
             "slug": "kerala",
             "name": "Kerala",
             "kind": "state",
             "status": "live",
-            "last_updated": "18 August 2026"
+            "last_updated": "26 November 2026"
         },
         {
             "slug": "madhya-pradesh",
@@ -160,14 +160,14 @@
             "name": "Punjab",
             "kind": "state",
             "status": "live",
-            "last_updated": "18 August 2026"
+            "last_updated": "26 November 2026"
         },
         {
             "slug": "rajasthan",
             "name": "Rajasthan",
             "kind": "state",
             "status": "live",
-            "last_updated": "18 August 2026"
+            "last_updated": "26 November 2026"
         },
         {
             "slug": "sikkim",
@@ -213,7 +213,7 @@
             "name": "West Bengal",
             "kind": "state",
             "status": "live",
-            "last_updated": "18 August 2026"
+            "last_updated": "26 November 2026"
         }
     ],
     "homepage": {
