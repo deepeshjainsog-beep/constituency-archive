@@ -20,7 +20,51 @@
      "pct": 41.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dr Jodh Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Santokh Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "NIrmal Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Lakhmir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Nirmal Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sukhjinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Nirmal Singh Kahlon",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -47,7 +91,51 @@
      "pct": 79.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Panna Lal Nayyar",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Gopal Krishan Chatrath",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ashwani",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Jagdish",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Jagdish",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ashwani",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Jagdish Sahni",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -70,7 +158,51 @@
      "pct": 19.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mohinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Mohinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kalwant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Tripat Rajinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Natha Singh Dalam",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Tript Rajinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Lakhbir Singh Lodhinangal",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -92,7 +224,51 @@
      "pct": 76.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Natha Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Natha Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Natha Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurnam SIngh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Balbir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Capt. Balbir Singh Bath",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Capt. Balbir Singh Bath",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -114,7 +290,51 @@
      "pct": 45.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ujagar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Ujagar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Johar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Pratap SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sewa Singh Sekhwan",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Partap Singh Bajwa",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Partap Singh Bajwa",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -141,7 +361,51 @@
      "pct": 83.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Swaran Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Raj Kumar",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sucha Singh Chhotepur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Sushil Mahajan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sucha Singh Langah",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sucha Singh Chhotepur",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sucha Singh Langah",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -163,7 +427,51 @@
      "pct": 81.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Khushal Behal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Rattan Lal",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Susheel",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Khushhal Bahi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Kartar Singh Pahra",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Khushhal Bahl",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gurbachan Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -185,7 +493,51 @@
      "pct": 47.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gian Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jai Muni",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Jai Muni",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Krishna Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Roop Rani",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Aruna",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sita Ram",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -207,7 +559,51 @@
      "pct": 63.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sunder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Amar Nath",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ram Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Krishan Chand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ram Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Rumal Chand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Bishamber Dass",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -234,7 +630,51 @@
      "pct": 71.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Om Parkash Bhardwaj",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Ram Sarup",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Mohan Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Raman Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Mohan Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ashok Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Master Mohan Lal",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -261,7 +701,51 @@
      "pct": 14.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Chaman Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Chaman Lal",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Raghunath Sahai",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Raghu Nath Sahai",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Satpal Saini",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Raghunath Sahai Puri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Dinesh Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -283,7 +767,51 @@
      "pct": 15.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jiwan Singh Umara Nangal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jiwan Singh Umranangal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sant Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Vir Pawan Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Manmohan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jasbir Singh Gill (Dimpa)",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Manjinder Singh Kang",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -305,7 +833,51 @@
      "pct": 69.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Parkash Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Parkash Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Surindarpal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Ranjit Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Parkash Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Swinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Bikram Singh Majithia",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -327,7 +899,51 @@
      "pct": 30.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Khajan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sohan Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Dalbir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurmej SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ujagar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Raj Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Dalbir Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -349,7 +965,51 @@
      "pct": 38.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dalbir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Tara Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ranjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Sardul Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ajaypal Singh Mirankot",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sardul Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Malkiat Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -371,7 +1031,51 @@
      "pct": 2.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Harbans Lal Khanna",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Brij Bhushan Mehra",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Brij Bhushan Mehra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Faqur Chand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Baldev Raj Chawla",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jugal Kishore Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Anil Joshi",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -387,7 +1091,51 @@
    "ac_no": 17,
    "party07": "INC",
    "electors_07": 231753,
-   "winner_07": "Om Parkash Soni"
+   "winner_07": "Om Parkash Soni",
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Satya Pal Dang",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sewa Ram",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sewa Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Vimla Dang",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Om Parkash Soni",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Om Parkash Soni",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Om Parkash Soni",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -409,7 +1157,51 @@
      "pct": 5.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Balramjidass Tandan",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Darbari Lal",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Darbari Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Laxmi kanta",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Laxmi Kanta Chawla",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Darbari Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Lakshmi Kanta Chawla",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -432,7 +1224,51 @@
      "pct": 7.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kirpal Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Pirthipal Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kirpal Singh s/o Uttam Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Maninderjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Manjit Singh Calcutta",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Harjinder Singh Thekedar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Raminder Singh Bolaria",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -459,7 +1295,51 @@
      "pct": 40.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Shashpal Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Harcharan Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ratan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Harcharn Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Rattan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Dr. Rattan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Amarpal Singh Ajnala",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -481,7 +1361,51 @@
      "pct": 69.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dalip Singh Tapiala",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Iqbal Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Shashpal Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Parminder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Vir Singh Lopoke",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Vir Singh Lopoke",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sukhbinder Singh Sarkaria",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -503,7 +1427,51 @@
      "pct": 13.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Darshan Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Darshan Singh Chabal",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Tara Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Sukhdev Singh Shehbazpuri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Gulzar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gulzar Singh Ranike",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gulzar Singh Ranike",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -525,7 +1493,51 @@
      "pct": 40.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Manjinder Singh Behla",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Prem Singh Lalpura",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Prem Singh Lalpura",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Dilbag SIngh (Uncontested)",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Prem Singh Lalpur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Harmeet Singh Sandhu",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Harmeet Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -552,7 +1564,51 @@
      "pct": 92.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Naranjan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Lakha Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Tara Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Ranjit SIngh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ranjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Manjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Manjit Singh Mianwind",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -574,7 +1630,51 @@
      "pct": 18.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ranjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Surinder Singh Kairon",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Harbhajan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Jagir SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ranjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ranjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ranjit Singh Brahampura",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -596,7 +1696,51 @@
      "pct": 53.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Niranjan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Naranjan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Naranjan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Sakhwinder SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Adaish Partap Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Adesh Partap Singh Kairon",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Adesh Partap Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -618,7 +1762,51 @@
      "pct": 79.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jagir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Major Singh Uboke",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Major Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurchet Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Jagir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gurchet Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Virsa Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -640,7 +1828,51 @@
      "pct": 62.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sarup Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Kulwant Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Surjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Rajender Kumar",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Saroop Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Kanwaljit Singh Lally",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sarbjeet Singh Makkar",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -662,7 +1894,51 @@
      "pct": 59.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Harbhajan Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Ram Lal Chetti",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Indira",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Beant Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Tej Parkash Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gurkanwal Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Jagbir Singh Brar",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -684,7 +1960,51 @@
      "pct": 5.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ramesh Chander",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Gurdial Saini",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Vaid Om Prakash Dutt",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Avtar Henry",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Avtar Henry",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Avtar Henry",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "K.D. Bhandari",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -700,7 +2020,51 @@
    "ac_no": 31,
    "party07": "BJP",
    "electors_07": 136683,
-   "winner_07": "Manoranjan Kalia"
+   "winner_07": "Manoranjan Kalia",
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Man Mohan Kalia",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Yash",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Manmohan Kalia",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Jai Kishan Saini",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Manoranjan Kalia",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Raj Kumar Gupta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Manoranjan Kalia",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -723,7 +2087,51 @@
      "pct": 9.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Darshan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Darshan Singh Kaypee",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Mohinder Singh Kaypee",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Mohinder SIngh Kaypee",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Chuni Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohinder Singh Kaypee",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Chuni Lal Bhagat",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -745,7 +2153,51 @@
      "pct": 72.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bhagat Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jagjit Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Jagjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Jagjit SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Jagjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Chaudhry Jagjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Avinash Chander",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -772,7 +2224,51 @@
      "pct": 18.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Balwant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Balwant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Balwant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Brij Bhupinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ajit Singh Kohar",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ajit Singh Kohar",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ajit Singh Kohar",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -794,7 +2290,51 @@
      "pct": 49.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Umrao Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Darbara Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kulip Singh Wadala",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Umaro SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Amarjit Singh Samra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Amarjit Singh Samra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Amarjit Singh Samra",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -821,7 +2361,51 @@
      "pct": 33.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sarwon Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sarwan Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Surinder Paul Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurbinder Singh Atwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Gurdip Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gurbinder Singh Atwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gurdip Singh Bhullar",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -843,7 +2427,51 @@
      "pct": 43.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Harbans Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jagat Ram",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Balwant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Satnam Singh Kainth",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Mohan Lal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Tarlochan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Mohan Lal",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -865,7 +2493,51 @@
      "pct": 74.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jatinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Dilbagh Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Dilbagh Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Dilbagh SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Charanjit Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Parkash Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Jatinder Singh Kariha",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -887,7 +2559,51 @@
      "pct": 30.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sarwan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sarwan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sarwan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Santokh Singh Chaudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sarwan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Santokh Singh Choudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sarwan Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -909,7 +2625,51 @@
      "pct": 91.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sukhjinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sukhjinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sukhjinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Jagtar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Jagir Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jagir Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sukhpal Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -931,7 +2691,51 @@
      "pct": 63.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Hukam Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Raghbir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kripal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gulzar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Raghbir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Rana Gurjeet Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Rana Rajbans Kaur",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -953,7 +2757,51 @@
      "pct": 84.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Atma Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Atma Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Bachan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurmail SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Upinderjit Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Upinderjit Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Upinderjit Kaur",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -975,7 +2823,51 @@
      "pct": 78.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sadhu Ram",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Piara Ram Dhanowalia",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Joginder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Joginder Singh Mann",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Swarna Ram",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Joginder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Swarna Ram",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -997,7 +2889,51 @@
      "pct": 76.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ram Kishan",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Dalip Chand",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ram Kishan",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Hargopal Singh",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Nand Lal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Nand Lal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Nand Lal",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1019,7 +2955,51 @@
      "pct": 57.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Darshan Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sarwan Ram",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "SarwanRam",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Shangara Ram",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Shingara Ram Sahungra",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Avinash Rai Khanna",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Lov Kumar Goldy",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1046,7 +3026,51 @@
      "pct": 35.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kartar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Kartar Singh S/o Ranjha Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Jagdish Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Avtar Singh Karimpuri",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sohan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sohan Singh Thandal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sohan Singh Thandal",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1068,7 +3092,51 @@
      "pct": 51.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Om Parkash",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Master Kundan Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Mohan Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Naresh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Tikhshan Sood",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Tikshan Sud",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Tikshan Sud",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1090,7 +3158,51 @@
      "pct": 36.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dev Raj Nasrala",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Hari Mittar Hans",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Hari Mitter",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurpal Chand",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Arjan Singh Josh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ram Lubhaya",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Mohinder Kaur",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1112,7 +3224,51 @@
      "pct": 34.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Upkar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Surjit Kaur",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Uplar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Surjit Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Balvir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Balbir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sangat Singh Gilzian",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1134,7 +3290,51 @@
      "pct": 42.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dharam Paul",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Joginder Nath",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Parkash Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Dharam Pal Sabharwal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sohan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Des Raj",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Des Raj Dhugga",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1156,7 +3356,51 @@
      "pct": 75.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gurbachan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Gurbachan Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ramesh Chander",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Romesh Chander",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Romesh Chander",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ramesh Chander",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Amarjit Singh Sahi",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1178,7 +3422,51 @@
      "pct": 64.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kewal Krishna",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Kewal Krishan",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kewal Krishan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Kewal Krishan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Arunesh Kumar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Dr. Kewal Krishan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Arunesh Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1200,7 +3488,51 @@
      "pct": 76.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dalip Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jagrup Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Gurdip Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Darshan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Bhag Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Bhag Singh Mallah",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gurdeep Singh Bhaini",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1222,7 +3554,51 @@
      "pct": 53.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dev Raj Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jagdev Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Talib Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Nirmal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Harmohinder Singh Pardhan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ranjit Singh Talwandi",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Harmohinder Singh 'Pardhaan'",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1249,7 +3625,51 @@
      "pct": 24.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Charanjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Basant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Basant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Malkiat Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Bikramjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Malkiat Singh Dakha",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Darshan Singh Shivalik",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1271,7 +3691,51 @@
      "pct": 5.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Arjan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Arjan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Arjan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Tarsem Lal",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Parkash Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jagdish Singh Gurcha",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Jasbir Singh Khangura",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1293,7 +3757,51 @@
      "pct": 11.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kapoor Chand",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sardari Lal Kapur",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sat Pal Prashar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Rakesh Kumar Panday",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Rakesh Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Rakesh Pandey",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Harish Bedi",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1315,7 +3823,51 @@
      "pct": 47.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "A. Vishwanathan",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Joginder Pall Pandey",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Harnam Dass Johar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Harnam Dass Johar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Maheshinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Harnam Dass Johar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Harish Rai Dhanda",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1337,7 +3889,51 @@
      "pct": 26.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Om Parkash Gupta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Om Parkash Gupta",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Om Parkash Gupta",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Satpaul Gosain",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sat Pal Gosain",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Surinder Kumar Dawar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sat Pal Gosain",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1366,7 +3962,51 @@
      "pct": 7.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dhanraj Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Bir Paul Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Jagdev Singh Tajpuri",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Malkit Singh Birmi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Hira Singh Gabbaria",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Malkit Singh Birmi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Hira Singh Gabria",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1388,7 +4028,51 @@
      "pct": 77.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Benat Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Beant Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Devinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Harnek Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sadhu Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Tej Parkash Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Tej Parkash Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1410,7 +4094,51 @@
      "pct": 41.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Daya Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Daya Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Rajinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Isher Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Charanjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Inder Iqbal Singh Atwal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ishar Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1437,7 +4165,51 @@
      "pct": 22.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Prehlad Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Karam Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Amarjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Karam Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Amrik Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Amrik Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Jagjiwan Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1459,7 +4231,51 @@
      "pct": 52.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bachan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Shamsher Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sukhdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Shamsher Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Bachan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Harbans Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Bikramjit Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1481,7 +4297,51 @@
      "pct": 53.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Madan Mohan",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sarla Parasher",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ram Parkash Bali",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Madan Mohan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Madan Mohan Mittal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Kanwar Pal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kanwar Pal Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1503,7 +4363,51 @@
      "pct": 60.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Madho Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Basant Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Tara Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Ramesh Dutt",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Tara Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ramesh Dutt Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sant Ajit Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1525,7 +4429,51 @@
      "pct": 47.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Satwant Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Satwant Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Bhag Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Shamsher Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Satwant Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Satwant Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Charanjit Singh Channi",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1552,7 +4500,51 @@
      "pct": 55.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ravi Inder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Ravi Inder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ravinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Jag Mohan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ravi Inder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jagmohan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ujaggar Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1579,7 +4571,51 @@
      "pct": 37.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bachittar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jagat Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Bachittar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Harnek Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Daljeet Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Bir Devinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Balbir Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1606,7 +4642,51 @@
      "pct": 62.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Hans Raj Sharma",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Vinod Kumar",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kanwaljit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Mohinder Singh Gill",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Kanwaljit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Kanwaljit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kanwaljit Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1638,7 +4718,51 @@
      "pct": 39.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Harbans Lal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Balwant Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Prem Chand",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Raj Kumar Khurana",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Balram Ji Dass",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Raj Khurana",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Raj Khurana",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1660,7 +4784,51 @@
      "pct": 46.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jasdev Kaur Sandhu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jasdev Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Jasdev Singh Sandhu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Jasjit SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ajaib Singh Mukhmail Pura",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jasjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Madan Lal Thekedar",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1683,7 +4851,51 @@
      "pct": 100.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Lal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Lal Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Prem Singh Chandumajra",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Lal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Harmail Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Lal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Lal Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1705,7 +4917,51 @@
      "pct": 78.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Baldev Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Baldev Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Satwant Singh Mohi",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Hamir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Gurdev Singh Sidhu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Nirmal Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Nirmal Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1727,7 +4983,51 @@
      "pct": 75.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gurdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sant Ram",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Hardial Singh Rajla",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Amarinder Singh (Uncontested)",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Jagtar Singh Rajla",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Surjit Singh Rakhra",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Brahm Mahindra",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1750,7 +5050,51 @@
      "pct": 99.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sardar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Bram Mohindra",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Brahm Mohindra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Brahm Mohinder",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Surjit Singh Kohli",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Amarinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Amarinder Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1777,7 +5121,51 @@
      "pct": 19.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gurdarshan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Gurdarshan Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Narinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Ramesh Kumar",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Narinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Randeep Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Randeep Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1799,7 +5187,51 @@
      "pct": 29.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Dalip Singh Pandhi",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Dilip Singh Pandhi",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Dalip Singh Pandhi",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Sadhu Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Balwant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sadhu Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sadhu Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1821,7 +5253,51 @@
      "pct": 64.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Randhir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Birdevinder Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kirpal Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Harbans Lal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Harbans Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Dr. Harbans Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Didar Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1848,7 +5324,51 @@
      "pct": 41.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sant SIngh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Surinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Dhanwant Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Dhanwant Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gaganjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Iqbal Singh Jhundan",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1875,7 +5395,51 @@
      "pct": 49.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Anwar Ahmad Khan",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sajida Begum",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Nusrat Ali Khan",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Abdul Ghaffar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Nusrat Ali Khan",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Razia Sultana",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Razia Sultana",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1898,7 +5462,51 @@
      "pct": 26.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Chand Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Chand Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Gobind Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Raj SIngh",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Gobind Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gobind Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Harchand Kaur",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1920,7 +5528,51 @@
      "pct": 52.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Surjit Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Surjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Surjit Singh Barnala",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Som Dutt",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Malkiat Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Malkit Singh Keetu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kewal Singh Dhillon",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1947,7 +5599,51 @@
      "pct": 43.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kundan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Kundan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kundan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Nirmal Singh Nimma",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Balbir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Balbir Singh Ghunas",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Balvir Singh Ghunas",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1974,7 +5670,51 @@
      "pct": 21.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sampuran Singh",
+     "party": "CPM",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Rajinder Kaur",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Gobing Singh Longowal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Manjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Gobind Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gobind Singh Longowal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kuldip Singh Bhathal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -1996,7 +5736,51 @@
      "pct": 54.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gurdial Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sukhdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Ranjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Jasbir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ranjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Arvind Khanna",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Surinder Pal Singh Sibia",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2023,7 +5807,51 @@
      "pct": 57.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Baldev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Baldev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Baldev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurharan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Gurcharan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Surjit Singh Dhiman",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Surjit Singh Dhiman",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2050,7 +5878,51 @@
      "pct": 8.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sukhdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Gurbachan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sukhdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Bhagwan Dass",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Bhagwan Dass Arora",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Parminder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Parminder Singh Dhindsa",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2072,7 +5944,51 @@
      "pct": 80.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Chitwant Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Amar Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Inderjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Rajinder Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Rajinder Kaur Bhattal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Rajinder Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Rajinder Kaur",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2099,7 +6015,51 @@
      "pct": 1.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Ujagar Singh S/o Nadar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Ujagar Singh S/o Nadar Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Hansraj Arya",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Babu Ram S/o Ram Karan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Gurtej Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Parkash Singh Bhatti",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gurtej Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2121,7 +6081,51 @@
      "pct": 57.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Bal Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sajjan Kumar",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Arjan Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Sajjan Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ram Kumar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sunil Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sunil Kumar Jakhar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2143,7 +6147,51 @@
      "pct": 49.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kanshi Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Kanshi Ram",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Radha Krishan",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Moinder Kumar",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Surjit Kumar",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mohinder Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Surjeet Kumar",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2165,7 +6213,51 @@
      "pct": 62.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Mehtab Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Manga Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Mehtab Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Hans Raj",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sher Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Hans Raj Josan",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sher Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2187,7 +6279,51 @@
      "pct": 68.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Lachhman Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Khushal Chand",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "SajwarSingh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Sajwar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Paramjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gurmit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gurmeet Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2209,7 +6345,51 @@
      "pct": 66.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gardhara Singh",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Bal Mukand",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Bal Mukand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Bal Mukand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Girdhara Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sukhpal Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sukhpal Singh",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2231,7 +6411,51 @@
      "pct": 81.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Harpreet Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Gurnaib Singh Brar",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Mohinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Ravinder Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Janmeja Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Ravinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Janmeja Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2258,7 +6482,51 @@
      "pct": 8.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Hari Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Harcharan Singh Hero",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Hari Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Inder Jit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Inderjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Hari Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Naresh Kumar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2280,7 +6548,51 @@
      "pct": 94.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sarwan Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Sarwan Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "GurdevSingh Gill",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Baldev Singh",
+     "party": "BSP",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sital Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sital Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Seetal Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2312,7 +6624,51 @@
      "pct": 68.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Rup Lal",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Nachattar Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Gurcharan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Malti",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Tota Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Tota Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Joginder Pal Jain",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2339,7 +6695,51 @@
      "pct": 0.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Tej Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Tej Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Malkiat Singh Sidhu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Vijay Kumar",
+     "party": "JD",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sadhu Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sadhu Singh Rajeana",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Darshan Singh Brar (Khote)",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2361,7 +6761,51 @@
      "pct": 83.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gurdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Saghar Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Zora Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Ajaib Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ajaib Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Zora Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ajit Singh",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2383,7 +6827,51 @@
      "pct": 25.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gurdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Gurdev Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Gurdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurcharan SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Gurdev Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gurdev Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Joginder Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2410,7 +6898,51 @@
      "pct": 66.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Jaswinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Bhagwan Dass",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Mohinder Singh Brar",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Upinder Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Mantar Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Mantar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ripjit Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2432,7 +6964,51 @@
      "pct": 65.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Manmohan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Jasmat Singh Dhillon",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Karnail Singh Doad",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Avtar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Avtar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Kushaldeep Singh Dhillon",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Avtar Singh Brar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2459,7 +7035,51 @@
      "pct": 25.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Kanwarjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Harchand Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Gurbinder Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Har Charan SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Harnirpal Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sukhdarshan Singh(madahar Kalan)",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Kanwarjit Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2481,7 +7101,51 @@
      "pct": 75.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Parkash Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Parksah Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Parkash Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Raghubir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Manpreet Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Manpreet Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Manpreet Singh Badal",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2503,7 +7167,51 @@
      "pct": 69.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Daua Ram",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Matu Ram",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Shiv Chand",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Baldev SIngh",
+     "party": "UCPI",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sujan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Nathu Ram",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Harpreet Singh",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2525,7 +7233,51 @@
      "pct": 85.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Gurdas Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Hardipinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Hardipinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gurnam Singh Abul Khurana",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Parkash Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Parkash Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Parkash Singh Badal",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2547,7 +7299,51 @@
      "pct": 55.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sukhdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Avtar Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Amrinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Harminder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Harminder Singh Jassi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jeetmohinder Singh Sidhu",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Jeetmohinder Singh Sidhu",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2563,7 +7359,51 @@
    "ac_no": 110,
    "party07": "INC",
    "electors_07": 135473,
-   "winner_07": "Makhan Singh"
+   "winner_07": "Makhan Singh",
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Sukhdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Bhagat Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sujan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Baldev Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Makhan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gurjant Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Makhan Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2590,7 +7430,51 @@
      "pct": 77.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Hitabhilashi",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Surinder Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Kasturi Lal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Surinder Kapoor",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Chiranji Lal Garg",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Surinder Singla",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Harminder Singh Jassi",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2612,7 +7496,51 @@
      "pct": 74.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Teja Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Gulzar Singh",
+     "party": "INC(I)",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "jasmel Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Gulzar Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Balbir Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gura Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ajaib Singh Bhatti",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2634,7 +7562,51 @@
      "pct": 80.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Babu Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Babu Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Sukhdev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Harbans SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sikandar Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Gurpreet Singh \"Kangur\"",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Gurpreet Singh Kangar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2656,7 +7628,51 @@
      "pct": 48.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Baldev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Baldev Singh Khiala",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Baldev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Surjan Singh",
+     "party": "IPF",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Baldev Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Jagdeep Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Jagdeep Singh Nakai",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2678,7 +7694,51 @@
      "pct": 29.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Des Raj",
+     "party": "JNP",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Buta Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Jaswant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Sher Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Sukhvinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Sher Singh",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Sher Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2700,7 +7760,51 @@
      "pct": 82.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Tara Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Parshotam Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Parshotam Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Hardev Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Hardev Singh",
+     "party": "CPI",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Harbant Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Mangat Rai Bansal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "dest": [
@@ -2722,7 +7826,51 @@
      "pct": 76.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 1977,
+     "winner": "Balwinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1980,
+     "winner": "Balwinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1985,
+     "winner": "Balwinder SIngh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 1992,
+     "winner": "Kirpal SIngh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 1997,
+     "winner": "Ajit Inder Singh",
+     "party": "SAD(M)",
+     "status": null
+    },
+    {
+     "year": 2002,
+     "winner": "Balwinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2007,
+     "winner": "Ajit Inder Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   }
  ],
  "assembly": "Punjab Vidhan Sabha",
@@ -2867,7 +8015,8 @@
   "District-wise Analysis of Punjab Assembly Constituencies Before and After the 2008 Delimitation",
   "Census of India 1981, Punjab Atlas, Map 2",
   "ECI constituency polygons (2008)",
-  "Digitised pre-2008 assembly-constituency, ECI"
+  "Digitised pre-2008 assembly-constituency, ECI",
+  "IndiaVotes (indiavotes.com), constituency-level winner records, 1977–2022"
  ],
  "post2008_constituencies": [
   {
@@ -2895,7 +8044,27 @@
      "pct": 29.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Dinesh Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Dinesh Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Naresh Puri",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved seat.",
@@ -2917,7 +8086,27 @@
      "pct": 54.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Seema Kumari",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Joginder Pal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Lal Chand",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -2944,7 +8133,27 @@
      "pct": 37.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ashwani Kumar Sharma",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Amit",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ashwani Kumar Sharma",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -2966,7 +8175,27 @@
      "pct": 38.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Gurbachan Singh Babbehali",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Barindermeet Singh Pahra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Barindermeet Singh Pahra",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -2988,7 +8217,27 @@
      "pct": 62.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Aruna Chaudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Aruna Chaudhary",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Aruna Chaudhary",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3016,7 +8265,27 @@
      "pct": 0.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Charanjit Kaur Bajwa",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Fatehjang Singh Bajwa",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Partap Singh Bajwa",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3043,7 +8312,27 @@
      "pct": 41.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ashwani Sekhri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Lakhbir Singh Lodhinangal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Amansher Singh (Shery Kalsi)",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -3065,7 +8354,27 @@
      "pct": 76.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Desrajdhugga",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Balwinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Amarpal Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3087,7 +8396,27 @@
      "pct": 26.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Tripat Rajinder Singh Bajwa",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Tript Rajinder Singh Bajwa",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Tript Rajinder Singh Bajwa",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3114,7 +8443,27 @@
      "pct": 33.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sukhjinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sukhjinder Singh Randhawa",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sukhjinder Singh Randhawa",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3136,7 +8485,27 @@
      "pct": 64.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Bonny Amarpal Singh Ajnala",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Harpartap Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kuldeep Singh Dhaliwal",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3163,7 +8532,27 @@
      "pct": 52.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sukhbinder Singh Sarkaria",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sukhbinder Singh Sarkaria",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sukhbinder Singh Sarkaria",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3185,7 +8574,27 @@
      "pct": 60.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Bikram Singh Majithia",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Bikram Singh Majithia",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ganieve Kaur Majithia",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3212,7 +8621,27 @@
      "pct": 29.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Baljit Singh Jalal Usma",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sukhwinder Singh Danny Bandala",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Harbhajan Singh E.T.O.",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3234,7 +8663,27 @@
      "pct": 9.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Anil Joshi",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sunil Dutti",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kunwar Vijay Pratap Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -3250,7 +8699,27 @@
    "ac_no": 16,
    "party12": "INC",
    "electors_12": 166210,
-   "winner_12": "Raj Kumar"
+   "winner_12": "Raj Kumar",
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Raj Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Raj Kumar Verka",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr. Jasbir Singh Sandhu",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3272,7 +8741,27 @@
      "pct": 43.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Om Parkash Soni",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Om Parkash Soni",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ajay Gupta",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3294,7 +8783,27 @@
      "pct": 0.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Navjot Sidhu",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Navjot Singh Sidhu",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jeevan Jyot Kaur",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3316,7 +8825,27 @@
      "pct": 15.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Inderbir Singh Bolaria",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Inderbir Singh Bolaria",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Inderbir Singh Nijjar",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3343,7 +8872,27 @@
      "pct": 15.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Gulzar Singh Ranike",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Tarsem Singh D.C.",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jaswinder Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3365,7 +8914,27 @@
      "pct": 45.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harmeet Singh Sandhu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Dr. Dharambir Agnihotri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr. Kashmir Singh Sohal",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3387,7 +8956,27 @@
      "pct": 66.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Virsa Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sukhpal Singh Bhullar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sarvan Singh Dhun",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3414,7 +9003,27 @@
      "pct": 57.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Adesh Partap Singh Kairon",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Harminder Singh Gill",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Laljit Singh Bhullar",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Lost SC reservation (moved to Baba Bakala).",
@@ -3436,7 +9045,27 @@
      "pct": 1.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ramanjit Singh Sikki",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Ramanjeet Singh Sahota Sikki",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Manjinder Singh Lalpura",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Inherited the SC reservation from old Khadoor Sahib (SC).",
@@ -3458,7 +9087,27 @@
      "pct": 37.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Manjit Singh Manna Mianwind",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Santokh Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dalbir Singh Tong",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3480,7 +9129,27 @@
      "pct": 68.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Bibi Jagir Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sukhpal Singh Khaira",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sukhpal Singh Khaira",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3502,7 +9171,27 @@
      "pct": 86.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Rana Gurjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rana Gurjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Rana Gurjeet Singh",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3524,7 +9213,27 @@
      "pct": 85.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Navtej Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Navtej Singh Cheema",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Rana Inder Partap Singh",
+     "party": "IND",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3546,7 +9255,27 @@
      "pct": 75.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Som Parkash",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Som Parkash",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Balwinder Singh Dhaliwal",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3568,7 +9297,27 @@
      "pct": 26.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Avinash Chander",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Baldev Singh Khaira",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Vikramjit Singh Chaudhary",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3600,7 +9349,27 @@
      "pct": 37.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Gurpartap Singh Wadala",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Gurpratap Singh Wadala",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Inderjit Kaur Mann",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3627,7 +9396,27 @@
      "pct": 23.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ajit Singh Kohar",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Ajit Singh Kohar",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Hardev Singh Laddi",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3649,7 +9438,27 @@
      "pct": 53.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sarwan Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Chaudhary Surinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Balkar Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Inherited the SC reservation from the dissolved Jullundur South (SC).",
@@ -3665,7 +9474,27 @@
    "ac_no": 34,
    "party12": "BJP",
    "electors_12": 136607,
-   "winner_12": "Chuni Lal Bhagat"
+   "winner_12": "Chuni Lal Bhagat",
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Chuni Lal Bhagat",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sushil Kumar Rinku",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sheetal Angural",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3681,7 +9510,27 @@
    "ac_no": 35,
    "party12": "BJP",
    "electors_12": 141752,
-   "winner_12": "Manoranjan Kalia"
+   "winner_12": "Manoranjan Kalia",
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Manoranjan Kalia",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rajinder Beri",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Raman Arora",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3703,7 +9552,27 @@
      "pct": 6.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "K.D.Bhandari",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Avtar Singh Junior",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Avtar Singh Junior",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3730,7 +9599,27 @@
      "pct": 1.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Pargat Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pargat Singh Powar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Pargat Singh Powar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -3752,7 +9641,27 @@
      "pct": 67.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Pawan Kumar Tinu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pawan Kumar Tinu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sukhwinder Singh Kotli",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3774,7 +9683,27 @@
      "pct": 67.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Rajnish Kumar",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rajnish Kumar Babbi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jangi Lal Mahajan",
+     "party": "BJP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3796,7 +9725,27 @@
      "pct": 60.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Amarjit Singh",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Arun Dogra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Karambir Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Old Garhdiwala's SC reservation was not carried forward; Urmar is unreserved.",
@@ -3823,7 +9772,27 @@
      "pct": 66.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sangat Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sangat Singh Gilzian",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jasvir Singh Raja Gill",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3845,7 +9814,27 @@
      "pct": 17.5,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Mohinder Kaur Josh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pawan Kumar Adia",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr.Ravjot Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3867,7 +9856,27 @@
      "pct": 57.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sunder Sham Arora",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sunder Sham Arora",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Bram Shanker (Jimpa)",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Inherited the SC reservation from the dissolved Mahilpur (SC).",
@@ -3889,7 +9898,27 @@
      "pct": 22.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sohan Singh Thandal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Dr. Raj Kumar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr. Raj Kumar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3916,7 +9945,27 @@
      "pct": 27.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Surinder Singh Bhulewal Rathan",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Jai Krishan",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jai Krishan",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3938,7 +9987,27 @@
      "pct": 49.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Tarlochan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sukhwinder Kumar",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sukhwinder Kumar Sukhi Dr.",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3960,7 +10029,27 @@
      "pct": 54.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Guriqbal Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Angad Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr. Nachhatar Pal",
+     "party": "BSP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -3982,7 +10071,27 @@
      "pct": 78.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Nand Lal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Darshan Lal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Santosh Kumari Katariaa",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4004,7 +10113,27 @@
      "pct": 32.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Madan Mohan Mittal",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kanwar Pal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Harjot Singh Bains",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4026,7 +10155,27 @@
      "pct": 45.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Dr. Daljit Singh Cheema",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Amarjit Singh Sandoa",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dinesh Kumar Chadha",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4053,7 +10202,27 @@
      "pct": 25.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Charanjit Singh Channi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Charanjit Singh Channi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Charanjit Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4080,7 +10249,27 @@
      "pct": 20.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Jagmohan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kanwar Sandhu",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Anmol Gagan Maan",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4102,7 +10291,27 @@
      "pct": 73.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Balbir Singh Sidhu",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Balbir Singh Sidhu",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kulwant Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved seat.",
@@ -4124,7 +10333,27 @@
      "pct": 19.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Justice Nirmal Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Gurpreet Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Rupinder Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4146,7 +10375,27 @@
      "pct": 72.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Kuljit Singh Nagra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kuljit Singh Nagra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Lakhbir Singh Rai",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Lost its SC reservation.",
@@ -4168,7 +10417,27 @@
      "pct": 55.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Randeep Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Randeep Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gurinder Singh Garry Birring",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Lost its SC reservation.",
@@ -4190,7 +10459,27 @@
      "pct": 57.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Gurkirat Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Gurkirat Singh Kotli",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Tarunpreet Singh Sond",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4212,7 +10501,27 @@
      "pct": 34.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Amrik Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Amrik Singh Dhillon",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jagtar Singh Diyalpura",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4239,7 +10548,27 @@
      "pct": 59.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sharanjit Singh Dhillon",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sharanjit Singh Dhillon",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Hardeep Singh Mundian",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4261,7 +10590,27 @@
      "pct": 61.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ranjit Singh Dhillon",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sanjeev Talwar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Daljit Singh Grewal (Bhola)",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4283,7 +10632,27 @@
      "pct": 15.3,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Balwinder Singh Bains",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Balvinder Singh Bains",
+     "party": "LIP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Rajinder Pal Kaur",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4299,7 +10668,27 @@
    "ac_no": 62,
    "party12": "IND",
    "electors_12": 139025,
-   "winner_12": "Simarjit Singh Bains"
+   "winner_12": "Simarjit Singh Bains",
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Simarjit Singh Bains",
+     "party": "IND",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Simarjeet Singh Bains",
+     "party": "LIP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kulwant Singh Sidhu",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4315,7 +10704,27 @@
    "ac_no": 63,
    "party12": "INC",
    "electors_12": 134931,
-   "winner_12": "Surinder Kumar Dawar"
+   "winner_12": "Surinder Kumar Dawar",
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Surinder Kumar Dawar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Surinder Kumar Dawar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ashok Parashar (Pappi)",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4337,7 +10746,27 @@
      "pct": 74.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Bharat Bhushan Ashu",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Bharat Bhushan (Ashu)",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gurpreet Bassi Gogi",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4359,7 +10788,27 @@
      "pct": 98.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Rakesh Pandey",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rakesh Pandey",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Madan Lal Bagga",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Inherited the SC reservation from old Dakha (SC).",
@@ -4381,7 +10830,27 @@
      "pct": 39.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Darshan Singh Shivalik",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kuldeep Singh Vaid(Bulara)",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jiwan Singh Sangowal",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -4408,7 +10877,27 @@
      "pct": 71.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Charanjit Singh Atwal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Lakhvir Singh Lakha",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Manwinder Singh Giaspura",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Lost its SC reservation (moved to Gill).",
@@ -4430,7 +10919,27 @@
      "pct": 70.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Manpreet Singh Ayali",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Harvinder Singh Phoolka",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Manpreet Singh Ayali",
+     "party": "SAD",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -4452,7 +10961,27 @@
      "pct": 44.4,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Gurcharan Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Jagtar Singh Jagga Hissowal",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Hakam Singh Thekedar",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -4474,7 +11003,27 @@
      "pct": 51.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Srkaler",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Saravjit Kaur Manuke",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sarvjit Kaur Manuke",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4506,7 +11055,27 @@
      "pct": 54.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Rajwinder Kaur",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Manjit Singh",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Manjit Singh Bilaspur",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4528,7 +11097,27 @@
      "pct": 56.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Maheshinder Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Darshan Singh Brar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Amritpal Singh Sukhanand",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4550,7 +11139,27 @@
      "pct": 15.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Joginder Pal Jain",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Harjot Kamal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr. Amandeep Kaur Arora",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Lost its SC reservation.",
@@ -4582,7 +11191,27 @@
      "pct": 7.6,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Tota Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sukhjit Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Devinderjeet Singh Laddi Dhose",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4604,7 +11233,27 @@
      "pct": 87.3,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Hari Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kulbir Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Naresh Kataria",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4626,7 +11275,27 @@
      "pct": 77.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Parminder Singh Pinki",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Parminder Singh Pinki",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ranbir Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "SC-reserved; the old Cantonment seat it absorbed was unreserved.",
@@ -4648,7 +11317,27 @@
      "pct": 57.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Joginder Singh Alias Jindu",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Satkar Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Rajneesh Kumar Dahiya",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4670,7 +11359,27 @@
      "pct": 93.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Gurmeet Singh Sodhi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Gurmeet Singh Sodhi",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Fauja Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4692,7 +11401,27 @@
      "pct": 56.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sukhbir Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sukhbir Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jagdeep Kamboj",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4714,7 +11443,27 @@
      "pct": 56.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Surjit Kumar Jyani",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Davinder Singh Ghubaya",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Narinder Pal Singh Sawna",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4741,7 +11490,27 @@
      "pct": 95.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sunil Kumar Jakhar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Arun Narang",
+     "party": "BJP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sandeep Jakhar",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4763,7 +11532,27 @@
      "pct": 50.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Gurtej Singh Ghuriana",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Nathu Ram",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Amandeep Singh Musafir",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4785,7 +11574,27 @@
      "pct": 81.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Parkash Singh Badal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Parkash Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gurmeet Singh Khudian",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4807,7 +11616,27 @@
      "pct": 84.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Amrinder Singh Raja Warring",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Amrinder Singh @ Raja Warring",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Amrinder Singh Raja Warring",
+     "party": "INC",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4834,7 +11663,27 @@
      "pct": 42.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harpreet Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Ajaib Singh Bhatti",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr. Baljit Kaur",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4856,7 +11705,27 @@
      "pct": 83.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Karan Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kanwarjit Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jagdeep Singh 'Kaka Brar'",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4878,7 +11747,27 @@
      "pct": 88.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Deep Malhotra",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kusaldeep Singh Kiki Dhillon",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gurdit Singh Sekhon",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4900,7 +11789,27 @@
      "pct": 22.9,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Mantar Singh Brar",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kultar Singh Sandhwan",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kultar Singh Sandhwan",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "SC-reserved; absorbed the abolished Panjgrain (SC), whose reservation it carries forward.",
@@ -4927,7 +11836,27 @@
      "pct": 67.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Joginder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Baldev Singh",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Amolak Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4949,7 +11878,27 @@
      "pct": 74.1,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sikander Singh Maluka",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Gurpreet Singh Kangar",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Balkar Singh Sidhu",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved (replacing Pakka Kalan as the district's SC seat).",
@@ -4972,7 +11921,27 @@
      "pct": 84.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ajaib Singh Bhatti",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pritam Singh Kotbhai",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jagsir Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -4994,7 +11963,27 @@
      "pct": 72.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sarup Chand Singla",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Manpreet Singh Badal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Jagroop Singh Gill",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -5016,7 +12005,27 @@
      "pct": 44.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Darshan Singh Kotfatta",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rupinder Kaur Ruby",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Amit Rattan Kotfatta",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5038,7 +12047,27 @@
      "pct": 52.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Jeetmohinder Singh Sidhu",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Prof. Baljinder Kaur",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Prof. Baljinder Kaur",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5060,7 +12089,27 @@
      "pct": 53.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Janmeja Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Jagdev Singh",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Sukhveer Singh Maiserkhana",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5082,7 +12131,27 @@
      "pct": 27.2,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Prem Mittal",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Nazar Singh Manshahia",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr.Vijay Singla",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5104,7 +12173,27 @@
      "pct": 68.4,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Ajit Inder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Dilraj Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gurpreet Singh Banawali",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -5126,7 +12215,27 @@
      "pct": 67.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Chatin Singh",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Budh Ram",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Budh Ram",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5153,7 +12262,27 @@
      "pct": 75.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Rajinder Kaur Bhattal",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Parminder Singh Dhindsa",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Barinder Kumar Goyal Vakeel",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -5175,7 +12304,27 @@
      "pct": 41.8,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sant Balvir Singh Ghunas",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Harpal Singh Cheema",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Harpal Singh Cheema",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5202,7 +12351,27 @@
      "pct": 40.6,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Parminder Singh Dhindsa",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Aman Arora",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Aman Arora",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5224,7 +12393,27 @@
      "pct": 37.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Mohammed Sadique",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Pirmal Singh Dhaula",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Labh Singh Ugoke",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5251,7 +12440,27 @@
      "pct": 21.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Kewal Singh Dhillon",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Gurmeet Singh Meet Haher",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gurmeet Singh Meet Hayer",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Inherited the SC reservation that used to belong to Sherpur (SC).",
@@ -5278,7 +12487,27 @@
      "pct": 36.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harchand Kaur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Kulwant Singh Pandori",
+     "party": "AAP",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kulwant Singh Pandori",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5300,7 +12529,27 @@
      "pct": 45.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "F. Nesara Khatoon (Farzana Alam)",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Razia Sultana",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Mohammad Jamil Ur Rahman",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5328,7 +12577,27 @@
      "pct": 34.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Iqbal Singh Jhundan",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Surjit Singh Dhiman",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Prof. Jaswant Singh Gajjan Majra",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5350,7 +12619,27 @@
      "pct": 44.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Arvind Khanna",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Dalvir Singh Goldy",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Bhagwant Mann",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5377,7 +12666,27 @@
      "pct": 27.1,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Parkash Chand Garg",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Vijay Inder Singla",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Narinder Kaur Bharaj",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "Newly SC-reserved.",
@@ -5399,7 +12708,27 @@
      "pct": 68.9,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Sadhu Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Sadhu Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gurdev Singh Dev Maan",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5426,7 +12755,27 @@
      "pct": 32.0,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Brahm Mohindra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Brahm Mohindra",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Dr.Balbir Singh",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5453,7 +12802,27 @@
      "pct": 59.2,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Hardial Singh Kamboj",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Hardial Singh Kamboj",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Neena Mittal",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5480,7 +12849,27 @@
      "pct": 2.7,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "N.K. Sharma",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Narinder Kumar Sharma",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kuljit Singh Randhawa",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5507,7 +12896,27 @@
      "pct": 59.7,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Harpreet Kaur Mukhmailpura",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Thekedar Madan Lal Jalalpur",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Gurlal Ghanaur",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5529,7 +12938,27 @@
      "pct": 100.0,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Lal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Harinder Pal Singh Chandumajra",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Harmit Singh Pathanmajra",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5545,7 +12974,27 @@
    "ac_no": 115,
    "party12": "INC",
    "electors_12": 140314,
-   "winner_12": "Amarinder Singh"
+   "winner_12": "Amarinder Singh",
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Amarinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Amarinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Ajit Pal Singh Kohli",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5568,7 +13017,27 @@
      "pct": 64.8,
      "basis": "approx"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Surjit Singh Rakhra",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Rajinder Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Chetan Singh Jouramajra",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   },
   {
    "sc_note": "",
@@ -5590,7 +13059,27 @@
      "pct": 88.5,
      "basis": "measured"
     }
-   }
+   },
+   "elections": [
+    {
+     "year": 2012,
+     "winner": "Vaninder Kaur Loomba",
+     "party": "SAD",
+     "status": null
+    },
+    {
+     "year": 2017,
+     "winner": "Nirmal Singh",
+     "party": "INC",
+     "status": null
+    },
+    {
+     "year": 2022,
+     "winner": "Kulwant Singh Bazigar",
+     "party": "AAP",
+     "status": null
+    }
+   ]
   }
  ],
  "stats": [
